@@ -263,7 +263,8 @@
             "Psicología",
             "Ninguna disciplina está relacionada",
             "Neurociencia"
-        ]
+        ],
+        "c_count": 1
     },
     "¿En qué nivel se encuentra el estudio de la interacción bioquímica entre moléculas?": {
         "v": "Nivel de la interacción bioquímica entre moléculas",
@@ -335,7 +336,8 @@
             "Entender los procesos neuronales",
             "Analizar la interacción entre materia, energía, espacio y tiempo",
             "Desarrollar interfaces cerebro-ordenador"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué objetivo tienen las Interfaces Cerebro-Ordenador?": {
         "v": "Alcanzar mejores sistemas de interacción entre humano y máquina",
@@ -344,7 +346,8 @@
             "Estudiar la percepción y atención",
             "Mejorar la interacción bioquímica entre moléculas",
             "Desarrollar sistemas de inteligencia artificial"
-        ]
+        ],
+        "c_count": 1
     },
     "¿En qué nivel se encuentran los sistemas de interacción entre materia, energía, espacio y tiempo?": {
         "v": "Nivel de la interacción entre materia, energía, espacio y tiempo",
@@ -1442,7 +1445,8 @@
             "Medición de potenciales eléctricos neuronales.",
             "Obtención de imágenes por resonancia magnética.",
             "Registro de actividad cerebral mediante EEG."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué tecnología utiliza rayos X para obtener imágenes del cerebro?-b726f505-67b1-4cfa-bbdb-2fb1df85749c": {
         "v": "TAC (Tomografía Axial Computarizada).",
@@ -1666,7 +1670,8 @@
             "El cerebro ha evolucionado más rápido que la mente.",
             "Ambos han evolucionado al mismo ritmo.",
             "La evolución de ambos es irrelevante para el comportamiento humano."
-        ]
+        ],
+        "c_count": 1
     },
     "¿En qué se basa la división anatómica del sistema nervioso humano??-1ce96f6e-fe65-4ad4-8a69-e3cfaafce43d": {
         "v": "Se basa en la estructura física del sistema nervioso.",
@@ -1997,7 +2002,8 @@
             "Ocultar las limitaciones encontradas.",
             "Generalizar los resultados sin base sólida.",
             "Reafirmar todas las teorías propuestas sin análisis."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué papel juega la racionalidad-crítica en una investigación científica?": {
         "v": "Permite derivar y proponer hipótesis creativas pero mesuradas acorde con lo observado.",
@@ -2159,7 +2165,8 @@
             "Los fisiológicos son empíricos y los conductuales teóricos",
             "Los fisiológicos miden variables y los conductuales observan fenómenos",
             "Los fisiológicos son descriptivos y los conductuales explicativos"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué aspecto adicional deben considerar los estudios conductuales al interpretar resultados en modelos animales?": {
         "v": "El prisma diferencial humano",
@@ -2324,7 +2331,8 @@
             "El cerebro ha evolucionado más rápido que la mente.",
             "Ambos han evolucionado a la misma velocidad.",
             "Ninguno ha evolucionado."
-        ]
+        ],
+        "c_count": 1
     },
     "¿En qué se basa la división anatómica del sistema nervioso humano?-2a8c71a6-f379-44fa-87d9-fab4dde3d5d0": {
         "v": "Se basa en la estructura física del sistema nervioso.",
@@ -2340,7 +2348,8 @@
             "El encéfalo y los nervios periféricos.",
             "Solo el cerebro y el cerebelo.",
             "El tronco encefálico y los nervios espinales."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué conecta la médula espinal?-a7f972c4-7f3a-465b-9a7c-25770dee8dda": {
         "v": "Conecta el encéfalo con el sistema nervioso periférico (SNP).",
@@ -2759,7 +2768,8 @@
             "Los objetivos del proyecto",
             "Los participantes del proyecto",
             "El presupuesto del proyecto"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué implica el diseño de una investigación?": {
         "v": "Planificación y definición de variables",
