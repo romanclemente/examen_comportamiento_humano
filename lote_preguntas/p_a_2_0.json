@@ -93,6 +93,123 @@
         ],
         "c_count": 1
     },
+    "¿Que hace el Electroencefalografia (EEG)?": {
+        "v": "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera externa\n sin incidir en el craneo",
+        "f": [
+            "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera interna\n incidiendo en el craneo",
+            "Emplea campos electromagneticos para comprobar la actividad electrica de las neuronas de la corteza cerebral",
+            "Mediante campos magneticos desde fuera de la cabeza se inducen actividades en regiones concretas de la corteza cerebral"
+        ]
+    },
+    "¿Como se representa Electroencefalografia?": {
+        "v": "EEG",
+        "f": [
+            "MEG",
+            "SNS",
+            "GNS"
+        ]
+    },
+    "¿Que hace el Magnetoencefalografia (MEG)?": {
+        "v": "Emplea campos magneticos para comprobar la actividad electrica de las neuronas de la corteza cerebral",
+        "f": [
+            "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera interna\n incidiendo en el craneo",
+            "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera externa\n sin incidir en el craneo",
+            "Mediante campos magneticos desde fuera de la cabeza se inducen actividades en regiones concretas de la corteza cerebral"
+        ]
+    },
+    "¿Como se representa Magnetoencefalografia?": {
+        "v": "MEG",
+        "f": [
+            "EEG",
+            "SNS",
+            "GNS"
+        ]
+    },
+    "¿Que hace el Estimulacion magnetica transcraneal?": {
+        "v": "Mediante campos magneticos desde fuera de la cabeza se inducen actividades en regiones concretas de la corteza cerebral",
+        "f": [
+            "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera externa\n sin incidir en el craneo",
+            "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera interna\n incidiendo en el craneo",
+            "Emplea campos electromagneticos para comprobar la actividad electrica de las neuronas de la corteza cerebral"
+        ]
+    },
+    "¿Como se representa Estimulacion magnetica transcraneal?": {
+        "v": "Ninguna de las anteriores",
+        "f": [
+            "MEG",
+            "SNS",
+            "GNS",
+            "EEG"
+        ]
+    },
+    "¿Que afirmacion no es correcta?": {
+        "f": [
+            "Si una persona presenta una lesion por ejemplo en la region cortical del lobulo occipital y ademas \n presenta problemas de vision, podemos concluir que hay una relacion",
+            "En animales, existen comites eticos cada vez mas restrictivos con respecto a provcar lesiones con \nfines cientificos",
+            "Cuando una cierta lesion produce daños la observacion de las consecuencias funcionales permite \nextraer conclusiones"
+        ],
+        "v": "Aunque el estudio en casos humanos es muy restrictivo, con la aprobacion de un comite etico y \nla autorizacion del paciente se permite el estudio de las consecuencias \nde una lesion prextistente"
+    },
+    "¿Que es la neuroimagen?": {
+        "v": "Es la observacion del funcionamiento del cerebro 'in vivo', es uno de los metodos mas modernos de estudio\ny permiten encontrar correlatos neuronales (ver que hace el cerebro)",
+        "f": [
+            "Es la observacion del funcionamiento del cerebro 'in vivo', es un metodo de investigaccion algo arcaico\ny permiten encontrar correlatos neuronales (ver que hace el cerebro)",
+            "Es la observacion del funcionamiento del cerebro 'in vivo', es uno de los metodos mas modernos de estudio\n aunque es algo invasivo, permite encontrar correlatos neuronales (ver que hace el cerebro)",
+            "Es la observacion del funcionamiento del cerebro 'in vivo', es uno de los metodos mas modernos de estudio\ny permiten encontrar interraciones neuronales (ver como esta hecho el cerebro)"
+        ]
+    },
+    "¿Que afirmacion es erronea?": {
+        "v": "Las lesiones para cada persona son todas iguales si se hicieron del mismo modo",
+        "f": [
+            "Las lesiones de cada persona que se hicieron bajo las mismas condiciones son todas diferentes",
+            "Los casos unicos aportn potencia predictiva, ya que con la estadistica y la neuroimagen permiten agrupar pacientes similares",
+            "Los estudios en humanos no son eticamente viables"
+        ]
+    },
+    "¿Que objetivo tienen las ciencias cognitivas?": {
+        "v": "Buscan plantear hipotesis sobre el funcionamiento del cerebro, la mente y la comportamiento",
+        "f": [
+            "Buscan plantear correcciones sobre el funcionamiento del cerebro, la mente y la comportamiento",
+            "Buscan plantear hipotesis sobre el funcionamiento del cerebro, las neuronas y la comportamiento",
+            "Buscan plantear hipotesis sobre el funcionamiento del cerebro, la mente y el razocinio"
+        ]
+    },
+    "¿Cual es la finalidad de las tecnicas anatomicas?": {
+        "v": "Todas son correctas",
+        "f": [
+            "Finalidad estructural",
+            "Buscan identificar y distinguir entre si las diferentes estructuras cerebrales",
+            "Estudiar el cerebro mediante microscopia y bioquimica"
+        ]
+    },
+    "¿Que afirmacion es correcta acerca de la Macroscopia?": {
+        "v": "Busca distinguir regiones relativamente grandes del cerebro",
+        "f": [
+            "Emplea instrumental como vibratomos",
+            "Se vale de tinciones para el estudio del cerebro",
+            "Usa tecnicas como 'La tincion de Nissl"
+        ]
+    },
+    "¿Que afirmacion es correcta acerca de la Microscopia?": {
+        "v": "Emplea instrumental como vibratomos",
+        "f": [
+            "Busca distinguir regiones relativamente grandes del cerebro",
+            "Permite distinguir tejidos gracias a los anticuerpos",
+            "Usa tecnicas como 'La tincion de Nissl"
+        ]
+    },
+    "¿Que afirmacion es correcta acerca de la Histoquimicas?": {
+        "v": "Usa tecnicas como 'La tincion de Nissl",
+        "f": [
+            "Busca distinguir regiones relativamente grandes del cerebro",
+            "Permite distinguir tejidos gracias a los anticuerpos",
+            "Emplea instrumental como vibratomos"
+        ]
+    },
+    "?": {
+        "v": "",
+        "f": []
+    },
     "Sobre la neurociencia 'nace para comprender la union fundamental entre el sistema nervioso y su funcionamiento y su necesidad de \ncognicion su enfoque es empirico y dualista'": {
         "v": "Falso",
         "f": [
