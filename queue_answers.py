@@ -19,6 +19,15 @@ class BBDD_backend:
             datos = json.load(file)
         return datos
 
+    def clean_bbdd(self):
+        lt = list(self.all_questions)
+        for x in lt:
+            if "c_count" in self.all_questions[x]:
+                del self.all_questions[x]["c_count"]
+            if "e_count" in self.all_questions[x]:
+                del self.all_questions[x]["e_count"]
+        self.write_in_preguntas()
+
     def sum_points(self, current_question):
         c_q = self.all_questions[current_question]
         if "c_count" in c_q:
@@ -56,7 +65,7 @@ class BBDD_backend:
                         return dct
 
         ask_exam = 10 - len(list(dct))
-        
+
         for item in range(ask_exam):
             r = random.randint(0, len(asks) - 1)
             question_key = asks[r]
