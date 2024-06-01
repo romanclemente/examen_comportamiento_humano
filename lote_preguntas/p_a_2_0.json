@@ -3103,5 +3103,369 @@
             "En la tinción y marcaje de tejidos",
             "En la distinción de tipos de tejidos"
         ]
+    },
+    "¿Qué buscan distinguir las técnicas macroscópicas?": {
+        "v": "Regiones relativamente grandes del cerebro",
+        "f": [
+            "Tipos de tejidos celulares",
+            "Estructuras microscópicas",
+            "Prolongaciones nerviosas",
+            "Moléculas inmunológicas"
+        ]
+    },
+    "¿Qué buscan comprender las técnicas microscópicas?": {
+        "v": "La histología del sistema nervioso",
+        "f": [
+            "Las regiones grandes del cerebro",
+            "Las conexiones neuronales",
+            "La actividad eléctrica del cerebro",
+            "Las funciones cognitivas"
+        ]
+    },
+    "¿Qué permite observar la microscopía?": {
+        "v": "Muestras de tejido nervioso en secciones de nanómetros de grosor",
+        "f": [
+            "Regiones grandes del cerebro",
+            "La actividad eléctrica del cerebro",
+            "Las conexiones neuronales",
+            "Los procesos cognitivos"
+        ]
+    },
+    "¿Por qué es fundamental la tinción en técnicas microscópicas?": {
+        "v": "Para distinguir las distintas estructuras debido a su diferente forma de absorber pigmentos",
+        "f": [
+            "Para observar regiones grandes del cerebro",
+            "Para medir la actividad eléctrica del cerebro",
+            "Para analizar las conexiones neuronales",
+            "Para registrar los procesos cognitivos"
+        ]
+    },
+    "¿Qué permite distinguir las técnicas histoquímicas?": {
+        "v": "Los tipos de estructura presentes en una muestra de microscopía",
+        "f": [
+            "Las regiones grandes del cerebro",
+            "Las conexiones neuronales",
+            "La actividad eléctrica del cerebro",
+            "Los procesos cognitivos"
+        ]
+    },
+    "¿Cómo funcionan las técnicas histoquímicas?": {
+        "v": "Ciertos compuestos químicos se fijan de distinta manera a cada tipo de estructura microscópica",
+        "f": [
+            "Se utilizan anticuerpos fluorescentes",
+            "Se emplean secciones de nanómetros de grosor",
+            "Se analizan las regiones grandes del cerebro",
+            "Se miden las conexiones neuronales"
+        ]
+    },
+    "¿Qué tiñe de azul la tinción de Nissl?": {
+        "v": "El ARN presente en los ribosomas y retículos endoplasmáticos de la célula",
+        "f": [
+            "Las prolongaciones nerviosas",
+            "Las conexiones neuronales",
+            "La sustancia blanca",
+            "La actividad eléctrica"
+        ]
+    },
+    "¿Qué permite distinguir la tinción de Nissl?": {
+        "v": "El cuerpo principal de la célula de las prolongaciones nerviosas",
+        "f": [
+            "Las regiones grandes del cerebro",
+            "Los tipos de tejidos celulares",
+            "Las conexiones neuronales",
+            "La actividad eléctrica del cerebro"
+        ]
+    },
+    "¿Qué aprovechan las técnicas inmunohistoquímicas para distinguir tejidos?": {
+        "v": "El movimiento de los anticuerpos",
+        "f": [
+            "La absorción de pigmentos",
+            "Las secciones de nanómetros de grosor",
+            "Los compuestos químicos",
+            "Las conexiones neuronales"
+        ]
+    },
+    "¿Qué se incorpora a los anticuerpos en técnicas inmunohistoquímicas?": {
+        "v": "Moléculas fluorescentes",
+        "f": [
+            "Compuestos químicos",
+            "Pigmentos absorbentes",
+            "ARN de ribosomas",
+            "Nanómetros de grosor"
+        ]
+    },
+    "¿Qué se emite contra el cuerpo al tomar una radiografía?": {
+        "v": "Un haz de rayos X",
+        "f": [
+            "Un haz de rayos gamma",
+            "Un haz de luz visible",
+            "Ondas de ultrasonido",
+            "Campos magnéticos"
+        ]
+    },
+    "¿Desde dónde se emiten los rayos X?": {
+        "v": "Desde la corteza electrónica de los átomos de la materia",
+        "f": [
+            "Desde el núcleo de los átomos",
+            "Desde la superficie de la piel",
+            "Desde el campo magnético",
+            "Desde las células del cuerpo"
+        ]
+    },
+    "¿Qué presentan las distintas estructuras del cuerpo en una radiografía?": {
+        "v": "Un diferente grado de radio-opacidad",
+        "f": [
+            "Un diferente grado de transparencia",
+            "Un diferente color",
+            "Un diferente grosor",
+            "Un diferente brillo"
+        ]
+    },
+    "¿Qué permite distinguir unas estructuras de otras en una radiografía?": {
+        "v": "El diferente grado de radio-opacidad",
+        "f": [
+            "El diferente grosor de los tejidos",
+            "El diferente color de los tejidos",
+            "El diferente tamaño de las estructuras",
+            "El diferente brillo de las imágenes"
+        ]
+    },
+    "¿Qué técnica utiliza el mismo principio que la radiografía pero con un emisor y receptor de rayos X girando alrededor de la cabeza?": {
+        "v": "La Tomografía Axial Computarizada (TAC)",
+        "f": [
+            "La resonancia magnética (RM)",
+            "La tomografía por emisión de positrones (PET)",
+            "La ecografía",
+            "La radiografía simple"
+        ]
+    },
+    "¿Qué se obtienen mediante la Tomografía Axial Computarizada (TAC)?": {
+        "v": "Cortes o secciones del cerebro",
+        "f": [
+            "Imágenes tridimensionales del cerebro",
+            "Gráficos de actividad cerebral",
+            "Imágenes en tiempo real del cerebro",
+            "Mapas de flujo sanguíneo cerebral"
+        ]
+    },
+    "¿Qué convierte los datos de radio-opacidad en una imagen estructural en una TAC?": {
+        "v": "El modo de análisis",
+        "f": [
+            "El emisor de rayos X",
+            "El receptor de rayos X",
+            "La radiación emitida",
+            "El grosor de los cortes"
+        ]
+    },
+    "¿Qué representa cada matiz de gris en la imagen obtenida por una TAC?": {
+        "v": "Una estructura diferente",
+        "f": [
+            "Un nivel de actividad cerebral",
+            "Un tipo de tejido",
+            "Una región específica del cerebro",
+            "Un área de alta radio-opacidad"
+        ]
+    },
+    "¿Cuál es una de las ventajas de la TAC?": {
+        "v": "Obtención de imágenes en 2D y 3D del cerebro en el instante del TAC",
+        "f": [
+            "Alta resolución temporal",
+            "Baja invasividad",
+            "Alta precisión en tiempo real",
+            "Análisis de flujo sanguíneo"
+        ]
+    },
+    "¿Cuál es una de las desventajas de la TAC?": {
+        "v": "Menor resolución espacial y temporal que otras técnicas más modernas",
+        "f": [
+            "Alto coste",
+            "Acceso quirúrgico al interior del cráneo",
+            "Alta invasividad",
+            "Imposibilidad de obtener imágenes 3D"
+        ]
+    },
+    "¿En qué se basa la Resonancia Magnética Nuclear (RMN)?": {
+        "v": "En la abundancia de protones en el tejido nervioso humano",
+        "f": [
+            "En la absorción de energía por los electrones",
+            "En la densidad de neutrones en los tejidos",
+            "En la cantidad de átomos de carbono",
+            "En la conductividad eléctrica de los nervios"
+        ]
+    },
+    "¿Qué permite distinguir en la imagen final de la RMN las distintas estructuras?": {
+        "v": "La cantidad distinta de protones en cada tipo de estructura",
+        "f": [
+            "La densidad de electrones en los tejidos",
+            "La absorción de energía por los neutrones",
+            "La cantidad de átomos de oxígeno",
+            "La conductividad eléctrica de las células"
+        ]
+    },
+    "¿Qué sucede cuando un electroimán emite un pulso electromagnético en la RMN?": {
+        "v": "Los protones absorben la energía y alinean sus ejes de giro",
+        "f": [
+            "Los electrones emiten energía",
+            "Los neutrones se descomponen",
+            "Los protones se desintegran",
+            "Las moléculas se ionizan"
+        ]
+    },
+    "¿Qué ocurre cuando la estimulación cesa en la RMN?": {
+        "v": "Los protones devuelven al medio la energía que habían absorbido",
+        "f": [
+            "Los protones absorben más energía",
+            "Los neutrones se alinean",
+            "Los electrones se ionizan",
+            "Las moléculas se descomponen"
+        ]
+    },
+    "¿Qué capta la energía devuelta por los protones en la RMN?": {
+        "v": "Una serie de sensores",
+        "f": [
+            "Un detector de radiación",
+            "Un analizador químico",
+            "Un espectrómetro",
+            "Un osciloscopio"
+        ]
+    },
+    "¿Qué puede fabricar el escáner de la RMN a partir de la energía devuelta?": {
+        "v": "Un mapa de frecuencias de las radiaciones obtenidas",
+        "f": [
+            "Un gráfico de densidades",
+            "Una imagen térmica",
+            "Un esquema de conectividad",
+            "Un perfil químico"
+        ]
+    },
+    "¿Qué algoritmo computacional se menciona que se usa en la RMN para traducir el mapa de frecuencias a una imagen?": {
+        "v": "Transformadas de Fourier",
+        "f": [
+            "Transformadas de Laplace",
+            "Transformadas de Z",
+            "Transformadas de Wavelet",
+            "Transformadas de Radon"
+        ]
+    },
+    "¿Qué forma de energía utiliza la RMN?": {
+        "v": "Energía electromagnética",
+        "f": [
+            "Energía térmica",
+            "Energía mecánica",
+            "Energía luminosa",
+            "Energía sonora"
+        ]
+    },
+    "¿Qué convierte los datos de densidad electromagnética en una imagen estructural en la RMN?": {
+        "v": "El modo de análisis",
+        "f": [
+            "El escáner",
+            "El electroimán",
+            "Los sensores",
+            "El protones"
+        ]
+    },
+    "¿Cuál es una ventaja de la RMN?": {
+        "v": "Permite generar imágenes en 2D y 3D del cerebro",
+        "f": [
+            "Bajo coste",
+            "Alta resolución temporal",
+            "Invasividad mínima",
+            "Rápida adquisición de imágenes"
+        ]
+    },
+    "¿Qué persiguen captar las técnicas neurofisiológicas?": {
+        "v": "Correlatos fisiológicos de la actividad cognitiva",
+        "f": [
+            "Estructuras anatómicas del cerebro",
+            "Imágenes tridimensionales del cerebro",
+            "Funcionalidad de los órganos internos",
+            "Cambios en la composición química del cerebro"
+        ]
+    },
+    "¿Qué registros utilizan las técnicas neurofisiológicas?": {
+        "v": "La actividad eléctrica del sistema nervioso",
+        "f": [
+            "La actividad química del cerebro",
+            "Las imágenes estructurales del cerebro",
+            "La radio-opacidad de los tejidos",
+            "La resonancia magnética"
+        ]
+    },
+    "¿Qué se mide en las técnicas neurofisiológicas?": {
+        "v": "Cambios de potencial eléctrico de membrana y la tasa de disparo de cada neurona individual",
+        "f": [
+            "La absorción de pigmentos",
+            "El grosor de los tejidos",
+            "La densidad de la materia gris",
+            "El volumen del cerebro"
+        ]
+    },
+    "¿Cuál es una desventaja de las técnicas neurofisiológicas?": {
+        "v": "La invasividad ya que es necesario acceder al cráneo",
+        "f": [
+            "La baja resolución temporal",
+            "El alto coste",
+            "La incomodidad del escáner",
+            "La dificultad para obtener imágenes 3D"
+        ]
+    },
+    "¿Qué podemos observar al instante con la estimulación eléctrica de ciertas áreas del cerebro?": {
+        "v": "Qué efecto conductual comporta dicha estimulación",
+        "f": [
+            "La composición química del cerebro",
+            "La radio-opacidad de los tejidos",
+            "La densidad de la materia blanca",
+            "El volumen de las estructuras cerebrales"
+        ]
+    },
+    "¿Para qué usan algunos neurocirujanos la estimulación eléctrica del cerebro?": {
+        "v": "Para detectar en qué área cerebral es posible intervenir produciendo el menor daño funcional posible",
+        "f": [
+            "Para medir la actividad química del cerebro",
+            "Para obtener imágenes tridimensionales del cerebro",
+            "Para analizar la densidad de la materia gris",
+            "Para observar el grosor de los tejidos cerebrales"
+        ]
+    },
+    "¿Por qué es posible intervenir en el cerebro humano sin causar dolor?": {
+        "v": "Porque el cerebro no dispone de receptores para el dolor",
+        "f": [
+            "Porque la anestesia es muy efectiva",
+            "Porque los nervios son insensibles",
+            "Porque el cráneo protege el cerebro",
+            "Porque las técnicas son no invasivas"
+        ]
+    },
+    "¿Qué técnicas se utilizan para la estimulación del sistema nervioso en neurofisiología?": {
+        "v": "La estimulación eléctrica o magnética",
+        "f": [
+            "La estimulación química",
+            "La estimulación térmica",
+            "La estimulación por ultrasonido",
+            "La estimulación óptica"
+        ]
+    },
+    "¿Para qué fines son útiles las mediciones de potencial eléctrico de membrana y tasa de disparo neuronal?": {
+        "v": "Fines científicos y clínicos",
+        "f": [
+            "Fines educativos",
+            "Fines recreativos",
+            "Fines terapéuticos",
+            "Fines comerciales"
+        ]
+    },
+    "¿Qué permiten observar las técnicas neurofisiológicas al instante?": {
+        "v": "El efecto conductual de la estimulación eléctrica",
+        "f": [
+            "La estructura anatómica del cerebro",
+            "La composición química del cerebro",
+            "La radio-opacidad de los tejidos",
+            "El volumen de las estructuras cerebrales"
+        ]
+    },
+    "": {
+        "v": "",
+        "f": []
     }
 }
