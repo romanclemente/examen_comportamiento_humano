@@ -30,6 +30,7 @@ class TestApp:
         self.scrollbar.pack(side="right", fill="y")
 
         self.back = BBDD_backend()
+        self.back.clean_bbdd()
         self.questions = self.back.questions
 
         self.question_label = tk.Label(
@@ -50,7 +51,7 @@ class TestApp:
 
     def create_radio_buttons(self, answers):
         for answer in answers:
-            if answer.lower().endswith((".png", ".jpg", ".jpeg", ".gif")):
+            if answer.lower().endswith((".png", ".jpg", ".jpeg")):
                 image = self.load_image(answer)
                 radio_button = tk.Radiobutton(
                     self.scrollable_frame,
@@ -97,7 +98,7 @@ class TestApp:
         if (
             "images" in self.questions[self.current_question]
             and "Image" in self.current_question
-            and self.current_question.lower().endswith(".png", ".jpg", ".jpeg", ".gif")
+            and self.current_question.lower().endswith((".png", ".jpg", ".jpeg"))
         ):
             images = self.questions[self.current_question]["images"]
             for img_path in images:

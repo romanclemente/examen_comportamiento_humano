@@ -562,20 +562,20 @@
         ]
     },
     "Las siguientes imágenes muestran esquemáticamente la relación nerviosa que se establece entre los músculos del lado derecho del \ncuerpo (visto a la izquierda por ser una vista frontal de la persona) y la médula espinal. ¿Cuál de las cuatro imágenes es la correcta? ?": {
-        "v": "Images/2/Músculo médula c.jpg",
+        "v": "examen_comportamiento_humano/Images/2/Músculo médula c.jpg",
         "f": [
-            "Images/2/Músculo médula a.jpg",
-            "Images/2/Músculo médula b.jpg",
-            "Images/2/Músculo médula d.jpg"
+            "examen_comportamiento_humano/Images/2/Músculo médula a.jpg",
+            "examen_comportamiento_humano/Images/2/Músculo médula b.jpg",
+            "examen_comportamiento_humano/Images/2/Músculo médula d.jpg"
         ],
         "images": [
-            "Images/2/Músculo médula a.jpg",
-            "Images/2/Músculo médula b.jpg",
-            "Images/2/Músculo médula c.jpg",
-            "Images/2/Músculo médula d.jpg"
+            "examen_comportamiento_humano/Images/2/Músculo médula a.jpg",
+            "examen_comportamiento_humano/Images/2/Músculo médula b.jpg",
+            "examen_comportamiento_humano/Images/2/Músculo médula c.jpg",
+            "examen_comportamiento_humano/Images/2/Músculo médula d.jpg"
         ]
     },
-    "Supongamos que tenemos un objeto cúbico cuyas caras tienen las siguientes\n respectivas apariencias  desde nuestro punto de vista, \nobservamos la siguiente vista del objeto: ? A continuación, se muestran tres imágenes (A, B y C)\n. Cada una exhibe una representación mental de este objeto que una persona o un modelo computacional forma en su mente:\n [Distintas opciones que muestran las fases del modelo de Marr aplicadas al objeto cúbico, pero completadas en distinto grado.] De las cuatro siguientes opciones, \n¿cuál es la única que ordena correctamente cada una de estas últimas imágenes (A, B y C) según las tres fases del modelo de Marr?": {
+    "Supongamos que tenemos un objeto cúbico cuyas caras tienen las siguientes\n respectivas apariencias  desde nuestro punto de vista, \nobservamos la siguiente vista del objeto: ? A continuación, se muestran tres imágenes (A, B y C)\n. Cada una exhibe una representación mental de este objeto que una persona o un modelo computacional forma en su mente:\n [Distintas opciones que muestran las fases del modelo de Marr aplicadas al objeto cúbico, pero completadas en distinto grado.] De las cuatro siguientes opciones, \n¿cuál es la única que ordena correctamente cada una de estas últimas imágenes (A, B y C) según las tres fases del modelo de Marr? Images/1/Cubo 1.jpg , Images/1/Cubo 2.png , /Images/1/Cubo 3.jpg": {
         "v": "1. C; 2. A; 3. B",
         "f": [
             "1. B; 2. C; 3. A.",
@@ -583,9 +583,9 @@
             "1. C; 2. B; 3. A."
         ],
         "images": [
-            "Images/1/Cubo 1.jpg",
-            "Images/1/Cubo 2.png",
-            "Images/1/Cubo 3.jpg"
+            "examen_comportamiento_humano/Images/1/Cubo 1.jpg",
+            "examen_comportamiento_humano/Images/1/Cubo 2.png",
+            "examen_comportamiento_humano/Images/1/Cubo 3.jpg"
         ]
     },
     "¿Cuál de las siguientes técnicas se basa en el registro de la actividad\n eléctrica de las neuronas de la corteza cerebral de manera \nexterna?-7635b0f1-31c0-4775-b43b-9b702227909b": {
