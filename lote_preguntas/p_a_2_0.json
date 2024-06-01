@@ -3464,8 +3464,490 @@
             "El volumen de las estructuras cerebrales"
         ]
     },
-    "": {
-        "v": "",
-        "f": []
+    "¿Qué busca observar la psicofisiología?": {
+        "v": "Los efectos de los procesos cognitivos y afectivos sobre el organismo",
+        "f": [
+            "Las estructuras neuronales del cerebro",
+            "Las conexiones sinápticas entre neuronas",
+            "Los procesos bioquímicos de las células",
+            "La actividad genética de los tejidos"
+        ]
+    },
+    "¿Cómo se pueden medir los efectos en psicofisiología?": {
+        "v": "De manera periférica en estructuras corporales externas",
+        "f": [
+            "Mediante resonancia magnética",
+            "Con técnicas de neuroimagen",
+            "A través de estudios histológicos",
+            "Mediante análisis de sangre"
+        ]
+    },
+    "¿Qué mide la Respuesta de Conductancia de la Piel (SCR)?": {
+        "v": "La actividad eléctrica de la piel",
+        "f": [
+            "La temperatura de la piel",
+            "El nivel de oxigenación de la sangre",
+            "La tasa cardíaca",
+            "La actividad muscular"
+        ]
+    },
+    "¿Con qué correlaciona la actividad eléctrica de la piel?": {
+        "v": "Con las diferentes experiencias psicológicas y emociones",
+        "f": [
+            "Con la temperatura corporal",
+            "Con la actividad cerebral",
+            "Con el ritmo respiratorio",
+            "Con los niveles hormonales"
+        ]
+    },
+    "¿Qué suele ocurrir con la temperatura de la piel durante emociones intensas?": {
+        "v": "Disminuye",
+        "f": [
+            "Aumenta",
+            "Permanece constante",
+            "Fluctúa aleatoriamente",
+            "Se redistribuye uniformemente"
+        ]
+    },
+    "¿Qué correlaciona con una temperatura corporal más homogénea en las extremidades?": {
+        "v": "Estados de tranquilidad y concentración",
+        "f": [
+            "Emociones intensas",
+            "Niveles altos de estrés",
+            "Activación física intensa",
+            "Falta de oxigenación"
+        ]
+    },
+    "¿Cómo se mide el nivel de oxigenación de la sangre en psicofisiología?": {
+        "v": "Mediante pulsímetros o fotopletismógrafos",
+        "f": [
+            "Con electroencefalogramas",
+            "Con resonancia magnética funcional",
+            "A través de tomografía axial computarizada",
+            "Con termómetros digitales"
+        ]
+    },
+    "¿Qué indica el nivel de oxigenación de la sangre?": {
+        "v": "La actividad cognitiva y emocional del sujeto",
+        "f": [
+            "La actividad física del sujeto",
+            "La temperatura corporal",
+            "El nivel de sudoración",
+            "El estado de sueño del sujeto"
+        ]
+    },
+    "¿Cómo se mide la tasa cardíaca en psicofisiología?": {
+        "v": "Mediante electrocardiograma (ECG o EKG)",
+        "f": [
+            "Con un pulsímetro",
+            "Mediante resonancia magnética",
+            "Con un fotopletismógrafo",
+            "Mediante termografía"
+        ]
+    },
+    "¿Qué sucede con la tasa cardíaca al experimentar emociones activantes?": {
+        "v": "Se eleva",
+        "f": [
+            "Disminuye",
+            "Permanece constante",
+            "Fluctúa irregularmente",
+            "Desaparece temporalmente"
+        ]
+    },
+    "¿Qué mide la Variabilidad del Ritmo Cardíaco (HRV)?": {
+        "v": "La capacidad del sistema nervioso de inducir cambios en la tasa cardíaca",
+        "f": [
+            "La actividad eléctrica del cerebro",
+            "La temperatura corporal",
+            "El nivel de sudoración",
+            "La actividad muscular"
+        ]
+    },
+    "¿Con qué correlaciona una mayor HRV en las personas?": {
+        "v": "Con una mayor capacidad de gestionar recursos mentales y emocionales",
+        "f": [
+            "Con niveles altos de estrés",
+            "Con una menor tasa cardíaca",
+            "Con una mayor actividad física",
+            "Con una mayor temperatura corporal"
+        ]
+    },
+    "¿Cómo se mide la actividad muscular en psicofisiología?": {
+        "v": "Mediante la técnica de la electromiografía (EMG)",
+        "f": [
+            "Con electroencefalogramas",
+            "A través de resonancia magnética",
+            "Mediante tomografía axial computarizada",
+            "Con pulsímetros"
+        ]
+    },
+    "¿Qué correlaciona con una mayor actividad muscular según la psicofisiología?": {
+        "v": "Las emociones de estrés y ansiedad",
+        "f": [
+            "Los estados de tranquilidad",
+            "La actividad cognitiva baja",
+            "Los niveles bajos de oxigenación",
+            "La temperatura corporal alta"
+        ]
+    },
+    "¿Qué sucede con la tensión muscular basal en situaciones de reposo y alivio emocional?": {
+        "v": "Es siempre medible una menor cantidad de tensión muscular",
+        "f": [
+            "Aumenta significativamente",
+            "Permanece constante",
+            "Se vuelve inexistente",
+            "Fluctúa de manera impredecible"
+        ]
+    },
+    "¿Qué mide un sensor de actividad muscular?": {
+        "v": "La tensión muscular basal",
+        "f": [
+            "La actividad cerebral",
+            "La frecuencia cardíaca",
+            "La presión arterial",
+            "La temperatura corporal"
+        ]
+    },
+    "¿Con qué tipo de energía trabaja la psicofisiología?": {
+        "v": "Energía eléctrica o térmica emitida por ciertas partes del cuerpo",
+        "f": [
+            "Energía luminosa emitida por los ojos",
+            "Energía mecánica generada por el movimiento",
+            "Energía química producida por el metabolismo",
+            "Energía magnética emitida por el cerebro"
+        ]
+    },
+    "¿Qué correlaciona la energía eléctrica o térmica con la psicofisiología?": {
+        "v": "La experimentación de diversos estados psicológicos",
+        "f": [
+            "La actividad física intensa",
+            "Los cambios en la presión arterial",
+            "La variación en la respiración",
+            "La producción de hormonas"
+        ]
+    },
+    "¿Cuál es el modo de análisis en psicofisiología?": {
+        "v": "Registro de actividad eléctrica o térmica",
+        "f": [
+            "Análisis de imágenes cerebrales",
+            "Medición de la presión arterial",
+            "Observación de movimientos oculares",
+            "Detección de cambios hormonales"
+        ]
+    },
+    "¿Qué resultado se obtiene del análisis en psicofisiología?": {
+        "v": "Curvas de actividad eléctrica o térmica en el tiempo",
+        "f": [
+            "Imágenes de resonancia magnética",
+            "Gráficos de frecuencia cardíaca",
+            "Diagramas de flujo sanguíneo",
+            "Mapas de actividad cerebral"
+        ]
+    },
+    "¿Con qué se correlacionan las curvas de actividad eléctrica o térmica en psicofisiología?": {
+        "v": "Con la línea temporal de los estados psicológicos experimentados",
+        "f": [
+            "Con los cambios en la presión arterial",
+            "Con la actividad muscular basal",
+            "Con la variación en la temperatura corporal",
+            "Con los patrones de respiración"
+        ]
+    },
+    "¿Cuál es una de las ventajas de la psicofisiología?": {
+        "v": "Coste",
+        "f": [
+            "Complejidad",
+            "Tiempo de análisis",
+            "Invasividad",
+            "Precisión espacial"
+        ]
+    },
+    "¿Cuál es otra ventaja de la psicofisiología?": {
+        "v": "Resolución temporal",
+        "f": [
+            "Alta invasividad",
+            "Alto coste",
+            "Montaje metódico",
+            "Difícil interpretación"
+        ]
+    },
+    "¿Cuál es un inconveniente de la psicofisiología?": {
+        "v": "Necesidad de un metódico montaje",
+        "f": [
+            "Baja resolución temporal",
+            "Alto coste",
+            "Invasividad",
+            "Tiempo prolongado de análisis"
+        ]
+    },
+    "¿Qué permiten estudiar las técnicas funcionales?": {
+        "v": "El funcionamiento del cerebro in vivo",
+        "f": [
+            "La estructura del cerebro",
+            "La anatomía del cerebro post mortem",
+            "Las conexiones neuronales",
+            "El desarrollo embrionario del cerebro"
+        ]
+    },
+    "¿Qué se observa con las técnicas funcionales?": {
+        "v": "Los correlatos neuronales",
+        "f": [
+            "Las estructuras cerebrales",
+            "Las conexiones sinápticas",
+            "Los tejidos celulares",
+            "Las regiones subcorticales"
+        ]
+    },
+    "¿Qué mide la resolución espacial en técnicas funcionales?": {
+        "v": "La precisión en la localización de la actividad cerebral",
+        "f": [
+            "La duración de la actividad cerebral",
+            "La intensidad de la actividad cerebral",
+            "La frecuencia de los impulsos nerviosos",
+            "La amplitud de las ondas cerebrales"
+        ]
+    },
+    "¿Qué mide la resolución temporal en técnicas funcionales?": {
+        "v": "La precisión en el instante de tiempo de la actividad cerebral",
+        "f": [
+            "La localización de la actividad cerebral",
+            "La duración de la actividad cerebral",
+            "La intensidad de la actividad cerebral",
+            "La frecuencia de los impulsos nerviosos"
+        ]
+    },
+    "¿Qué relación existe entre la resolución espacial y temporal en técnicas funcionales?": {
+        "v": "Cuanto mejor es la resolución espacial, peor resulta la temporal, y viceversa",
+        "f": [
+            "Cuanto mejor es la resolución espacial, mejor resulta la temporal",
+            "No existe relación entre ambas resoluciones",
+            "Ambas resoluciones siempre son iguales",
+            "Cuanto peor es la resolución espacial, peor resulta la temporal"
+        ]
+    },
+    "¿Cómo puede superarse la limitación entre resolución espacial y temporal?": {
+        "v": "Combinando diversas técnicas en un mismo estudio",
+        "f": [
+            "Aumentando el número de electrodos",
+            "Mejorando la tecnología de los sensores",
+            "Utilizando modelos animales",
+            "Reduciendo el tiempo de exposición"
+        ]
+    },
+    "¿Qué utiliza la Electroencefalografía (EEG) para registrar la actividad cerebral?": {
+        "v": "Electrodos situados sobre la superficie del cuero cabelludo",
+        "f": [
+            "Campos magnéticos",
+            "Rayos X",
+            "Ultrasonidos",
+            "Microelectrodos implantados"
+        ]
+    },
+    "¿Qué tipo de actividad cerebral capta la EEG?": {
+        "v": "Actividad postsináptica de grandes poblaciones neuronales cercanas al exterior",
+        "f": [
+            "Actividad presináptica de pequeñas poblaciones neuronales",
+            "Actividad eléctrica de las conexiones sinápticas",
+            "Actividad química de las neuronas",
+            "Actividad metabólica del cerebro"
+        ]
+    },
+    "¿Qué resulta de vital importancia para las neurociencias en la técnica de EEG?": {
+        "v": "Comprender los correlatos neuronales de la cognición, emociones y comportamiento humano",
+        "f": [
+            "Analizar las estructuras cerebrales post mortem",
+            "Estudiar la histología del cerebro",
+            "Observar las conexiones neuronales en modelos animales",
+            "Medir la actividad química del cerebro"
+        ]
+    },
+    "¿Qué se obtiene como resultado de la técnica de EEG?": {
+        "v": "Una curva de actividad eléctrica por cada electrodo utilizado",
+        "f": [
+            "Una imagen estructural del cerebro",
+            "Un mapa de conexiones neuronales",
+            "Un gráfico de actividad química",
+            "Un análisis de tejido cerebral"
+        ]
+    },
+    "¿Qué representan las curvas obtenidas en la EEG?": {
+        "v": "El nivel de actividad que cada zona de la corteza cerebral ha experimentado en cada instante de tiempo",
+        "f": [
+            "La estructura de las regiones cerebrales",
+            "La intensidad de los impulsos nerviosos",
+            "La duración de la actividad sináptica",
+            "La frecuencia de las ondas cerebrales"
+        ]
+    },
+    "¿Qué se aplica a la señal bruta de entrada en la técnica de EEG?": {
+        "v": "Un filtrado y un suavizado previo",
+        "f": [
+            "Un análisis espectral",
+            "Una amplificación de la señal",
+            "Un ajuste de frecuencia",
+            "Un mapeo tridimensional"
+        ]
+    },
+    "¿Qué tipo de procesos psicológicos se pueden observar con técnicas funcionales?": {
+        "v": "Cognitivos y afectivos",
+        "f": [
+            "Estructurales y moleculares",
+            "Histológicos y anatómicos",
+            "Metabólicos y químicos",
+            "Post mortem y presinápticos"
+        ]
+    },
+    "¿Qué implica el término 'in vivo' en el contexto de técnicas funcionales?": {
+        "v": "Estudio del cerebro mientras la persona está viva",
+        "f": [
+            "Estudio del cerebro post mortem",
+            "Análisis de tejido cerebral en laboratorio",
+            "Medición de actividad cerebral en animales",
+            "Registro de actividad sináptica en muestras"
+        ]
+    },
+    "¿Qué limita la captación de la EEG?": {
+        "v": "Solo capta la actividad postsináptica de grandes poblaciones neuronales especialmente cercanas al exterior",
+        "f": [
+            "Solo capta la actividad presináptica de pequeñas poblaciones neuronales",
+            "Solo capta la actividad eléctrica de las conexiones sinápticas",
+            "Solo capta la actividad química de las neuronas",
+            "Solo capta la actividad metabólica del cerebro"
+        ]
+    },
+    "¿Cómo es la resolución temporal en la Electroencefalografía (EEG)?": {
+        "v": "Especialmente buena",
+        "f": [
+            "Especialmente mala",
+            "Moderada",
+            "Indefinida",
+            "Variable"
+        ]
+    },
+    "¿Qué se obtiene con la EEG que está asociado a sucesos cognitivos o estímulos sensoriales?": {
+        "v": "Potenciales evocados (PE)",
+        "f": [
+            "Imágenes estructurales",
+            "Mapas de conectividad",
+            "Gráficos de flujo sanguíneo",
+            "Análisis químicos"
+        ]
+    },
+    "¿Qué refleja la amplitud en los potenciales evocados (PE)?": {
+        "v": "La cuantía de actividad cerebral",
+        "f": [
+            "La localización de la actividad cerebral",
+            "La frecuencia de los impulsos nerviosos",
+            "El tipo de estímulo sensorial",
+            "El tiempo de respuesta"
+        ]
+    },
+    "¿Qué refleja la latencia en los potenciales evocados (PE)?": {
+        "v": "El instante del tiempo en el que ha tenido lugar cada PE",
+        "f": [
+            "La magnitud del potencial",
+            "La localización de la actividad cerebral",
+            "La intensidad del estímulo",
+            "La duración del estímulo"
+        ]
+    },
+    "¿Qué tipo de energía utiliza la EEG?": {
+        "v": "Potencial eléctrico procedente de la actividad de grandes poblaciones de neuronas de la corteza cerebral",
+        "f": [
+            "Campos magnéticos",
+            "Ondas de ultrasonido",
+            "Radiación electromagnética",
+            "Flujo sanguíneo cerebral"
+        ]
+    },
+    "¿Cuál es el modo de análisis en la EEG?": {
+        "v": "Registro de la actividad eléctrica, filtrado y suavizado",
+        "f": [
+            "Registro de la actividad magnética, amplificación y análisis",
+            "Mapeo tridimensional de la actividad cerebral",
+            "Análisis espectral de la señal",
+            "Medición de la actividad química"
+        ]
+    },
+    "¿Qué resultado se obtiene de la EEG?": {
+        "v": "Curvas de actividad eléctrica en el tiempo",
+        "f": [
+            "Imágenes estructurales del cerebro",
+            "Mapas de conectividad neuronal",
+            "Gráficos de flujo sanguíneo",
+            "Análisis químicos del cerebro"
+        ]
+    },
+    "¿Cuáles son las ventajas de la EEG?": {
+        "v": "Coste y resolución temporal",
+        "f": [
+            "Resolución espacial y precisión",
+            "No invasividad y alta definición",
+            "Alta precisión y tiempo real",
+            "Bajo coste y facilidad de uso"
+        ]
+    },
+    "¿Cuál es una desventaja de la EEG?": {
+        "v": "Resolución espacial",
+        "f": [
+            "Coste",
+            "Invasividad",
+            "Complejidad",
+            "Lentitud"
+        ]
+    },
+    "¿En qué se basa la Magnetoencefalografía (MEG) para detectar la actividad neuronal?": {
+        "v": "En la detección de los campos magnéticos producidos por las neuronas",
+        "f": [
+            "En la detección de la actividad eléctrica presináptica",
+            "En la medición del flujo sanguíneo",
+            "En la captura de imágenes estructurales",
+            "En la resonancia magnética nuclear"
+        ]
+    },
+    "¿Qué tipo de energía utiliza la MEG?": {
+        "v": "Campos magnéticos procedentes de la actividad de grandes poblaciones de neuronas de la corteza cerebral",
+        "f": [
+            "Potencial eléctrico de las sinapsis neuronales",
+            "Ondas de ultrasonido",
+            "Radiación electromagnética",
+            "Flujo sanguíneo cerebral"
+        ]
+    },
+    "¿Cuál es el modo de análisis en la MEG?": {
+        "v": "Registro de la actividad magnética, filtrado y suavizado",
+        "f": [
+            "Registro de la actividad eléctrica, amplificación y análisis",
+            "Mapeo tridimensional de la actividad cerebral",
+            "Análisis espectral de la señal",
+            "Medición de la actividad química"
+        ]
+    },
+    "¿Qué resultado se obtiene de la MEG?": {
+        "v": "Curvas de actividad magnética en el tiempo",
+        "f": [
+            "Imágenes estructurales del cerebro",
+            "Mapas de conectividad neuronal",
+            "Gráficos de flujo sanguíneo",
+            "Análisis químicos del cerebro"
+        ]
+    },
+    "¿Cuáles son las ventajas de la MEG?": {
+        "v": "Resolución temporal",
+        "f": [
+            "Coste",
+            "Resolución espacial",
+            "Invasividad",
+            "Complejidad"
+        ]
+    },
+    "¿Cuál es una desventaja de la MEG?": {
+        "v": "Coste",
+        "f": [
+            "Resolución temporal",
+            "Precisión",
+            "Facilidad de uso",
+            "No invasividad"
+        ]
     }
 }
