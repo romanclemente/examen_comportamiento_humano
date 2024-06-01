@@ -12,7 +12,7 @@ class BBDD_backend:
 
     def get_preguntas(self):
         with open(
-            "lote_preguntas/p_a_2_0.json",
+            "examen_comportamiento_humano/lote_preguntas/p_a_2_0.json",
             "r",
             encoding="utf-8",
         ) as file:
@@ -82,7 +82,7 @@ class BBDD_backend:
 
     def write_in_preguntas(self):
         with open(
-            "lote_preguntas/p_a_2_0.json",
+            "examen_comportamiento_humano/lote_preguntas/p_a_2_0.json",
             "w",
             encoding="utf-8",
         ) as file:
