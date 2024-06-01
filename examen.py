@@ -94,7 +94,11 @@ class TestApp:
             label.destroy()
         self.image_labels.clear()
 
-        if "images" in self.questions[self.current_question]:
+        if (
+            "images" in self.questions[self.current_question]
+            and "Image" in self.current_question
+            and self.current_question.lower().endswith(".png", ".jpg", ".jpeg", ".gif")
+        ):
             images = self.questions[self.current_question]["images"]
             for img_path in images:
                 img = self.load_image(img_path)
@@ -144,7 +148,7 @@ class TestApp:
                     "Respuesta",
                     f"¡Correcto! llevas hasta ahora:\n{self.aciertos} aciertos y \n {self.errores} fallo/s\n por tanto llevas una nota de {float(self.back.get_points())}",
                 )
-                
+
             else:
                 self.errores += 1
                 self.back.quit_points(self.current_question)

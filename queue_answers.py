@@ -19,6 +19,15 @@ class BBDD_backend:
             datos = json.load(file)
         return datos
 
+    def clean_bbdd(self):
+        lt = list(self.all_questions)
+        for x in lt:
+            if "c_count" in self.all_questions[x]:
+                del self.all_questions[x]["c_count"]
+            if "e_count" in self.all_questions[x]:
+                del self.all_questions[x]["e_count"]
+        self.write_in_preguntas()
+
     def sum_points(self, current_question):
         c_q = self.all_questions[current_question]
         if "c_count" in c_q:
@@ -40,30 +49,30 @@ class BBDD_backend:
     def preguntas_examen(self):
         asks = list(self.all_questions)
         dct = {}
+        index = 0
         for x in asks:
             if (
-                (
-                    "e_count" in self.all_questions[x]
-                    and int(self.all_questions[x]["e_count"]) > 0
-                )
-                and "c_count" not in self.all_questions[x]
-                or (
-                    "c_count" in self.all_questions[x]
-                    and int(self.all_questions[x]["c_count"]) < 5
-                )
+                "e_count" in self.all_questions[x]
+                and int(self.all_questions[x]["e_count"]) > 0
             ):
-                dct[x] = self.all_questions[x]
-        if len(asks) > 20:
-            ask_exam = 20
-        else:
-            ask_exam = len(asks)
-        while len(list(dct)) < ask_exam:
+                if "c_count" not in self.all_questions[x] or (
+                    "c_count" in self.all_questions[x]
+                    and int(self.all_questions[x]["c_count"]) <= 4
+                ):
+                    index += 1
+                    dct[x] = self.all_questions[x]
+                    if index >= 10:
+                        return dct
+
+        ask_exam = 10 - len(list(dct))
+
+        for item in range(ask_exam):
             r = random.randint(0, len(asks) - 1)
             question_key = asks[r]
             if question_key not in dct:
                 if "c_count" not in self.all_questions[question_key] or (
                     "c_count" in self.all_questions[question_key]
-                    and int(self.all_questions[question_key]["c_count"]) < 3
+                    and int(self.all_questions[question_key]["c_count"]) <= 3
                 ):
                     dct[question_key] = self.all_questions[question_key]
         return dct
