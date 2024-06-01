@@ -380,8 +380,7 @@
             "Psicología",
             "Ninguna disciplina está relacionada",
             "Neurociencia"
-        ],
-        "c_count": 1
+        ]
     },
     "¿En qué nivel se encuentra el estudio de la interacción bioquímica entre moléculas?": {
         "v": "Nivel de la interacción bioquímica entre moléculas",
@@ -453,8 +452,7 @@
             "Entender los procesos neuronales",
             "Analizar la interacción entre materia, energía, espacio y tiempo",
             "Desarrollar interfaces cerebro-ordenador"
-        ],
-        "c_count": 1
+        ]
     },
     "¿Qué objetivo tienen las Interfaces Cerebro-Ordenador?": {
         "v": "Alcanzar mejores sistemas de interacción entre humano y máquina",
@@ -463,8 +461,7 @@
             "Estudiar la percepción y atención",
             "Mejorar la interacción bioquímica entre moléculas",
             "Desarrollar sistemas de inteligencia artificial"
-        ],
-        "c_count": 1
+        ]
     },
     "¿En qué nivel se encuentran los sistemas de interacción entre materia, energía, espacio y tiempo?": {
         "v": "Nivel de la interacción entre materia, energía, espacio y tiempo",
@@ -1562,8 +1559,7 @@
             "Medición de potenciales eléctricos neuronales.",
             "Obtención de imágenes por resonancia magnética.",
             "Registro de actividad cerebral mediante EEG."
-        ],
-        "c_count": 1
+        ]
     },
     "¿Qué tecnología utiliza rayos X para obtener imágenes del cerebro?-b726f505-67b1-4cfa-bbdb-2fb1df85749c": {
         "v": "TAC (Tomografía Axial Computarizada).",
@@ -1787,8 +1783,7 @@
             "El cerebro ha evolucionado más rápido que la mente.",
             "Ambos han evolucionado al mismo ritmo.",
             "La evolución de ambos es irrelevante para el comportamiento humano."
-        ],
-        "c_count": 1
+        ]
     },
     "¿En qué se basa la división anatómica del sistema nervioso humano??-1ce96f6e-fe65-4ad4-8a69-e3cfaafce43d": {
         "v": "Se basa en la estructura física del sistema nervioso.",
@@ -2119,8 +2114,7 @@
             "Ocultar las limitaciones encontradas.",
             "Generalizar los resultados sin base sólida.",
             "Reafirmar todas las teorías propuestas sin análisis."
-        ],
-        "c_count": 1
+        ]
     },
     "¿Qué papel juega la racionalidad-crítica en una investigación científica?": {
         "v": "Permite derivar y proponer hipótesis creativas pero mesuradas acorde con lo observado.",
@@ -2282,8 +2276,7 @@
             "Los fisiológicos son empíricos y los conductuales teóricos",
             "Los fisiológicos miden variables y los conductuales observan fenómenos",
             "Los fisiológicos son descriptivos y los conductuales explicativos"
-        ],
-        "c_count": 1
+        ]
     },
     "¿Qué aspecto adicional deben considerar los estudios conductuales al interpretar resultados en modelos animales?": {
         "v": "El prisma diferencial humano",
@@ -2448,8 +2441,7 @@
             "El cerebro ha evolucionado más rápido que la mente.",
             "Ambos han evolucionado a la misma velocidad.",
             "Ninguno ha evolucionado."
-        ],
-        "c_count": 1
+        ]
     },
     "¿En qué se basa la división anatómica del sistema nervioso humano?-2a8c71a6-f379-44fa-87d9-fab4dde3d5d0": {
         "v": "Se basa en la estructura física del sistema nervioso.",
@@ -2465,8 +2457,7 @@
             "El encéfalo y los nervios periféricos.",
             "Solo el cerebro y el cerebelo.",
             "El tronco encefálico y los nervios espinales."
-        ],
-        "c_count": 1
+        ]
     },
     "¿Qué conecta la médula espinal?-a7f972c4-7f3a-465b-9a7c-25770dee8dda": {
         "v": "Conecta el encéfalo con el sistema nervioso periférico (SNP).",
@@ -2885,8 +2876,7 @@
             "Los objetivos del proyecto",
             "Los participantes del proyecto",
             "El presupuesto del proyecto"
-        ],
-        "c_count": 1
+        ]
     },
     "¿Qué implica el diseño de una investigación?": {
         "v": "Planificación y definición de variables",
@@ -3948,6 +3938,366 @@
             "Precisión",
             "Facilidad de uso",
             "No invasividad"
+        ]
+    },
+    "¿Qué sustancia consumen las neuronas en mayor medida cuando aumentan su actividad?": {
+        "v": "oxígeno",
+        "f": [
+            "glucosa",
+            "lípidos",
+            "proteínas",
+            "ácidos nucleicos"
+        ]
+    },
+    "¿Qué técnica utiliza la RMf para detectar variaciones en el consumo de oxígeno?": {
+        "v": "técnica BOLD",
+        "f": [
+            "técnica T1",
+            "técnica T2",
+            "técnica FLAIR",
+            "técnica DTI"
+        ]
+    },
+    "¿Qué forma de energía utiliza la RMf?": {
+        "v": "energía electromagnética",
+        "f": [
+            "energía térmica",
+            "energía cinética",
+            "energía potencial",
+            "energía solar"
+        ]
+    },
+    "¿Qué convierte la RMf en una imagen funcional?": {
+        "v": "datos de densidad electromagnética",
+        "f": [
+            "datos de densidad térmica",
+            "datos de densidad acústica",
+            "datos de densidad luminosa",
+            "datos de densidad cinética"
+        ]
+    },
+    "¿Qué zonas del cerebro se iluminan más en una imagen funcional de RMf?": {
+        "v": "zonas más activas",
+        "f": [
+            "zonas menos activas",
+            "zonas aleatorias",
+            "zonas dañadas",
+            "zonas inactivas"
+        ]
+    },
+    "¿Qué tipo de imágenes puede generar la RMf?": {
+        "v": "imágenes en 2D y 3D",
+        "f": [
+            "imágenes en 1D",
+            "imágenes en 4D",
+            "imágenes en color",
+            "imágenes en blanco y negro"
+        ]
+    },
+    "¿Qué permite observar la RMf además de generar imágenes?": {
+        "v": "la funcionalidad cerebral",
+        "f": [
+            "la estructura ósea",
+            "la temperatura corporal",
+            "la presión arterial",
+            "la densidad muscular"
+        ]
+    },
+    "¿Cuál es una de las desventajas de la RMf?": {
+        "v": "el coste",
+        "f": [
+            "la facilidad de uso",
+            "la velocidad",
+            "la precisión",
+            "la disponibilidad"
+        ]
+    },
+    "¿Cuál es otra desventaja de la RMf?": {
+        "v": "la resolución espacial",
+        "f": [
+            "la resolución temporal",
+            "la invasividad",
+            "la accesibilidad",
+            "la portabilidad"
+        ]
+    },
+    "¿Qué identifica la RMf durante la realización de procesos mentales?": {
+        "v": "correlatos neuronales de las funciones mentales y afectivas",
+        "f": [
+            "el flujo sanguíneo",
+            "la actividad muscular",
+            "la temperatura cerebral",
+            "la presión intracraneal"
+        ]
+    },
+    "¿Qué fenómeno se utiliza en la técnica de RMf?": {
+        "v": "resonancia",
+        "f": [
+            "difracción",
+            "reflexión",
+            "refracción",
+            "dispersión"
+        ]
+    },
+    "¿Qué implica un aumento en la actividad cerebral?": {
+        "v": "un incremento de la actividad metabólica",
+        "f": [
+            "una disminución de la actividad metabólica",
+            "un cambio en la temperatura corporal",
+            "una reducción del flujo sanguíneo",
+            "un aumento de la presión arterial"
+        ]
+    },
+    "¿Qué tipo de imagen resulta de la RMf?": {
+        "v": "una imagen funcional",
+        "f": [
+            "una imagen estructural",
+            "una imagen estática",
+            "una imagen diagnóstica",
+            "una imagen térmica"
+        ]
+    },
+    "¿Qué ventaja tiene la RMf respecto a la generación de imágenes?": {
+        "v": "permite observar la funcionalidad",
+        "f": [
+            "permite medir la temperatura",
+            "permite diagnosticar enfermedades",
+            "permite visualizar huesos",
+            "permite evaluar el ritmo cardíaco"
+        ]
+    },
+    "¿Qué técnica antecede a la RMf según el texto?": {
+        "v": "Resonancia Magnética Nuclear (RMN)",
+        "f": [
+            "Tomografía Computarizada (TC)",
+            "Ultrasonido (US)",
+            "Electroencefalograma (EEG)",
+            "Radiografía (RX)"
+        ]
+    },
+    "¿Cuál es el fundamento de la RMf para detectar actividad cerebral?": {
+        "v": "consumo de oxígeno",
+        "f": [
+            "flujo sanguíneo",
+            "actividad eléctrica",
+            "temperatura cerebral",
+            "presión intracraneal"
+        ]
+    },
+    "¿Qué tipo de proceso mental permite observar la RMf?": {
+        "v": "procesos mentales y afectivos",
+        "f": [
+            "procesos físicos",
+            "procesos mecánicos",
+            "procesos químicos",
+            "procesos térmicos"
+        ]
+    },
+    "¿Qué mide la técnica BOLD utilizada en la RMf?": {
+        "v": "variaciones en el consumo de oxígeno",
+        "f": [
+            "variaciones en el flujo sanguíneo",
+            "variaciones en la temperatura",
+            "variaciones en la presión",
+            "variaciones en la conductividad eléctrica"
+        ]
+    },
+    "¿Qué ventaja tiene la RMf en términos de imagen?": {
+        "v": "pueden iluminarse más las zonas del cerebro más activas",
+        "f": [
+            "pueden observarse mejor los huesos",
+            "pueden medirse mejor los niveles de glucosa",
+            "pueden detectarse mejor los tumores",
+            "pueden visualizarse mejor las arterias"
+        ]
+    },
+    "¿Qué fenómeno físico aprovecha la RMf para su funcionamiento?": {
+        "v": "resonancia",
+        "f": [
+            "reflexión",
+            "refracción",
+            "difracción",
+            "absorción"
+        ]
+    },
+    "¿Qué técnica permite estudiar la comunicación entre las distintas áreas del cerebro?": {
+        "v": "Tractografía por Tensor de Difusión (TD)",
+        "f": [
+            "Resonancia Magnética funcional (RMf)",
+            "Tomografía por Emisión de Positrones (PET)",
+            "Electroencefalograma (EEG)",
+            "Tomografía Computarizada (TC)"
+        ]
+    },
+    "¿Qué estudia la Tractografía por Tensor de Difusión?": {
+        "v": "el estado de movimiento de partículas en el sistema nervioso",
+        "f": [
+            "el flujo sanguíneo en el cerebro",
+            "la actividad eléctrica del cerebro",
+            "la presión intracraneal",
+            "la temperatura cerebral"
+        ]
+    },
+    "¿Qué se observa en las zonas donde las partículas pueden moverse sin grandes limitaciones?": {
+        "v": "isotropía",
+        "f": [
+            "anisotropía",
+            "homeostasis",
+            "difusión",
+            "conductividad"
+        ]
+    },
+    "¿Qué término describe el movimiento de partículas en direcciones específicas debido a la estructura del entorno?": {
+        "v": "anisotropía",
+        "f": [
+            "isotropía",
+            "equilibrio",
+            "homogeneidad",
+            "dispersión"
+        ]
+    },
+    "¿Qué es clave en las vías de comunicación nerviosa que se desean estudiar?": {
+        "v": "la anisotropía",
+        "f": [
+            "la isotropía",
+            "la difusión",
+            "la conductividad",
+            "la homeostasis"
+        ]
+    },
+    "¿Qué permite rastrear y trazar el Tensor de Difusión (TD)?": {
+        "v": "las vías de conexión neuronal",
+        "f": [
+            "las áreas activas del cerebro",
+            "las regiones dañadas del cerebro",
+            "las capas de la corteza cerebral",
+            "los niveles de glucosa en el cerebro"
+        ]
+    },
+    "¿Qué imagen se obtiene mediante la técnica del Tensor de Difusión?": {
+        "v": "la forma de los tractos de conexión neuronal",
+        "f": [
+            "la actividad eléctrica del cerebro",
+            "la temperatura cerebral",
+            "la presión intracraneal",
+            "el flujo sanguíneo en el cerebro"
+        ]
+    },
+    "¿Qué interés ha crecido entre los neurocientíficos, además de la estructura y funcionalidad del cerebro?": {
+        "v": "cómo se comunican las áreas del cerebro por vías nerviosas",
+        "f": [
+            "la temperatura cerebral",
+            "la presión intracraneal",
+            "la actividad hormonal",
+            "la estructura ósea del cráneo"
+        ]
+    },
+    "¿Qué términos describen las zonas donde las partículas se mueven libremente y las zonas donde el movimiento es específico?": {
+        "v": "isotropía y anisotropía",
+        "f": [
+            "homeostasis y desequilibrio",
+            "difusión y absorción",
+            "conductividad y resistencia",
+            "fluidez y viscosidad"
+        ]
+    },
+    "¿Qué tipo de partículas estudia la Tractografía por Tensor de Difusión?": {
+        "v": "partículas en el sistema nervioso",
+        "f": [
+            "partículas en la sangre",
+            "partículas en los músculos",
+            "partículas en los huesos",
+            "partículas en el aire"
+        ]
+    },
+    "¿Qué permite obtener la técnica matemática del Tensor de Difusión (TD)?": {
+        "v": "una imagen de las vías de conexión neuronal",
+        "f": [
+            "una imagen de la actividad cerebral",
+            "una imagen de la estructura ósea",
+            "una imagen de la presión intracraneal",
+            "una imagen de la temperatura cerebral"
+        ]
+    },
+    "¿Qué es necesario combinar para estudiar cómo se comunican las áreas del cerebro?": {
+        "v": "estructura y funcionalidad del cerebro",
+        "f": [
+            "temperatura y presión cerebral",
+            "actividad hormonal y flujo sanguíneo",
+            "estructura ósea y actividad muscular",
+            "funcionalidad cardíaca y actividad eléctrica"
+        ]
+    },
+    "¿Qué interés ha crecido en el campo de la neurociencia?": {
+        "v": "la comunicación entre áreas del cerebro",
+        "f": [
+            "la estructura de los huesos",
+            "la temperatura corporal",
+            "la presión arterial",
+            "la composición química del cerebro"
+        ]
+    },
+    "¿Qué describe la anisotropía en el contexto del sistema nervioso?": {
+        "v": "el movimiento específico de partículas en direcciones determinadas",
+        "f": [
+            "el movimiento aleatorio de partículas",
+            "la ausencia de movimiento de partículas",
+            "el equilibrio térmico de las partículas",
+            "la dispersión uniforme de partículas"
+        ]
+    },
+    "¿Qué término se usa para describir el movimiento de partículas sin limitaciones en el sistema nervioso?": {
+        "v": "isotropía",
+        "f": [
+            "anisotropía",
+            "homeostasis",
+            "difusión",
+            "conductividad"
+        ]
+    },
+    "¿Qué técnica combina la estructura y funcionalidad para estudiar las vías nerviosas?": {
+        "v": "Tractografía por Tensor de Difusión (TD)",
+        "f": [
+            "Resonancia Magnética funcional (RMf)",
+            "Tomografía por Emisión de Positrones (PET)",
+            "Electroencefalograma (EEG)",
+            "Tomografía Computarizada (TC)"
+        ]
+    },
+    "¿En qué se basa la Tractografía por Tensor de Difusión para estudiar el sistema nervioso?": {
+        "v": "estado de movimiento de partículas",
+        "f": [
+            "estado de carga eléctrica",
+            "estado de presión",
+            "estado de temperatura",
+            "estado de absorción"
+        ]
+    },
+    "¿Qué se rastrea y traza mediante la técnica del Tensor de Difusión?": {
+        "v": "las vías de conexión neuronal",
+        "f": [
+            "las áreas activas del cerebro",
+            "las capas de la corteza cerebral",
+            "los niveles de glucosa en el cerebro",
+            "las regiones dañadas del cerebro"
+        ]
+    },
+    "¿Qué permite estudiar la Tractografía por Tensor de Difusión (TD)?": {
+        "v": "la comunicación entre áreas del cerebro",
+        "f": [
+            "la actividad hormonal",
+            "la presión intracraneal",
+            "la estructura ósea del cráneo",
+            "la temperatura cerebral"
+        ]
+    },
+    "¿Qué técnica es clave para estudiar la anisotropía en el sistema nervioso?": {
+        "v": "Tractografía por Tensor de Difusión (TD)",
+        "f": [
+            "Resonancia Magnética funcional (RMf)",
+            "Tomografía por Emisión de Positrones (PET)",
+            "Electroencefalograma (EEG)",
+            "Tomografía Computarizada (TC)"
         ]
     }
 }
