@@ -385,7 +385,8 @@
             "La organización en forma de circuitos específicos",
             "La percepción y atención",
             "La implementación computacional"
-        ]
+        ],
+        "e_count": 1
     },
     "¿En qué nivel se estudia la organización en forma de circuitos específicos?": {
         "v": "Nivel de los procesos e interconexiones neuronales",
@@ -430,7 +431,8 @@
             "Entender los procesos neuronales",
             "Analizar la interacción entre materia, energía, espacio y tiempo",
             "Desarrollar interfaces cerebro-ordenador"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué buscan las Interfaces Cerebro-Ordenador?": {
         "v": "Alcanzar mejores sistemas de interacción entre humano y máquina",
@@ -767,7 +769,7 @@
             "Neurotransmisión"
         ],
         "e_count": 1,
-        "c_count": 3
+        "c_count": 4
     },
     "¿Cuál de las siguientes es una técnica basada en la estimulación de áreas específicas del cerebro para observar efectos conductuales?-d8e9a26b-d6c9-4181-9ce2-5718b613bfa3": {
         "v": "Estimulación eléctrica cortical",
@@ -1056,7 +1058,8 @@
             "Sigmund Freud en 1920.",
             "Wilhelm Wundt en 1879.",
             "Ivan Pavlov en 1890."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué publicación importante hizo Alan Turing en 1950?-77dadda8-326c-4dd3-a0e2-26c81180c44b": {
         "v": "El Test de Turing.",
@@ -1549,7 +1552,8 @@
             "Obtención de imágenes anatómicas.",
             "Medición de niveles de oxigenación de la sangre.",
             "Análisis de la estructura química del tejido cerebral."
-        ]
+        ],
+        "e_count": 1
     },
     "¿Qué se mide con el uso de microelectrodos en las técnicas neurofisiológicas?-da2577b7-a6b9-48af-a266-d832ae41ff15": {
         "v": "Cambios de potencial eléctrico de las neuronas.",
@@ -1883,7 +1887,8 @@
             "Interpretar los resultados.",
             "Publicar los resultados.",
             "Seleccionar la población de estudio."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál es el objetivo de la investigación?": {
         "v": "Confirmar o descartar la hipótesis inicial.",
@@ -2427,7 +2432,8 @@
             "Solo los nervios craneales.",
             "Solo los nervios espinales.",
             "El cerebro y la médula espinal."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál es la función de los nervios craneales?-fb688836-5bd0-49b5-97bb-e9241de8c47e": {
         "v": "Conectar el SNC con estructuras de la cabeza.",
@@ -2923,7 +2929,8 @@
             "Emplear exclusivamente técnicas cualitativas",
             "Manipular todas las variables",
             "Ignorar los diseños cuasiexperimentales"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué buscan identificar los diseños basados en técnicas neuroanatómicas?": {
         "v": "Estructuras cerebrales implicadas en funciones cognitivas",
