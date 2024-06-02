@@ -202,8 +202,7 @@
     },
     "?": {
         "v": "",
-        "f": [],
-        "c_count": 1
+        "f": []
     },
     "Sobre la neurociencia 'nace para comprender la union fundamental entre el sistema nervioso y su funcionamiento y su necesidad de \ncognicion su enfoque es empirico y dualista'": {
         "v": "Falso",
@@ -1352,8 +1351,7 @@
             "Ignorar el análisis de datos.",
             "Revisar los datos superficialmente.",
             "Modificar los datos sin análisis."
-        ],
-        "c_count": 1
+        ]
     },
     "¿Cuál es el propósito de la interpretación de datos en una investigación?-4d6a18a4-651c-4258-a25a-062aacb1fec7": {
         "v": "Asegurar que los datos reflejan la realidad buscada.",
@@ -1489,8 +1487,7 @@
             "Medición de la actividad muscular.",
             "Evaluación de la respuesta cardíaca.",
             "Observación del comportamiento externo."
-        ],
-        "c_count": 1
+        ]
     },
     "¿Qué impacto tienen las interfaces cerebro-ordenador (BCI)?-ecb830e0-f902-477f-8e20-a75601abf579": {
         "v": "Mejorar la interacción entre humanos y máquinas.",
@@ -1650,8 +1647,7 @@
             "EEG (Electroencefalografía).",
             "TEP (Tomografía por Emisión de Positrones).",
             "RMf (Resonancia Magnética funcional)."
-        ],
-        "c_count": 1
+        ]
     },
     "¿Qué indica el nivel de oxigenación de la sangre en psicofisiología periférica?-4bf23bcd-1cc6-40e8-92a9-940c7c9a9738": {
         "v": "Actividad cognitiva y emocional.",
@@ -1747,7 +1743,8 @@
             "Estudiar el comportamiento humano en diferentes culturas.",
             "Analizar los procesos evolutivos del cerebro.",
             "Entender las bases genéticas del comportamiento."
-        ]
+        ],
+        "e_count": 1
     },
     "¿Qué metáfora se utiliza para explicar la relación entre el sistema nervioso y la mente??-abbaa7fe-f9d4-43b1-8186-c6cb1383d71f": {
         "v": "La analogía computacional, donde el sistema nervioso es el hardware y la mente y el comportamiento son el software.",
@@ -2880,8 +2877,7 @@
             "Los objetivos del proyecto",
             "Los participantes del proyecto",
             "El presupuesto del proyecto"
-        ],
-        "c_count": 1
+        ]
     },
     "¿Qué implica el diseño de una investigación?": {
         "v": "Planificación y definición de variables",
@@ -3358,8 +3354,7 @@
             "El electroimán",
             "Los sensores",
             "El protones"
-        ],
-        "c_count": 1
+        ]
     },
     "¿Cuál es una ventaja de la RMN?": {
         "v": "Permite generar imágenes en 2D y 3D del cerebro",
@@ -3899,8 +3894,7 @@
             "En la medición del flujo sanguíneo",
             "En la captura de imágenes estructurales",
             "En la resonancia magnética nuclear"
-        ],
-        "c_count": 1
+        ]
     },
     "¿Qué tipo de energía utiliza la MEG?": {
         "v": "Campos magnéticos procedentes de la actividad de grandes poblaciones de neuronas de la corteza cerebral",
@@ -4152,8 +4146,7 @@
             "homeostasis",
             "difusión",
             "conductividad"
-        ],
-        "c_count": 1
+        ]
     },
     "¿Qué término describe el movimiento de partículas en direcciones específicas debido a la estructura del entorno?": {
         "v": "anisotropía",
