@@ -4,8 +4,9 @@ import json
 
 
 class BBDD_backend:
-    def __init__(self, lenght_exam) -> None:
+    def __init__(self, lenght_exam, only_fails=False) -> None:
         self.lenght_exam = lenght_exam
+        self.only_fails = only_fails
         self.all_questions = self.get_preguntas()
         self.questions = self.preguntas_examen()
         self.total_points = 0.0
@@ -64,18 +65,19 @@ class BBDD_backend:
                     dct[x] = self.all_questions[x]
                     if index >= self.lenght_exam:
                         return dct
+        if not self.only_fails:
+            ask_exam = self.lenght_exam - len(list(dct))
 
-        ask_exam = self.lenght_exam - len(list(dct))
+            for item in range(ask_exam):
+                r = random.randint(0, len(asks) - 1)
+                question_key = asks[r]
+                if question_key not in dct:
+                    if "c_count" not in self.all_questions[question_key] or (
+                        "c_count" in self.all_questions[question_key]
+                        and int(self.all_questions[question_key]["c_count"]) <= 3
+                    ):
+                        dct[question_key] = self.all_questions[question_key]
 
-        for item in range(ask_exam):
-            r = random.randint(0, len(asks) - 1)
-            question_key = asks[r]
-            if question_key not in dct:
-                if "c_count" not in self.all_questions[question_key] or (
-                    "c_count" in self.all_questions[question_key]
-                    and int(self.all_questions[question_key]["c_count"]) <= 3
-                ):
-                    dct[question_key] = self.all_questions[question_key]
         return dct
 
     def get_points(self):

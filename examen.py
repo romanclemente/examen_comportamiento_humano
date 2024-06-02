@@ -7,7 +7,14 @@ import sys
 
 
 class TestApp:
-    def __init__(self, master, num_questions, clean_ddbb=False, to_the_fail=False):
+    def __init__(
+        self,
+        master,
+        num_questions,
+        clean_ddbb=False,
+        to_the_fail=False,
+        only_fail=False,
+    ):
         self.to_the_fail = to_the_fail
         self.master = master
         self.master.title("Examen")
@@ -43,7 +50,7 @@ class TestApp:
         self.scrollbary.pack(side="right", fill="y")
         self.scrollbarx.pack(side="bottom", fill="x")
 
-        self.back = BBDD_backend(lenght_exam=num_questions)
+        self.back = BBDD_backend(lenght_exam=num_questions, only_fails=only_fail)
         if clean_ddbb:
             self.back.clean_bbdd()
         self.questions = self.back.questions
@@ -104,7 +111,7 @@ class TestApp:
         if not self.questions:
             messagebox.showinfo("Nota Final", f"Tienes un {self.back.get_points()}")
             self.master.quit()
-            return
+            sys.exit()
         elif self.to_the_fail:
             if self.errores >= 5:
                 points_per_question = 10 / self.index_actual_question
@@ -232,6 +239,7 @@ class TestApp:
 
 class StartApp:
     def __init__(self, master):
+        self.only_fails = False
         self.to_the_fail = False
         self.master = master
         self.master.title("Inicio")
@@ -252,7 +260,9 @@ class StartApp:
         )
         self.button2.pack(pady=10)
 
-        self.button3 = tk.Button(self.master, text="Botón 3", command=self.nothing)
+        self.button3 = tk.Button(
+            self.master, text="Todos mis fallos anteriores", command=self.all_fail
+        )
         self.button3.pack(pady=10)
 
     def setup_questions(self):
@@ -289,12 +299,21 @@ class StartApp:
             num_questions = self.num_questions.get()
         except Exception:
             num_questions = self.num_questions
-        checkbox_value = self.checkbox_var.get()
+
+        try:
+            checkbox_value = self.checkbox_var.get()
+        except Exception:
+            checkbox_value = self.checkbox_var
+
         self.new_window.destroy()
         self.master.destroy()
         root = tk.Tk()
         app = TestApp(
-            root, num_questions, bool(checkbox_value), to_the_fail=self.to_the_fail
+            root,
+            num_questions,
+            bool(checkbox_value),
+            to_the_fail=self.to_the_fail,
+            only_fail=self.only_fails,
         )
         root.mainloop()
 
@@ -325,8 +344,17 @@ class StartApp:
         )
         self.start_button.pack(pady=10)
 
-    def nothing(self):
-        pass
+    def all_fail(self):
+        self.new_window = tk.Toplevel(self.master)
+        self.new_window.title("Recordando fallos")
+        self.new_window.geometry("300x200")
+        self.num_questions = 200
+        self.checkbox_var = False
+        self.only_fails = True
+        self.start_button = tk.Button(
+            self.new_window, text="Iniciar Examen", command=self.start_exam
+        )
+        self.start_button.pack(pady=10)
 
 
 def main():
