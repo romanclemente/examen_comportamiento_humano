@@ -12,10 +12,13 @@ class TestApp:
         self,
         master,
         num_questions,
+        countdown=0,
         clean_ddbb=False,
         to_the_fail=False,
         only_fail=False,
     ):
+        self.t = countdown
+        self.sec_guay = 59
         self.to_the_fail = to_the_fail
         self.master = master
         self.master.title("Examen")
@@ -69,6 +72,19 @@ class TestApp:
             font=("Helvetica", 20),
         )
         self.question_label.pack()
+
+        if countdown > 0:
+            self.crono_label = tk.Label(
+                self.scrollable_frame,
+                text="",
+                wraplength=2000,
+                justify="center",
+                font=("Helvetica", 20),
+            )
+            self.crono_label.config(text=f"{countdown}")
+            self.crono_label.pack()
+            self.master.after(1000, self.crono_time)
+
         self.image_labels = []
         self.E1 = None
         self.answer_var = tk.StringVar()
@@ -76,6 +92,27 @@ class TestApp:
         self.submit_button = None
         self.radio_buttons = []
         self.load_question()
+
+    def crono_time(self):
+        if self.t >= 0 and self.sec_guay >= 0:
+            t_guay = f"{self.t-1:02d}:{self.sec_guay:02d}"
+            self.crono_label.config(text=t_guay)
+            if self.sec_guay > 0:
+                self.sec_guay -= 1
+            else:
+                self.sec_guay = 59
+                self.t -= 1
+                if self.t <= 0:
+                    self.time_up()
+            self.master.after(1000, self.crono_time)
+
+    def time_up(self):
+        messagebox.showinfo(
+            "Nota Final",
+            f"Tienes un {self.back.get_points()} has tenido {self.aciertos} aciertos y {self.errores} errores",
+        )
+        self.master.quit()
+        sys.exit()
 
     def create_radio_buttons(self, answers):
         for answer in answers:
@@ -181,29 +218,31 @@ class TestApp:
             if selected_answer == correct_answer:
                 self.aciertos += 1
                 self.back.sum_points(self.current_question)
-                if self.to_the_fail:
-                    messagebox.showinfo(
-                        "Respuesta",
-                        f"¡Correcto!",
-                    )
-                else:
-                    messagebox.showinfo(
-                        "Respuesta",
-                        f"¡Correcto! llevas hasta ahora:\n{self.aciertos} aciertos y \n {self.errores} fallo/s\n por tanto llevas una nota de {float(self.back.get_points())}",
-                    )
+                if self.t == 0:
+                    if self.to_the_fail:
+                        messagebox.showinfo(
+                            "Respuesta",
+                            f"¡Correcto!",
+                        )
+                    else:
+                        messagebox.showinfo(
+                            "Respuesta",
+                            f"¡Correcto! llevas hasta ahora:\n{self.aciertos} aciertos y \n {self.errores} fallo/s\n por tanto llevas una nota de {float(self.back.get_points())}",
+                        )
             else:
                 self.errores += 1
                 self.back.quit_points(self.current_question)
-                if self.to_the_fail:
-                    messagebox.showerror(
-                        "Respuesta",
-                        f"Incorrecto. La respuesta correcta es:\n{correct_answer}",
-                    )
-                else:
-                    messagebox.showerror(
-                        "Respuesta",
-                        f"Incorrecto. La respuesta correcta es:\n{correct_answer}, llevas hasta ahora:\n {self.aciertos} acierto/s y \n {self.errores} fallo/s\n por tanto llevas una nota de {float(self.back.get_points())}",
-                    )
+                if self.t == 0:
+                    if self.to_the_fail:
+                        messagebox.showerror(
+                            "Respuesta",
+                            f"Incorrecto. La respuesta correcta es:\n{correct_answer}",
+                        )
+                    else:
+                        messagebox.showerror(
+                            "Respuesta",
+                            f"Incorrecto. La respuesta correcta es:\n{correct_answer}, llevas hasta ahora:\n {self.aciertos} acierto/s y \n {self.errores} fallo/s\n por tanto llevas una nota de {float(self.back.get_points())}",
+                        )
             self.questions.pop(self.current_question)
             self.remove_old_question()
         except TypeError:
@@ -241,6 +280,7 @@ class TestApp:
 
 class StartApp:
     def __init__(self, master):
+        self.count_down_spinner = 0
         self.only_fails = False
         self.to_the_fail = False
         self.master = master
@@ -256,6 +296,13 @@ class StartApp:
             self.master, text="Examen normal", command=self.setup_questions
         )
         self.button1.pack(pady=10)
+
+        self.countdown = tk.Button(
+            self.master,
+            text="Resuelve preguntas en\nel menor tiempo posible",
+            command=self.count_down,
+        )
+        self.countdown.pack(pady=10)
 
         self.button2 = tk.Button(
             self.master, text="Preguntas al fallo", command=self.to_the_fail_mode
@@ -292,9 +339,41 @@ class StartApp:
         back = BBDD_backend(lenght_exam=1, only_fails=False)
         dct_fails = back.get_all_fail_questions()
         for x in list(dct_fails):
-            text_widget.insert(tk.END, f"Fallos: {dct_fails[x]['e_count']} Pregunta : {x} Respuesta : {dct_fails[x]['v']}\n\n\n")
+            text_widget.insert(
+                tk.END,
+                f"Fallos: {dct_fails[x]['e_count']} Pregunta : {x} Respuesta : {dct_fails[x]['v']}\n\n\n",
+            )
         text_widget.configure(font=font_style)
         text_widget.config(state=tk.DISABLED)
+
+    def count_down(self):
+        back = BBDD_backend(lenght_exam=100)
+        self.num_questions = len(list(back.get_preguntas()))
+        self.new_window = tk.Toplevel(self.master)
+        self.new_window.title("Configurar Preguntas")
+        self.new_window.geometry("300x200")
+
+        self.label = tk.Label(self.new_window, text="Escriba el tiempo en minutos")
+        self.label.pack(pady=10)
+
+        self.count_down_spinner = tk.IntVar(value=1)
+        self.spinbox_time = tk.Spinbox(
+            self.new_window, from_=1, to=60, textvariable=self.count_down_spinner
+        )
+        self.spinbox_time.pack(pady=10)
+
+        self.checkbox_var = tk.IntVar()
+        self.checkbox = tk.Checkbutton(
+            self.new_window,
+            text="¿Limpiar aciertos y fallos?",
+            variable=self.checkbox_var,
+        )
+        self.checkbox.pack(pady=10)
+
+        self.start_button = tk.Button(
+            self.new_window, text="Iniciar Examen", command=self.start_exam
+        )
+        self.start_button.pack(pady=10)
 
     def setup_questions(self):
         self.to_the_fail = False
@@ -336,17 +415,21 @@ class StartApp:
             checkbox_value = self.checkbox_var.get()
         except Exception:
             checkbox_value = self.checkbox_var
-
         self.new_window.destroy()
         self.master.destroy()
         root = tk.Tk()
-        app = TestApp(
-            root,
-            num_questions,
-            bool(checkbox_value),
-            to_the_fail=self.to_the_fail,
-            only_fail=self.only_fails,
-        )
+        try:
+            app = TestApp(
+                root, num_questions, countdown=int(self.count_down_spinner.get())
+            )
+        except Exception:
+            app = TestApp(
+                root,
+                num_questions,
+                bool(checkbox_value),
+                to_the_fail=self.to_the_fail,
+                only_fail=self.only_fails,
+            )
         root.mainloop()
 
     def to_the_fail_mode(self):

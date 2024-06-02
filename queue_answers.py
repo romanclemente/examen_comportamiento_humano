@@ -26,7 +26,7 @@ class BBDD_backend:
 
     def get_preguntas(self):
         with open(
-            "examen_comportamiento_humano/lote_preguntas/p_a_2_0.json",
+            "lote_preguntas/p_a_2_0.json",
             "r",
             encoding="utf-8",
         ) as file:
@@ -71,7 +71,7 @@ class BBDD_backend:
             ):
                 if "c_count" not in self.all_questions[x] or (
                     "c_count" in self.all_questions[x]
-                    and int(self.all_questions[x]["c_count"]) <= 4
+                    and int(self.all_questions[x]["c_count"]) <= 2
                 ):
                     index += 1
                     dct[x] = self.all_questions[x]
@@ -86,7 +86,7 @@ class BBDD_backend:
                 if question_key not in dct:
                     if "c_count" not in self.all_questions[question_key] or (
                         "c_count" in self.all_questions[question_key]
-                        and int(self.all_questions[question_key]["c_count"]) <= 3
+                        and int(self.all_questions[question_key]["c_count"]) <= 2
                     ):
                         dct[question_key] = self.all_questions[question_key]
 
@@ -97,7 +97,7 @@ class BBDD_backend:
 
     def write_in_preguntas(self):
         with open(
-            "examen_comportamiento_humano/lote_preguntas/p_a_2_0.json",
+            "lote_preguntas/p_a_2_0.json",
             "w",
             encoding="utf-8",
         ) as file:
