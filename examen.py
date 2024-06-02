@@ -4,7 +4,7 @@ import random
 from queue_answers import BBDD_backend
 from PIL import Image, ImageTk
 import sys
-
+from tkinter import font
 
 class TestApp:
     def __init__(
@@ -264,6 +264,33 @@ class StartApp:
             self.master, text="Todos mis fallos anteriores", command=self.all_fail
         )
         self.button3.pack(pady=10)
+
+        self.button3 = tk.Button(
+            self.master, text="Ver Tabla de Fallos", command=self.see_score
+        )
+        self.button3.pack(pady=10)
+
+    def see_score(self):
+        self.new_window = tk.Toplevel(self.master)
+        self.new_window.title("Tabla de estadistica")
+        self.new_window.geometry("800x500")
+        frame = tk.Frame(self.new_window)
+        frame.pack(fill=tk.BOTH, expand=True)
+        vsb = tk.Scrollbar(frame, orient=tk.VERTICAL)
+        vsb.pack(side=tk.RIGHT, fill=tk.Y)
+        hsb = tk.Scrollbar(frame, orient=tk.HORIZONTAL)
+        hsb.pack(side=tk.BOTTOM, fill=tk.X)
+        text_widget = tk.Text(frame, wrap=tk.NONE, yscrollcommand=vsb.set, xscrollcommand=hsb.set)
+        text_widget.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
+        vsb.config(command=text_widget.yview)
+        hsb.config(command=text_widget.xview)
+        font_style = font.Font(size=15)
+        back = BBDD_backend(lenght_exam=1, only_fails=False)
+        dct_fails = back.get_all_fail_questions()
+        for x in list(dct_fails):
+            text_widget.insert(tk.END, f"{x} : {dct_fails[x]['v']}\n\n\n")
+        text_widget.configure(font=font_style)
+        text_widget.config(state=tk.DISABLED)
 
     def setup_questions(self):
         self.new_window = tk.Toplevel(self.master)

@@ -12,6 +12,18 @@ class BBDD_backend:
         self.total_points = 0.0
         self.points_per_question = 10 / len(list(self.questions))
 
+    def get_all_fail_questions(self):
+        asks = list(self.all_questions)
+        dct = {}
+        for x in asks:
+            if "e_count" in self.all_questions[x]:
+                dct[x] = self.all_questions[x]
+        sorted_dct = dict(
+            sorted(dct.items(), key=lambda item: item[1]["e_count"], reverse=True)
+        )
+
+        return sorted_dct
+
     def get_preguntas(self):
         with open(
             "examen_comportamiento_humano/lote_preguntas/p_a_2_0.json",
