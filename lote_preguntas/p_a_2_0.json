@@ -87,6 +87,123 @@
             "Falso"
         ]
     },
+    "¿Que hace el Electroencefalografia (EEG)?": {
+        "v": "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera externa\n sin incidir en el craneo",
+        "f": [
+            "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera interna\n incidiendo en el craneo",
+            "Emplea campos electromagneticos para comprobar la actividad electrica de las neuronas de la corteza cerebral",
+            "Mediante campos magneticos desde fuera de la cabeza se inducen actividades en regiones concretas de la corteza cerebral"
+        ]
+    },
+    "¿Como se representa Electroencefalografia?": {
+        "v": "EEG",
+        "f": [
+            "MEG",
+            "SNS",
+            "GNS"
+        ]
+    },
+    "¿Que hace el Magnetoencefalografia (MEG)?": {
+        "v": "Emplea campos magneticos para comprobar la actividad electrica de las neuronas de la corteza cerebral",
+        "f": [
+            "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera interna\n incidiendo en el craneo",
+            "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera externa\n sin incidir en el craneo",
+            "Mediante campos magneticos desde fuera de la cabeza se inducen actividades en regiones concretas de la corteza cerebral"
+        ]
+    },
+    "¿Como se representa Magnetoencefalografia?": {
+        "v": "MEG",
+        "f": [
+            "EEG",
+            "SNS",
+            "GNS"
+        ]
+    },
+    "¿Que hace el Estimulacion magnetica transcraneal?": {
+        "v": "Mediante campos magneticos desde fuera de la cabeza se inducen actividades en regiones concretas de la corteza cerebral",
+        "f": [
+            "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera externa\n sin incidir en el craneo",
+            "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera interna\n incidiendo en el craneo",
+            "Emplea campos electromagneticos para comprobar la actividad electrica de las neuronas de la corteza cerebral"
+        ]
+    },
+    "¿Como se representa Estimulacion magnetica transcraneal?": {
+        "v": "Ninguna de las anteriores",
+        "f": [
+            "MEG",
+            "SNS",
+            "GNS",
+            "EEG"
+        ]
+    },
+    "¿Que afirmacion no es correcta?": {
+        "f": [
+            "Si una persona presenta una lesion por ejemplo en la region cortical del lobulo occipital y ademas \n presenta problemas de vision, podemos concluir que hay una relacion",
+            "En animales, existen comites eticos cada vez mas restrictivos con respecto a provcar lesiones con \nfines cientificos",
+            "Cuando una cierta lesion produce daños la observacion de las consecuencias funcionales permite \nextraer conclusiones"
+        ],
+        "v": "Aunque el estudio en casos humanos es muy restrictivo, con la aprobacion de un comite etico y \nla autorizacion del paciente se permite el estudio de las consecuencias \nde una lesion prextistente"
+    },
+    "¿Que es la neuroimagen?": {
+        "v": "Es la observacion del funcionamiento del cerebro 'in vivo', es uno de los metodos mas modernos de estudio\ny permiten encontrar correlatos neuronales (ver que hace el cerebro)",
+        "f": [
+            "Es la observacion del funcionamiento del cerebro 'in vivo', es un metodo de investigaccion algo arcaico\ny permiten encontrar correlatos neuronales (ver que hace el cerebro)",
+            "Es la observacion del funcionamiento del cerebro 'in vivo', es uno de los metodos mas modernos de estudio\n aunque es algo invasivo, permite encontrar correlatos neuronales (ver que hace el cerebro)",
+            "Es la observacion del funcionamiento del cerebro 'in vivo', es uno de los metodos mas modernos de estudio\ny permiten encontrar interraciones neuronales (ver como esta hecho el cerebro)"
+        ]
+    },
+    "¿Que afirmacion es erronea?": {
+        "v": "Las lesiones para cada persona son todas iguales si se hicieron del mismo modo",
+        "f": [
+            "Las lesiones de cada persona que se hicieron bajo las mismas condiciones son todas diferentes",
+            "Los casos unicos aportn potencia predictiva, ya que con la estadistica y la neuroimagen permiten agrupar pacientes similares",
+            "Los estudios en humanos no son eticamente viables"
+        ]
+    },
+    "¿Que objetivo tienen las ciencias cognitivas?": {
+        "v": "Buscan plantear hipotesis sobre el funcionamiento del cerebro, la mente y la comportamiento",
+        "f": [
+            "Buscan plantear correcciones sobre el funcionamiento del cerebro, la mente y la comportamiento",
+            "Buscan plantear hipotesis sobre el funcionamiento del cerebro, las neuronas y la comportamiento",
+            "Buscan plantear hipotesis sobre el funcionamiento del cerebro, la mente y el razocinio"
+        ]
+    },
+    "¿Cual es la finalidad de las tecnicas anatomicas?": {
+        "v": "Todas son correctas",
+        "f": [
+            "Finalidad estructural",
+            "Buscan identificar y distinguir entre si las diferentes estructuras cerebrales",
+            "Estudiar el cerebro mediante microscopia y bioquimica"
+        ]
+    },
+    "¿Que afirmacion es correcta acerca de la Macroscopia?": {
+        "v": "Busca distinguir regiones relativamente grandes del cerebro",
+        "f": [
+            "Emplea instrumental como vibratomos",
+            "Se vale de tinciones para el estudio del cerebro",
+            "Usa tecnicas como 'La tincion de Nissl"
+        ]
+    },
+    "¿Que afirmacion es correcta acerca de la Microscopia?": {
+        "v": "Emplea instrumental como vibratomos",
+        "f": [
+            "Busca distinguir regiones relativamente grandes del cerebro",
+            "Permite distinguir tejidos gracias a los anticuerpos",
+            "Usa tecnicas como 'La tincion de Nissl"
+        ]
+    },
+    "¿Que afirmacion es correcta acerca de la Histoquimicas?": {
+        "v": "Usa tecnicas como 'La tincion de Nissl",
+        "f": [
+            "Busca distinguir regiones relativamente grandes del cerebro",
+            "Permite distinguir tejidos gracias a los anticuerpos",
+            "Emplea instrumental como vibratomos"
+        ]
+    },
+    "?": {
+        "v": "",
+        "f": []
+    },
     "Sobre la neurociencia 'nace para comprender la union fundamental entre el sistema nervioso y su funcionamiento y su necesidad de \ncognicion su enfoque es empirico y dualista'": {
         "v": "Falso",
         "f": [
@@ -1626,7 +1743,8 @@
             "Estudiar el comportamiento humano en diferentes culturas.",
             "Analizar los procesos evolutivos del cerebro.",
             "Entender las bases genéticas del comportamiento."
-        ]
+        ],
+        "e_count": 1
     },
     "¿Qué metáfora se utiliza para explicar la relación entre el sistema nervioso y la mente??-abbaa7fe-f9d4-43b1-8186-c6cb1383d71f": {
         "v": "La analogía computacional, donde el sistema nervioso es el hardware y la mente y el comportamiento son el software.",
@@ -2975,6 +3093,1212 @@
             "En la identificación de estructuras neuronales",
             "En la tinción y marcaje de tejidos",
             "En la distinción de tipos de tejidos"
+        ]
+    },
+    "¿Qué buscan distinguir las técnicas macroscópicas?": {
+        "v": "Regiones relativamente grandes del cerebro",
+        "f": [
+            "Tipos de tejidos celulares",
+            "Estructuras microscópicas",
+            "Prolongaciones nerviosas",
+            "Moléculas inmunológicas"
+        ]
+    },
+    "¿Qué buscan comprender las técnicas microscópicas?": {
+        "v": "La histología del sistema nervioso",
+        "f": [
+            "Las regiones grandes del cerebro",
+            "Las conexiones neuronales",
+            "La actividad eléctrica del cerebro",
+            "Las funciones cognitivas"
+        ]
+    },
+    "¿Qué permite observar la microscopía?": {
+        "v": "Muestras de tejido nervioso en secciones de nanómetros de grosor",
+        "f": [
+            "Regiones grandes del cerebro",
+            "La actividad eléctrica del cerebro",
+            "Las conexiones neuronales",
+            "Los procesos cognitivos"
+        ]
+    },
+    "¿Por qué es fundamental la tinción en técnicas microscópicas?": {
+        "v": "Para distinguir las distintas estructuras debido a su diferente forma de absorber pigmentos",
+        "f": [
+            "Para observar regiones grandes del cerebro",
+            "Para medir la actividad eléctrica del cerebro",
+            "Para analizar las conexiones neuronales",
+            "Para registrar los procesos cognitivos"
+        ]
+    },
+    "¿Qué permite distinguir las técnicas histoquímicas?": {
+        "v": "Los tipos de estructura presentes en una muestra de microscopía",
+        "f": [
+            "Las regiones grandes del cerebro",
+            "Las conexiones neuronales",
+            "La actividad eléctrica del cerebro",
+            "Los procesos cognitivos"
+        ]
+    },
+    "¿Cómo funcionan las técnicas histoquímicas?": {
+        "v": "Ciertos compuestos químicos se fijan de distinta manera a cada tipo de estructura microscópica",
+        "f": [
+            "Se utilizan anticuerpos fluorescentes",
+            "Se emplean secciones de nanómetros de grosor",
+            "Se analizan las regiones grandes del cerebro",
+            "Se miden las conexiones neuronales"
+        ]
+    },
+    "¿Qué tiñe de azul la tinción de Nissl?": {
+        "v": "El ARN presente en los ribosomas y retículos endoplasmáticos de la célula",
+        "f": [
+            "Las prolongaciones nerviosas",
+            "Las conexiones neuronales",
+            "La sustancia blanca",
+            "La actividad eléctrica"
+        ]
+    },
+    "¿Qué permite distinguir la tinción de Nissl?": {
+        "v": "El cuerpo principal de la célula de las prolongaciones nerviosas",
+        "f": [
+            "Las regiones grandes del cerebro",
+            "Los tipos de tejidos celulares",
+            "Las conexiones neuronales",
+            "La actividad eléctrica del cerebro"
+        ]
+    },
+    "¿Qué aprovechan las técnicas inmunohistoquímicas para distinguir tejidos?": {
+        "v": "El movimiento de los anticuerpos",
+        "f": [
+            "La absorción de pigmentos",
+            "Las secciones de nanómetros de grosor",
+            "Los compuestos químicos",
+            "Las conexiones neuronales"
+        ]
+    },
+    "¿Qué se incorpora a los anticuerpos en técnicas inmunohistoquímicas?": {
+        "v": "Moléculas fluorescentes",
+        "f": [
+            "Compuestos químicos",
+            "Pigmentos absorbentes",
+            "ARN de ribosomas",
+            "Nanómetros de grosor"
+        ]
+    },
+    "¿Qué se emite contra el cuerpo al tomar una radiografía?": {
+        "v": "Un haz de rayos X",
+        "f": [
+            "Un haz de rayos gamma",
+            "Un haz de luz visible",
+            "Ondas de ultrasonido",
+            "Campos magnéticos"
+        ]
+    },
+    "¿Desde dónde se emiten los rayos X?": {
+        "v": "Desde la corteza electrónica de los átomos de la materia",
+        "f": [
+            "Desde el núcleo de los átomos",
+            "Desde la superficie de la piel",
+            "Desde el campo magnético",
+            "Desde las células del cuerpo"
+        ]
+    },
+    "¿Qué presentan las distintas estructuras del cuerpo en una radiografía?": {
+        "v": "Un diferente grado de radio-opacidad",
+        "f": [
+            "Un diferente grado de transparencia",
+            "Un diferente color",
+            "Un diferente grosor",
+            "Un diferente brillo"
+        ]
+    },
+    "¿Qué permite distinguir unas estructuras de otras en una radiografía?": {
+        "v": "El diferente grado de radio-opacidad",
+        "f": [
+            "El diferente grosor de los tejidos",
+            "El diferente color de los tejidos",
+            "El diferente tamaño de las estructuras",
+            "El diferente brillo de las imágenes"
+        ]
+    },
+    "¿Qué técnica utiliza el mismo principio que la radiografía pero con un emisor y receptor de rayos X girando alrededor de la cabeza?": {
+        "v": "La Tomografía Axial Computarizada (TAC)",
+        "f": [
+            "La resonancia magnética (RM)",
+            "La tomografía por emisión de positrones (PET)",
+            "La ecografía",
+            "La radiografía simple"
+        ]
+    },
+    "¿Qué se obtienen mediante la Tomografía Axial Computarizada (TAC)?": {
+        "v": "Cortes o secciones del cerebro",
+        "f": [
+            "Imágenes tridimensionales del cerebro",
+            "Gráficos de actividad cerebral",
+            "Imágenes en tiempo real del cerebro",
+            "Mapas de flujo sanguíneo cerebral"
+        ]
+    },
+    "¿Qué convierte los datos de radio-opacidad en una imagen estructural en una TAC?": {
+        "v": "El modo de análisis",
+        "f": [
+            "El emisor de rayos X",
+            "El receptor de rayos X",
+            "La radiación emitida",
+            "El grosor de los cortes"
+        ]
+    },
+    "¿Qué representa cada matiz de gris en la imagen obtenida por una TAC?": {
+        "v": "Una estructura diferente",
+        "f": [
+            "Un nivel de actividad cerebral",
+            "Un tipo de tejido",
+            "Una región específica del cerebro",
+            "Un área de alta radio-opacidad"
+        ]
+    },
+    "¿Cuál es una de las ventajas de la TAC?": {
+        "v": "Obtención de imágenes en 2D y 3D del cerebro en el instante del TAC",
+        "f": [
+            "Alta resolución temporal",
+            "Baja invasividad",
+            "Alta precisión en tiempo real",
+            "Análisis de flujo sanguíneo"
+        ]
+    },
+    "¿Cuál es una de las desventajas de la TAC?": {
+        "v": "Menor resolución espacial y temporal que otras técnicas más modernas",
+        "f": [
+            "Alto coste",
+            "Acceso quirúrgico al interior del cráneo",
+            "Alta invasividad",
+            "Imposibilidad de obtener imágenes 3D"
+        ]
+    },
+    "¿En qué se basa la Resonancia Magnética Nuclear (RMN)?": {
+        "v": "En la abundancia de protones en el tejido nervioso humano",
+        "f": [
+            "En la absorción de energía por los electrones",
+            "En la densidad de neutrones en los tejidos",
+            "En la cantidad de átomos de carbono",
+            "En la conductividad eléctrica de los nervios"
+        ]
+    },
+    "¿Qué permite distinguir en la imagen final de la RMN las distintas estructuras?": {
+        "v": "La cantidad distinta de protones en cada tipo de estructura",
+        "f": [
+            "La densidad de electrones en los tejidos",
+            "La absorción de energía por los neutrones",
+            "La cantidad de átomos de oxígeno",
+            "La conductividad eléctrica de las células"
+        ]
+    },
+    "¿Qué sucede cuando un electroimán emite un pulso electromagnético en la RMN?": {
+        "v": "Los protones absorben la energía y alinean sus ejes de giro",
+        "f": [
+            "Los electrones emiten energía",
+            "Los neutrones se descomponen",
+            "Los protones se desintegran",
+            "Las moléculas se ionizan"
+        ]
+    },
+    "¿Qué ocurre cuando la estimulación cesa en la RMN?": {
+        "v": "Los protones devuelven al medio la energía que habían absorbido",
+        "f": [
+            "Los protones absorben más energía",
+            "Los neutrones se alinean",
+            "Los electrones se ionizan",
+            "Las moléculas se descomponen"
+        ]
+    },
+    "¿Qué capta la energía devuelta por los protones en la RMN?": {
+        "v": "Una serie de sensores",
+        "f": [
+            "Un detector de radiación",
+            "Un analizador químico",
+            "Un espectrómetro",
+            "Un osciloscopio"
+        ]
+    },
+    "¿Qué puede fabricar el escáner de la RMN a partir de la energía devuelta?": {
+        "v": "Un mapa de frecuencias de las radiaciones obtenidas",
+        "f": [
+            "Un gráfico de densidades",
+            "Una imagen térmica",
+            "Un esquema de conectividad",
+            "Un perfil químico"
+        ]
+    },
+    "¿Qué algoritmo computacional se menciona que se usa en la RMN para traducir el mapa de frecuencias a una imagen?": {
+        "v": "Transformadas de Fourier",
+        "f": [
+            "Transformadas de Laplace",
+            "Transformadas de Z",
+            "Transformadas de Wavelet",
+            "Transformadas de Radon"
+        ]
+    },
+    "¿Qué forma de energía utiliza la RMN?": {
+        "v": "Energía electromagnética",
+        "f": [
+            "Energía térmica",
+            "Energía mecánica",
+            "Energía luminosa",
+            "Energía sonora"
+        ]
+    },
+    "¿Qué convierte los datos de densidad electromagnética en una imagen estructural en la RMN?": {
+        "v": "El modo de análisis",
+        "f": [
+            "El escáner",
+            "El electroimán",
+            "Los sensores",
+            "El protones"
+        ]
+    },
+    "¿Cuál es una ventaja de la RMN?": {
+        "v": "Permite generar imágenes en 2D y 3D del cerebro",
+        "f": [
+            "Bajo coste",
+            "Alta resolución temporal",
+            "Invasividad mínima",
+            "Rápida adquisición de imágenes"
+        ]
+    },
+    "¿Qué persiguen captar las técnicas neurofisiológicas?": {
+        "v": "Correlatos fisiológicos de la actividad cognitiva",
+        "f": [
+            "Estructuras anatómicas del cerebro",
+            "Imágenes tridimensionales del cerebro",
+            "Funcionalidad de los órganos internos",
+            "Cambios en la composición química del cerebro"
+        ]
+    },
+    "¿Qué registros utilizan las técnicas neurofisiológicas?": {
+        "v": "La actividad eléctrica del sistema nervioso",
+        "f": [
+            "La actividad química del cerebro",
+            "Las imágenes estructurales del cerebro",
+            "La radio-opacidad de los tejidos",
+            "La resonancia magnética"
+        ]
+    },
+    "¿Qué se mide en las técnicas neurofisiológicas?": {
+        "v": "Cambios de potencial eléctrico de membrana y la tasa de disparo de cada neurona individual",
+        "f": [
+            "La absorción de pigmentos",
+            "El grosor de los tejidos",
+            "La densidad de la materia gris",
+            "El volumen del cerebro"
+        ]
+    },
+    "¿Cuál es una desventaja de las técnicas neurofisiológicas?": {
+        "v": "La invasividad ya que es necesario acceder al cráneo",
+        "f": [
+            "La baja resolución temporal",
+            "El alto coste",
+            "La incomodidad del escáner",
+            "La dificultad para obtener imágenes 3D"
+        ]
+    },
+    "¿Qué podemos observar al instante con la estimulación eléctrica de ciertas áreas del cerebro?": {
+        "v": "Qué efecto conductual comporta dicha estimulación",
+        "f": [
+            "La composición química del cerebro",
+            "La radio-opacidad de los tejidos",
+            "La densidad de la materia blanca",
+            "El volumen de las estructuras cerebrales"
+        ]
+    },
+    "¿Para qué usan algunos neurocirujanos la estimulación eléctrica del cerebro?": {
+        "v": "Para detectar en qué área cerebral es posible intervenir produciendo el menor daño funcional posible",
+        "f": [
+            "Para medir la actividad química del cerebro",
+            "Para obtener imágenes tridimensionales del cerebro",
+            "Para analizar la densidad de la materia gris",
+            "Para observar el grosor de los tejidos cerebrales"
+        ]
+    },
+    "¿Por qué es posible intervenir en el cerebro humano sin causar dolor?": {
+        "v": "Porque el cerebro no dispone de receptores para el dolor",
+        "f": [
+            "Porque la anestesia es muy efectiva",
+            "Porque los nervios son insensibles",
+            "Porque el cráneo protege el cerebro",
+            "Porque las técnicas son no invasivas"
+        ]
+    },
+    "¿Qué técnicas se utilizan para la estimulación del sistema nervioso en neurofisiología?": {
+        "v": "La estimulación eléctrica o magnética",
+        "f": [
+            "La estimulación química",
+            "La estimulación térmica",
+            "La estimulación por ultrasonido",
+            "La estimulación óptica"
+        ]
+    },
+    "¿Para qué fines son útiles las mediciones de potencial eléctrico de membrana y tasa de disparo neuronal?": {
+        "v": "Fines científicos y clínicos",
+        "f": [
+            "Fines educativos",
+            "Fines recreativos",
+            "Fines terapéuticos",
+            "Fines comerciales"
+        ]
+    },
+    "¿Qué permiten observar las técnicas neurofisiológicas al instante?": {
+        "v": "El efecto conductual de la estimulación eléctrica",
+        "f": [
+            "La estructura anatómica del cerebro",
+            "La composición química del cerebro",
+            "La radio-opacidad de los tejidos",
+            "El volumen de las estructuras cerebrales"
+        ]
+    },
+    "¿Qué busca observar la psicofisiología?": {
+        "v": "Los efectos de los procesos cognitivos y afectivos sobre el organismo",
+        "f": [
+            "Las estructuras neuronales del cerebro",
+            "Las conexiones sinápticas entre neuronas",
+            "Los procesos bioquímicos de las células",
+            "La actividad genética de los tejidos"
+        ]
+    },
+    "¿Cómo se pueden medir los efectos en psicofisiología?": {
+        "v": "De manera periférica en estructuras corporales externas",
+        "f": [
+            "Mediante resonancia magnética",
+            "Con técnicas de neuroimagen",
+            "A través de estudios histológicos",
+            "Mediante análisis de sangre"
+        ]
+    },
+    "¿Qué mide la Respuesta de Conductancia de la Piel (SCR)?": {
+        "v": "La actividad eléctrica de la piel",
+        "f": [
+            "La temperatura de la piel",
+            "El nivel de oxigenación de la sangre",
+            "La tasa cardíaca",
+            "La actividad muscular"
+        ]
+    },
+    "¿Con qué correlaciona la actividad eléctrica de la piel?": {
+        "v": "Con las diferentes experiencias psicológicas y emociones",
+        "f": [
+            "Con la temperatura corporal",
+            "Con la actividad cerebral",
+            "Con el ritmo respiratorio",
+            "Con los niveles hormonales"
+        ]
+    },
+    "¿Qué suele ocurrir con la temperatura de la piel durante emociones intensas?": {
+        "v": "Disminuye",
+        "f": [
+            "Aumenta",
+            "Permanece constante",
+            "Fluctúa aleatoriamente",
+            "Se redistribuye uniformemente"
+        ]
+    },
+    "¿Qué correlaciona con una temperatura corporal más homogénea en las extremidades?": {
+        "v": "Estados de tranquilidad y concentración",
+        "f": [
+            "Emociones intensas",
+            "Niveles altos de estrés",
+            "Activación física intensa",
+            "Falta de oxigenación"
+        ]
+    },
+    "¿Cómo se mide el nivel de oxigenación de la sangre en psicofisiología?": {
+        "v": "Mediante pulsímetros o fotopletismógrafos",
+        "f": [
+            "Con electroencefalogramas",
+            "Con resonancia magnética funcional",
+            "A través de tomografía axial computarizada",
+            "Con termómetros digitales"
+        ]
+    },
+    "¿Qué indica el nivel de oxigenación de la sangre?": {
+        "v": "La actividad cognitiva y emocional del sujeto",
+        "f": [
+            "La actividad física del sujeto",
+            "La temperatura corporal",
+            "El nivel de sudoración",
+            "El estado de sueño del sujeto"
+        ]
+    },
+    "¿Cómo se mide la tasa cardíaca en psicofisiología?": {
+        "v": "Mediante electrocardiograma (ECG o EKG)",
+        "f": [
+            "Con un pulsímetro",
+            "Mediante resonancia magnética",
+            "Con un fotopletismógrafo",
+            "Mediante termografía"
+        ]
+    },
+    "¿Qué sucede con la tasa cardíaca al experimentar emociones activantes?": {
+        "v": "Se eleva",
+        "f": [
+            "Disminuye",
+            "Permanece constante",
+            "Fluctúa irregularmente",
+            "Desaparece temporalmente"
+        ]
+    },
+    "¿Qué mide la Variabilidad del Ritmo Cardíaco (HRV)?": {
+        "v": "La capacidad del sistema nervioso de inducir cambios en la tasa cardíaca",
+        "f": [
+            "La actividad eléctrica del cerebro",
+            "La temperatura corporal",
+            "El nivel de sudoración",
+            "La actividad muscular"
+        ]
+    },
+    "¿Con qué correlaciona una mayor HRV en las personas?": {
+        "v": "Con una mayor capacidad de gestionar recursos mentales y emocionales",
+        "f": [
+            "Con niveles altos de estrés",
+            "Con una menor tasa cardíaca",
+            "Con una mayor actividad física",
+            "Con una mayor temperatura corporal"
+        ]
+    },
+    "¿Cómo se mide la actividad muscular en psicofisiología?": {
+        "v": "Mediante la técnica de la electromiografía (EMG)",
+        "f": [
+            "Con electroencefalogramas",
+            "A través de resonancia magnética",
+            "Mediante tomografía axial computarizada",
+            "Con pulsímetros"
+        ]
+    },
+    "¿Qué correlaciona con una mayor actividad muscular según la psicofisiología?": {
+        "v": "Las emociones de estrés y ansiedad",
+        "f": [
+            "Los estados de tranquilidad",
+            "La actividad cognitiva baja",
+            "Los niveles bajos de oxigenación",
+            "La temperatura corporal alta"
+        ]
+    },
+    "¿Qué sucede con la tensión muscular basal en situaciones de reposo y alivio emocional?": {
+        "v": "Es siempre medible una menor cantidad de tensión muscular",
+        "f": [
+            "Aumenta significativamente",
+            "Permanece constante",
+            "Se vuelve inexistente",
+            "Fluctúa de manera impredecible"
+        ]
+    },
+    "¿Qué mide un sensor de actividad muscular?": {
+        "v": "La tensión muscular basal",
+        "f": [
+            "La actividad cerebral",
+            "La frecuencia cardíaca",
+            "La presión arterial",
+            "La temperatura corporal"
+        ]
+    },
+    "¿Con qué tipo de energía trabaja la psicofisiología?": {
+        "v": "Energía eléctrica o térmica emitida por ciertas partes del cuerpo",
+        "f": [
+            "Energía luminosa emitida por los ojos",
+            "Energía mecánica generada por el movimiento",
+            "Energía química producida por el metabolismo",
+            "Energía magnética emitida por el cerebro"
+        ]
+    },
+    "¿Qué correlaciona la energía eléctrica o térmica con la psicofisiología?": {
+        "v": "La experimentación de diversos estados psicológicos",
+        "f": [
+            "La actividad física intensa",
+            "Los cambios en la presión arterial",
+            "La variación en la respiración",
+            "La producción de hormonas"
+        ]
+    },
+    "¿Cuál es el modo de análisis en psicofisiología?": {
+        "v": "Registro de actividad eléctrica o térmica",
+        "f": [
+            "Análisis de imágenes cerebrales",
+            "Medición de la presión arterial",
+            "Observación de movimientos oculares",
+            "Detección de cambios hormonales"
+        ]
+    },
+    "¿Qué resultado se obtiene del análisis en psicofisiología?": {
+        "v": "Curvas de actividad eléctrica o térmica en el tiempo",
+        "f": [
+            "Imágenes de resonancia magnética",
+            "Gráficos de frecuencia cardíaca",
+            "Diagramas de flujo sanguíneo",
+            "Mapas de actividad cerebral"
+        ]
+    },
+    "¿Con qué se correlacionan las curvas de actividad eléctrica o térmica en psicofisiología?": {
+        "v": "Con la línea temporal de los estados psicológicos experimentados",
+        "f": [
+            "Con los cambios en la presión arterial",
+            "Con la actividad muscular basal",
+            "Con la variación en la temperatura corporal",
+            "Con los patrones de respiración"
+        ]
+    },
+    "¿Cuál es una de las ventajas de la psicofisiología?": {
+        "v": "Coste",
+        "f": [
+            "Complejidad",
+            "Tiempo de análisis",
+            "Invasividad",
+            "Precisión espacial"
+        ]
+    },
+    "¿Cuál es otra ventaja de la psicofisiología?": {
+        "v": "Resolución temporal",
+        "f": [
+            "Alta invasividad",
+            "Alto coste",
+            "Montaje metódico",
+            "Difícil interpretación"
+        ]
+    },
+    "¿Cuál es un inconveniente de la psicofisiología?": {
+        "v": "Necesidad de un metódico montaje",
+        "f": [
+            "Baja resolución temporal",
+            "Alto coste",
+            "Invasividad",
+            "Tiempo prolongado de análisis"
+        ]
+    },
+    "¿Qué permiten estudiar las técnicas funcionales?": {
+        "v": "El funcionamiento del cerebro in vivo",
+        "f": [
+            "La estructura del cerebro",
+            "La anatomía del cerebro post mortem",
+            "Las conexiones neuronales",
+            "El desarrollo embrionario del cerebro"
+        ]
+    },
+    "¿Qué se observa con las técnicas funcionales?": {
+        "v": "Los correlatos neuronales",
+        "f": [
+            "Las estructuras cerebrales",
+            "Las conexiones sinápticas",
+            "Los tejidos celulares",
+            "Las regiones subcorticales"
+        ]
+    },
+    "¿Qué mide la resolución espacial en técnicas funcionales?": {
+        "v": "La precisión en la localización de la actividad cerebral",
+        "f": [
+            "La duración de la actividad cerebral",
+            "La intensidad de la actividad cerebral",
+            "La frecuencia de los impulsos nerviosos",
+            "La amplitud de las ondas cerebrales"
+        ]
+    },
+    "¿Qué mide la resolución temporal en técnicas funcionales?": {
+        "v": "La precisión en el instante de tiempo de la actividad cerebral",
+        "f": [
+            "La localización de la actividad cerebral",
+            "La duración de la actividad cerebral",
+            "La intensidad de la actividad cerebral",
+            "La frecuencia de los impulsos nerviosos"
+        ]
+    },
+    "¿Qué relación existe entre la resolución espacial y temporal en técnicas funcionales?": {
+        "v": "Cuanto mejor es la resolución espacial, peor resulta la temporal, y viceversa",
+        "f": [
+            "Cuanto mejor es la resolución espacial, mejor resulta la temporal",
+            "No existe relación entre ambas resoluciones",
+            "Ambas resoluciones siempre son iguales",
+            "Cuanto peor es la resolución espacial, peor resulta la temporal"
+        ]
+    },
+    "¿Cómo puede superarse la limitación entre resolución espacial y temporal?": {
+        "v": "Combinando diversas técnicas en un mismo estudio",
+        "f": [
+            "Aumentando el número de electrodos",
+            "Mejorando la tecnología de los sensores",
+            "Utilizando modelos animales",
+            "Reduciendo el tiempo de exposición"
+        ]
+    },
+    "¿Qué utiliza la Electroencefalografía (EEG) para registrar la actividad cerebral?": {
+        "v": "Electrodos situados sobre la superficie del cuero cabelludo",
+        "f": [
+            "Campos magnéticos",
+            "Rayos X",
+            "Ultrasonidos",
+            "Microelectrodos implantados"
+        ]
+    },
+    "¿Qué tipo de actividad cerebral capta la EEG?": {
+        "v": "Actividad postsináptica de grandes poblaciones neuronales cercanas al exterior",
+        "f": [
+            "Actividad presináptica de pequeñas poblaciones neuronales",
+            "Actividad eléctrica de las conexiones sinápticas",
+            "Actividad química de las neuronas",
+            "Actividad metabólica del cerebro"
+        ]
+    },
+    "¿Qué resulta de vital importancia para las neurociencias en la técnica de EEG?": {
+        "v": "Comprender los correlatos neuronales de la cognición, emociones y comportamiento humano",
+        "f": [
+            "Analizar las estructuras cerebrales post mortem",
+            "Estudiar la histología del cerebro",
+            "Observar las conexiones neuronales en modelos animales",
+            "Medir la actividad química del cerebro"
+        ]
+    },
+    "¿Qué se obtiene como resultado de la técnica de EEG?": {
+        "v": "Una curva de actividad eléctrica por cada electrodo utilizado",
+        "f": [
+            "Una imagen estructural del cerebro",
+            "Un mapa de conexiones neuronales",
+            "Un gráfico de actividad química",
+            "Un análisis de tejido cerebral"
+        ]
+    },
+    "¿Qué representan las curvas obtenidas en la EEG?": {
+        "v": "El nivel de actividad que cada zona de la corteza cerebral ha experimentado en cada instante de tiempo",
+        "f": [
+            "La estructura de las regiones cerebrales",
+            "La intensidad de los impulsos nerviosos",
+            "La duración de la actividad sináptica",
+            "La frecuencia de las ondas cerebrales"
+        ]
+    },
+    "¿Qué se aplica a la señal bruta de entrada en la técnica de EEG?": {
+        "v": "Un filtrado y un suavizado previo",
+        "f": [
+            "Un análisis espectral",
+            "Una amplificación de la señal",
+            "Un ajuste de frecuencia",
+            "Un mapeo tridimensional"
+        ]
+    },
+    "¿Qué tipo de procesos psicológicos se pueden observar con técnicas funcionales?": {
+        "v": "Cognitivos y afectivos",
+        "f": [
+            "Estructurales y moleculares",
+            "Histológicos y anatómicos",
+            "Metabólicos y químicos",
+            "Post mortem y presinápticos"
+        ]
+    },
+    "¿Qué implica el término 'in vivo' en el contexto de técnicas funcionales?": {
+        "v": "Estudio del cerebro mientras la persona está viva",
+        "f": [
+            "Estudio del cerebro post mortem",
+            "Análisis de tejido cerebral en laboratorio",
+            "Medición de actividad cerebral en animales",
+            "Registro de actividad sináptica en muestras"
+        ]
+    },
+    "¿Qué limita la captación de la EEG?": {
+        "v": "Solo capta la actividad postsináptica de grandes poblaciones neuronales especialmente cercanas al exterior",
+        "f": [
+            "Solo capta la actividad presináptica de pequeñas poblaciones neuronales",
+            "Solo capta la actividad eléctrica de las conexiones sinápticas",
+            "Solo capta la actividad química de las neuronas",
+            "Solo capta la actividad metabólica del cerebro"
+        ]
+    },
+    "¿Cómo es la resolución temporal en la Electroencefalografía (EEG)?": {
+        "v": "Especialmente buena",
+        "f": [
+            "Especialmente mala",
+            "Moderada",
+            "Indefinida",
+            "Variable"
+        ]
+    },
+    "¿Qué se obtiene con la EEG que está asociado a sucesos cognitivos o estímulos sensoriales?": {
+        "v": "Potenciales evocados (PE)",
+        "f": [
+            "Imágenes estructurales",
+            "Mapas de conectividad",
+            "Gráficos de flujo sanguíneo",
+            "Análisis químicos"
+        ]
+    },
+    "¿Qué refleja la amplitud en los potenciales evocados (PE)?": {
+        "v": "La cuantía de actividad cerebral",
+        "f": [
+            "La localización de la actividad cerebral",
+            "La frecuencia de los impulsos nerviosos",
+            "El tipo de estímulo sensorial",
+            "El tiempo de respuesta"
+        ]
+    },
+    "¿Qué refleja la latencia en los potenciales evocados (PE)?": {
+        "v": "El instante del tiempo en el que ha tenido lugar cada PE",
+        "f": [
+            "La magnitud del potencial",
+            "La localización de la actividad cerebral",
+            "La intensidad del estímulo",
+            "La duración del estímulo"
+        ]
+    },
+    "¿Qué tipo de energía utiliza la EEG?": {
+        "v": "Potencial eléctrico procedente de la actividad de grandes poblaciones de neuronas de la corteza cerebral",
+        "f": [
+            "Campos magnéticos",
+            "Ondas de ultrasonido",
+            "Radiación electromagnética",
+            "Flujo sanguíneo cerebral"
+        ]
+    },
+    "¿Cuál es el modo de análisis en la EEG?": {
+        "v": "Registro de la actividad eléctrica, filtrado y suavizado",
+        "f": [
+            "Registro de la actividad magnética, amplificación y análisis",
+            "Mapeo tridimensional de la actividad cerebral",
+            "Análisis espectral de la señal",
+            "Medición de la actividad química"
+        ]
+    },
+    "¿Qué resultado se obtiene de la EEG?": {
+        "v": "Curvas de actividad eléctrica en el tiempo",
+        "f": [
+            "Imágenes estructurales del cerebro",
+            "Mapas de conectividad neuronal",
+            "Gráficos de flujo sanguíneo",
+            "Análisis químicos del cerebro"
+        ]
+    },
+    "¿Cuáles son las ventajas de la EEG?": {
+        "v": "Coste y resolución temporal",
+        "f": [
+            "Resolución espacial y precisión",
+            "No invasividad y alta definición",
+            "Alta precisión y tiempo real",
+            "Bajo coste y facilidad de uso"
+        ]
+    },
+    "¿Cuál es una desventaja de la EEG?": {
+        "v": "Resolución espacial",
+        "f": [
+            "Coste",
+            "Invasividad",
+            "Complejidad",
+            "Lentitud"
+        ]
+    },
+    "¿En qué se basa la Magnetoencefalografía (MEG) para detectar la actividad neuronal?": {
+        "v": "En la detección de los campos magnéticos producidos por las neuronas",
+        "f": [
+            "En la detección de la actividad eléctrica presináptica",
+            "En la medición del flujo sanguíneo",
+            "En la captura de imágenes estructurales",
+            "En la resonancia magnética nuclear"
+        ]
+    },
+    "¿Qué tipo de energía utiliza la MEG?": {
+        "v": "Campos magnéticos procedentes de la actividad de grandes poblaciones de neuronas de la corteza cerebral",
+        "f": [
+            "Potencial eléctrico de las sinapsis neuronales",
+            "Ondas de ultrasonido",
+            "Radiación electromagnética",
+            "Flujo sanguíneo cerebral"
+        ]
+    },
+    "¿Cuál es el modo de análisis en la MEG?": {
+        "v": "Registro de la actividad magnética, filtrado y suavizado",
+        "f": [
+            "Registro de la actividad eléctrica, amplificación y análisis",
+            "Mapeo tridimensional de la actividad cerebral",
+            "Análisis espectral de la señal",
+            "Medición de la actividad química"
+        ]
+    },
+    "¿Qué resultado se obtiene de la MEG?": {
+        "v": "Curvas de actividad magnética en el tiempo",
+        "f": [
+            "Imágenes estructurales del cerebro",
+            "Mapas de conectividad neuronal",
+            "Gráficos de flujo sanguíneo",
+            "Análisis químicos del cerebro"
+        ]
+    },
+    "¿Cuáles son las ventajas de la MEG?": {
+        "v": "Resolución temporal",
+        "f": [
+            "Coste",
+            "Resolución espacial",
+            "Invasividad",
+            "Complejidad"
+        ]
+    },
+    "¿Cuál es una desventaja de la MEG?": {
+        "v": "Coste",
+        "f": [
+            "Resolución temporal",
+            "Precisión",
+            "Facilidad de uso",
+            "No invasividad"
+        ]
+    },
+    "¿Qué sustancia consumen las neuronas en mayor medida cuando aumentan su actividad?": {
+        "v": "oxígeno",
+        "f": [
+            "glucosa",
+            "lípidos",
+            "proteínas",
+            "ácidos nucleicos"
+        ]
+    },
+    "¿Qué técnica utiliza la RMf para detectar variaciones en el consumo de oxígeno?": {
+        "v": "técnica BOLD",
+        "f": [
+            "técnica T1",
+            "técnica T2",
+            "técnica FLAIR",
+            "técnica DTI"
+        ]
+    },
+    "¿Qué forma de energía utiliza la RMf?": {
+        "v": "energía electromagnética",
+        "f": [
+            "energía térmica",
+            "energía cinética",
+            "energía potencial",
+            "energía solar"
+        ]
+    },
+    "¿Qué convierte la RMf en una imagen funcional?": {
+        "v": "datos de densidad electromagnética",
+        "f": [
+            "datos de densidad térmica",
+            "datos de densidad acústica",
+            "datos de densidad luminosa",
+            "datos de densidad cinética"
+        ]
+    },
+    "¿Qué zonas del cerebro se iluminan más en una imagen funcional de RMf?": {
+        "v": "zonas más activas",
+        "f": [
+            "zonas menos activas",
+            "zonas aleatorias",
+            "zonas dañadas",
+            "zonas inactivas"
+        ]
+    },
+    "¿Qué tipo de imágenes puede generar la RMf?": {
+        "v": "imágenes en 2D y 3D",
+        "f": [
+            "imágenes en 1D",
+            "imágenes en 4D",
+            "imágenes en color",
+            "imágenes en blanco y negro"
+        ]
+    },
+    "¿Qué permite observar la RMf además de generar imágenes?": {
+        "v": "la funcionalidad cerebral",
+        "f": [
+            "la estructura ósea",
+            "la temperatura corporal",
+            "la presión arterial",
+            "la densidad muscular"
+        ]
+    },
+    "¿Cuál es una de las desventajas de la RMf?": {
+        "v": "el coste",
+        "f": [
+            "la facilidad de uso",
+            "la velocidad",
+            "la precisión",
+            "la disponibilidad"
+        ]
+    },
+    "¿Cuál es otra desventaja de la RMf?": {
+        "v": "la resolución espacial",
+        "f": [
+            "la resolución temporal",
+            "la invasividad",
+            "la accesibilidad",
+            "la portabilidad"
+        ]
+    },
+    "¿Qué identifica la RMf durante la realización de procesos mentales?": {
+        "v": "correlatos neuronales de las funciones mentales y afectivas",
+        "f": [
+            "el flujo sanguíneo",
+            "la actividad muscular",
+            "la temperatura cerebral",
+            "la presión intracraneal"
+        ]
+    },
+    "¿Qué fenómeno se utiliza en la técnica de RMf?": {
+        "v": "resonancia",
+        "f": [
+            "difracción",
+            "reflexión",
+            "refracción",
+            "dispersión"
+        ]
+    },
+    "¿Qué implica un aumento en la actividad cerebral?": {
+        "v": "un incremento de la actividad metabólica",
+        "f": [
+            "una disminución de la actividad metabólica",
+            "un cambio en la temperatura corporal",
+            "una reducción del flujo sanguíneo",
+            "un aumento de la presión arterial"
+        ]
+    },
+    "¿Qué tipo de imagen resulta de la RMf?": {
+        "v": "una imagen funcional",
+        "f": [
+            "una imagen estructural",
+            "una imagen estática",
+            "una imagen diagnóstica",
+            "una imagen térmica"
+        ]
+    },
+    "¿Qué ventaja tiene la RMf respecto a la generación de imágenes?": {
+        "v": "permite observar la funcionalidad",
+        "f": [
+            "permite medir la temperatura",
+            "permite diagnosticar enfermedades",
+            "permite visualizar huesos",
+            "permite evaluar el ritmo cardíaco"
+        ]
+    },
+    "¿Qué técnica antecede a la RMf según el texto?": {
+        "v": "Resonancia Magnética Nuclear (RMN)",
+        "f": [
+            "Tomografía Computarizada (TC)",
+            "Ultrasonido (US)",
+            "Electroencefalograma (EEG)",
+            "Radiografía (RX)"
+        ]
+    },
+    "¿Cuál es el fundamento de la RMf para detectar actividad cerebral?": {
+        "v": "consumo de oxígeno",
+        "f": [
+            "flujo sanguíneo",
+            "actividad eléctrica",
+            "temperatura cerebral",
+            "presión intracraneal"
+        ]
+    },
+    "¿Qué tipo de proceso mental permite observar la RMf?": {
+        "v": "procesos mentales y afectivos",
+        "f": [
+            "procesos físicos",
+            "procesos mecánicos",
+            "procesos químicos",
+            "procesos térmicos"
+        ]
+    },
+    "¿Qué mide la técnica BOLD utilizada en la RMf?": {
+        "v": "variaciones en el consumo de oxígeno",
+        "f": [
+            "variaciones en el flujo sanguíneo",
+            "variaciones en la temperatura",
+            "variaciones en la presión",
+            "variaciones en la conductividad eléctrica"
+        ]
+    },
+    "¿Qué ventaja tiene la RMf en términos de imagen?": {
+        "v": "pueden iluminarse más las zonas del cerebro más activas",
+        "f": [
+            "pueden observarse mejor los huesos",
+            "pueden medirse mejor los niveles de glucosa",
+            "pueden detectarse mejor los tumores",
+            "pueden visualizarse mejor las arterias"
+        ]
+    },
+    "¿Qué fenómeno físico aprovecha la RMf para su funcionamiento?": {
+        "v": "resonancia",
+        "f": [
+            "reflexión",
+            "refracción",
+            "difracción",
+            "absorción"
+        ]
+    },
+    "¿Qué técnica permite estudiar la comunicación entre las distintas áreas del cerebro?": {
+        "v": "Tractografía por Tensor de Difusión (TD)",
+        "f": [
+            "Resonancia Magnética funcional (RMf)",
+            "Tomografía por Emisión de Positrones (PET)",
+            "Electroencefalograma (EEG)",
+            "Tomografía Computarizada (TC)"
+        ]
+    },
+    "¿Qué estudia la Tractografía por Tensor de Difusión?": {
+        "v": "el estado de movimiento de partículas en el sistema nervioso",
+        "f": [
+            "el flujo sanguíneo en el cerebro",
+            "la actividad eléctrica del cerebro",
+            "la presión intracraneal",
+            "la temperatura cerebral"
+        ]
+    },
+    "¿Qué se observa en las zonas donde las partículas pueden moverse sin grandes limitaciones?": {
+        "v": "isotropía",
+        "f": [
+            "anisotropía",
+            "homeostasis",
+            "difusión",
+            "conductividad"
+        ]
+    },
+    "¿Qué término describe el movimiento de partículas en direcciones específicas debido a la estructura del entorno?": {
+        "v": "anisotropía",
+        "f": [
+            "isotropía",
+            "equilibrio",
+            "homogeneidad",
+            "dispersión"
+        ]
+    },
+    "¿Qué es clave en las vías de comunicación nerviosa que se desean estudiar?": {
+        "v": "la anisotropía",
+        "f": [
+            "la isotropía",
+            "la difusión",
+            "la conductividad",
+            "la homeostasis"
+        ]
+    },
+    "¿Qué permite rastrear y trazar el Tensor de Difusión (TD)?": {
+        "v": "las vías de conexión neuronal",
+        "f": [
+            "las áreas activas del cerebro",
+            "las regiones dañadas del cerebro",
+            "las capas de la corteza cerebral",
+            "los niveles de glucosa en el cerebro"
+        ]
+    },
+    "¿Qué imagen se obtiene mediante la técnica del Tensor de Difusión?": {
+        "v": "la forma de los tractos de conexión neuronal",
+        "f": [
+            "la actividad eléctrica del cerebro",
+            "la temperatura cerebral",
+            "la presión intracraneal",
+            "el flujo sanguíneo en el cerebro"
+        ]
+    },
+    "¿Qué interés ha crecido entre los neurocientíficos, además de la estructura y funcionalidad del cerebro?": {
+        "v": "cómo se comunican las áreas del cerebro por vías nerviosas",
+        "f": [
+            "la temperatura cerebral",
+            "la presión intracraneal",
+            "la actividad hormonal",
+            "la estructura ósea del cráneo"
+        ]
+    },
+    "¿Qué términos describen las zonas donde las partículas se mueven libremente y las zonas donde el movimiento es específico?": {
+        "v": "isotropía y anisotropía",
+        "f": [
+            "homeostasis y desequilibrio",
+            "difusión y absorción",
+            "conductividad y resistencia",
+            "fluidez y viscosidad"
+        ]
+    },
+    "¿Qué tipo de partículas estudia la Tractografía por Tensor de Difusión?": {
+        "v": "partículas en el sistema nervioso",
+        "f": [
+            "partículas en la sangre",
+            "partículas en los músculos",
+            "partículas en los huesos",
+            "partículas en el aire"
+        ]
+    },
+    "¿Qué permite obtener la técnica matemática del Tensor de Difusión (TD)?": {
+        "v": "una imagen de las vías de conexión neuronal",
+        "f": [
+            "una imagen de la actividad cerebral",
+            "una imagen de la estructura ósea",
+            "una imagen de la presión intracraneal",
+            "una imagen de la temperatura cerebral"
+        ]
+    },
+    "¿Qué es necesario combinar para estudiar cómo se comunican las áreas del cerebro?": {
+        "v": "estructura y funcionalidad del cerebro",
+        "f": [
+            "temperatura y presión cerebral",
+            "actividad hormonal y flujo sanguíneo",
+            "estructura ósea y actividad muscular",
+            "funcionalidad cardíaca y actividad eléctrica"
+        ]
+    },
+    "¿Qué interés ha crecido en el campo de la neurociencia?": {
+        "v": "la comunicación entre áreas del cerebro",
+        "f": [
+            "la estructura de los huesos",
+            "la temperatura corporal",
+            "la presión arterial",
+            "la composición química del cerebro"
+        ]
+    },
+    "¿Qué describe la anisotropía en el contexto del sistema nervioso?": {
+        "v": "el movimiento específico de partículas en direcciones determinadas",
+        "f": [
+            "el movimiento aleatorio de partículas",
+            "la ausencia de movimiento de partículas",
+            "el equilibrio térmico de las partículas",
+            "la dispersión uniforme de partículas"
+        ]
+    },
+    "¿Qué término se usa para describir el movimiento de partículas sin limitaciones en el sistema nervioso?": {
+        "v": "isotropía",
+        "f": [
+            "anisotropía",
+            "homeostasis",
+            "difusión",
+            "conductividad"
+        ]
+    },
+    "¿Qué técnica combina la estructura y funcionalidad para estudiar las vías nerviosas?": {
+        "v": "Tractografía por Tensor de Difusión (TD)",
+        "f": [
+            "Resonancia Magnética funcional (RMf)",
+            "Tomografía por Emisión de Positrones (PET)",
+            "Electroencefalograma (EEG)",
+            "Tomografía Computarizada (TC)"
+        ]
+    },
+    "¿En qué se basa la Tractografía por Tensor de Difusión para estudiar el sistema nervioso?": {
+        "v": "estado de movimiento de partículas",
+        "f": [
+            "estado de carga eléctrica",
+            "estado de presión",
+            "estado de temperatura",
+            "estado de absorción"
+        ]
+    },
+    "¿Qué se rastrea y traza mediante la técnica del Tensor de Difusión?": {
+        "v": "las vías de conexión neuronal",
+        "f": [
+            "las áreas activas del cerebro",
+            "las capas de la corteza cerebral",
+            "los niveles de glucosa en el cerebro",
+            "las regiones dañadas del cerebro"
+        ]
+    },
+    "¿Qué permite estudiar la Tractografía por Tensor de Difusión (TD)?": {
+        "v": "la comunicación entre áreas del cerebro",
+        "f": [
+            "la actividad hormonal",
+            "la presión intracraneal",
+            "la estructura ósea del cráneo",
+            "la temperatura cerebral"
+        ]
+    },
+    "¿Qué técnica es clave para estudiar la anisotropía en el sistema nervioso?": {
+        "v": "Tractografía por Tensor de Difusión (TD)",
+        "f": [
+            "Resonancia Magnética funcional (RMf)",
+            "Tomografía por Emisión de Positrones (PET)",
+            "Electroencefalograma (EEG)",
+            "Tomografía Computarizada (TC)"
         ]
     }
 }
