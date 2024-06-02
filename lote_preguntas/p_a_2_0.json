@@ -690,7 +690,7 @@
             "La naturaleza de la inteligencia artificial"
         ],
         "e_count": 1,
-        "c_count": 2
+        "c_count": 3
     },
     "¿Cuál es uno de los objetivos principales de la Neurociencia Cognitiva según el texto?": {
         "v": "Servir de puente entre el estudio de procesos mentales y el funcionamiento del cerebro y sistema nervioso",
@@ -979,7 +979,7 @@
             "Electroencefalografía (EEG)"
         ],
         "e_count": 1,
-        "c_count": 1
+        "c_count": 2
     },
     "¿Cuál es el propósito principal del sistema nervioso somático?-9d09baef-fd10-41bb-bd5e-616336d90929": {
         "v": "Controlar funciones voluntarias",
@@ -1424,7 +1424,7 @@
             "Evitar la observación detallada."
         ],
         "e_count": 1,
-        "c_count": 1
+        "c_count": 2
     },
     "¿Qué tipo de investigación implica la medición formal de fenómenos?-79699c61-8a49-468c-929c-73e03e590ad2": {
         "v": "Descriptiva.",
@@ -1613,7 +1613,8 @@
             "MEG (Magnetoencefalografía).",
             "TEP (Tomografía por Emisión de Positrones)."
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 1
     },
     "¿Cuáles son las ventajas del TAC?-a5490655-4796-430a-a216-4d66b54cc5e1": {
         "v": "Imágenes en 2D y 3D, y bajo coste.",
@@ -2714,7 +2715,7 @@
             "A la financiación del proyecto",
             "A los participantes del proyecto"
         ],
-        "e_count": 1
+        "e_count": 2
     },
     "¿Qué implica normalmente el diseño de un proyecto?": {
         "v": "Decidir qué variables se desean estudiar y cuáles serán manipuladas",
@@ -2843,7 +2844,8 @@
             "Diseño de caso único",
             "Diseño de encuesta"
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 1
     },
     "¿Cuál es una característica de los diseños cuasiexperimentales?": {
         "v": "No tienen un control completo sobre todas las variables",
@@ -3927,7 +3929,8 @@
             "El tipo de estímulo sensorial",
             "El tiempo de respuesta"
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 1
     },
     "¿Qué refleja la latencia en los potenciales evocados (PE)?": {
         "v": "El instante del tiempo en el que ha tenido lugar cada PE",
@@ -4027,7 +4030,7 @@
             "Invasividad",
             "Complejidad"
         ],
-        "e_count": 1,
+        "e_count": 2,
         "c_count": 1
     },
     "¿Cuál es una desventaja de la MEG?": {
@@ -4120,7 +4123,7 @@
             "la accesibilidad",
             "la portabilidad"
         ],
-        "e_count": 1
+        "e_count": 2
     },
     "¿Qué identifica la RMf durante la realización de procesos mentales?": {
         "v": "correlatos neuronales de las funciones mentales y afectivas",
@@ -4175,7 +4178,8 @@
             "Electroencefalograma (EEG)",
             "Radiografía (RX)"
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 1
     },
     "¿Cuál es el fundamento de la RMf para detectar actividad cerebral?": {
         "v": "consumo de oxígeno",
@@ -4405,6 +4409,1311 @@
             "Tomografía por Emisión de Positrones (PET)",
             "Electroencefalograma (EEG)",
             "Tomografía Computarizada (TC)"
+        ]
+    },
+    "¿Qué es el modelado funcional en el contexto de la simulación del cerebro humano por una máquina?": {
+        "v": "Simulación de lo que hace el cerebro usando hardware convencional",
+        "f": [
+            "Construcción de una máquina con componentes específicos",
+            "Simulación de la estructura física del cerebro",
+            "Creación de un cerebro orgánico",
+            "Programación de inteligencia artificial avanzada"
+        ]
+    },
+    "¿Qué implica construir una máquina con componentes diseñados para parecerse a los del Sistema Nervioso?": {
+        "v": "Simulación propiamente dicha",
+        "f": [
+            "Modelado funcional",
+            "Programación de algoritmos neuronales",
+            "Emulación de comportamientos humanos",
+            "Diseño de interfaces cerebro-computadora"
+        ]
+    },
+    "¿Es el Sistema Nervioso humano un computador de propósito general?": {
+        "v": "No",
+        "f": [
+            "Sí",
+            "Depende del contexto",
+            "En algunos aspectos sí",
+            "Solo en ciertas condiciones"
+        ]
+    },
+    "¿Cuál es el propósito específico del cerebro humano según la evolución natural?": {
+        "v": "Supervivencia en la naturaleza y perpetuación de la especie",
+        "f": [
+            "Desarrollo de inteligencia avanzada",
+            "Creación de tecnología",
+            "Comunicación y lenguaje",
+            "Procesamiento de información compleja"
+        ]
+    },
+    "¿Qué criterio de división del Sistema Nervioso atiende a la estructura física del sistema?": {
+        "v": "Criterio de división anatómica",
+        "f": [
+            "Criterio de división funcional",
+            "Criterio de división biológica",
+            "Criterio de división cognitiva",
+            "Criterio de división evolutiva"
+        ]
+    },
+    "¿Qué módulos incluye el Sistema Nervioso según la división anatómica?": {
+        "v": "Sistema Nervioso Central (SNC) y Sistema Nervioso Periférico (SNP)",
+        "f": [
+            "Sistema Nervioso Somático (SNS) y Sistema Nervioso Autónomo (SNA)",
+            "Sistema Nervioso Superior e Inferior",
+            "Sistema Nervioso Sensorial y Motor",
+            "Sistema Nervioso Simpático y Parasimpático"
+        ]
+    },
+    "¿Qué criterio de división del Sistema Nervioso se basa en la funcionalidad de sus componentes?": {
+        "v": "Criterio de división fisiológico-funcional",
+        "f": [
+            "Criterio de división anatómica",
+            "Criterio de división estructural",
+            "Criterio de división morfológica",
+            "Criterio de división química"
+        ]
+    },
+    "¿Qué módulos incluye el Sistema Nervioso según la división fisiológico-funcional?": {
+        "v": "Sistema Nervioso Somático (SNS) y Sistema Nervioso Autónomo (SNA)",
+        "f": [
+            "Sistema Nervioso Central (SNC) y Sistema Nervioso Periférico (SNP)",
+            "Sistema Nervioso Simpático y Parasimpático",
+            "Sistema Nervioso Sensorial y Motor",
+            "Sistema Nervioso Superior e Inferior"
+        ]
+    },
+    "¿Por qué es posible usar ambos criterios de división del Sistema Nervioso?": {
+        "v": "Porque los principales sistemas funcionales no corresponden exactamente con sus divisiones anatómicas",
+        "f": [
+            "Porque los criterios anatómicos y funcionales son iguales",
+            "Porque las divisiones anatómicas y funcionales siempre coinciden",
+            "Porque las divisiones anatómicas son más precisas",
+            "Porque las divisiones funcionales son más claras"
+        ]
+    },
+    "¿Qué evita identificar al cerebro como la totalidad o la parte más importante del Sistema Nervioso?": {
+        "v": "La interacción determinante de componentes muy alejados entre sí",
+        "f": [
+            "La estructura compleja del cerebro",
+            "La función específica del cerebro",
+            "La evolución natural del cerebro",
+            "La importancia del cerebro en el procesamiento de información"
+        ]
+    },
+    "¿Qué es la simulación propiamente dicha en el contexto de la máquina que imita al cerebro humano?": {
+        "v": "Construcción de una máquina con componentes específicamente diseñados para parecerse a los del Sistema Nervioso",
+        "f": [
+            "Simulación de las funciones del cerebro usando hardware convencional",
+            "Desarrollo de inteligencia artificial avanzada",
+            "Emulación de comportamientos humanos",
+            "Creación de un cerebro orgánico"
+        ]
+    },
+    "¿Qué aspecto del cerebro humano ha sido modelado por la evolución natural?": {
+        "v": "Para dirigirse a un propósito específico: la supervivencia en la naturaleza y la perpetuación de la especie",
+        "f": [
+            "Para desarrollar inteligencia avanzada",
+            "Para crear tecnología",
+            "Para procesar información compleja",
+            "Para comunicarse y desarrollar el lenguaje"
+        ]
+    },
+    "¿Qué criterio de división del Sistema Nervioso divide en módulos según su funcionalidad?": {
+        "v": "Criterio de división fisiológico-funcional",
+        "f": [
+            "Criterio de división anatómica",
+            "Criterio de división estructural",
+            "Criterio de división cognitiva",
+            "Criterio de división evolutiva"
+        ]
+    },
+    "¿Cómo se divide el Sistema Nervioso según la perspectiva anatómica?": {
+        "v": "En Sistema Nervioso Central (SNC) y Sistema Nervioso Periférico (SNP)",
+        "f": [
+            "En Sistema Nervioso Somático (SNS) y Sistema Nervioso Autónomo (SNA)",
+            "En Sistema Nervioso Sensorial y Motor",
+            "En Sistema Nervioso Simpático y Parasimpático",
+            "En Sistema Nervioso Superior e Inferior"
+        ]
+    },
+    "¿Cómo se divide el Sistema Nervioso según la perspectiva fisiológico-funcional?": {
+        "v": "En Sistema Nervioso Somático (SNS) y Sistema Nervioso Autónomo (SNA)",
+        "f": [
+            "En Sistema Nervioso Central (SNC) y Sistema Nervioso Periférico (SNP)",
+            "En Sistema Nervioso Sensorial y Motor",
+            "En Sistema Nervioso Simpático y Parasimpático",
+            "En Sistema Nervioso Superior e Inferior"
+        ]
+    },
+    "¿Qué permite la interacción de componentes muy alejados entre sí en el Sistema Nervioso?": {
+        "v": "La posibilidad de usar ambos criterios de división: anatómica y fisiológico-funcional",
+        "f": [
+            "La evolución natural",
+            "La estructura compleja del cerebro",
+            "La función específica del cerebro",
+            "La importancia del cerebro en el procesamiento de información"
+        ]
+    },
+    "¿Qué es el criterio de división anatómica del Sistema Nervioso?": {
+        "v": "División basada en la estructura física del Sistema Nervioso",
+        "f": [
+            "División basada en la funcionalidad del Sistema Nervioso",
+            "División basada en la evolución del Sistema Nervioso",
+            "División basada en la complejidad del Sistema Nervioso",
+            "División basada en la importancia de las partes del Sistema Nervioso"
+        ]
+    },
+    "¿Qué es el criterio de división fisiológico-funcional del Sistema Nervioso?": {
+        "v": "División basada en la funcionalidad de los componentes del Sistema Nervioso",
+        "f": [
+            "División basada en la estructura física del Sistema Nervioso",
+            "División basada en la evolución del Sistema Nervioso",
+            "División basada en la complejidad del Sistema Nervioso",
+            "División basada en la importancia de las partes del Sistema Nervioso"
+        ]
+    },
+    "¿Qué perspectiva divide el Sistema Nervioso en el Sistema Nervioso Central y el Sistema Nervioso Periférico?": {
+        "v": "Perspectiva anatómica",
+        "f": [
+            "Perspectiva fisiológico-funcional",
+            "Perspectiva evolutiva",
+            "Perspectiva cognitiva",
+            "Perspectiva estructural"
+        ]
+    },
+    "¿Qué perspectiva divide el Sistema Nervioso en el Sistema Nervioso Somático y el Sistema Nervioso Autónomo?": {
+        "v": "Perspectiva fisiológico-funcional",
+        "f": [
+            "Perspectiva anatómica",
+            "Perspectiva evolutiva",
+            "Perspectiva cognitiva",
+            "Perspectiva estructural"
+        ]
+    },
+    "¿Cómo se llama el conjunto de todas las estructuras nerviosas contenidas dentro del cráneo?": {
+        "v": "Encéfalo",
+        "f": [
+            "Médula espinal",
+            "Sistema Nervioso Periférico",
+            "Sistema Nervioso Autónomo",
+            "Nervios craneales"
+        ]
+    },
+    "¿Qué estructuras incluye el encéfalo?": {
+        "v": "Cerebro, tronco encefálico y cerebelo",
+        "f": [
+            "Cerebro y médula espinal",
+            "Cerebro y nervios espinales",
+            "Tronco encefálico y médula espinal",
+            "Nervios craneales y espinales"
+        ]
+    },
+    "¿Qué función tiene la médula espinal?": {
+        "v": "Sirve de conexión entre el encéfalo y el Sistema Nervioso Periférico",
+        "f": [
+            "Procesa información sensorial",
+            "Controla los reflejos",
+            "Produce hormonas",
+            "Regula la respiración"
+        ]
+    },
+    "¿Dónde se encuentra la médula espinal?": {
+        "v": "Dentro de la columna vertebral",
+        "f": [
+            "Dentro del cráneo",
+            "En los músculos",
+            "En los nervios craneales",
+            "En los nervios espinales"
+        ]
+    },
+    "¿Qué abarca el Sistema Nervioso Periférico (SNP)?": {
+        "v": "Todo el resto de tejidos nerviosos situados fuera del SNC",
+        "f": [
+            "Solo los nervios craneales",
+            "Solo los nervios espinales",
+            "Solo el cerebro",
+            "Solo la médula espinal"
+        ]
+    },
+    "¿Qué conectan los nervios craneales?": {
+        "v": "El Sistema Nervioso Central (SNC) con las estructuras de la cabeza",
+        "f": [
+            "El encéfalo con la médula espinal",
+            "El SNC con los miembros del cuerpo",
+            "La médula espinal con los órganos internos",
+            "El SNC con las extremidades"
+        ]
+    },
+    "¿Qué conectan los nervios espinales?": {
+        "v": "El Sistema Nervioso Central (SNC) con el resto de estructuras corporales periféricas",
+        "f": [
+            "El encéfalo con las estructuras de la cabeza",
+            "El SNC con los órganos internos",
+            "La médula espinal con el cerebro",
+            "El SNP con el cerebro"
+        ]
+    },
+    "¿Qué significa aferencias en relación con una estructura nerviosa?": {
+        "v": "Conexiones nerviosas por las que recibe información de otras estructuras",
+        "f": [
+            "Conexiones nerviosas por las que envía información a otras estructuras",
+            "Estímulos sensoriales enviados a los músculos",
+            "Órdenes motoras enviadas desde el cerebro",
+            "Conexiones nerviosas que procesan información sensorial"
+        ]
+    },
+    "¿Qué tipo de aferencias puede recibir una estructura nerviosa?": {
+        "v": "Aferencias somáticas y viscerales",
+        "f": [
+            "Aferencias sensoriales y motoras",
+            "Aferencias internas y externas",
+            "Aferencias nerviosas y musculares",
+            "Aferencias corticales y subcorticales"
+        ]
+    },
+    "¿Qué información proporcionan los sentidos interoceptivos?": {
+        "v": "El estado del propio organismo",
+        "f": [
+            "El estado del ambiente",
+            "El estado de los músculos",
+            "El estado de los órganos internos",
+            "El estado de la piel"
+        ]
+    },
+    "¿Qué información proporcionan los sentidos exteroceptivos?": {
+        "v": "Información sobre el ambiente",
+        "f": [
+            "Información sobre el estado del propio organismo",
+            "Información sobre los órganos internos",
+            "Información sobre los músculos",
+            "Información sobre la piel"
+        ]
+    },
+    "¿A qué se refiere 'eferencia' en relación con una estructura nerviosa?": {
+        "v": "Conexiones nerviosas por las que envía información a otras estructuras",
+        "f": [
+            "Conexiones nerviosas por las que recibe información de otras estructuras",
+            "Estímulos sensoriales enviados al cerebro",
+            "Órdenes motoras recibidas por los músculos",
+            "Conexiones nerviosas que procesan información motora"
+        ]
+    },
+    "¿Qué tipo de eferencias puede enviar una estructura nerviosa?": {
+        "v": "Eferencias somáticas y viscerales",
+        "f": [
+            "Eferencias sensoriales y motoras",
+            "Eferencias internas y externas",
+            "Eferencias nerviosas y musculares",
+            "Eferencias corticales y subcorticales"
+        ]
+    },
+    "¿Cual información está vinculada con las eferencias?": {
+        "v": "Órdenes motoras",
+        "f": [
+            "Estímulos sensoriales",
+            "Procesamiento de información",
+            "Regulación hormonal",
+            "Señales eléctricas"
+        ]
+    },
+    "¿A qué estructuras conecta el encéfalo dentro del Sistema Nervioso Central?": {
+        "v": "El cerebro, el tronco encefálico y el cerebelo",
+        "f": [
+            "El cerebro y la médula espinal",
+            "El tronco encefálico y los nervios espinales",
+            "El cerebelo y los nervios craneales",
+            "El encéfalo y la médula espinal"
+        ]
+    },
+    "¿Los nervios craneales a que estructuras se conectan?": {
+        "v": "El SNC con las estructuras de la cabeza",
+        "f": [
+            "El encéfalo con la médula espinal",
+            "El SNC con los miembros del cuerpo",
+            "La médula espinal con los órganos internos",
+            "El SNC con las extremidades"
+        ]
+    },
+    "¿Los nervios espinales a que estructuras se conectan?": {
+        "v": "El SNC con el resto de estructuras corporales periféricas",
+        "f": [
+            "El encéfalo con las estructuras de la cabeza",
+            "El SNC con los órganos internos",
+            "La médula espinal con el cerebro",
+            "El SNP con el cerebro"
+        ]
+    },
+    "¿Qué significado tiene la palabra 'aferencia' en el contexto del sistema nervioso?": {
+        "v": "Conexiones nerviosas por las que se recibe información",
+        "f": [
+            "Conexiones nerviosas por las que se envía información",
+            "Procesamiento de información sensorial",
+            "Regulación de funciones autónomas",
+            "Transmisión de señales motoras"
+        ]
+    },
+    "¿Qué información proporcionan los sentidos interoceptivos? ": {
+        "v": "El estado del propio organismo",
+        "f": [
+            "El estado del ambiente",
+            "El estado de los músculos",
+            "El estado de los órganos internos",
+            "El estado de la piel"
+        ]
+    },
+    "¿Qué tipo de información proporcionan los sentidos exteroceptivos?": {
+        "v": "Información sobre el ambiente",
+        "f": [
+            "Información sobre el estado del propio organismo",
+            "Información sobre los órganos internos",
+            "Información sobre los músculos",
+            "Información sobre la piel"
+        ]
+    },
+    "¿Qué significa eferencias en relación con una estructura nerviosa?": {
+        "v": "Conexiones nerviosas por las que se envía información",
+        "f": [
+            "Conexiones nerviosas por las que se recibe información",
+            "Procesamiento de información sensorial",
+            "Regulación de funciones autónomas",
+            "Transmisión de señales motoras"
+        ]
+    },
+    "¿Qué tipo de información está vinculada con las eferencias?": {
+        "v": "Órdenes motoras",
+        "f": [
+            "Estímulos sensoriales",
+            "Procesamiento de información",
+            "Regulación hormonal",
+            "Señales eléctricas"
+        ]
+    },
+    "¿Qué estructuras conecta el encéfalo dentro del Sistema Nervioso Central?": {
+        "v": "El cerebro, el tronco encefálico y el cerebelo",
+        "f": [
+            "El cerebro y la médula espinal",
+            "El tronco encefálico y los nervios espinales",
+            "El cerebelo y los nervios craneales",
+            "El encéfalo y la médula espinal"
+        ]
+    },
+    "¿Qué estructuras conectan los nervios craneales?": {
+        "v": "El SNC con las estructuras de la cabeza",
+        "f": [
+            "El encéfalo con la médula espinal",
+            "El SNC con los miembros del cuerpo",
+            "La médula espinal con los órganos internos",
+            "El SNC con las extremidades"
+        ]
+    },
+    "¿Qué estructuras conectan los nervios espinales?": {
+        "v": "El SNC con el resto de estructuras corporales periféricas",
+        "f": [
+            "El encéfalo con las estructuras de la cabeza",
+            "El SNC con los órganos internos",
+            "La médula espinal con el cerebro",
+            "El SNP con el cerebro"
+        ]
+    },
+    "¿Qué significa la palabra aferencia en el contexto del sistema nervioso?": {
+        "v": "Conexiones nerviosas por las que se recibe información",
+        "f": [
+            "Conexiones nerviosas por las que se envía información",
+            "Procesamiento de información sensorial",
+            "Regulación de funciones autónomas",
+            "Transmisión de señales motoras"
+        ]
+    },
+    "¿Qué significa 'ventral, anterior' en términos de localización anatómica?": {
+        "v": "Hacia el lado frontal (vientre)",
+        "f": [
+            "Hacia el lado trasero (vientre)",
+            "Hacia el lado superior (vientre)",
+            "Hacia el lado inferior (vientre)",
+            "Hacia el extremo de la cola (vientre)"
+        ]
+    },
+    "¿Qué significa 'dorsal, posterior' en términos de localización anatómica?": {
+        "v": "Hacia el lado trasero",
+        "f": [
+            "Hacia el lado frontal",
+            "Hacia el lado superior",
+            "Hacia el lado inferior",
+            "Hacia el extremo de la nariz"
+        ]
+    },
+    "¿Qué significa 'superior, craneal' en términos de localización anatómica?": {
+        "v": "Hacia el lado superior (cráneo)",
+        "f": [
+            "Hacia el lado inferior (cráneo)",
+            "Hacia el lado trasero (cráneo)",
+            "Hacia el lado frontal (cráneo)",
+            "Hacia el extremo de la cola (cráneo)"
+        ]
+    },
+    "¿Qué significa 'inferior' en términos de localización anatómica?": {
+        "v": "Hacia el lado inferior",
+        "f": [
+            "Hacia el lado superior",
+            "Hacia el lado trasero",
+            "Hacia el lado frontal",
+            "Hacia el extremo de la nariz"
+        ]
+    },
+    "¿Qué significa 'caudal' en términos de localización anatómica?": {
+        "v": "En la posición más baja (hacia el extremo de la cola)",
+        "f": [
+            "Hacia el lado superior",
+            "Hacia el lado trasero",
+            "Hacia el lado frontal",
+            "Hacia el extremo de la nariz"
+        ]
+    },
+    "¿Qué significa 'rostral' en términos de localización anatómica?": {
+        "v": "Hacia el lado delantero (hacia el extremo de la nariz)",
+        "f": [
+            "Hacia el lado trasero",
+            "Hacia el lado superior",
+            "Hacia el lado inferior",
+            "Hacia el extremo de la cola"
+        ]
+    },
+    "¿Qué significa 'medial' en términos de localización anatómica?": {
+        "v": "Cerca o hacia la mitad",
+        "f": [
+            "Hacia el lado",
+            "Del mismo lado",
+            "Del lado opuesto",
+            "En ambos lados"
+        ]
+    },
+    "¿Qué significa 'mediano' en términos de localización anatómica?": {
+        "v": "Plano medio (sagital medio)",
+        "f": [
+            "Hacia el lado (sagital medio)",
+            "Del mismo lado (sagital medio)",
+            "Del lado opuesto (sagital medio)",
+            "En ambos lados (sagital medio)"
+        ]
+    },
+    "¿Qué significa 'lateral' en términos de localización anatómica?": {
+        "v": "Hacia el lado (lejos del medio)",
+        "f": [
+            "Cerca o hacia la mitad (lejos del medio)",
+            "Del mismo lado (lejos del medio)",
+            "Del lado opuesto (lejos del medio)",
+            "En ambos lados (lejos del medio)"
+        ]
+    },
+    "¿Qué significa 'ipsilateral' en términos de localización anatómica?": {
+        "v": "Del mismo lado",
+        "f": [
+            "Del lado opuesto",
+            "En ambos lados",
+            "Hacia el lado",
+            "Hacia el lado inferior"
+        ]
+    },
+    "¿Qué significa 'contralateral' en términos de localización anatómica?": {
+        "v": "Del lado opuesto",
+        "f": [
+            "Del mismo lado",
+            "En ambos lados",
+            "Hacia el lado",
+            "Hacia el lado superior"
+        ]
+    },
+    "¿Qué significa 'bilateral' en términos de localización anatómica?": {
+        "v": "En ambos lados",
+        "f": [
+            "Del mismo lado",
+            "Del lado opuesto",
+            "Hacia el lado",
+            "Hacia el lado inferior"
+        ]
+    },
+    "¿Qué es un corte coronal o frontal en el enfoque anatómico?": {
+        "v": "Un plano o corte que determina la sección frontal del Sistema Nervioso",
+        "f": [
+            "Un plano o corte que determina la sección lateral del Sistema Nervioso",
+            "Un plano o corte que determina la sección horizontal del Sistema Nervioso",
+            "Un plano o corte que determina la sección sagital del Sistema Nervioso",
+            "Un plano o corte que determina la sección caudal del Sistema Nervioso"
+        ]
+    },
+    "¿Qué es un corte sagital en el enfoque anatómico?": {
+        "v": "Un plano o corte que determina la sección sagital del Sistema Nervioso",
+        "f": [
+            "Un plano o corte que determina la sección frontal del Sistema Nervioso",
+            "Un plano o corte que determina la sección lateral del Sistema Nervioso",
+            "Un plano o corte que determina la sección horizontal del Sistema Nervioso",
+            "Un plano o corte que determina la sección caudal del Sistema Nervioso"
+        ]
+    },
+    "¿Qué es un corte horizontal en el enfoque anatómico?": {
+        "v": "Un plano o corte que determina la sección horizontal del Sistema Nervioso",
+        "f": [
+            "Un plano o corte que determina la sección frontal del Sistema Nervioso",
+            "Un plano o corte que determina la sección lateral del Sistema Nervioso",
+            "Un plano o corte que determina la sección sagital del Sistema Nervioso",
+            "Un plano o corte que determina la sección caudal del Sistema Nervioso"
+        ]
+    },
+    "¿Qué son los ejes geométricos en el enfoque anatómico?": {
+        "v": "Líneas rectas que resultan de las intersecciones entre los planos o cortes",
+        "f": [
+            "Curvas que determinan la orientación del Sistema Nervioso",
+            "Líneas diagonales que resultan de la disposición de los órganos",
+            "Ejes que indican la posición relativa de los hemisferios cerebrales",
+            "Segmentos que determinan la longitud del Sistema Nervioso"
+        ]
+    },
+    "¿Qué es el eje vertical en el enfoque anatómico?": {
+        "v": "Un eje que se extiende en la dirección vertical del cuerpo",
+        "f": [
+            "Un eje que se extiende en la dirección horizontal del cuerpo",
+            "Un eje que se extiende en la dirección diagonal del cuerpo",
+            "Un eje que se extiende en la dirección lateral del cuerpo",
+            "Un eje que se extiende en la dirección caudal del cuerpo"
+        ]
+    },
+    "¿Qué es el eje frontal o anteroposterior en el enfoque anatómico?": {
+        "v": "Un eje que se extiende desde el frente hacia atrás del cuerpo",
+        "f": [
+            "Un eje que se extiende desde arriba hacia abajo del cuerpo",
+            "Un eje que se extiende desde el centro hacia los lados del cuerpo",
+            "Un eje que se extiende desde la izquierda hacia la derecha del cuerpo",
+            "Un eje que se extiende en dirección diagonal del cuerpo"
+        ]
+    },
+    "¿Qué es el eje transversal en el enfoque anatómico?": {
+        "v": "Un eje que se extiende a través del cuerpo en una dirección horizontal",
+        "f": [
+            "Un eje que se extiende en dirección vertical del cuerpo",
+            "Un eje que se extiende desde el frente hacia atrás del cuerpo",
+            "Un eje que se extiende en dirección diagonal del cuerpo",
+            "Un eje que se extiende desde el centro hacia los lados del cuerpo"
+        ]
+    },
+    "¿Qué es el neuroeje?": {
+        "v": "La disposición en el espacio que adopta el Sistema Nervioso Central (SNC)",
+        "f": [
+            "La estructura de los nervios periféricos",
+            "La funcionalidad del cerebro",
+            "La interacción entre neuronas",
+            "La división del Sistema Nervioso Somático"
+        ]
+    },
+    "¿Cómo es el neuroeje en los cuadrúpedos?": {
+        "v": "Una línea recta fácil de identificar",
+        "f": [
+            "Una línea curva",
+            "Una estructura en espiral",
+            "Una disposición asimétrica",
+            "Un eje diagonal"
+        ]
+    },
+    "¿Cómo es el neuroeje en los humanos?": {
+        "v": "Una línea que “tuerce” a 90° al llegar a las estructuras encefálicas de la cabeza",
+        "f": [
+            "Una línea recta sin cambios",
+            "Una estructura en espiral",
+            "Una disposición asimétrica",
+            "Un eje diagonal"
+        ]
+    },
+    "¿Por dónde accede la médula espinal al cráneo en los cuadrúpedos?": {
+        "v": "Por la parte trasera",
+        "f": [
+            "Por la parte inferior",
+            "Por la parte superior",
+            "Por los lados",
+            "Por la parte frontal"
+        ]
+    },
+    "¿Por dónde accede la médula espinal al cráneo en los humanos?": {
+        "v": "Por la parte inferior",
+        "f": [
+            "Por la parte trasera",
+            "Por la parte superior",
+            "Por los lados",
+            "Por la parte frontal"
+        ]
+    },
+    "¿Qué sistema de referencia toma en consideración el cambio de orientación a 90° del neuroeje?": {
+        "v": "Eje de Forel",
+        "f": [
+            "Eje de Meynert",
+            "Eje de Broca",
+            "Eje de Wernicke",
+            "Eje de Luria"
+        ]
+    },
+    "¿Qué significa moverse entre los sentidos rostral o anterior y occipital o posterior en el Eje de Forel?": {
+        "v": "Moverse adelante y atrás, respectivamente",
+        "f": [
+            "Moverse arriba y abajo, respectivamente",
+            "Moverse a la izquierda y a la derecha, respectivamente",
+            "Moverse en círculos",
+            "Moverse en espiral"
+        ]
+    },
+    "En términos verticales, ¿qué sentidos utiliza el Eje de Forel?": {
+        "v": "Superior o parietal e inferior o basal",
+        "f": [
+            "Cranial y caudal",
+            "Ventral y dorsal",
+            "Anterior y posterior",
+            "Rostral y occipital"
+        ]
+    },
+    "¿Qué sistema de referencia no toma en consideración el cambio de orientación a 90° del neuroeje?": {
+        "v": "Eje de Meynert",
+        "f": [
+            "Eje de Forel",
+            "Eje de Broca",
+            "Eje de Wernicke",
+            "Eje de Luria"
+        ]
+    },
+    "En el Eje de Meynert, ¿qué significa moverse entre los sentidos craneal y caudal?": {
+        "v": "Moverse arriba y abajo, respectivamente",
+        "f": [
+            "Moverse adelante y atrás, respectivamente",
+            "Moverse a la izquierda y a la derecha, respectivamente",
+            "Moverse en círculos",
+            "Moverse en espiral"
+        ]
+    },
+    "En términos horizontales, ¿qué sentidos utiliza el Eje de Meynert?": {
+        "v": "Ventral o anterior y dorsal o posterior",
+        "f": [
+            "Superior o parietal e inferior o basal",
+            "Cranial y caudal",
+            "Rostral y occipital",
+            "Izquierda y derecha"
+        ]
+    },
+    "¿Qué inerva el Sistema Nervioso Somático (SNS)?": {
+        "v": "Las estructuras exteriores del cuerpo (músculos, piel y mucosas)",
+        "f": [
+            "Los órganos internos",
+            "El cerebro y la médula espinal",
+            "Las glándulas endocrinas",
+            "El sistema linfático"
+        ]
+    },
+    "¿Con qué funciones está relacionado el Sistema Nervioso Somático (SNS)?": {
+        "v": "Funciones voluntarias, como mover los músculos estriados",
+        "f": [
+            "Funciones involuntarias, como la digestión",
+            "Funciones automáticas, como el latido cardíaco",
+            "Funciones sensoriales, como la vista",
+            "Funciones endocrinas, como la liberación de hormonas"
+        ]
+    },
+    "¿Qué controla el Sistema Nervioso Autónomo (SNA)?": {
+        "v": "La actividad de los músculos lisos, glándulas de los órganos internos y vasos sanguíneos",
+        "f": [
+            "La actividad de los músculos estriados",
+            "La percepción sensorial",
+            "El movimiento voluntario",
+            "La función cognitiva"
+        ]
+    },
+    "¿Con qué funciones está relacionado el Sistema Nervioso Autónomo (SNA)?": {
+        "v": "Funciones orgánicas de las que no poseemos un control voluntario",
+        "f": [
+            "Funciones voluntarias",
+            "Funciones sensoriales",
+            "Funciones cognitivas",
+            "Funciones motoras"
+        ]
+    },
+    "¿Cuál es una de las funciones del Sistema Nervioso Autónomo (SNA)?": {
+        "v": "Procesos digestivos",
+        "f": [
+            "Movimiento voluntario",
+            "Percepción sensorial",
+            "Función cognitiva",
+            "Liberación de hormonas"
+        ]
+    },
+    "¿Cuál es una de las funciones del Sistema Nervioso Somático (SNS)?": {
+        "v": "Mover los músculos estriados",
+        "f": [
+            "Controlar la actividad cardíaca",
+            "Regular la digestión",
+            "Controlar la piloerección",
+            "Coordinar la sudoración"
+        ]
+    },
+    "¿Qué significa el término 'ventral' en el Eje de Meynert?": {
+        "v": "Anterior",
+        "f": [
+            "Posterior",
+            "Superior",
+            "Inferior",
+            "Lateral"
+        ]
+    },
+    "¿Qué significa el término 'dorsal' en el Eje de Meynert?": {
+        "v": "Posterior",
+        "f": [
+            "Anterior",
+            "Superior",
+            "Inferior",
+            "Lateral"
+        ]
+    },
+    "¿Qué significa el término 'superior' en el Eje de Forel?": {
+        "v": "Parietal",
+        "f": [
+            "Basal",
+            "Ventral",
+            "Dorsal",
+            "Cranial"
+        ]
+    },
+    "¿Desde qué disciplinas nos aproximamos a la mente y el comportamiento humano en el texto?": {
+        "v": "Desde disciplinas como la Inteligencia Artificial",
+        "f": [
+            "Desde disciplinas como la Medicina",
+            "Desde disciplinas como la Química",
+            "Desde disciplinas como la Física",
+            "Desde disciplinas como la Geología"
+        ]
+    },
+    "¿Cuál es el esquema reduccionista pero intuitivo del cerebro mencionado en el texto?": {
+        "v": "El cerebro visto como un dispositivo de computación",
+        "f": [
+            "El cerebro visto como una red de neuronas",
+            "El cerebro visto como un órgano sensorial",
+            "El cerebro visto como un músculo",
+            "El cerebro visto como un sistema hidráulico"
+        ]
+    },
+    "¿Qué secuencia se utiliza para describir el procesamiento en el cerebro humano?": {
+        "v": "Percepción → Cognición → Comportamiento",
+        "f": [
+            "Input → Output → Procesamiento",
+            "Cognición → Percepción → Comportamiento",
+            "Comportamiento → Percepción → Cognición",
+            "Cognición → Comportamiento → Percepción"
+        ]
+    },
+    "¿Cuál es la secuencia similar en los computadores artificiales?": {
+        "v": "Input → Procesamiento y algoritmo → Output",
+        "f": [
+            "Output → Input → Procesamiento",
+            "Input → Output → Procesamiento",
+            "Procesamiento → Input → Output",
+            "Procesamiento → Output → Input"
+        ]
+    },
+    "¿Es la percepción humana un proceso pasivo según el texto?": {
+        "v": "No",
+        "f": [
+            "Sí",
+            "Depende del contexto",
+            "Sólo en algunos casos",
+            "No se menciona"
+        ]
+    },
+    "¿Qué hace el cerebro humano en el proceso perceptivo?": {
+        "v": "Transforma, elabora e integra la información recibida para generar una representación útil y adaptativa del entorno",
+        "f": [
+            "Simplemente deja entrar las señales sin más",
+            "Reacciona de manera instintiva",
+            "Almacena la información sin procesarla",
+            "Bloquea las señales innecesarias"
+        ]
+    },
+    "¿Qué significa que el cerebro humano fabrica una representación interna e interpretada del mundo?": {
+        "v": "Conecta la información procesada con sus patrones de funcionamiento y expectativas",
+        "f": [
+            "Ignora la información irrelevante",
+            "Almacena toda la información sin filtros",
+            "Responde sólo a estímulos físicos",
+            "Genera una copia exacta del entorno"
+        ]
+    },
+    "¿Qué aplica el cerebro desde el inicio del proceso perceptivo?": {
+        "v": "Esquemas concretos de expectativas y predicciones",
+        "f": [
+            "Un filtro de información irrelevante",
+            "Un algoritmo de reconocimiento de patrones",
+            "Una respuesta instintiva inmediata",
+            "Un almacenamiento temporal de información"
+        ]
+    },
+    "¿Qué condiciona enormemente el proceso perceptivo desde su inicio?": {
+        "v": "Esquemas concretos de expectativas y predicciones",
+        "f": [
+            "El entorno físico inmediato",
+            "La cantidad de luz disponible",
+            "El nivel de atención del individuo",
+            "La calidad de las señales sensoriales"
+        ]
+    },
+    "¿Para qué es útil el proceso perceptivo del cerebro humano?": {
+        "v": "Para la supervivencia en la naturaleza y en el mundo y sociedad actuales",
+        "f": [
+            "Para la memorización de datos",
+            "Para la generación de emociones",
+            "Para la reproducción de estímulos sensoriales",
+            "Para la inhibición de respuestas automáticas"
+        ]
+    },
+    "¿Cuál es el propósito específico del cerebro humano según el texto?": {
+        "v": "La supervivencia en la naturaleza y la perpetuación de la especie",
+        "f": [
+            "La acumulación de conocimiento",
+            "La creación de arte",
+            "La comunicación verbal",
+            "La resolución de problemas matemáticos"
+        ]
+    },
+    "¿Qué se menciona sobre la representación interna del mundo creada por el cerebro?": {
+        "v": "Es interpretada y conectada con patrones de funcionamiento y expectativas",
+        "f": [
+            "Es una copia exacta del mundo exterior",
+            "Es una representación aleatoria de estímulos",
+            "Es una respuesta instintiva sin procesamiento",
+            "Es una imagen estática del entorno"
+        ]
+    },
+    "¿Qué comparación se hace entre el cerebro humano y los sistemas artificiales de visión y audición?": {
+        "v": "El proceso perceptivo humano ha bioinspirado los sistemas artificiales mejorados",
+        "f": [
+            "Los sistemas artificiales son más precisos que el cerebro humano",
+            "El cerebro humano imita a los sistemas artificiales",
+            "Los sistemas artificiales funcionan sin procesamiento previo",
+            "El cerebro humano depende de los sistemas artificiales"
+        ]
+    },
+    "¿Qué demuestra el laboratorio de psicología cognitiva sobre el cerebro?": {
+        "v": "El cerebro percibe el entorno aplicando esquemas de expectativas y predicciones",
+        "f": [
+            "El cerebro almacena información sin procesarla",
+            "El cerebro reacciona instintivamente a todos los estímulos",
+            "El cerebro ignora las señales irrelevantes",
+            "El cerebro genera respuestas automáticas sin procesamiento"
+        ]
+    },
+    "¿Qué función esencial cumple el cerebro humano?": {
+        "v": "La supervivencia en la naturaleza",
+        "f": [
+            "La generación de emociones",
+            "La comunicación verbal",
+            "La resolución de problemas complejos",
+            "La percepción sensorial precisa"
+        ]
+    },
+    "¿Cuál es el propósito del cerebro en la sociedad actual?": {
+        "v": "La supervivencia",
+        "f": [
+            "La acumulación de riqueza",
+            "La creación de arte",
+            "La comunicación digital",
+            "La generación de entretenimiento"
+        ]
+    },
+    "¿Qué elementos transforma, elabora e integra el cerebro en el proceso perceptivo?": {
+        "v": "La información recibida del entorno",
+        "f": [
+            "Las emociones generadas",
+            "Las respuestas motoras",
+            "Las señales internas del cuerpo",
+            "Las expectativas culturales"
+        ]
+    },
+    "¿Qué simil se hace entre el cerebro y un computador artificial?": {
+        "v": "El cerebro humano sigue una secuencia similar a la de los computadores artificiales",
+        "f": [
+            "El cerebro es más rápido que los computadores",
+            "Los computadores no pueden replicar el cerebro humano",
+            "El cerebro y los computadores no tienen ninguna similitud",
+            "Los computadores superan al cerebro en todas las funciones"
+        ]
+    },
+    "¿Cómo se describe el cerebro en relación con las expectativas y predicciones?": {
+        "v": "Aplica esquemas de expectativas y predicciones desde el inicio del proceso perceptivo",
+        "f": [
+            "Genera expectativas solo después de procesar la información",
+            "No utiliza expectativas ni predicciones",
+            "Responde solo a estímulos actuales sin anticipación",
+            "Se basa en experiencias pasadas sin generar expectativas"
+        ]
+    },
+    "¿Qué rol juegan las expectativas en el proceso perceptivo del cerebro?": {
+        "v": "Condicionan enormemente el proceso perceptivo desde su inicio",
+        "f": [
+            "No influyen en el proceso perceptivo",
+            "Solo se aplican en situaciones de emergencia",
+            "Se generan después de la percepción",
+            "Se utilizan para almacenar información"
+        ]
+    },
+    "¿Cuántos sistemas perceptivos (sentidos) se menciona que tiene el sistema nervioso humano?": {
+        "v": "Una cantidad mucho mayor que la pequeña selección comúnmente conocida",
+        "f": [
+            "Solo los cinco sentidos tradicionales",
+            "Una cantidad muy limitada",
+            "Solo los sentidos interoceptivos",
+            "Solo los sentidos exteroceptivos"
+        ]
+    },
+    "¿Cuál es la distinción principal entre los sistemas perceptivos?": {
+        "v": "La fuente de información",
+        "f": [
+            "La cantidad de información procesada",
+            "La velocidad de procesamiento",
+            "El tamaño de los órganos sensoriales",
+            "La estructura anatómica"
+        ]
+    },
+    "¿Cual información proporcionan los sentidos exteroceptivos?": {
+        "v": "Información sobre lo que sucede en el mundo exterior al organismo",
+        "f": [
+            "Información sobre el estado interno del cuerpo",
+            "Información sobre el equilibrio y la postura",
+            "Información sobre las emociones",
+            "Información sobre los pensamientos"
+        ]
+    },
+    "¿Cuáles son algunos ejemplos de sentidos exteroceptivos mencionados?": {
+        "v": "Vista, oído, gusto, olfato, tacto",
+        "f": [
+            "Propiocepción, dolor, reacciones a valores fisiológicos",
+            "Equilibrio, temperatura, vibración",
+            "Sed, hambre, presión arterial",
+            "Emociones, pensamientos, recuerdos"
+        ]
+    },
+    "¿Qué tipo de información proporcionan los sentidos interoceptivos?": {
+        "v": "Información sobre lo que sucede en las propias estructuras y tejidos del organismo",
+        "f": [
+            "Información sobre el entorno externo",
+            "Información sobre el clima",
+            "Información sobre la comunicación social",
+            "Información sobre el movimiento muscular"
+        ]
+    },
+    "¿Cuáles son algunos ejemplos de sentidos interoceptivos mencionados?": {
+        "v": "Propiocepción, dolor, reacciones a valores fisiológicos",
+        "f": [
+            "Vista, oído, gusto, olfato, tacto",
+            "Equilibrio, temperatura, vibración",
+            "Sed, hambre, presión arterial",
+            "Emociones, pensamientos, recuerdos"
+        ]
+    },
+    "¿Qué necesitan las distintas facultades sensoriales según el texto?": {
+        "v": "Estructuras y un procesamiento básico diferentes e inicialmente independientes",
+        "f": [
+            "Los mismos tipos de estructuras y procesamiento",
+            "Procesamiento consciente desde el inicio",
+            "Una única estructura común",
+            "Estructuras idénticas y uniformes"
+        ]
+    },
+    "¿Cómo transmiten la información todos los sentidos de principal interés?": {
+        "v": "De forma análoga",
+        "f": [
+            "De forma digital",
+            "De forma aleatoria",
+            "De forma independiente",
+            "De forma exclusiva"
+        ]
+    },
+    "¿Qué esquema siguen los sentidos del sistema nervioso humano?": {
+        "v": "Un esquema jerárquico y en paralelo",
+        "f": [
+            "Un esquema lineal y secuencial",
+            "Un esquema aleatorio y desorganizado",
+            "Un esquema uniforme y homogéneo",
+            "Un esquema caótico y desordenado"
+        ]
+    },
+    "¿Cuántas grandes etapas se pueden resumir en la percepción humana?": {
+        "v": "Cuatro",
+        "f": [
+            "Tres",
+            "Cinco",
+            "Dos",
+            "Seis"
+        ]
+    },
+    "¿Cuál es la primera etapa del proceso de percepción humana mencionada?": {
+        "v": "Transducción",
+        "f": [
+            "Conducción",
+            "Procesamiento primario",
+            "Procesamiento profundo y elaborado",
+            "Integración"
+        ]
+    },
+    "¿Qué sigue a la transducción en el proceso de percepción humana?": {
+        "v": "Conducción",
+        "f": [
+            "Procesamiento profundo y elaborado",
+            "Procesamiento primario",
+            "Transducción",
+            "Integración"
+        ]
+    },
+    "¿Cuál es la etapa de procesamiento inconsciente en la percepción humana?": {
+        "v": "Procesamiento primario",
+        "f": [
+            "Procesamiento profundo y elaborado",
+            "Conducción",
+            "Transducción",
+            "Integración"
+        ]
+    },
+    "¿Cuál es la etapa de procesamiento consciente en la percepción humana?": {
+        "v": "Procesamiento profundo y elaborado",
+        "f": [
+            "Procesamiento primario",
+            "Conducción",
+            "Transducción",
+            "Integración"
+        ]
+    },
+    "¿Cómo se considera la percepción en el contexto del esquema del cerebro como dispositivo de computación?": {
+        "v": "Input",
+        "f": [
+            "Output",
+            "Procesamiento y algoritmo",
+            "Almacenamiento",
+            "Respuesta"
+        ]
+    },
+    "¿Qué tipo de esquemas aplica el cerebro desde el inicio del proceso perceptivo?": {
+        "v": "Esquemas de expectativas y predicciones",
+        "f": [
+            "Esquemas de almacenamiento temporal",
+            "Esquemas de inhibición de señales",
+            "Esquemas de respuesta automática",
+            "Esquemas de bloqueo de estímulos"
+        ]
+    },
+    "¿Cómo se describe la percepción humana en relación con la información recibida?": {
+        "v": "Transforma, elabora e integra la información para generar una representación útil y adaptativa del entorno",
+        "f": [
+            "Ignora la información irrelevante",
+            "Reacciona automáticamente a todos los estímulos",
+            "Almacena la información sin procesarla",
+            "Genera una copia exacta del mundo"
+        ]
+    },
+    "¿Qué función esencial cumple el cerebro humano según el texto?": {
+        "v": "La supervivencia en la naturaleza",
+        "f": [
+            "La acumulación de conocimiento",
+            "La generación de emociones",
+            "La comunicación verbal",
+            "La resolución de problemas complejos"
+        ]
+    },
+    "¿Cuál es el propósito del cerebro en el contexto de la sociedad actual?": {
+        "v": "La supervivencia",
+        "f": [
+            "La acumulación de riqueza",
+            "La creación de arte",
+            "La comunicación digital",
+            "La generación de entretenimiento"
+        ]
+    },
+    "¿Qué comparativa se hace entre el cerebro y un computador artificial?": {
+        "v": "El cerebro humano sigue una secuencia similar a la de los computadores artificiales: Input → Procesamiento y algoritmo → Output",
+        "f": [
+            "El cerebro es más rápido que los computadores",
+            "Los computadores no pueden replicar el cerebro humano",
+            "El cerebro y los computadores no tienen ninguna similitud",
+            "Los computadores superan al cerebro en todas las funciones"
+        ]
+    },
+    "¿A qué nos referimos cuando hablamos de receptores sensoriales?": {
+        "v": "A las estructuras nerviosas que convierten un cierto tipo de energía física en impulsos nerviosos",
+        "f": [
+            "A las células que producen hormonas",
+            "A las estructuras que transmiten señales eléctricas",
+            "A los órganos que detectan cambios de temperatura",
+            "A las partes del cerebro responsables de la memoria"
+        ]
+    },
+    "¿Cuántos sentidos tiene el sistema nervioso humano?": {
+        "v": "Tantos como formas de energía física es capaz de traducir a impulsos nerviosos",
+        "f": [
+            "Cinco",
+            "Siete",
+            "Innumerables",
+            "Diez"
+        ]
+    },
+    "¿Qué es la transducción?": {
+        "v": "El proceso por el cual un tipo concreto de energía física se traduce en impulsos nerviosos",
+        "f": [
+            "La transmisión de impulsos nerviosos a los músculos",
+            "La recepción de señales del entorno",
+            "La emisión de señales nerviosas",
+            "La despolarización de la membrana neuronal"
+        ]
+    },
+    "¿Qué sucede cuando los receptores sensoriales son estimulados suficientemente?": {
+        "v": "Se despolariza eléctricamente su membrana y desencadena un impulso nervioso transmisible",
+        "f": [
+            "Se dividen en nuevas células",
+            "Aumentan su tamaño",
+            "Liberan hormonas",
+            "Se activan sin necesidad de estímulo"
+        ]
+    },
+    "¿Qué es necesario para que un receptor sensorial desencadene un impulso nervioso?": {
+        "v": "Que la estimulación del receptor sea suficiente para superar el umbral de disparo de un potencial de acción",
+        "f": [
+            "Que el receptor esté en reposo",
+            "Que haya un cambio de temperatura",
+            "Que el receptor se contraiga",
+            "Que el receptor esté en contacto con otro receptor"
+        ]
+    },
+    "¿Cómo se diferencia la sensación de la percepción en términos científicos?": {
+        "v": "La sensación es la respuesta psicológica elemental durante la transducción, y la percepción es la experiencia consciente e interpretación de la información sensorial",
+        "f": [
+            "La sensación es la interpretación de los sentidos, y la percepción es la respuesta psicológica",
+            "La sensación es un proceso consciente, y la percepción es un proceso inconsciente",
+            "La sensación ocurre en el cerebro, y la percepción en los órganos sensoriales",
+            "La sensación es siempre positiva, y la percepción puede ser negativa"
+        ]
+    },
+    "¿Dónde se produce la sensación?": {
+        "v": "En las cortezas cerebrales primarias",
+        "f": [
+            "En la médula espinal",
+            "En los órganos sensoriales",
+            "En el tronco encefálico",
+            "En los ganglios basales"
+        ]
+    },
+    "¿Qué implica la percepción?": {
+        "v": "La actividad de neuronas de cortezas específicas y de asociación del SNC",
+        "f": [
+            "La actividad de los músculos",
+            "La actividad de la médula espinal",
+            "La inactividad de las neuronas",
+            "La actividad de las glándulas"
+        ]
+    },
+    "¿Qué es necesario para la percepción?": {
+        "v": "La integración de las sensaciones con procesos internos",
+        "f": [
+            "La estimulación directa del cerebro",
+            "La eliminación de estímulos externos",
+            "La separación de las sensaciones",
+            "La inhibición de la respuesta neuronal"
+        ]
+    },
+    "¿Qué procesos internos se mencionan que se integran con las sensaciones para la percepción?": {
+        "v": "Deseo, necesidad, motivación, emociones",
+        "f": [
+            "Memoria, lenguaje, creatividad, imaginación",
+            "Visión, audición, gusto, tacto",
+            "Movimiento, equilibrio, coordinación, reflejos",
+            "Alimentación, respiración, digestión, excreción"
+        ]
+    },
+    "¿Por qué el proceso de integración de las sensaciones es individualizado?": {
+        "v": "Porque sensaciones semejantes pueden ocasionar diferentes percepciones",
+        "f": [
+            "Porque todas las percepciones son iguales",
+            "Porque el cerebro humano es uniforme",
+            "Porque las neuronas funcionan de la misma manera",
+            "Porque la percepción siempre es consciente"
+        ]
+    },
+    "¿Qué función tienen los receptores sensoriales en el proceso de percepción?": {
+        "v": "Convertir la energía física en impulsos nerviosos",
+        "f": [
+            "Transmitir impulsos nerviosos a los músculos",
+            "Eliminar estímulos externos",
+            "Almacenar energía física",
+            "Liberar hormonas en el cerebro"
+        ]
+    },
+    "¿Cómo se describe el funcionamiento básico de los receptores sensoriales?": {
+        "v": "Al ser estimulados, su membrana se despolariza eléctricamente y desencadena un impulso nervioso",
+        "f": [
+            "Al ser estimulados, liberan neurotransmisores",
+            "Al ser estimulados, se contraen",
+            "Al ser estimulados, aumentan su tamaño",
+            "Al ser estimulados, se desactivan"
+        ]
+    },
+    "¿Qué aspecto del proceso perceptivo es general a todos los sentidos?": {
+        "v": "La transducción",
+        "f": [
+            "La sensación",
+            "La percepción",
+            "La estimulación",
+            "La interpretación"
+        ]
+    },
+    "¿Qué se produce durante la transducción?": {
+        "v": "La respuesta de neuronas especializadas preparadas para la detección de estímulos y su transformación en potenciales de acción",
+        "f": [
+            "La emisión de hormonas preparadas para la detección de estímulos y su transformación en potenciales de acción",
+            "La contracción de músculos preparados para la detección de estímulos y su transformación en potenciales de acción",
+            "La inhibición de la respuesta neuronal preparada para la detección de estímulos y su transformación en potenciales de acción",
+            "La eliminación de estímulos y de la detección de estímulos y su transformación en potenciales de acción"
+        ]
+    },
+    "¿Qué es una sensación en términos científicos?": {
+        "v": "La respuesta psicológica elemental que se produce durante la transducción",
+        "f": [
+            "La experiencia consciente de la información sensorial",
+            "La actividad de las cortezas de asociación",
+            "La integración de procesos internos",
+            "La interpretación de estímulos externos"
+        ]
+    },
+    "¿Qué es la percepción en términos científicos?": {
+        "v": "La experiencia consciente e interpretación de la información de los sentidos",
+        "f": [
+            "La respuesta psicológica elemental durante la transducción",
+            "La actividad de las cortezas primarias",
+            "La transmisión de impulsos nerviosos",
+            "La inhibición de la respuesta neuronal"
+        ]
+    },
+    "¿Qué estructuras están involucradas en la percepción?": {
+        "v": "Neuronas de cortezas específicas y de asociación del SNC",
+        "f": [
+            "Células de la médula espinal",
+            "Músculos del cuerpo",
+            "Ganglios basales",
+            "Órganos sensoriales"
+        ]
+    },
+    "¿Qué sucede cuando los receptores sensoriales se despolarizan eléctricamente?": {
+        "v": "Se desencadena un impulso nervioso transmisible",
+        "f": [
+            "Se contraen",
+            "Se inhiben",
+            "Se relajan",
+            "Se multiplican"
+        ]
+    },
+    "¿Qué requiere el proceso de percepción?": {
+        "v": "La integración del conjunto total de sensaciones experimentadas",
+        "f": [
+            "La eliminación de estímulos externos",
+            "La contracción de los músculos",
+            "La inhibición de las neuronas",
+            "La despolarización de la membrana neuronal"
         ]
     }
 }
