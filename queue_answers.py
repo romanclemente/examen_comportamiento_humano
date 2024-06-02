@@ -4,7 +4,8 @@ import json
 
 
 class BBDD_backend:
-    def __init__(self) -> None:
+    def __init__(self, lenght_exam) -> None:
+        self.lenght_exam = lenght_exam
         self.all_questions = self.get_preguntas()
         self.questions = self.preguntas_examen()
         self.total_points = 0.0
@@ -61,10 +62,10 @@ class BBDD_backend:
                 ):
                     index += 1
                     dct[x] = self.all_questions[x]
-                    if index >= 10:
+                    if index >= self.lenght_exam:
                         return dct
 
-        ask_exam = 10 - len(list(dct))
+        ask_exam = self.lenght_exam - len(list(dct))
 
         for item in range(ask_exam):
             r = random.randint(0, len(asks) - 1)

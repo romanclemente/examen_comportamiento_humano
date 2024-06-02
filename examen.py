@@ -10,28 +10,44 @@ class TestApp:
         self.master = master
         self.master.title("Examen")
         self.master.attributes("-fullscreen", False)
-        self.canvas = tk.Canvas(self.master)
-        self.scrollbar = tk.Scrollbar(
-            self.master, orient="vertical", command=self.canvas.yview
+        
+        self.container = tk.Frame(self.master)
+        self.container.pack(fill="both", expand=True)
+        self.canvas = tk.Canvas(self.container)
+        self.scrollbary = tk.Scrollbar(
+            self.container,
+            activebackground="red",
+            bg="blue",
+            orient="vertical",
+            command=self.canvas.yview,
+        )
+        self.scrollbarx = tk.Scrollbar(
+            self.container,
+            activebackground="red",
+            bg="blue",
+            orient="horizontal",
+            command=self.canvas.xview,
         )
         self.scrollable_frame = tk.Frame(self.canvas)
-        self.index_actual_question = 1
-        self.aciertos = 0
-        self.errores = 0
         self.scrollable_frame.bind(
             "<Configure>",
             lambda e: self.canvas.configure(scrollregion=self.canvas.bbox("all")),
         )
-
+        
         self.canvas.create_window((0, 0), window=self.scrollable_frame, anchor="nw")
-        self.canvas.configure(yscrollcommand=self.scrollbar.set)
-
+        self.canvas.configure(yscrollcommand=self.scrollbary.set)
+        self.canvas.configure(xscrollcommand=self.scrollbarx.set)
+        
         self.canvas.pack(side="left", fill="both", expand=True)
-        self.scrollbar.pack(side="right", fill="y")
+        self.scrollbary.pack(side="right", fill="y")
+        self.scrollbarx.pack(side="bottom", fill="x")
 
-        self.back = BBDD_backend()
-        self.back.clean_bbdd()
+        self.back = BBDD_backend(lenght_exam=30)
         self.questions = self.back.questions
+
+        self.index_actual_question = 1
+        self.aciertos = 0
+        self.errores = 0
 
         self.question_label = tk.Label(
             self.scrollable_frame,
