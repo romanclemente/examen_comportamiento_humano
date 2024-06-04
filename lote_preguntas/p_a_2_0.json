@@ -11,7 +11,7 @@
     "¿Por cual de estas palabras esta compuesto neurociencia?": {
         "v": "Neuro (Perteneciente o relativo al sistema nervioso)",
         "f": [
-            "Neuro (Estudio sistematico de una realidad)",
+            "Neuro (Estudio sistematico de una realida",
             "Neuro (Analisis de un complejo organico que tiene cerebro o neuronas)",
             "Ciencia (Perteneciente o relativo al sistema nervioso)"
         ],
@@ -223,7 +223,8 @@
         "f": [
             "Falso"
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 3
     },
     "¿Cual de estos no es un objetivo de la neurociencia": {
         "v": "Generalizacion (de lo general a lo concreto),Reduccion (de lo concreto a lo general)",
@@ -258,8 +259,8 @@
         "f": [
             "Verdadero"
         ],
-        "c_count": 1,
-        "e_count": 1
+        "c_count": 3,
+        "e_count": 2
     },
     "El funcionamiento del sistema nervioso implica descender en el nivel de abstracción": {
         "v": "Falso",
@@ -312,7 +313,8 @@
         "f": [
             "Verdadero"
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 3
     },
     "La Psicología no es una disciplina relevante para el estudio de la mente y comportamiento": {
         "v": "Falso",
@@ -508,7 +510,7 @@
             "La mente y comportamiento",
             "La implementación computacional"
         ],
-        "c_count": 1,
+        "c_count": 3,
         "e_count": 1
     },
     "¿Cuál es la base de los procesos básicos del sistema nervioso?": {
@@ -842,7 +844,8 @@
             "Regula funciones involuntarias",
             "Controla el ritmo cardíaco"
         ],
-        "e_count": 1
+        "e_count": 2,
+        "c_count": 2
     },
     "¿Qué tipo de investigación busca encontrar una relación entre dos o más variables\n sin determinar causalidad?-3184d4c9-fa6a-4348-b6ea-5812f82e14eb": {
         "v": "Correlacional",
@@ -875,7 +878,8 @@
             "Nervios autónomos",
             "Nervios somáticos"
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 3
     },
     "¿Qué técnica se utiliza para observar las conexiones neuronales y su organización en\n circuitos específicos?-90285fc3-a914-4c8a-a20c-c900a1020064": {
         "v": "Tractografía por tensor de difusión (TD)",
@@ -927,7 +931,8 @@
             "Respuestas emocionales",
             "Activación cerebral"
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 3
     },
     "¿Qué división del sistema nervioso incluye el encéfalo y la médula espinal?-fdfe9bc3-795a-49d3-b765-a013ec7c9971": {
         "v": "Sistema nervioso central",
@@ -1179,7 +1184,8 @@
             "Un enfoque exclusivamente dualista.",
             "Un enfoque anecdótico y especulativo."
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 3
     },
     "¿Qué hito importante ocurrió en 1879?-9dfcf54a-8c9f-4e3a-82db-6cc59de50a82": {
         "v": "La creación del Laboratorio de Psicología Experimental por Wundt.",
@@ -1650,7 +1656,7 @@
             "TEP (Tomografía por Emisión de Positrones)."
         ],
         "e_count": 1,
-        "c_count": 2
+        "c_count": 3
     },
     "¿Cuáles son las ventajas del TAC?-a5490655-4796-430a-a216-4d66b54cc5e1": {
         "v": "Imágenes en 2D y 3D, y bajo coste.",
@@ -1684,7 +1690,8 @@
             "Bajo coste y portabilidad.",
             "Alta resolución temporal."
         ],
-        "e_count": 1
+        "e_count": 2,
+        "c_count": 2
     },
     "¿Cuál es una desventaja de la RMN?-cb6d2b55-adbd-4a91-986b-2440f743c916": {
         "v": "Coste elevado y menor resolución temporal que espacial.",
@@ -2043,7 +2050,8 @@
             "Publicar los resultados.",
             "Seleccionar la población de estudio."
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 2
     },
     "¿Cuál es el objetivo de la investigación?": {
         "v": "Confirmar o descartar la hipótesis inicial.",
@@ -2147,7 +2155,7 @@
             "La I.A. es completamente independiente del estudio de la mente.",
             "El estudio del comportamiento humano es irrelevante para la I.A."
         ],
-        "c_count": 2,
+        "c_count": 3,
         "e_count": 1
     },
     "¿Qué busca la investigación sobre la causalidad de fenómenos?": {
@@ -2215,7 +2223,8 @@
             "Para ocultar errores del estudio.",
             "Para impresionar a la comunidad científica."
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 1
     },
     "¿Cuál es la finalidad de formular una conclusión en una investigación?": {
         "v": "Aceptar o descartar la hipótesis y reconocer las limitaciones del estudio.",
@@ -2458,7 +2467,8 @@
             "Estudios clínicos y básicos",
             "Estudios fisiológicos y clínicos"
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 1
     },
     "¿Qué diferencia fundamental existe entre estudios fisiológicos y conductuales?": {
         "v": "Los estudios fisiológicos se centran en el funcionamiento biológico, mientras que los conductuales se centran en el comportamiento bajo circunstancias controlables",
@@ -2673,7 +2683,7 @@
             "Vasos sanguíneos y linfáticos.",
             "Tejido conectivo y adiposo."
         ],
-        "c_count": 1,
+        "c_count": 2,
         "e_count": 1
     },
     "¿Con qué funciones está relacionado el sistema nervioso somático (SNS)?-8c2acf4c-fc5e-48d5-ae64-79319ad57035": {
@@ -2778,7 +2788,7 @@
             "A los participantes del proyecto"
         ],
         "e_count": 2,
-        "c_count": 1
+        "c_count": 2
     },
     "¿Qué implica normalmente el diseño de un proyecto?": {
         "v": "Decidir qué variables se desean estudiar y cuáles serán manipuladas",
@@ -2911,7 +2921,7 @@
             "Diseño de encuesta"
         ],
         "e_count": 1,
-        "c_count": 2
+        "c_count": 3
     },
     "¿Cuál es una característica de los diseños cuasiexperimentales?": {
         "v": "No tienen un control completo sobre todas las variables",
@@ -2977,7 +2987,8 @@
             "Investigación de caso único",
             "Investigación cuasiexperimental"
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 1
     },
     "¿Qué deben considerar los investigadores al planificar el diseño de un proyecto?": {
         "v": "Qué variables se desean estudiar y cómo se manipularán",
@@ -3431,7 +3442,8 @@
             "Alta invasividad",
             "Imposibilidad de obtener imágenes 3D"
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 1
     },
     "¿En qué se basa la Resonancia Magnética Nuclear (RMN)?": {
         "v": "En la abundancia de protones en el tejido nervioso humano",
@@ -4014,7 +4026,7 @@
             "El tiempo de respuesta"
         ],
         "e_count": 2,
-        "c_count": 2
+        "c_count": 3
     },
     "¿Qué refleja la latencia en los potenciales evocados (PE)?": {
         "v": "El instante del tiempo en el que ha tenido lugar cada PE",
@@ -4033,7 +4045,8 @@
             "Radiación electromagnética",
             "Flujo sanguíneo cerebral"
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 1
     },
     "¿Cuál es el modo de análisis en la EEG?": {
         "v": "Registro de la actividad eléctrica, filtrado y suavizado",
@@ -4116,7 +4129,7 @@
             "Complejidad"
         ],
         "e_count": 2,
-        "c_count": 2
+        "c_count": 3
     },
     "¿Cuál es una desventaja de la MEG?": {
         "v": "Coste",
@@ -5834,6 +5847,870 @@
             "La contracción de los músculos",
             "La inhibición de las neuronas",
             "La despolarización de la membrana neuronal"
+        ]
+    },
+    "¿Cuál es la secuencia básica del proceso perceptivo en el cerebro humano?": {
+        "v": "Transducción → Conducción → Procesamiento primario → Procesamiento elaborado",
+        "f": [
+            "Conducción → Transducción → Procesamiento primario → Procesamiento elaborado",
+            "Procesamiento primario → Transducción → Conducción → Procesamiento elaborado",
+            "Procesamiento elaborado → Transducción → Conducción → Procesamientoprimario"
+        ]
+    },
+    "¿Qué estructura del cerebro se considera el primer intercambiador de información sensorial?": {
+        "v": "Tálamo",
+        "f": [
+            "Corteza visual primaria",
+            "Ganglios basales",
+            "Cerebelo"
+        ]
+    },
+    "¿Cuál es el principal objetivo del procesamiento de la información sensorial en el tálamo?": {
+        "v": "Filtrar y distribuir la información a las áreas correspondientes de la corteza cerebral",
+        "f": [
+            "Hacer consciente la información sensorial",
+            " Generar respuestas emocionales inmediatas",
+            "Almacenar la información para la memoria a largo plazo"
+        ]
+    },
+    "¿Qué papel juega la membrana basilar en la audición?": {
+        "v": "Transformar las vibraciones mecánicas en impulsos nerviosos en diferentes frecuencias",
+        "f": [
+            "Captar la luz y convertirla en señales nerviosas",
+            "Integrar información sensorial de diferentes modalidades",
+            "Almacenar memorias auditivas a largo plazo"
+        ]
+    },
+    "¿Qué tipo de células en la retina humana son responsables de la visión en condiciones de baja luminosidad?": {
+        "v": "Bastones",
+        "f": [
+            "Conos",
+            "Células ganglionares",
+            "Células bipolares"
+        ]
+    },
+    "¿Qué es la tonotopía en el contexto de la percepción auditiva?": {
+        "v": "La organización espacial de la percepción auditiva según las frecuencias de sonido",
+        "f": [
+            "La capacidad de detectar diferentes colores",
+            "La conversión de ondas de presión en vibraciones mecánicas",
+            "La percepción consciente del sonido"
+        ]
+    },
+    "¿Qué parte del oído humano se encarga de la transducción inicial de las ondas sonoras?": {
+        "v": "Cóclea",
+        "f": [
+            "Tímpano",
+            "Oído medio",
+            "Pabellón auricular"
+        ]
+    },
+    "¿Cuál es la diferencia principal entre sensación y percepción?": {
+        "v": "La percepción es la integración consciente de las sensaciones básicas",
+        "f": [
+            "La sensación es un proceso consciente y la percepción es inconsciente",
+            "c) La sensación se produce en el tálamo y la percepción en la corteza visual",
+            "d) La percepción es una respuesta básica mientras que la sensación es la experiencia consciente"
+        ]
+    },
+    "¿Qué es la transducción en el sistema auditivo?": {
+        "v": "b) La conversión de vibraciones mecánicas en señales nerviosas",
+        "f": [
+            "a) La conversión de ondas de presión en vibraciones mecánicas",
+            "c) La percepción de la dirección del sonido",
+            "d) La integración de señales auditivas en la corteza"
+        ]
+    },
+    "¿Qué tipo de percepción se ve afectada directamente por las expectativas y predicciones del cerebro?": {
+        "v": "Percepción descendente (top-down)",
+        "f": [
+            "Percepción consciente",
+            "Percepción lateral",
+            "Percepción ascendente (bottom-up)"
+        ]
+    },
+    "¿Qué rol juega la corteza de asociación en la percepción humana?": {
+        "v": "b) Integrar diferentes modalidades sensoriales para formar una percepción coherente",
+        "f": [
+            "Procesar la información de manera individual",
+            "c) Transducir señales físicas en impulsos nerviosos",
+            "d) Almacenar recuerdos sensoriales"
+        ]
+    },
+    "¿Qué significa percepción en términos científicos?": {
+        "v": "b) La experiencia consciente e interpretación de la información sensorial",
+        "f": [
+            "c) La transmisión de impulsos nerviosos a través de los axones",
+            "a) La respuesta básica de los receptores sensoriales",
+            "d) El almacenamiento de la información sensorial en la memoria"
+        ]
+    },
+    "¿Qué sentido humano es la única excepción que no pasa por el tálamo antes de llegar a la corteza cerebral?": {
+        "v": "Olfato",
+        "f": [
+            "Audición",
+            "Visión",
+            "Tacto"
+        ]
+    },
+    "¿Cuál es el primer paso en el proceso de percepción humana?": {
+        "v": "Transducción",
+        "f": [
+            "Conducción",
+            "Procesamiento primario",
+            "Integración sensorial"
+        ]
+    },
+    "En la percepción visual, ¿qué tipo de células en la retina están especializadas en detectar colores?": {
+        "v": "Conos",
+        "f": [
+            "Bastones",
+            "Células ganglionares",
+            "Células bipolares"
+        ]
+    },
+    "¿Qué estructura del sistema auditivo humano es responsable de la tonotopía?": {
+        "v": "Cóclea",
+        "f": [
+            "Tálamo",
+            "Corteza auditiva primaria",
+            "Membrana basilar"
+        ]
+    },
+    "¿Qué es sensación en términos científicos?": {
+        "v": "La respuesta psicológica elemental que se produce durante la transducción",
+        "f": [
+            "La integración consciente de la información sensorial",
+            "El almacenamiento de recuerdos sensoriales",
+            "La transmisión de señales a través de los nervios"
+        ]
+    },
+    "¿Qué proceso permite que las células ciliadas del oído transformen las vibraciones mecánicas en señales nerviosas?": {
+        "v": "Transducción",
+        "f": [
+            "Conducción",
+            "Procesamiento primario",
+            "Integración sensorial"
+        ]
+    },
+    "En qué parte del cerebro se realiza el procesamiento inicial y primario de la información visual?": {
+        "v": "Corteza visual primaria (V1)",
+        "f": [
+            "Corteza prefrontal",
+            "Tálamo",
+            "Ganglios basales"
+        ]
+    },
+    "¿Cuál es la función principal del tálamo en la percepción sensorial?": {
+        "v": "Actuar como un centro de distribución de la información sensorial",
+        "f": [
+            "Procesar la información visual",
+            "Generar respuestas emocionales",
+            "Almacenar memorias a largo plazo"
+        ]
+    },
+    "¿Qué es la transducción en el contexto de la percepción humana?": {
+        "v": "La conversión de energía física en impulsos nerviosos",
+        "f": [
+            "La integración de información sensorial",
+            "La percepción consciente de estímulos",
+            "La transmisión de señales nerviosas a través de los axones"
+        ]
+    },
+    "La percepción consciente de estímulos visuales en la corteza visual primaria se compara con cuál de los siguientes en IA?": {
+        "v": "Procesamiento avanzado de datos en una red neuronal profunda",
+        "f": [
+            "Almacenamiento de datos en una red distribuida",
+            "Procesamiento inicial de datos en un sensor",
+            "Procesamiento de datos en una red neuronal superficial"
+        ]
+    },
+    "En la percepción del equilibrio, ¿qué tipo de aceleración perciben los canales semicirculares?": {
+        "v": "Aceleraciones radiales o de giro",
+        "f": [
+            "Aceleraciones lineales",
+            "Aceleraciones químicas",
+            "Aceleraciones centripetas"
+        ]
+    },
+    "¿Cómo se puede comparar la integración sensorial en la corteza de asociación humana con un proceso en IA?": {
+        "v": "Combinación de diferentes fuentes de datos para formar una percepción coherente",
+        "f": [
+            "Almacenamiento de datos en una base de datos",
+            "Procesamiento de datos sin integración",
+            "Ejecución de algoritmos sin procesamiento previo"
+        ]
+    },
+    "¿Qué función tiene el tálamo en el procesamiento de información sensorial que es similar a algún componente en IA?": {
+        "v": "Filtra y distribuye la información sensorial a las áreas específicas para su procesamiento avanzado, similar a un nodo de distribución en redes de comunicación",
+        "f": [
+            "Actúa como un simple receptor de señales",
+            "Almacena la información sensorial a largo plazo",
+            "Genera respuestas emocionales directas"
+        ]
+    },
+    "La capacidad del cerebro humano para procesar información de manera predictiva se compara con qué técnica en IA?": {
+        "v": "Algoritmos de predicción",
+        "f": [
+            "Redes neuronales recurrentes",
+            "Algoritmos de clasificación",
+            "Aprendizaje por refuerzo"
+        ]
+    },
+    "¿Qué tipo de percepción humana ha servido como modelo para el desarrollo de algoritmos de reconocimiento de patrones en IA?": {
+        "v": "Percepción visual",
+        "f": [
+            "Percepción gustativa",
+            "Percepción olfativa",
+            "Percepción térmica"
+        ]
+    },
+    "En el sistema vestibular, ¿qué estructuras se encargan de percibir las aceleraciones lineales?": {
+        "v": "Los órganos otolíticos",
+        "f": [
+            "Los canales semicirculares",
+            "Los conos y bastones",
+            "El órgano de Corti"
+        ]
+    },
+    "¿Qué representa el modelo 3D centrado en el objeto en la teoría de la visión de Marr?": {
+        "v": "Las formas reales del objeto y sus relaciones con otros objetos, independientemente del punto de vista del observador",
+        "f": [
+            "La percepción de intensidad y brillo",
+            "La representación de las partes visibles del objeto desde el punto de vista del observador",
+            "La percepción del movimiento del objeto"
+        ]
+    },
+    "¿Cómo se relaciona la transducción en los sentidos humanos con los sensores en sistemas artificiales?": {
+        "v": "Ambos procesos convierten diferentes tipos de energía en señales eléctricas para su procesamiento",
+        "f": [
+            "Ambos procesos convierten diferentes tipos de energía en señales eléctricas para su procesamiento en sistemas humanos",
+            "La transducción en humanos convierte energía eléctrica en señales químicas",
+            "Los sensores artificiales no requieren transducción"
+        ]
+    },
+    "¿Qué aspecto de la percepción auditiva humana ha influido en el diseño de procesadores de voz en IA?": {
+        "v": "La tonotopía de la cóclea",
+        "f": [
+            "La percepción del equilibrio",
+            "La percepción de olores",
+            "La visión tricromática"
+        ]
+    },
+    "La arquitectura jerárquica de procesamiento en la corteza visual humana ha inspirado cuál de los siguientes conceptos en IA?": {
+        "v": "Redes neuronales convolucionales",
+        "f": [
+            "Algoritmos de ordenación",
+            "Algoritmos de búsqueda",
+            "Redes neuronales recurrentes"
+        ]
+    },
+    "¿Qué modelo de color utilizado en procesamiento digital de imágenes está inspirado en la percepción humana?": {
+        "v": "RGB",
+        "f": [
+            "CMYK",
+            "HSV",
+            "HSL"
+        ]
+    },
+    "¿Qué función principal tiene el órgano de Corti en la percepción auditiva?": {
+        "v": "Captar diferentes longitudes de onda para la percepción del color",
+        "f": [
+            "Detectar la intensidad de la luz en condiciones de baja luminosidad",
+            "Procesar sonidos de alta frecuencia",
+            "Detectar olores"
+        ]
+    },
+    "Tipo de energía es transducida por los receptores sensoriales en el oído humano?": {
+        "v": "Energía mecánica",
+        "f": [
+            "Energía química",
+            "Energía térmica",
+            "Energía lumínica"
+        ]
+    },
+    "¿Analogía se puede hacer entre el aumento de la potencia de cómputo en IA y una dimensión emocional en humanos?": {
+        "v": "Incrementar la potencia de cómputo es similar a aumentar la energía o capacidad de respuesta, comparable a una emoción de alta activación",
+        "f": [
+            "Incrementar la potencia de cómputo es similar a reducir la energía, comparable a una emoción de baja activación",
+            "Incrementar la potencia de cómputo es comparable a una emoción de polaridad negativa",
+            "Incrementar la potencia de cómputo no tiene relación con las dimensiones emocionales"
+        ]
+    },
+    "¿Secuencia básica del proceso perceptivo en el cerebro humano?": {
+        "v": "Transducción → Conducción → Procesamiento primario → Procesamiento elaborado",
+        "f": [
+            "Conducción → Transducción → Procesamiento primario → Procesamiento elaborado",
+            "Procesamiento primario → Transducción → Conducción → Procesamiento elaborado",
+            "Procesamiento elaborado → Transducción → Conducción → Procesamiento primario"
+        ]
+    },
+    "¿Estructura del cerebro se considera el primer intercambiador de información sensorial?": {
+        "v": "Tálamo",
+        "f": [
+            "Corteza visual primaria",
+            "Ganglios basales",
+            "Cerebelo"
+        ]
+    },
+    "En términos científicos, ¿cómo se diferencian la sensación y la percepción?": {
+        "v": "La sensación es una respuesta inconsciente, mientras que la percepción es la experiencia consciente de la información sensorial.",
+        "f": [
+            "La sensación es una respuesta consciente, mientras que la percepción es inconsciente.",
+            "La sensación y la percepción son términos intercambiables.",
+            "La sensación se refiere a la integración de estímulos, mientras que la percepción se refiere a la transducción."
+        ]
+    },
+    "¿Cómo se comparan los receptores sensoriales humanos con los sensores en sistemas artificiales?": {
+        "v": "Los sensores en sistemas artificiales funcionan de manera similar al traducir diferentes formas de energía física en señales eléctricas.",
+        "f": [
+            "Los receptores sensoriales humanos no tienen equivalente en sistemas artificiales.",
+            "Los receptores sensoriales humanos son más avanzados que los sensores artificiales.",
+            "Los sensores artificiales no pueden realizar transducción como los receptores sensoriales humanos."
+        ]
+    },
+    "¿Qué parte del sistema visual humano se asemeja a los componentes de una red neuronal en IA?": {
+        "v": "La corteza visual primaria",
+        "f": [
+            "La retina",
+            "Los conos y bastones",
+            "Los nervios ópticos"
+        ]
+    },
+    "¿Qué característica del procesamiento visual humano se ha bioinspirado en el desarrollo de redes neuronales convolucionales?": {
+        "v": "La organización por capas y procesamiento jerárquico",
+        "f": [
+            "La transducción de señales",
+            "La conducción de información",
+            "La percepción consciente"
+        ]
+    },
+    "¿Cómo se compara el aumento en la base de conocimiento de una IA con una dimensión emocional en los humanos?": {
+        "v": "Es similar a ganar conocimiento o habilidad, comparable a una emoción agradable",
+        "f": [
+            "Es similar a una emoción de baja activación",
+            "Es comparable a una emoción de polaridad negativa",
+            "Es similar a una emoción de alta activación"
+        ]
+    },
+    "La visión artificial en IA se inspira en cuál de los siguientes principios perceptivos humanos?": {
+        "v": "La percepción visual a través de la radiación electromagnética",
+        "f": [
+            "La transducción química del olfato",
+            "La percepción del equilibrio",
+            "La percepción auditiva de ondas de presión"
+        ]
+    },
+    "En el procesamiento auditivo humano, ¿qué estructura se encarga de la tonotopia, que es comparable a la organización jerárquica en sistemas IA?": {
+        "v": "Cóclea",
+        "f": [
+            "Tálamo",
+            "Corteza auditiva primaria",
+            "Nervio auditivo"
+        ]
+    },
+    "¿Qué tipo de receptores sensoriales están involucrados en la percepción de la luz?": {
+        "v": "Fotorreceptores",
+        "f": [
+            "Quimiorreceptores",
+            "Mecanorreceptores",
+            "Termorreceptores"
+        ]
+    },
+    "¿Qué función principal cumplen los bastones en la retina humana?": {
+        "v": "Percibir la intensidad de la luz en condiciones de baja luminosidad",
+        "f": [
+            "Detectar colores",
+            "Detectar sonidos",
+            "Procesar señales olfativas"
+        ]
+    },
+    "¿Cuál es el resultado final del procesamiento en la corteza visual primaria (V1)?": {
+        "v": "Procesamiento de atributos visuales básicos como orientación y color",
+        "f": [
+            "Creación de imágenes tridimensionales",
+            "Percepción del movimiento",
+            "Integración de información auditiva y visual"
+        ]
+    },
+    "¿Qué característica de los conos permite la visión en color?": {
+        "v": "La presencia de diferentes pigmentos que captan distintas longitudes de onda de luz",
+        "f": [
+            "Su alta sensibilidad a la luz",
+            "La convergencia de múltiples conos en una sola neurona bipolar",
+            "Su capacidad para detectar luz en condiciones de baja luminosidad"
+        ]
+    },
+    "La arquitectura por capas de la corteza visual primaria (V1) en el cerebro humano ha inspirado el desarrollo de qué tipo de redes en IA?": {
+        "v": "Redes neuronales convolucionales",
+        "f": [
+            "Redes neuronales recurrentes",
+            "Redes de aprendizaje reforzado",
+            "Redes neuronales de Hopfield"
+        ]
+    },
+    "¿Cómo influye el procesamiento predictivo del cerebro humano en la percepción?": {
+        "v": "El cerebro utiliza el conocimiento previo para anticipar y dar sentido a la información sensorial entrante",
+        "f": [
+            "El cerebro solo procesa la información sensorial sin aplicar conocimiento previo",
+            "El cerebro ignora la información sensorial entrante",
+            "El cerebro no puede hacer predicciones sobre la información sensorial"
+        ]
+    },
+    "La percepción consciente se logra en qué etapa del procesamiento de la información sensorial?": {
+        "v": "Procesamiento elaborado en la corteza cerebral",
+        "f": [
+            "Transducción",
+            "Conducción",
+            "Procesamiento primario"
+        ]
+    },
+    "¿Cuál es el propósito principal del procesamiento en el tálamo antes de llegar a la corteza cerebral?": {
+        "v": "Distribuir la información a las áreas correspondientes de la corteza cerebral para un procesamiento avanzado",
+        "f": [
+            "Hacer consciente la información sensorial",
+            "Generar respuestas emocionales",
+            "Regular la memoria a largo plazo"
+        ]
+    },
+    "¿Qué función específica cumple la corteza de asociación en el proceso perceptivo?": {
+        "v": "Integrar información de diferentes modalidades sensoriales para formar una percepción coherente",
+        "f": [
+            "Procesar información sensorial básica",
+            "Regular funciones motoras",
+            "Almacenar recuerdos a largo plazo"
+        ]
+    },
+    "¿Qué tipo de aprendizaje en IA se inspira en el proceso de percepción humana para reconocimiento de patrones?": {
+        "v": "Aprendizaje supervisado",
+        "f": [
+            "Aprendizaje no supervisado",
+            "Aprendizaje reforzado",
+            "Aprendizaje por transferencia"
+        ]
+    },
+    "La visión computacional en IA se basa en qué tipo de procesamiento similar al humano?": {
+        "v": "Procesamiento de señales visuales a través de redes convolucionales",
+        "f": [
+            "Procesamiento de señales auditivas",
+            "Procesamiento de señales mecánicas",
+            "Procesamiento de señales químicas"
+        ]
+    },
+    "¿Qué analogía se puede hacer entre el aumento de la potencia de cómputo en IA y una dimensión emocional en humanos?": {
+        "v": "Incrementar la potencia de cómputo es similar a aumentar la energía o capacidad de respuesta, comparable a una emoción de alta activación",
+        "f": [
+            "Incrementar la potencia de cómputo es similar a reducir la energía, comparable a una emoción de baja activación",
+            "Incrementar la potencia de cómputo es comparable a una emoción de polaridad negativa",
+            "Incrementar la potencia de cómputo no tiene relación con las dimensiones emocionales"
+        ]
+    },
+    "¿Qué tipo de energía es transducida por los receptores sensoriales en el oído humano?": {
+        "v": "Energía mecánica",
+        "f": [
+            "Energía química",
+            "Energía térmica",
+            "Energía lumínica"
+        ]
+    },
+    "¿Qué estructura del sistema nervioso central es responsable de emitir las órdenes motoras que los músculos efectúan?": {
+        "v": "Corteza motora",
+        "f": [
+            "Cerebelo",
+            "Médula espinal",
+            "Ganglios basales"
+        ]
+    },
+    "¿Qué término se utiliza para describir la unión estructural y funcional entre una motoneurona y un músculo?": {
+        "v": "Unión neuromuscular",
+        "f": [
+            "Sinapsis",
+            "Ganglio basal",
+            "Decusación"
+        ]
+    },
+    "¿Cuál es la principal diferencia en la gestión motora entre la corteza motora y el cerebelo?": {
+        "v": "La corteza motora procesa movimientos conscientemente, el cerebelo automatiza rutinas motoras aprendidas",
+        "f": [
+            "La corteza motora automatiza rutinas motoras, el cerebelo no",
+            "El cerebelo emite órdenes motoras, la corteza motora no",
+            "El cerebelo procesa la información contralateralmente, la corteza motora no"
+        ]
+    },
+    "¿Qué función tienen los ganglios basales en el control motor?": {
+        "v": "Automatizan y coordinan movimientos aprendidos",
+        "f": [
+            "Emiten órdenes motoras",
+            "Procesan información sensorial",
+            "Controlan los reflejos"
+        ]
+    },
+    "¿Qué es la propiocepción?": {
+        "v": "La capacidad de los músculos de informar al cerebro sobre su estado tensional y postural",
+        "f": [
+            "El sentido del tacto en la piel",
+            "La percepción del dolor",
+            "La capacidad de emitir órdenes motoras"
+        ]
+    },
+    "¿Qué papel tiene la emoción en el comportamiento humano según?": {
+        "v": "Canaliza capacidades intelectuales y creativas",
+        "f": [
+            "Es un proceso puramente fisiológico",
+            "No tiene impacto en el comportamiento",
+            "Es solo un reflejo de instintos primitivos"
+        ]
+    },
+    "¿Cómo se distribuye la información en la médula espinal?": {
+        "v": "La información sensorial asciende por la parte dorsal y la motora desciende por la ventral",
+        "f": [
+            "La información sensorial asciende por la parte ventral y la motora desciende por la dorsal",
+            "Toda la información asciende y desciende por la parte ventral",
+            "Toda la información asciende y desciende p or la parte dorsal"
+        ]
+    },
+    "¿Qué es el Homúnculo de Penfield?": {
+        "v": "Una representación del cuerpo humano basado en la densidad neuronal destinada a cada parte",
+        "f": [
+            "Un modelo del sistema locomotor",
+            "Una estructura del cerebelo",
+            "Una técnica para medir la propiocepción"
+        ]
+    },
+    "¿Qué estructura encefálica es responsable de la automatización de la coordinación de movimientos aprendidos?": {
+        "v": "Ganglios basales y cerebelo",
+        "f": [
+            "Corteza motora",
+            "Médula espinal",
+            "Corteza somatosensorial"
+        ]
+    },
+    "¿Qué concepto relacionado con la motivación se menciona como un proceso básico que podría ser integrado en la Inteligencia Artificial?": {
+        "v": "El aprendizaje por refuerzo",
+        "f": [
+            "La emoción",
+            "La propiocepción",
+            "Los movimientos reflejos"
+        ]
+    },
+    "En el contexto de la IA, ¿cómo se utiliza la motivación inspirada en sistemas biológicos?": {
+        "v": "Para guiar el aprendizaje y la toma de decisiones",
+        "f": [
+            "Como un mecanismo para aumentar la memoria",
+            "Para mejorar la percepción sensorial",
+            "Para procesar el lenguaje natural"
+        ]
+    },
+    "¿Qué técnica de aprendizaje automático se asemeja al proceso de recompensa y castigo en el aprendizaje humano?": {
+        "v": "Aprendizaje por refuerzo",
+        "f": [
+            "Aprendizaje supervisado",
+            "Redes neuronales convolucionales",
+            "Algoritmos de clustering"
+        ]
+    },
+    "¿Qué estructura cerebral se toma como modelo para mejorar los sistemas protésicos en la IA?": {
+        "v": "Corteza motora",
+        "f": [
+            "Hipocampo",
+            "Amígdala",
+            "Cerebelo"
+        ]
+    },
+    "¿Qué principio biológico se aplica en el diseño de robots para mejorar su movimiento y adaptación al entorno?": {
+        "v": "Retroalimentación sensorial",
+        "f": [
+            "Homeostasis",
+            "Plasticidad neuronal",
+            "Automatización de reflejos"
+        ]
+    },
+    "¿Qué función cerebral es crucial para la coordinación y aprendizaje de movimientos en humanos y es utilizada como inspiración en robótica?": {
+        "v": "Ganglios basales",
+        "f": [
+            "Corteza visual",
+            "Hipocampo",
+            "Tálamo"
+        ]
+    },
+    "¿Cómo se implementa la propiocepción en sistemas de inteligencia artificial?": {
+        "v": "Utilizando sensores de posición y movimiento",
+        "f": [
+            "Mediante sensores táctiles avanzados",
+            "A través de algoritmos de visión por computadora",
+            "Con redes neuronales profundas"
+        ]
+    },
+    "¿Qué aspecto de la acción humana ha sido clave en el desarrollo de modelos de IA que interactúan con su entorno?": {
+        "v": "La planificación de movimientos y ejecución precisa",
+        "f": [
+            "La memoria a largo plazo",
+            "La toma de decisiones basada en la emoción",
+            "La capacidad de aprendizaje automático"
+        ]
+    },
+    "¿Qué modelo de control motor humano ha inspirado la creación de robots con movimientos más fluidos y naturales?": {
+        "v": "Modelo de control feedback",
+        "f": [
+            "Modelo feedforward",
+            "Modelo de control jerárquico",
+            "Modelo de control distribuido"
+        ]
+    },
+    "¿Qué sistema de retroalimentación es esencial en el diseño de prótesis robóticas para mejorar la adaptación al usuario?": {
+        "v": "Retroalimentación háptica",
+        "f": [
+            "Retroalimentación visual",
+            "Retroalimentación auditiva",
+            "Retroalimentación olfativa"
+        ]
+    },
+    "¿Qué componente de la motivación es fundamental para los sistemas de aprendizaje por refuerzo en IA?": {
+        "v": "La recompensa",
+        "f": [
+            "La memoria",
+            "La percepción sensorial",
+            "La estructura jerárquica"
+        ]
+    },
+    "¿Qué enfoque bioinspirado se utiliza para mejorar la estabilidad y equilibrio de robots móviles?": {
+        "v": "Imitación de los reflejos de enderezamiento en humanos",
+        "f": [
+            "Implementación de algoritmos de clustering",
+            "Uso de redes neuronales convolucionales",
+            "Aplicación de teoría de juegos"
+        ]
+    },
+    "¿Qué estructura del sistema nervioso es responsable de emitir las órdenes motoras que los músculos efectúan?": {
+        "v": "Corteza motora",
+        "f": [
+            "Cerebelo",
+            "Médula espinal",
+            "Ganglios basales"
+        ]
+    },
+    "¿Cómo se denomina la unión estructural y funcional entre una motoneurona y un músculo?": {
+        "v": "Unión neuromuscular",
+        "f": [
+            "Sinapsis",
+            "Ganglio basal",
+            "Decusación"
+        ]
+    },
+    "¿Qué papel juegan los ganglios basales en el control motor?": {
+        "v": "Automatizan y coordinan movimientos aprendidos",
+        "f": [
+            "Emiten órdenes motoras",
+            "Procesan información sensorial",
+            "Controlan los reflejos"
+        ]
+    },
+    "¿Qué significa la propiocepción?": {
+        "v": "La capacidad de los músculos de informar al cerebro sobre su estado tensional y postural",
+        "f": [
+            "El sentido del tacto en la piel",
+            "La percepción del dolor",
+            "La capacidad de emitir órdenes motoras"
+        ]
+    },
+    "¿Cuál de las siguientes estructuras encefálicas es clave para la coordinación y automatización de movimientos aprendidos?": {
+        "v": "Ganglios basales y cerebelo",
+        "f": [
+            "Corteza motora",
+            "Médula espinal",
+            "Corteza somatosensorial"
+        ]
+    },
+    "¿Qué proceso describe mejor la secuencia de una acción motora desde su ideación hasta su ejecución?": {
+        "v": "Representación interna de la acción",
+        "f": [
+            "Aprendizaje profundo",
+            "Algoritmos de búsqueda",
+            "Reducción de dimensionalidad"
+        ]
+    },
+    "¿Qué función cerebral es crucial para la planificación y ejecución de movimientos en humanos y es utilizada como inspiración en robótica?": {
+        "v": "Corteza motora",
+        "f": [
+            "Corteza visual",
+            "Ganglios basales",
+            "Hipocampo"
+        ]
+    },
+    "¿Principal diferencia en la gestión motora entre la corteza motora y el cerebelo?": {
+        "v": "La corteza motora procesa movimientos conscientemente, el cerebelo automatiza rutinas motoras aprendidas",
+        "f": [
+            "La corteza motora automatiza rutinas motoras, el cerebelo no",
+            "El cerebelo emite órdenes motoras, la corteza motora no",
+            "El cerebelo procesa la información contralateralmente, la corteza motora no"
+        ]
+    },
+    "¿Qué es el concepto de decusación en el contexto del sistema motor?": {
+        "v": "El cruce de fibras nerviosas en la médula espinal que permite la contralateralización de los movimientos",
+        "f": [
+            "La unión entre una motoneurona y un músculo",
+            "La capacidad de los músculos de informar al cerebro sobre su estado tensional",
+            "La automatización de movimientos aprendidos por los ganglios basales"
+        ]
+    },
+    "¿Qué función tienen los efectores en el sistema locomotor humano?": {
+        "v": "Ejecutar movimientos mediante contracción muscular",
+        "f": [
+            "Emitir órdenes motoras",
+            "Procesar información sensorial",
+            "Coordinar movimientos complejos"
+        ]
+    },
+    "¿Dónde se procesa conjuntamente la información propioceptiva y háptica en el cerebro?": {
+        "v": "Corteza somatosensorial",
+        "f": [
+            "Corteza motora",
+            "Cerebelo",
+            "Ganglios basales"
+        ]
+    },
+    "¿Qué estructura del sistema nervioso central organiza la motricidad de manera contralateral?": {
+        "v": "Corteza motora",
+        "f": [
+            "Cerebelo",
+            "Médula espinal",
+            "Ganglios basales"
+        ]
+    },
+    "¿Qué es un reflejo en el contexto del sistema nervioso?": {
+        "v": "Una respuesta motora automática ante un estímulo",
+        "f": [
+            "Una respuesta motora voluntaria",
+            "Una planificación de movimiento consciente",
+            "Una contracción muscular prolongada"
+        ]
+    },
+    "¿Qué es la motivación en términos de comportamiento humano?": {
+        "v": "Un impulso que dirige la energía hacia un comportamiento específico",
+        "f": [
+            "Un proceso fisiológico que genera emociones",
+            "Un reflejo automático ante un estímulo",
+            "Una planificación consciente de acciones"
+        ]
+    },
+    "¿Qué estructura cerebral es clave en la regulación de la atención y la coordinación de planes de acción?": {
+        "v": "Corteza prefrontal",
+        "f": [
+            "Hipocampo",
+            "Amígdala",
+            "Núcleo accumbens"
+        ]
+    },
+    "¿Qué neurotransmisor es fundamental en el proceso de motivación humano?": {
+        "v": "Dopamina",
+        "f": [
+            "Serotonina",
+            "GABA",
+            "Glutamato"
+        ]
+    },
+    "¿Qué es la dopamina en el contexto del aprendizaje por refuerzo?": {
+        "v": "Un neurotransmisor que aumenta la probabilidad de repetición de una acción mediante la predicción de recompensa",
+        "f": [
+            "Un neurotransmisor que disminuye la probabilidad de repetición de una acción",
+            "Un neurotransmisor que regula el sueño y la vigilia",
+            "Un neurotransmisor que inhibe la actividad motora"
+        ]
+    },
+    "¿Qué es el núcleo accumbens en el contexto del sistema de recompensa?": {
+        "v": "Una estructura que asocia emociones con conductas, motivando ciertos comportamientos",
+        "f": [
+            "Una estructura que procesa la memoria a largo plazo",
+            "Una estructura que regula la homeostasis",
+            "Una estructura que controla los reflejos automáticos"
+        ]
+    },
+    "¿Qué estructura cerebral actúa como reguladora central de múltiples funciones autónomas y endocrinas?": {
+        "v": "Hipotálamo",
+        "f": [
+            "Hipocampo",
+            "Amígdala",
+            "Corteza prefrontal"
+        ]
+    },
+    "¿Qué es un modelo de control feedforward en el contexto de la motricidad?": {
+        "v": "Un modelo que predice las consecuencias de las acciones motoras antes de ejecutarlas",
+        "f": [
+            "Un modelo que utiliza retroalimentación para ajustar los movimientos",
+            "Un modelo que controla los reflejos automáticos",
+            "Un modelo que coordina movimientos complejos mediante retroalimentación continua"
+        ]
+    },
+    "¿Qué estructura encefálica está involucrada en el desencadenamiento rápido e inconsciente de emociones negativas?": {
+        "v": "Amígdala",
+        "f": [
+            "Hipocampo",
+            "Corteza prefrontal",
+            "Hipotálamo"
+        ]
+    },
+    "¿Qué función tiene la corteza orbitofrontal en el procesamiento emocional?": {
+        "v": "Interviene en los procesos emocionales durante la interacción social",
+        "f": [
+            "Regula la homeostasis",
+            "Procesa la memoria a largo plazo",
+            "Controla los reflejos automáticos"
+        ]
+    },
+    "¿Qué es la teoría de la activación en el contexto de la motivación?": {
+        "v": "Una teoría que considera que el sujeto es agente de su propia conducta, dirigida a metas definidas",
+        "f": [
+            "Una teoría que considera que todo comportamiento es una respuesta a un estímulo externo",
+            "Una teoría que relaciona la motivación con la regulación homeostática",
+            "Una teoría que explica la motivación en términos de aprendizaje por refuerzo"
+        ]
+    },
+    "¿Qué proceso se describe mejor como la predicción y ajuste de movimientos para alcanzar una meta específica?": {
+        "v": "Forward models",
+        "f": [
+            "Retroalimentación sensorial",
+            "Reflejos automáticos",
+            "Movimientos complejos"
+        ]
+    },
+    "¿Qué estructura es responsable de la planificación y programación motora?": {
+        "v": "Área motora suplementaria",
+        "f": [
+            "Área premotora",
+            "Corteza motora primaria",
+            "Ganglios basales"
+        ]
+    },
+    "¿Qué implica la decusación en el contexto del sistema nervioso?": {
+        "v": "El cruce de fibras nerviosas que permite la contralateralización de los movimientos",
+        "f": [
+            "La unión entre una motoneurona y un músculo",
+            "La capacidad de los músculos de informar al cerebro sobre su estado tensional",
+            "La automatización de movimientos aprendidos"
+        ]
+    },
+    "¿Qué es la teoría de expectativas y valencias en el contexto de la motivación?": {
+        "v": "Una teoría que considera la motivación como el producto de expectativas y el valor atribuido a un resultado",
+        "f": [
+            "Una teoría que relaciona la motivación con la regulación homeostática",
+            "Una teoría que relaciona la motivación con la energía y dirección de un comportamiento",
+            "Una teoría que explica la motivación en términos de aprendizaje por refuerzo"
+        ]
+    },
+    "¿Cuál es el componente principal del sistema límbico que se encarga del procesamiento emocional?": {
+        "v": "Amígdala",
+        "f": [
+            "Corteza prefrontal",
+            "Hipotálamo",
+            "Núcleo accumbens"
+        ]
+    },
+    "¿Qué teoría sostiene que la emoción y el sentimiento ocurren simultáneamente tras un estímulo desencadenante?": {
+        "v": "Teoría central (Cannon-Bard)",
+        "f": [
+            "Teoría periférica (James-Lange)",
+            "Teoría de la activación",
+            "Teoría de la motivación intrínseca"
         ]
     }
 }

@@ -21,12 +21,27 @@ class BBDD_backend:
         sorted_dct = dict(
             sorted(dct.items(), key=lambda item: item[1]["e_count"], reverse=True)
         )
+        index, length, error, accurate = self.get_amount_question_total()
+        return sorted_dct, index, length, error, accurate
 
-        return sorted_dct
+    def get_amount_question_total(self):
+        asks = list(self.all_questions)
+        index = 0
+        error = 0
+        accurate = 0
+        for x in asks:
+            if "e_count" in self.all_questions[x] or "c_count" in self.all_questions[x]:
+                if "e_count" in self.all_questions[x]:
+                    error += 1
+                else:
+                    accurate += 1
+                index += 1
+
+        return index, len(asks), error, accurate
 
     def get_preguntas(self):
         with open(
-            "lote_preguntas/p_a_2_0.json",
+            "examen_comportamiento_humano/lote_preguntas/p_a_2_0.json",
             "r",
             encoding="utf-8",
         ) as file:
@@ -84,12 +99,25 @@ class BBDD_backend:
                 r = random.randint(0, len(asks) - 1)
                 question_key = asks[r]
                 if question_key not in dct:
-                    if "c_count" not in self.all_questions[question_key] or (
+                    if "c_count" not in self.all_questions[question_key]:
+                        dct[question_key] = self.all_questions[question_key]
+                    elif (
                         "c_count" in self.all_questions[question_key]
                         and int(self.all_questions[question_key]["c_count"]) <= 2
                     ):
-                        dct[question_key] = self.all_questions[question_key]
-
+                        max_tries = 30
+                        index = 0
+                        while index >= max_tries:
+                            index += 1
+                            r_local = random.randint(0, len(asks) - 1)
+                            local_question_key = asks[r_local]
+                            if "c_count" not in self.all_questions[local_question_key]:
+                                dct[local_question_key] = self.all_questions[
+                                    local_question_key
+                                ]
+                                index = 100
+                        if index < 100:
+                            dct[question_key] = self.all_questions[question_key]
         return dct
 
     def get_points(self):
@@ -97,7 +125,7 @@ class BBDD_backend:
 
     def write_in_preguntas(self):
         with open(
-            "lote_preguntas/p_a_2_0.json",
+            "examen_comportamiento_humano/lote_preguntas/p_a_2_0.json",
             "w",
             encoding="utf-8",
         ) as file:

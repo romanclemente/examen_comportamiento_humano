@@ -337,11 +337,16 @@ class StartApp:
         hsb.config(command=text_widget.xview)
         font_style = font.Font(size=15)
         back = BBDD_backend(lenght_exam=1, only_fails=False)
-        dct_fails = back.get_all_fail_questions()
+        dct_fails, index, length, error, accurate = back.get_all_fail_questions()
+        text_widget.insert(
+            tk.END,
+            f"Contestadas {index} preguntas de {length} tienes una tasa de acierto de {round((accurate / length) * 100,2)}%\n\n\nFallos totales : {error}, aciertos {accurate}\n\n\n",
+        )
+
         for x in list(dct_fails):
             text_widget.insert(
                 tk.END,
-                f"Fallos: {dct_fails[x]['e_count']} Pregunta : {x} Respuesta : {dct_fails[x]['v']}\n\n\n",
+                f"Fallos: {dct_fails[x]['e_count']}, Pregunta : {x}, Respuesta : {dct_fails[x]['v']}\n\n\n",
             )
         text_widget.configure(font=font_style)
         text_widget.config(state=tk.DISABLED)
