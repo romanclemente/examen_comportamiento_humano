@@ -132,7 +132,8 @@
             "EEG",
             "SNS",
             "GNS"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Que hace el Estimulacion magnetica transcraneal?": {
         "v": "Mediante campos magneticos desde fuera de la cabeza se inducen actividades en regiones concretas de la corteza cerebral",
@@ -140,7 +141,8 @@
             "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera externa\n sin incidir en el craneo",
             "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera interna\n incidiendo en el craneo",
             "Emplea campos electromagneticos para comprobar la actividad electrica de las neuronas de la corteza cerebral"
-        ]
+        ],
+        "c_count": 2
     },
     "¿Como se representa Estimulacion magnetica transcraneal?": {
         "v": "Ninguna de las anteriores",
@@ -573,7 +575,8 @@
             "La interacción bioquímica entre moléculas",
             "Los procesos e interconexiones neuronales",
             "La implementación computacional"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál es un importante núcleo potencial de bioinspiración?": {
         "v": "El estudio de la mente y comportamiento",
@@ -682,8 +685,8 @@
             "A entender el funcionamiento del sistema nervioso",
             "A explorar la función de las neuronas espejo"
         ],
-        "e_count": 4,
-        "c_count": 2
+        "e_count": 3,
+        "c_count": 3
     },
     "¿Qué relación se establece entre neurociencias e inteligencia artificial según el texto?": {
         "v": "Una relación recíproca",
@@ -1095,8 +1098,7 @@
             "Electroencefalografía (EEG)",
             "Magnetoencefalografía (MEG)"
         ],
-        "e_count": 1,
-        "c_count": 2
+        "e_count": 3
     },
     "¿Qué término describe la capacidad del cerebro para cambiar y adaptarse a lo largo del \ntiempo?-b84c3dbc-8e73-4bb3-b74b-89189d74168d": {
         "v": "Neuroplasticidad",
@@ -2117,7 +2119,8 @@
             "La disponibilidad de recursos.",
             "La moda en la comunidad científica.",
             "Las expectativas de resultados."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Sobre qué trabaja la investigación según la hipótesis planteada?": {
         "v": "Sobre una población específica.",
@@ -4032,7 +4035,8 @@
             "La intensidad de los impulsos nerviosos",
             "La duración de la actividad sináptica",
             "La frecuencia de las ondas cerebrales"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué se aplica a la señal bruta de entrada en la técnica de EEG?": {
         "v": "Un filtrado y un suavizado previo",
@@ -4658,7 +4662,8 @@
             "Sistema Nervioso Superior e Inferior",
             "Sistema Nervioso Sensorial y Motor",
             "Sistema Nervioso Simpático y Parasimpático"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué criterio de división del Sistema Nervioso se basa en la funcionalidad de sus componentes?": {
         "v": "Criterio de división fisiológico-funcional",
@@ -5889,7 +5894,9 @@
             "Eliminar estímulos externos",
             "Almacenar energía física",
             "Liberar hormonas en el cerebro"
-        ]
+        ],
+        "e_count": 1,
+        "c_count": 1
     },
     "¿Cómo se describe el funcionamiento básico de los receptores sensoriales?": {
         "v": "Al ser estimulados, su membrana se despolariza eléctricamente y desencadena un impulso nervioso",
@@ -5937,7 +5944,8 @@
             "La actividad de las cortezas primarias",
             "La transmisión de impulsos nerviosos",
             "La inhibición de la respuesta neuronal"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué estructuras están involucradas en la percepción?": {
         "v": "Neuronas de cortezas específicas y de asociación del SNC",
@@ -5965,7 +5973,8 @@
             "La contracción de los músculos",
             "La inhibición de las neuronas",
             "La despolarización de la membrana neuronal"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál es la secuencia básica del proceso perceptivo en el cerebro humano?": {
         "v": "Transducción → Conducción → Procesamiento primario → Procesamiento elaborado",
@@ -6790,7 +6799,8 @@
             "Regula la homeostasis",
             "Procesa la memoria a largo plazo",
             "Controla los reflejos automáticos"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué es la teoría de la activación en el contexto de la motivación?": {
         "v": "Una teoría que considera que el sujeto es agente de su propia conducta, dirigida a metas definidas",
