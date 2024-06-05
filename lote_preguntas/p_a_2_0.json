@@ -68,7 +68,8 @@
             "El conocimiento humano aunque es limitado aunque esta en continuo avance",
             "los procesos artificiales son mucho menos complejos que los sistemas nerviosos naturales, aunque si existen una simplificacion",
             "Los sistemas artificiales actuales no alcancan aun el nivel de los naturales"
-        ]
+        ],
+        "c_count": 1
     },
     "Sobre el dualismo 'El dualismo es una teoría filosófica que sostiene que la mente y el cuerpo son una misma entidad, inseparable \ny compuesta únicamente de materia física, negando cualquier existencia o influencia de una realidad no material o espiritual'": {
         "v": "Falso",
@@ -122,7 +123,8 @@
             "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera interna\n incidiendo en el craneo",
             "Es una tecnica basada en el registro de la actividad electrica de las neuronas de la corteza cerebral de manera externa\n sin incidir en el craneo",
             "Mediante campos magneticos desde fuera de la cabeza se inducen actividades en regiones concretas de la corteza cerebral"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Como se representa Magnetoencefalografia?": {
         "v": "MEG",
@@ -680,7 +682,8 @@
             "A entender el funcionamiento del sistema nervioso",
             "A explorar la función de las neuronas espejo"
         ],
-        "e_count": 4
+        "e_count": 4,
+        "c_count": 2
     },
     "¿Qué relación se establece entre neurociencias e inteligencia artificial según el texto?": {
         "v": "Una relación recíproca",
@@ -1066,7 +1069,8 @@
             "Controla músculos estriados y piel",
             "Regula funciones voluntarias",
             "Coordina movimientos corporales"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué tipo de investigación busca detectar que dos variables se relacionen de manera \ncausal?-9b1a3547-c1ea-4c92-8739-e75c3cbb7ef0": {
         "v": "Explicativa",
@@ -1092,7 +1096,7 @@
             "Magnetoencefalografía (MEG)"
         ],
         "e_count": 1,
-        "c_count": 1
+        "c_count": 2
     },
     "¿Qué término describe la capacidad del cerebro para cambiar y adaptarse a lo largo del \ntiempo?-b84c3dbc-8e73-4bb3-b74b-89189d74168d": {
         "v": "Neuroplasticidad",
@@ -1524,7 +1528,8 @@
             "Describir fenómenos sin análisis.",
             "Observar sin formular hipótesis.",
             "Ignorar las relaciones causales."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué debe respetar la ética en la investigación científica?-0a4fb686-0965-408d-bd4d-2fd796991a96": {
         "v": "La libertad individual y adherirse a parámetros morales.",
@@ -1574,7 +1579,8 @@
             "Las hipótesis formuladas.",
             "Los resultados obtenidos.",
             "Las conclusiones del estudio."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué caracteriza a los diseños experimentales?-4667490b-c6cf-487f-b71f-e9d2b78f1eda": {
         "v": "La existencia de un grupo experimental y un grupo control.",
@@ -2081,7 +2087,8 @@
             "Que no sea necesario seguir las mismas condiciones.",
             "Que los resultados sean siempre variables.",
             "Que no se pueda repetir el experimento."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál es el primer paso en el planteamiento protocolizado de una investigación?": {
         "v": "Formular una hipótesis.",
@@ -2138,7 +2145,8 @@
             "El método más rápido y fácil.",
             "El método más económico.",
             "El método más conocido por el investigador."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué metodología se aplica en el procesamiento de datos?": {
         "v": "Una metodología estadística de análisis de datos.",
@@ -2500,7 +2508,8 @@
             "Las relaciones entre variables",
             "Las hipótesis científicas",
             "Los fenómenos naturales"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué tipo de estudios se realizan tanto en modelos animales como en sujetos humanos?": {
         "v": "Estudios fisiológicos y conductuales",
@@ -2601,7 +2610,8 @@
             "No hay diferencia.",
             "El modelado funcional imita el hardware del cerebro.",
             "La simulación completa solo simula el software cerebral."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál es el propósito del sistema nervioso?-2bd4525d-acfe-4e6a-8579-6a83c816c8c7": {
         "v": "Está diseñado para la supervivencia y perpetuación de la especie.",
@@ -3235,7 +3245,8 @@
             "Células gliales",
             "Tejidos conjuntivos",
             "Zonas subcorticales"
-        ]
+        ],
+        "c_count": 2
     },
     "¿Cuál fue el interés inicial de las neurociencias?": {
         "v": "Identificación de componentes diferenciados que forman las estructuras nerviosas",
@@ -3621,7 +3632,8 @@
             "El grosor de los tejidos",
             "La densidad de la materia gris",
             "El volumen del cerebro"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál es una desventaja de las técnicas neurofisiológicas?": {
         "v": "La invasividad ya que es necesario acceder al cráneo",
@@ -3811,7 +3823,8 @@
             "A través de resonancia magnética",
             "Mediante tomografía axial computarizada",
             "Con pulsímetros"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué correlaciona con una mayor actividad muscular según la psicofisiología?": {
         "v": "Las emociones de estrés y ansiedad",
@@ -4308,7 +4321,8 @@
             "reflexión",
             "refracción",
             "dispersión"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué implica un aumento en la actividad cerebral?": {
         "v": "un incremento de la actividad metabólica",
@@ -4548,7 +4562,8 @@
             "Tomografía por Emisión de Positrones (PET)",
             "Electroencefalograma (EEG)",
             "Tomografía Computarizada (TC)"
-        ]
+        ],
+        "c_count": 1
     },
     "¿En qué se basa la Tractografía por Tensor de Difusión para estudiar el sistema nervioso?": {
         "v": "estado de movimiento de partículas",
@@ -5153,7 +5168,8 @@
             "Un plano o corte que determina la sección lateral del Sistema Nervioso",
             "Un plano o corte que determina la sección horizontal del Sistema Nervioso",
             "Un plano o corte que determina la sección caudal del Sistema Nervioso"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué es un corte horizontal en el enfoque anatómico?": {
         "v": "Un plano o corte que determina la sección horizontal del Sistema Nervioso",
@@ -5425,7 +5441,8 @@
             "Input → Output → Procesamiento",
             "Procesamiento → Input → Output",
             "Procesamiento → Output → Input"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Es la percepción humana un proceso pasivo según el texto?": {
         "v": "No",
@@ -5957,7 +5974,7 @@
             "Procesamiento primario → Transducción → Conducción → Procesamiento elaborado",
             "Procesamiento elaborado → Transducción → Conducción → Procesamientoprimario"
         ],
-        "e_count": 2
+        "c_count": 3
     },
     "¿Qué estructura del cerebro se considera el primer intercambiador de información sensorial?": {
         "v": "Tálamo",
@@ -6112,7 +6129,8 @@
             "Procesar la información visual",
             "Generar respuestas emocionales",
             "Almacenar memorias a largo plazo"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué es la transducción en el contexto de la percepción humana?": {
         "v": "La conversión de energía física en impulsos nerviosos",
@@ -6250,7 +6268,8 @@
             "Conducción → Transducción → Procesamiento primario → Procesamiento elaborado",
             "Procesamiento primario → Transducción → Conducción → Procesamiento elaborado",
             "Procesamiento elaborado → Transducción → Conducción → Procesamiento primario"
-        ]
+        ],
+        "c_count": 2
     },
     "¿Estructura del cerebro se considera el primer intercambiador de información sensorial?": {
         "v": "Tálamo",
