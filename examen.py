@@ -285,7 +285,7 @@ class StartApp:
         self.to_the_fail = False
         self.master = master
         self.master.title("Inicio")
-        self.master.geometry("400x300")
+        self.master.geometry("400x400")
 
         self.label = tk.Label(
             self.master, text="Seleccione una opción", font=("Helvetica", 16)
@@ -340,14 +340,15 @@ class StartApp:
         dct_fails, index, length, error, accurate = back.get_all_fail_questions()
         text_widget.insert(
             tk.END,
-            f"Contestadas {index} preguntas de {length} tienes una tasa de acierto de {round((accurate / length) * 100,2)}%\n\n\nFallos totales : {error}, aciertos {accurate}\n\n\n",
+            f"Contestadas {index} preguntas de {length} tienes una tasa de acierto de {round((accurate / (accurate+error)) * 100,2)}%\n\n\nFallos totales : {error}, aciertos {accurate}\n\n\n",
         )
 
         for x in list(dct_fails):
-            text_widget.insert(
-                tk.END,
-                f"Fallos: {dct_fails[x]['e_count']}, Pregunta : {x}, Respuesta : {dct_fails[x]['v']}\n\n\n",
-            )
+            if int(dct_fails[x]["e_count"]) > 0:
+                text_widget.insert(
+                    tk.END,
+                    f"Fallos: {dct_fails[x]['e_count']}, Pregunta : {x}, Respuesta : {dct_fails[x]['v']}\n\n\n",
+                )
         text_widget.configure(font=font_style)
         text_widget.config(state=tk.DISABLED)
 

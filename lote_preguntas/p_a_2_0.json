@@ -22,7 +22,8 @@
         "f": [
             "Neuro (Perteneciente o relativo al sistema nervioso)",
             "Ciencia (Estudio sistematico de una realidad)"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Que es el sistema nervioso?": {
         "v": "Es un complejo organico que permite percibir informacion y emitir respuestas en forma de comportamiento para interactuar con el medio",
@@ -30,7 +31,8 @@
             "Es una red nerviosa que permite interactuar con el medio",
             "Son sistemas como las plantas que tienen fotorreceptores para interactuar con el medio",
             "Son sistemas que como los espermetozoides que tienen un sistemas nervioso que permite desplazarse"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Que es la neurociencia cognitiva?": {
         "v": "Es la rama de las neurociencias que trata de comprender los mecanismos neurales que subyacen al comportamiento y a los procesos psicologicos\n humanos desde la accion voluntaria hasta la propia consciencia",
@@ -38,7 +40,8 @@
             "Es la rama de las neurociencias que trata de comprender los mecanismos neurales que subyacen al comportamiento y a los procesos psicologicos\n humanos desde la accion voluntaria hasta la propia consciencia",
             "Es la rama de las ciencias que trata de desentrañar los mecanismos fisicos que subyacen al comportamiento y a los procesos psicologicos\n humanos desde la accion voluntaria hasta la propia consciencia",
             "Es la rama de estudio de la neurologia que trata de comprender los mecanismos neurales que subyacen al comportamiento y a los procesos psicologicos\n humanos desde la accion voluntaria hasta la propia consciencia"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Por que estudiar Neurociencia en IA?": {
         "v": "Nos puede ayudar a desarrollar  y diseñar sistemas mejores en su procesamiento, aprendizaje ,interaccion y comportamiento tanto con el mundo como con los humanos",
@@ -56,7 +59,8 @@
             "Son modelos puramente intuitivos y no tienen ninguna base en estudios sobre sistemas nerviosos o cognitivos de organismos vivos",
             "Su principal objetivo es recrear sistemas naturales en su totalidad sin ninguna intención de mejorar la eficiencia de los sistemas artificiales.",
             "Se basan únicamente en teorías filosóficas y no tienen ningún fundamento en investigaciones científicas sobre la cognición o el sistema nervioso"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Que es lo que no hay que tener en cuenta con respecto a la bioinspiracion?": {
         "v": "El conocimiento humano aunque es limitado a corto plazo el futuro es incierto y puede llegar a no tener fronteras",
@@ -84,7 +88,8 @@
         "v": "Falso",
         "f": [
             "Verdadero"
-        ]
+        ],
+        "c_count": 1
     },
     "Sobre el monismo 'postura comptable con la ciencia y considera que toda la materia forma parte de la misma materia y energia' y \na dia de hoy es parte del problema llamado 'mente-cuerpo'": {
         "v": "Verdadero",
@@ -108,7 +113,8 @@
             "MEG",
             "SNS",
             "GNS"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Que hace el Magnetoencefalografia (MEG)?": {
         "v": "Emplea campos magneticos para comprobar la actividad electrica de las neuronas de la corteza cerebral",
@@ -246,7 +252,8 @@
         "v": "Verdadero",
         "f": [
             "Falso"
-        ]
+        ],
+        "c_count": 1
     },
     "Sobre esta oracion, el sistema nervioso, la mente y el comportamiento se comprenden completamente a través de diferentes escalas.\n La diversidad de ramas en las neurociencias se debe únicamente a la necesidad de abordar estos fenómenos \ndesde diferentes perspectivas, cada una\ncorrespondiente a una escala específica, sin que exista una conexión entre ellas.": {
         "v": "Falso",
@@ -267,7 +274,7 @@
         "f": [
             "Verdadero"
         ],
-        "c_count": 1
+        "c_count": 2
     },
     "La Física y la Química no son disciplinas relevantes para el estudio del sistema nervioso": {
         "v": "Falso",
@@ -286,7 +293,8 @@
         "v": "Falso",
         "f": [
             "Verdadero"
-        ]
+        ],
+        "c_count": 1
     },
     "Los procesos e interconexiones neuronales describen cómo se generan los pensamientos y comportamientos complejos": {
         "v": "Falso",
@@ -340,7 +348,8 @@
         "v": "Verdadero",
         "f": [
             "Falso"
-        ]
+        ],
+        "c_count": 1
     },
     "¿El nivel de procesos e interconexiones neuronales describe cómo se generan los pensamientos y comportamientos complejos?": {
         "v": "Falso",
@@ -359,13 +368,15 @@
         "v": "Falso",
         "f": [
             "Verdadero"
-        ]
+        ],
+        "c_count": 1
     },
     "¿La interacción bioquímica entre moléculas abarca los procesos neuronales?": {
         "v": "Falso",
         "f": [
             "Verdadero"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Disciplinas como la Física y la Química entrarían en el nivel de interacción bioquímica entre moléculas?": {
         "v": "Verdadero",
@@ -423,7 +434,8 @@
             "La organización en forma de circuitos específicos",
             "La percepción y atención",
             "La implementación computacional"
-        ]
+        ],
+        "c_count": 2
     },
     "¿En qué nivel se estudian los procesos e interconexiones neuronales?": {
         "v": "Nivel de los procesos e interconexiones neuronales",
@@ -595,7 +607,9 @@
             "Neuronas espejo",
             "Premio Nobel de 2014",
             "Funcionamiento del sistema nervioso"
-        ]
+        ],
+        "e_count": 0,
+        "c_count": 2
     },
     "¿Qué aspecto del cerebro se investigó en el Premio Nobel de 2014?": {
         "v": "Sistemas de posicionamiento espacial",
@@ -604,7 +618,9 @@
             "Naturaleza de la comunicación neuronal",
             "Regiones del cerebro",
             "Neuronas espejo"
-        ]
+        ],
+        "e_count": 0,
+        "c_count": 2
     },
     "¿Qué constituye uno de los grandes misterios de la ciencia según el texto?": {
         "v": "El salto de lo cerebral a lo mental",
@@ -643,7 +659,8 @@
             "No tiene importancia alguna",
             "Contribuye a entender la naturaleza de la comunicación neuronal",
             "Promueve la colaboración entre premios Nobel"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué permite la bioinspiración según el texto?": {
         "v": "Diseñar mecanismos de IA más eficaces y eficientes",
@@ -662,7 +679,8 @@
             "A investigar la naturaleza de la comunicación neuronal",
             "A entender el funcionamiento del sistema nervioso",
             "A explorar la función de las neuronas espejo"
-        ]
+        ],
+        "e_count": 4
     },
     "¿Qué relación se establece entre neurociencias e inteligencia artificial según el texto?": {
         "v": "Una relación recíproca",
@@ -718,7 +736,8 @@
             "Estudiar la relación entre neurociencia y psicología",
             "Desarrollar sistemas de inteligencia artificial",
             "Investigar la naturaleza de la comunicacion neuronal"
-        ]
+        ],
+        "c_count": 1
     },
     "Las siguientes imágenes muestran esquemáticamente la relación nerviosa que se establece entre los músculos del lado derecho del \ncuerpo (visto a la izquierda por ser una vista frontal de la persona) y la médula espinal. ¿Cuál de las cuatro imágenes es la correcta? ?": {
         "v": "examen_comportamiento_humano/Images/2/Músculo médula c.jpg",
@@ -732,7 +751,8 @@
             "examen_comportamiento_humano/Images/2/Músculo médula b.jpg",
             "examen_comportamiento_humano/Images/2/Músculo médula c.jpg",
             "examen_comportamiento_humano/Images/2/Músculo médula d.jpg"
-        ]
+        ],
+        "c_count": 1
     },
     "Supongamos que tenemos un objeto cúbico cuyas caras tienen las siguientes\n respectivas apariencias  desde nuestro punto de vista, \nobservamos la siguiente vista del objeto: ? A continuación, se muestran tres imágenes (A, B y C)\n. Cada una exhibe una representación mental de este objeto que una persona o un modelo computacional forma en su mente:\n [Distintas opciones que muestran las fases del modelo de Marr aplicadas al objeto cúbico, pero completadas en distinto grado.] De las cuatro siguientes opciones, \n¿cuál es la única que ordena correctamente cada una de estas últimas imágenes (A, B y C) según las tres fases del modelo de Marr? Images/1/Cubo 1.jpg , Images/1/Cubo 2.png , /Images/1/Cubo 3.jpg": {
         "v": "1. C; 2. A; 3. B",
@@ -753,7 +773,8 @@
             "Tomografía por emisión de positrones (TEP)",
             "Resonancia magnética funcional (RMf)",
             "Magnetoencefalografía (MEG)"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué componente del sistema nervioso periférico conecta el SNC con las\n estructuras de la cabeza?-db2339cf-db98-4d7d-9cc5-39ed23aead2a": {
         "v": "Nervios craneales",
@@ -786,7 +807,8 @@
             "Controlar funciones voluntarias",
             "Procesar información sensorial",
             "Coordinar movimientos corporales"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál de los siguientes no es un principio básico de la investigación científica?-51782530-9b28-4f20-bc2c-f7131ae83830": {
         "v": "Subjetiva",
@@ -794,7 +816,8 @@
             "Sistemática",
             "Reproducible",
             "Empírica"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué técnica de neuroimagen permite observar el funcionamiento del cerebro sin\n necesidad de producir una lesión?-c6f8f864-0658-4b11-84d0-c3ddbae1fd62": {
         "v": "Resonancia magnética funcional (RMf)",
@@ -845,7 +868,7 @@
             "Controla el ritmo cardíaco"
         ],
         "e_count": 2,
-        "c_count": 2
+        "c_count": 3
     },
     "¿Qué tipo de investigación busca encontrar una relación entre dos o más variables\n sin determinar causalidad?-3184d4c9-fa6a-4348-b6ea-5812f82e14eb": {
         "v": "Correlacional",
@@ -896,7 +919,8 @@
             "Experimental",
             "Descriptiva",
             "Explicativa"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué técnica de neuroimagen utiliza sustancias marcadas radioactivamente para rastrear\n índices metabólicos?-4be895f7-f5ca-47dc-84fe-fd60153a3799": {
         "v": "Tomografía por emisión de positrones (TEP)",
@@ -957,7 +981,7 @@
             "Electroencefalografía (EEG)",
             "Tomografía por emisión de positrones (TEP)"
         ],
-        "c_count": 1
+        "c_count": 2
     },
     "¿Qué tipo de investigación busca describir formalmente cómo se manifiesta un fenómeno\ncientífico, natural o social?-35fc6bdd-d028-4e25-908b-5f0182081b99": {
         "v": "Descriptiva",
@@ -973,7 +997,8 @@
             "Exteroceptivos",
             "Proprioceptivos",
             "Viscerales"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál de las siguientes técnicas no se utiliza para el estudio in vivo del cerebro?-6f1fc48d-5044-4147-b1b0-57faaef3b50f": {
         "v": "Microscopía",
@@ -981,7 +1006,8 @@
             "Electroencefalografía (EEG)",
             "Tomografía por emisión de positrones (TEP)",
             "Resonancia magnética funcional (RMf)"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué tipo de diseño de investigación implica la observación intensiva de un solo caso\n específico?-c8283e95-675d-4e37-8525-aff851ceef1f": {
         "v": "Estudio de caso único",
@@ -1064,7 +1090,9 @@
             "Tomografía por emisión de positrones (TEP)",
             "Electroencefalografía (EEG)",
             "Magnetoencefalografía (MEG)"
-        ]
+        ],
+        "e_count": 1,
+        "c_count": 1
     },
     "¿Qué término describe la capacidad del cerebro para cambiar y adaptarse a lo largo del \ntiempo?-b84c3dbc-8e73-4bb3-b74b-89189d74168d": {
         "v": "Neuroplasticidad",
@@ -1081,7 +1109,8 @@
             "Es el estudio del sistema cardiovascular.",
             "Es el estudio de los sistemas computacionales.",
             "Es el estudio del comportamiento animal."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué función tiene el sistema nervioso?-a4067d20-fa80-46d9-91e9-f1b9225492b8": {
         "v": "Permite percibir información y emitir respuestas.",
@@ -1158,7 +1187,8 @@
             "Es un método de transmisión de datos en serie.",
             "Es una técnica exclusiva de la biología celular.",
             "Es una función del sistema digestivo."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué relación histórica tiene la neurociencia cognitiva con la filosofía?-c7d6cd52-8ca3-441f-9b2b-fb449d4b7361": {
         "v": "La ciencia moderna, incluyendo la neurociencia, tiene sus raíces en la filosofía, especialmente desde la Grecia \nClásica.",
@@ -1210,7 +1240,8 @@
             "Sigmund Freud en 1920.",
             "Wilhelm Wundt en 1879.",
             "Ivan Pavlov en 1890."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué publicación importante hizo Alan Turing en 1950?-77dadda8-326c-4dd3-a0e2-26c81180c44b": {
         "v": "El Test de Turing.",
@@ -1262,7 +1293,8 @@
             "La estructura del ADN.",
             "Los procesos digestivos.",
             "La evolución de las especies marinas."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué disciplinas están involucradas en el enfoque multidisciplinar de la neurociencia cognitiva?-68e75f6f-f078-446b-b9b6-740740bd7cd8": {
         "v": "Biología, Psicología, Química, Física, Bioquímica, entre otras.",
@@ -1328,7 +1360,8 @@
             "El uso de plantas en la creación de circuitos.",
             "La construcción de robots basados en insectos.",
             "El diseño de aviones inspirados en aves."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué caracteriza a la investigación científica sistemática?-e1e3c5fa-ff7c-419c-be43-7760c577044e": {
         "v": "Es unificada en la forma de abordar problemas de estudio.",
@@ -1378,7 +1411,8 @@
             "Los resultados deben variar en cada replicación.",
             "No se debe poder replicar los experimentos.",
             "Depende de la interpretación personal del investigador."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál es el primer paso en el planteamiento protocolizado de una investigación?-268c3099-956a-47d7-a5f7-5bb9b80d018f": {
         "v": "Formular una hipótesis.",
@@ -1403,7 +1437,8 @@
             "Los investigadores involucrados.",
             "El entorno de la investigación.",
             "Las hipótesis formuladas."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué son las variables a analizar en una investigación?-24ff1a1e-b961-4457-bb65-915c8d83fd05": {
         "v": "Magnitudes específicas y operativas de la hipótesis.",
@@ -1523,7 +1558,7 @@
             "La interpretación de resultados sin análisis.",
             "La publicación de resultados preliminares."
         ],
-        "c_count": 1
+        "c_count": 2
     },
     "¿Qué determina un diseño de investigación en términos de variables?-3c89d9be-74f7-48ae-8f27-255dcc9613d9": {
         "v": "Las variables dependientes e independientes.",
@@ -1589,7 +1624,8 @@
             "Medir la actividad eléctrica del cerebro.",
             "Detectar variaciones en el consumo de oxígeno.",
             "Estudiar la comunicación entre áreas del cerebro."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué se observa con la microscopía?-03b59ed7-cdc5-4c35-8fd2-71e740fc894e": {
         "v": "Muestras delgadas de tejido nervioso.",
@@ -1605,7 +1641,8 @@
             "Electrodos invasivos, escáneres PET, resonadores magnéticos.",
             "Cámaras de alta velocidad, detectores de rayos gamma, fotodiodos.",
             "Sensores de temperatura, analizadores de gases, espectrofotómetros."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Por qué es importante la tinción en las técnicas microscópicas?-27e2e773-4a2c-4e85-a6ef-51b832797043": {
         "v": "Para distinguir estructuras celulares.",
@@ -1691,7 +1728,7 @@
             "Alta resolución temporal."
         ],
         "e_count": 2,
-        "c_count": 2
+        "c_count": 3
     },
     "¿Cuál es una desventaja de la RMN?-cb6d2b55-adbd-4a91-986b-2440f743c916": {
         "v": "Coste elevado y menor resolución temporal que espacial.",
@@ -1724,7 +1761,8 @@
             "Para obtener imágenes cerebrales.",
             "Para medir la actividad metabólica.",
             "Para registrar la conductancia de la piel."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué mide la psicofisiología periférica?-ab0b5333-455e-4cb8-83a7-c542fe2d5c5a": {
         "v": "Efectos de procesos cognitivos y emocionales en estructuras externas.",
@@ -1883,7 +1921,8 @@
             "El cerebro ha evolucionado más rápido que la mente.",
             "Ambos han evolucionado al mismo ritmo.",
             "La evolución de ambos es irrelevante para el comportamiento humano."
-        ]
+        ],
+        "c_count": 1
     },
     "¿En qué se basa la división anatómica del sistema nervioso humano??-1ce96f6e-fe65-4ad4-8a69-e3cfaafce43d": {
         "v": "Se basa en la estructura física del sistema nervioso.",
@@ -1907,7 +1946,8 @@
             "Conecta el encéfalo con los músculos del cuerpo.",
             "Conecta el sistema límbico con la corteza cerebral.",
             "Conecta las glándulas endocrinas con el cerebro."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué incluye el sistema nervioso periférico (SNP)??-e2d56e97-9c98-41fa-8ac3-5b893ce63fa9": {
         "v": "Tejidos nerviosos fuera del SNC, incluyendo nervios craneales y nervios espinales.",
@@ -1924,7 +1964,8 @@
             "Controlar los movimientos voluntarios del cuerpo.",
             "Regular las funciones involuntarias del cuerpo.",
             "Transmitir información genética."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál es la función de los nervios espinales??-27e01eda-34c9-4b22-8db9-097b8daf49ac": {
         "v": "Conectar el SNC con estructuras periféricas del cuerpo.",
@@ -1959,7 +2000,7 @@
             "Longitudinal, oblicuo, paralelo.",
             "Superior, inferior, medial."
         ],
-        "c_count": 1
+        "c_count": 2
     },
     "¿Qué es el eje de Forel??-dadcc155-eca6-4b28-8b38-488de5d5e55b": {
         "v": "Un eje que considera el cambio de orientación a 90° del neuroeje.",
@@ -2051,7 +2092,7 @@
             "Seleccionar la población de estudio."
         ],
         "e_count": 1,
-        "c_count": 2
+        "c_count": 3
     },
     "¿Cuál es el objetivo de la investigación?": {
         "v": "Confirmar o descartar la hipótesis inicial.",
@@ -2165,7 +2206,8 @@
             "Aislar causas sin valorar su predictividad.",
             "Interpretar resultados sin vinculación con intervenciones.",
             "Modelar causas de manera aleatoria."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cómo se han obtenido los conocimientos actuales sobre el cerebro humano?": {
         "v": "Mediante metodologías específicas en la investigación del comportamiento.",
@@ -2213,7 +2255,7 @@
             "Ajustar los datos a teorías populares.",
             "Modificar los datos según conveniencia."
         ],
-        "c_count": 1
+        "c_count": 2
     },
     "¿Cómo se deben comunicar los resultados de una investigación?": {
         "v": "De manera que formen parte del cuerpo general de conocimientos de la disciplina.",
@@ -2223,8 +2265,8 @@
             "Para ocultar errores del estudio.",
             "Para impresionar a la comunidad científica."
         ],
-        "e_count": 1,
-        "c_count": 1
+        "e_count": 0,
+        "c_count": 3
     },
     "¿Cuál es la finalidad de formular una conclusión en una investigación?": {
         "v": "Aceptar o descartar la hipótesis y reconocer las limitaciones del estudio.",
@@ -2429,7 +2471,8 @@
             "Los modelos predictivos",
             "Las hipótesis experimentales",
             "Los mecanismos biológicos"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué se necesita para que los datos obtenidos en una investigación sean capaces de responder a la pregunta/hipótesis?": {
         "v": "Definir correctamente las variables y el diseño de la investigación",
@@ -2467,8 +2510,8 @@
             "Estudios clínicos y básicos",
             "Estudios fisiológicos y clínicos"
         ],
-        "e_count": 1,
-        "c_count": 1
+        "e_count": 0,
+        "c_count": 3
     },
     "¿Qué diferencia fundamental existe entre estudios fisiológicos y conductuales?": {
         "v": "Los estudios fisiológicos se centran en el funcionamiento biológico, mientras que los conductuales se centran en el comportamiento bajo circunstancias controlables",
@@ -2496,7 +2539,8 @@
             "Los modelos predictivos",
             "Las hipótesis experimentales",
             "Los mecanismos biológicos"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué diferencia fundamental tienen los estudios conductuales respecto a los modelos animales?": {
         "v": "La capacidad de libertad y decisiones ponderadas del ser humano",
@@ -2565,7 +2609,8 @@
             "Para controlar el clima.",
             "Para regular el metabolismo.",
             "Para almacenar nutrientes."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué ha evolucionado más rápido, la mente o el cerebro en sí mismo?-897d6691-6f6a-4ce0-94e8-948d362ed29e": {
         "v": "La mente ha evolucionado más rápido que el cerebro.",
@@ -2609,7 +2654,7 @@
             "Solo los nervios espinales.",
             "El cerebro y la médula espinal."
         ],
-        "c_count": 1
+        "c_count": 2
     },
     "¿Cuál es la función de los nervios craneales?-fb688836-5bd0-49b5-97bb-e9241de8c47e": {
         "v": "Conectar el SNC con estructuras de la cabeza.",
@@ -2658,7 +2703,8 @@
             "Un eje paralelo al eje de Meynert.",
             "Un eje sin orientación específica.",
             "Un eje utilizado en la óptica."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué es el eje de Meynert?-37e18d40-8839-4cb8-a895-4b4eab2d126a": {
         "v": "Un eje alineado con la línea de ascenso de la médula espinal, sin considerar el cambio de orientación.",
@@ -2683,7 +2729,7 @@
             "Vasos sanguíneos y linfáticos.",
             "Tejido conectivo y adiposo."
         ],
-        "c_count": 2,
+        "c_count": 3,
         "e_count": 1
     },
     "¿Con qué funciones está relacionado el sistema nervioso somático (SNS)?-8c2acf4c-fc5e-48d5-ae64-79319ad57035": {
@@ -2752,7 +2798,8 @@
             "Asimetría estructural, con una diferencia en el tamaño de los hemisferios.",
             "Asimetría química, con diferentes neurotransmisores en cada lado.",
             "Asimetría eléctrica, con diferentes voltajes en cada hemisferio."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué analogía se utiliza para explicar la relación entre el sistema nervioso y la mente?-5563560e-acaa-40cf-9645-e59957559a72": {
         "v": "La analogía computacional.",
@@ -2777,7 +2824,8 @@
             "El SNS controla los músculos lisos y el SNA controla los músculos esqueléticos.",
             "El SNS está relacionado con funciones cognitivas y el SNA con funciones sensoriales.",
             "No hay diferencia funcional entre ambos."
-        ]
+        ],
+        "c_count": 1
     },
     "¿A qué se refiere el diseño en un proyecto de I.A. relacionado con neurociencias?": {
         "v": "A la planificación del esquema general del proyecto",
@@ -2788,7 +2836,7 @@
             "A los participantes del proyecto"
         ],
         "e_count": 2,
-        "c_count": 2
+        "c_count": 3
     },
     "¿Qué implica normalmente el diseño de un proyecto?": {
         "v": "Decidir qué variables se desean estudiar y cuáles serán manipuladas",
@@ -2826,7 +2874,8 @@
             "No utilizan grupos control",
             "Son exclusivamente cualitativos",
             "No manipulan variables"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué aspecto esencial se debe recordar acerca de los diseños y las técnicas de investigación?": {
         "v": "Los diseños están basados a veces en técnicas concretas",
@@ -2835,7 +2884,8 @@
             "Los diseños no influyen en las técnicas",
             "Las técnicas determinan siempre el diseño",
             "Los diseños y técnicas son siempre cualitativos"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué puede logra un mal diseño en una investigación?": {
         "v": "Hacer inútiles las más sofisticadas técnicas",
@@ -2882,7 +2932,8 @@
             "Emplear técnicas cualitativas",
             "Manipular todas las variables",
             "Ignorar los diseños cuasiexperimentales"
-        ]
+        ],
+        "c_count": 1
     },
     "¿En qué se basa a veces el diseño de una investigación?": {
         "v": "En técnicas concretas",
@@ -2901,7 +2952,7 @@
             "La elección de participantes humanos",
             "La determinación del presupuesto"
         ],
-        "c_count": 1
+        "c_count": 2
     },
     "¿Qué se puede utilizar en los diseños experimentales?": {
         "v": "Un grupo experimental y un grupo control",
@@ -2987,8 +3038,8 @@
             "Investigación de caso único",
             "Investigación cuasiexperimental"
         ],
-        "e_count": 1,
-        "c_count": 1
+        "e_count": 0,
+        "c_count": 3
     },
     "¿Qué deben considerar los investigadores al planificar el diseño de un proyecto?": {
         "v": "Qué variables se desean estudiar y cómo se manipularán",
@@ -3212,7 +3263,7 @@
             "Observar estructuras neuronales post mortem",
             "Estudiar la anatomía cerebral en cadáveres"
         ],
-        "c_count": 1
+        "c_count": 2
     },
     "¿Qué permite la tinción y marcaje de tejidos en estudios in vivo?": {
         "v": "Ver qué áreas del cerebro han estado activas durante procesos cognitivos",
@@ -3259,7 +3310,8 @@
             "En la identificación de estructuras neuronales",
             "En la tinción y marcaje de tejidos",
             "En la distinción de tipos de tejidos"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué buscan distinguir las técnicas macroscópicas?": {
         "v": "Regiones relativamente grandes del cerebro",
@@ -3304,7 +3356,8 @@
             "Las conexiones neuronales",
             "La actividad eléctrica del cerebro",
             "Los procesos cognitivos"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cómo funcionan las técnicas histoquímicas?": {
         "v": "Ciertos compuestos químicos se fijan de distinta manera a cada tipo de estructura microscópica",
@@ -3340,7 +3393,8 @@
             "Las secciones de nanómetros de grosor",
             "Los compuestos químicos",
             "Las conexiones neuronales"
-        ]
+        ],
+        "c_count": 2
     },
     "¿Qué se incorpora a los anticuerpos en técnicas inmunohistoquímicas?": {
         "v": "Moléculas fluorescentes",
@@ -3386,7 +3440,8 @@
             "El diferente color de los tejidos",
             "El diferente tamaño de las estructuras",
             "El diferente brillo de las imágenes"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué técnica utiliza el mismo principio que la radiografía pero con un emisor y receptor de rayos X girando alrededor de la cabeza?": {
         "v": "La Tomografía Axial Computarizada (TAC)",
@@ -3432,7 +3487,8 @@
             "Baja invasividad",
             "Alta precisión en tiempo real",
             "Análisis de flujo sanguíneo"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál es una de las desventajas de la TAC?": {
         "v": "Menor resolución espacial y temporal que otras técnicas más modernas",
@@ -3442,8 +3498,8 @@
             "Alta invasividad",
             "Imposibilidad de obtener imágenes 3D"
         ],
-        "e_count": 1,
-        "c_count": 1
+        "e_count": 0,
+        "c_count": 3
     },
     "¿En qué se basa la Resonancia Magnética Nuclear (RMN)?": {
         "v": "En la abundancia de protones en el tejido nervioso humano",
@@ -3574,7 +3630,8 @@
             "El alto coste",
             "La incomodidad del escáner",
             "La dificultad para obtener imágenes 3D"
-        ]
+        ],
+        "c_count": 2
     },
     "¿Qué podemos observar al instante con la estimulación eléctrica de ciertas áreas del cerebro?": {
         "v": "Qué efecto conductual comporta dicha estimulación",
@@ -3583,7 +3640,8 @@
             "La radio-opacidad de los tejidos",
             "La densidad de la materia blanca",
             "El volumen de las estructuras cerebrales"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Para qué usan algunos neurocirujanos la estimulación eléctrica del cerebro?": {
         "v": "Para detectar en qué área cerebral es posible intervenir produciendo el menor daño funcional posible",
@@ -3640,7 +3698,8 @@
             "Las conexiones sinápticas entre neuronas",
             "Los procesos bioquímicos de las células",
             "La actividad genética de los tejidos"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cómo se pueden medir los efectos en psicofisiología?": {
         "v": "De manera periférica en estructuras corporales externas",
@@ -3705,7 +3764,8 @@
             "La temperatura corporal",
             "El nivel de sudoración",
             "El estado de sueño del sujeto"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cómo se mide la tasa cardíaca en psicofisiología?": {
         "v": "Mediante electrocardiograma (ECG o EKG)",
@@ -3845,7 +3905,8 @@
             "Alto coste",
             "Montaje metódico",
             "Difícil interpretación"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál es un inconveniente de la psicofisiología?": {
         "v": "Necesidad de un metódico montaje",
@@ -4045,8 +4106,8 @@
             "Radiación electromagnética",
             "Flujo sanguíneo cerebral"
         ],
-        "e_count": 1,
-        "c_count": 1
+        "e_count": 0,
+        "c_count": 3
     },
     "¿Cuál es el modo de análisis en la EEG?": {
         "v": "Registro de la actividad eléctrica, filtrado y suavizado",
@@ -4082,7 +4143,8 @@
             "Invasividad",
             "Complejidad",
             "Lentitud"
-        ]
+        ],
+        "c_count": 3
     },
     "¿En qué se basa la Magnetoencefalografía (MEG) para detectar la actividad neuronal?": {
         "v": "En la detección de los campos magnéticos producidos por las neuronas",
@@ -4091,7 +4153,8 @@
             "En la medición del flujo sanguíneo",
             "En la captura de imágenes estructurales",
             "En la resonancia magnética nuclear"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué tipo de energía utiliza la MEG?": {
         "v": "Campos magnéticos procedentes de la actividad de grandes poblaciones de neuronas de la corteza cerebral",
@@ -4165,7 +4228,8 @@
             "energía cinética",
             "energía potencial",
             "energía solar"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué convierte la RMf en una imagen funcional?": {
         "v": "datos de densidad electromagnética",
@@ -4213,7 +4277,8 @@
             "la precisión",
             "la disponibilidad"
         ],
-        "e_count": 1
+        "e_count": 0,
+        "c_count": 2
     },
     "¿Cuál es otra desventaja de la RMf?": {
         "v": "la resolución espacial",
@@ -4223,8 +4288,8 @@
             "la accesibilidad",
             "la portabilidad"
         ],
-        "e_count": 3,
-        "c_count": 1
+        "e_count": 2,
+        "c_count": 3
     },
     "¿Qué identifica la RMf durante la realización de procesos mentales?": {
         "v": "correlatos neuronales de las funciones mentales y afectivas",
@@ -4252,7 +4317,8 @@
             "un cambio en la temperatura corporal",
             "una reducción del flujo sanguíneo",
             "un aumento de la presión arterial"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué tipo de imagen resulta de la RMf?": {
         "v": "una imagen funcional",
@@ -4270,7 +4336,8 @@
             "permite diagnosticar enfermedades",
             "permite visualizar huesos",
             "permite evaluar el ritmo cardíaco"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué técnica antecede a la RMf según el texto?": {
         "v": "Resonancia Magnética Nuclear (RMN)",
@@ -4281,7 +4348,7 @@
             "Radiografía (RX)"
         ],
         "e_count": 1,
-        "c_count": 2
+        "c_count": 3
     },
     "¿Cuál es el fundamento de la RMf para detectar actividad cerebral?": {
         "v": "consumo de oxígeno",
@@ -4290,7 +4357,8 @@
             "actividad eléctrica",
             "temperatura cerebral",
             "presión intracraneal"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué tipo de proceso mental permite observar la RMf?": {
         "v": "procesos mentales y afectivos",
@@ -4308,7 +4376,8 @@
             "variaciones en la temperatura",
             "variaciones en la presión",
             "variaciones en la conductividad eléctrica"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué ventaja tiene la RMf en términos de imagen?": {
         "v": "pueden iluminarse más las zonas del cerebro más activas",
@@ -4337,8 +4406,8 @@
             "Electroencefalograma (EEG)",
             "Tomografía Computarizada (TC)"
         ],
-        "e_count": 2,
-        "c_count": 1
+        "e_count": 1,
+        "c_count": 3
     },
     "¿Qué estudia la Tractografía por Tensor de Difusión?": {
         "v": "el estado de movimiento de partículas en el sistema nervioso",
@@ -4489,7 +4558,8 @@
             "estado de temperatura",
             "estado de absorción"
         ],
-        "e_count": 2
+        "e_count": 0,
+        "c_count": 3
     },
     "¿Qué se rastrea y traza mediante la técnica del Tensor de Difusión?": {
         "v": "las vías de conexión neuronal",
@@ -4526,7 +4596,8 @@
             "Creación de un cerebro orgánico",
             "Programación de inteligencia artificial avanzada"
         ],
-        "e_count": 1
+        "e_count": 0,
+        "c_count": 2
     },
     "¿Qué implica construir una máquina con componentes diseñados para parecerse a los del Sistema Nervioso?": {
         "v": "Simulación propiamente dicha",
@@ -4591,7 +4662,8 @@
             "Sistema Nervioso Simpático y Parasimpático",
             "Sistema Nervioso Sensorial y Motor",
             "Sistema Nervioso Superior e Inferior"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Por qué es posible usar ambos criterios de división del Sistema Nervioso?": {
         "v": "Porque los principales sistemas funcionales no corresponden exactamente con sus divisiones anatómicas",
@@ -4600,7 +4672,8 @@
             "Porque las divisiones anatómicas y funcionales siempre coinciden",
             "Porque las divisiones anatómicas son más precisas",
             "Porque las divisiones funcionales son más claras"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué evita identificar al cerebro como la totalidad o la parte más importante del Sistema Nervioso?": {
         "v": "La interacción determinante de componentes muy alejados entre sí",
@@ -4637,7 +4710,8 @@
             "Criterio de división estructural",
             "Criterio de división cognitiva",
             "Criterio de división evolutiva"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cómo se divide el Sistema Nervioso según la perspectiva anatómica?": {
         "v": "En Sistema Nervioso Central (SNC) y Sistema Nervioso Periférico (SNP)",
@@ -4738,7 +4812,8 @@
             "En los nervios craneales",
             "En los nervios espinales"
         ],
-        "e_count": 1
+        "e_count": 0,
+        "c_count": 3
     },
     "¿Qué abarca el Sistema Nervioso Periférico (SNP)?": {
         "v": "Todo el resto de tejidos nerviosos situados fuera del SNC",
@@ -4831,7 +4906,8 @@
             "Procesamiento de información",
             "Regulación hormonal",
             "Señales eléctricas"
-        ]
+        ],
+        "c_count": 1
     },
     "¿A qué estructuras conecta el encéfalo dentro del Sistema Nervioso Central?": {
         "v": "El cerebro, el tronco encefálico y el cerebelo",
@@ -4877,7 +4953,8 @@
             "El estado de los músculos",
             "El estado de los órganos internos",
             "El estado de la piel"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué tipo de información proporcionan los sentidos exteroceptivos?": {
         "v": "Información sobre el ambiente",
@@ -4904,7 +4981,8 @@
             "Procesamiento de información",
             "Regulación hormonal",
             "Señales eléctricas"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué estructuras conecta el encéfalo dentro del Sistema Nervioso Central?": {
         "v": "El cerebro, el tronco encefálico y el cerebelo",
@@ -4922,7 +5000,8 @@
             "El SNC con los miembros del cuerpo",
             "La médula espinal con los órganos internos",
             "El SNC con las extremidades"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué estructuras conectan los nervios espinales?": {
         "v": "El SNC con el resto de estructuras corporales periféricas",
@@ -4968,7 +5047,8 @@
             "Hacia el lado trasero (cráneo)",
             "Hacia el lado frontal (cráneo)",
             "Hacia el extremo de la cola (cráneo)"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué significa 'inferior' en términos de localización anatómica?": {
         "v": "Hacia el lado inferior",
@@ -4995,7 +5075,8 @@
             "Hacia el lado superior",
             "Hacia el lado inferior",
             "Hacia el extremo de la cola"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué significa 'medial' en términos de localización anatómica?": {
         "v": "Cerca o hacia la mitad",
@@ -5032,7 +5113,8 @@
             "Hacia el lado",
             "Hacia el lado inferior"
         ],
-        "e_count": 1
+        "e_count": 1,
+        "c_count": 3
     },
     "¿Qué significa 'contralateral' en términos de localización anatómica?": {
         "v": "Del lado opuesto",
@@ -5041,7 +5123,9 @@
             "En ambos lados",
             "Hacia el lado",
             "Hacia el lado superior"
-        ]
+        ],
+        "e_count": 0,
+        "c_count": 2
     },
     "¿Qué significa 'bilateral' en términos de localización anatómica?": {
         "v": "En ambos lados",
@@ -5106,7 +5190,7 @@
             "Un eje que se extiende desde la izquierda hacia la derecha del cuerpo",
             "Un eje que se extiende en dirección diagonal del cuerpo"
         ],
-        "e_count": 1
+        "c_count": 2
     },
     "¿Qué es el eje transversal en el enfoque anatómico?": {
         "v": "Un eje que se extiende a través del cuerpo en una dirección horizontal",
@@ -5142,7 +5226,8 @@
             "Una estructura en espiral",
             "Una disposición asimétrica",
             "Un eje diagonal"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Por dónde accede la médula espinal al cráneo en los cuadrúpedos?": {
         "v": "Por la parte trasera",
@@ -5151,7 +5236,8 @@
             "Por la parte superior",
             "Por los lados",
             "Por la parte frontal"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Por dónde accede la médula espinal al cráneo en los humanos?": {
         "v": "Por la parte inferior",
@@ -5169,7 +5255,8 @@
             "Eje de Broca",
             "Eje de Wernicke",
             "Eje de Luria"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué significa moverse entre los sentidos rostral o anterior y occipital o posterior en el Eje de Forel?": {
         "v": "Moverse adelante y atrás, respectivamente",
@@ -5179,7 +5266,7 @@
             "Moverse en círculos",
             "Moverse en espiral"
         ],
-        "e_count": 1
+        "c_count": 3
     },
     "En términos verticales, ¿qué sentidos utiliza el Eje de Forel?": {
         "v": "Superior o parietal e inferior o basal",
@@ -5224,7 +5311,8 @@
             "El cerebro y la médula espinal",
             "Las glándulas endocrinas",
             "El sistema linfático"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Con qué funciones está relacionado el Sistema Nervioso Somático (SNS)?": {
         "v": "Funciones voluntarias, como mover los músculos estriados",
@@ -5252,7 +5340,7 @@
             "Funciones cognitivas",
             "Funciones motoras"
         ],
-        "c_count": 1
+        "c_count": 2
     },
     "¿Cuál es una de las funciones del Sistema Nervioso Autónomo (SNA)?": {
         "v": "Procesos digestivos",
@@ -5288,7 +5376,8 @@
             "Superior",
             "Inferior",
             "Lateral"
-        ]
+        ],
+        "c_count": 2
     },
     "¿Qué significa el término 'superior' en el Eje de Forel?": {
         "v": "Parietal",
@@ -5306,7 +5395,8 @@
             "Desde disciplinas como la Química",
             "Desde disciplinas como la Física",
             "Desde disciplinas como la Geología"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál es el esquema reduccionista pero intuitivo del cerebro mencionado en el texto?": {
         "v": "El cerebro visto como un dispositivo de computación",
@@ -5315,7 +5405,8 @@
             "El cerebro visto como un órgano sensorial",
             "El cerebro visto como un músculo",
             "El cerebro visto como un sistema hidráulico"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué secuencia se utiliza para describir el procesamiento en el cerebro humano?": {
         "v": "Percepción → Cognición → Comportamiento",
@@ -5344,7 +5435,8 @@
             "Sólo en algunos casos",
             "No se menciona"
         ],
-        "e_count": 1
+        "e_count": 0,
+        "c_count": 3
     },
     "¿Qué hace el cerebro humano en el proceso perceptivo?": {
         "v": "Transforma, elabora e integra la información recibida para generar una representación útil y adaptativa del entorno",
@@ -5416,7 +5508,8 @@
             "El cerebro humano imita a los sistemas artificiales",
             "Los sistemas artificiales funcionan sin procesamiento previo",
             "El cerebro humano depende de los sistemas artificiales"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué demuestra el laboratorio de psicología cognitiva sobre el cerebro?": {
         "v": "El cerebro percibe el entorno aplicando esquemas de expectativas y predicciones",
@@ -5463,7 +5556,8 @@
             "Los computadores no pueden replicar el cerebro humano",
             "El cerebro y los computadores no tienen ninguna similitud",
             "Los computadores superan al cerebro en todas las funciones"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cómo se describe el cerebro en relación con las expectativas y predicciones?": {
         "v": "Aplica esquemas de expectativas y predicciones desde el inicio del proceso perceptivo",
@@ -5599,7 +5693,9 @@
             "Conducción",
             "Transducción",
             "Integración"
-        ]
+        ],
+        "e_count": 0,
+        "c_count": 2
     },
     "¿Cuál es la etapa de procesamiento consciente en la percepción humana?": {
         "v": "Procesamiento profundo y elaborado",
@@ -5636,7 +5732,8 @@
             "Reacciona automáticamente a todos los estímulos",
             "Almacena la información sin procesarla",
             "Genera una copia exacta del mundo"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué función esencial cumple el cerebro humano según el texto?": {
         "v": "La supervivencia en la naturaleza",
@@ -5738,7 +5835,8 @@
             "La actividad de la médula espinal",
             "La inactividad de las neuronas",
             "La actividad de las glándulas"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué es necesario para la percepción?": {
         "v": "La integración de las sensaciones con procesos internos",
@@ -5783,7 +5881,8 @@
             "Al ser estimulados, se contraen",
             "Al ser estimulados, aumentan su tamaño",
             "Al ser estimulados, se desactivan"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué aspecto del proceso perceptivo es general a todos los sentidos?": {
         "v": "La transducción",
@@ -5792,7 +5891,8 @@
             "La percepción",
             "La estimulación",
             "La interpretación"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué se produce durante la transducción?": {
         "v": "La respuesta de neuronas especializadas preparadas para la detección de estímulos y su transformación en potenciales de acción",
@@ -5810,7 +5910,8 @@
             "La actividad de las cortezas de asociación",
             "La integración de procesos internos",
             "La interpretación de estímulos externos"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué es la percepción en términos científicos?": {
         "v": "La experiencia consciente e interpretación de la información de los sentidos",
@@ -5855,7 +5956,8 @@
             "Conducción → Transducción → Procesamiento primario → Procesamiento elaborado",
             "Procesamiento primario → Transducción → Conducción → Procesamiento elaborado",
             "Procesamiento elaborado → Transducción → Conducción → Procesamientoprimario"
-        ]
+        ],
+        "e_count": 2
     },
     "¿Qué estructura del cerebro se considera el primer intercambiador de información sensorial?": {
         "v": "Tálamo",
@@ -5919,7 +6021,8 @@
             "a) La conversión de ondas de presión en vibraciones mecánicas",
             "c) La percepción de la dirección del sonido",
             "d) La integración de señales auditivas en la corteza"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué tipo de percepción se ve afectada directamente por las expectativas y predicciones del cerebro?": {
         "v": "Percepción descendente (top-down)",
@@ -5927,7 +6030,8 @@
             "Percepción consciente",
             "Percepción lateral",
             "Percepción ascendente (bottom-up)"
-        ]
+        ],
+        "c_count": 3
     },
     "¿Qué rol juega la corteza de asociación en la percepción humana?": {
         "v": "b) Integrar diferentes modalidades sensoriales para formar una percepción coherente",
@@ -5935,7 +6039,8 @@
             "Procesar la información de manera individual",
             "c) Transducir señales físicas en impulsos nerviosos",
             "d) Almacenar recuerdos sensoriales"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué significa percepción en términos científicos?": {
         "v": "b) La experiencia consciente e interpretación de la información sensorial",
@@ -6047,7 +6152,8 @@
             "Actúa como un simple receptor de señales",
             "Almacena la información sensorial a largo plazo",
             "Genera respuestas emocionales directas"
-        ]
+        ],
+        "c_count": 1
     },
     "La capacidad del cerebro humano para procesar información de manera predictiva se compara con qué técnica en IA?": {
         "v": "Algoritmos de predicción",
@@ -6063,7 +6169,8 @@
             "Percepción gustativa",
             "Percepción olfativa",
             "Percepción térmica"
-        ]
+        ],
+        "c_count": 1
     },
     "En el sistema vestibular, ¿qué estructuras se encargan de percibir las aceleraciones lineales?": {
         "v": "Los órganos otolíticos",
@@ -6199,7 +6306,8 @@
             "La transducción química del olfato",
             "La percepción del equilibrio",
             "La percepción auditiva de ondas de presión"
-        ]
+        ],
+        "c_count": 1
     },
     "En el procesamiento auditivo humano, ¿qué estructura se encarga de la tonotopia, que es comparable a la organización jerárquica en sistemas IA?": {
         "v": "Cóclea",
@@ -6231,7 +6339,8 @@
             "Creación de imágenes tridimensionales",
             "Percepción del movimiento",
             "Integración de información auditiva y visual"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué característica de los conos permite la visión en color?": {
         "v": "La presencia de diferentes pigmentos que captan distintas longitudes de onda de luz",
@@ -6367,7 +6476,8 @@
             "La información sensorial asciende por la parte ventral y la motora desciende por la dorsal",
             "Toda la información asciende y desciende por la parte ventral",
             "Toda la información asciende y desciende p or la parte dorsal"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué es el Homúnculo de Penfield?": {
         "v": "Una representación del cuerpo humano basado en la densidad neuronal destinada a cada parte",
@@ -6399,7 +6509,8 @@
             "Como un mecanismo para aumentar la memoria",
             "Para mejorar la percepción sensorial",
             "Para procesar el lenguaje natural"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué técnica de aprendizaje automático se asemeja al proceso de recompensa y castigo en el aprendizaje humano?": {
         "v": "Aprendizaje por refuerzo",
@@ -6415,7 +6526,8 @@
             "Hipocampo",
             "Amígdala",
             "Cerebelo"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué principio biológico se aplica en el diseño de robots para mejorar su movimiento y adaptación al entorno?": {
         "v": "Retroalimentación sensorial",
@@ -6495,7 +6607,8 @@
             "Sinapsis",
             "Ganglio basal",
             "Decusación"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué papel juegan los ganglios basales en el control motor?": {
         "v": "Automatizan y coordinan movimientos aprendidos",
@@ -6503,7 +6616,8 @@
             "Emiten órdenes motoras",
             "Procesan información sensorial",
             "Controlan los reflejos"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué significa la propiocepción?": {
         "v": "La capacidad de los músculos de informar al cerebro sobre su estado tensional y postural",
@@ -6559,7 +6673,8 @@
             "Emitir órdenes motoras",
             "Procesar información sensorial",
             "Coordinar movimientos complejos"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Dónde se procesa conjuntamente la información propioceptiva y háptica en el cerebro?": {
         "v": "Corteza somatosensorial",
@@ -6615,7 +6730,8 @@
             "Un neurotransmisor que disminuye la probabilidad de repetición de una acción",
             "Un neurotransmisor que regula el sueño y la vigilia",
             "Un neurotransmisor que inhibe la actividad motora"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué es el núcleo accumbens en el contexto del sistema de recompensa?": {
         "v": "Una estructura que asocia emociones con conductas, motivando ciertos comportamientos",

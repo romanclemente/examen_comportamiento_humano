@@ -61,6 +61,10 @@ class BBDD_backend:
         c_q = self.all_questions[current_question]
         if "c_count" in c_q:
             c_q["c_count"] = 1 + int(c_q["c_count"])
+            if "e_count" in c_q:
+                c_q["e_count"] = int(c_q["e_count"]) - 1
+                if int(c_q["e_count"]) <= 0:
+                    del self.all_questions[current_question]["e_count"]
         else:
             c_q["c_count"] = 1
         self.total_points += self.points_per_question
@@ -70,6 +74,10 @@ class BBDD_backend:
         c_q = self.all_questions[current_question]
         if "e_count" in c_q:
             c_q["e_count"] = 1 + int(c_q["e_count"])
+            if "c_count" in c_q:
+                c_q["c_count"] = int(c_q["c_count"]) - 1
+                if int(c_q["c_count"]) <= 0:
+                    del self.all_questions[current_question]["c_count"]
         else:
             c_q["e_count"] = 1
         self.total_points -= self.points_per_question
@@ -105,18 +113,13 @@ class BBDD_backend:
                         "c_count" in self.all_questions[question_key]
                         and int(self.all_questions[question_key]["c_count"]) <= 2
                     ):
-                        max_tries = 30
-                        index = 0
-                        while index >= max_tries:
-                            index += 1
-                            r_local = random.randint(0, len(asks) - 1)
-                            local_question_key = asks[r_local]
-                            if "c_count" not in self.all_questions[local_question_key]:
-                                dct[local_question_key] = self.all_questions[
-                                    local_question_key
-                                ]
-                                index = 100
-                        if index < 100:
+                        in_dct = True
+                        for i in asks:
+                            if "c_count" not in self.all_questions[i]:
+                                in_dct = False
+                                dct[i] = self.all_questions[i]
+                                break
+                        if in_dct:
                             dct[question_key] = self.all_questions[question_key]
         return dct
 
