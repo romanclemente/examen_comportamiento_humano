@@ -16,6 +16,7 @@ class TestApp:
         clean_ddbb=False,
         to_the_fail=False,
         only_fail=False,
+        repetir=False,
     ):
         self.t = countdown
         self.sec_guay = 59
@@ -32,6 +33,7 @@ class TestApp:
             activebackground="red",
             bg="blue",
             orient="vertical",
+            width=100,
             command=self.canvas.yview,
         )
         self.scrollbarx = tk.Scrollbar(
@@ -39,6 +41,7 @@ class TestApp:
             activebackground="red",
             bg="blue",
             orient="horizontal",
+            width=100,
             command=self.canvas.xview,
         )
         self.scrollable_frame = tk.Frame(self.canvas)
@@ -55,7 +58,9 @@ class TestApp:
         self.scrollbary.pack(side="right", fill="y")
         self.scrollbarx.pack(side="bottom", fill="x")
 
-        self.back = BBDD_backend(lenght_exam=num_questions, only_fails=only_fail)
+        self.back = BBDD_backend(
+            lenght_exam=num_questions, only_fails=only_fail, repetir=repetir
+        )
         if clean_ddbb:
             self.back.clean_bbdd()
         self.questions = self.back.questions
@@ -190,8 +195,7 @@ class TestApp:
             v_answers = self.questions[self.current_question]["v"]
             f_answers = self.questions[self.current_question]["f"]
             correct_answer = v_answers
-            sample_size = min(3, len(f_answers))
-            answers = [correct_answer] + random.sample(f_answers, sample_size)
+            answers = [correct_answer] + f_answers
             random.shuffle(answers)
             self.create_radio_buttons(answers)
         except TypeError:
@@ -280,6 +284,7 @@ class TestApp:
 
 class StartApp:
     def __init__(self, master):
+        self.repetir = True
         self.count_down_spinner = 0
         self.only_fails = False
         self.to_the_fail = False
@@ -291,6 +296,12 @@ class StartApp:
             self.master, text="Seleccione una opción", font=("Helvetica", 16)
         )
         self.label.pack(pady=20)
+
+        self.repetirExamen = tk.Button(
+            self.master, text="Repetir examen", command=self.start_exam
+        )
+        self.repetirExamen.pack(pady=10)
+        self.num_questions = 20
 
         self.button1 = tk.Button(
             self.master, text="Examen normal", command=self.setup_questions
@@ -353,6 +364,7 @@ class StartApp:
         text_widget.config(state=tk.DISABLED)
 
     def count_down(self):
+        self.repetir = False
         back = BBDD_backend(lenght_exam=100)
         self.num_questions = len(list(back.get_preguntas()))
         self.new_window = tk.Toplevel(self.master)
@@ -382,6 +394,7 @@ class StartApp:
         self.start_button.pack(pady=10)
 
     def setup_questions(self):
+        self.repetir = False
         self.to_the_fail = False
         self.new_window = tk.Toplevel(self.master)
         self.new_window.title("Configurar Preguntas")
@@ -420,13 +433,21 @@ class StartApp:
         try:
             checkbox_value = self.checkbox_var.get()
         except Exception:
-            checkbox_value = self.checkbox_var
-        self.new_window.destroy()
+            try:
+                checkbox_value = self.checkbox_var
+            except Exception:
+                checkbox_value = False
+        try:
+            self.new_window.destroy()
+        except Exception:
+            pass
         self.master.destroy()
         root = tk.Tk()
         try:
             app = TestApp(
-                root, num_questions, countdown=int(self.count_down_spinner.get())
+                root,
+                num_questions,
+                countdown=int(self.count_down_spinner.get(), repetir=self.repetir),
             )
         except Exception:
             app = TestApp(
@@ -435,10 +456,12 @@ class StartApp:
                 bool(checkbox_value),
                 to_the_fail=self.to_the_fail,
                 only_fail=self.only_fails,
+                repetir=self.repetir,
             )
         root.mainloop()
 
     def to_the_fail_mode(self):
+        self.repetir = False
         self.to_the_fail = True
         back = BBDD_backend(lenght_exam=5)
         self.num_questions = len(back.all_questions)
@@ -466,6 +489,7 @@ class StartApp:
         self.start_button.pack(pady=10)
 
     def all_fail(self):
+        self.repetir = False
         self.new_window = tk.Toplevel(self.master)
         self.new_window.title("Recordando fallos")
         self.new_window.geometry("300x200")

@@ -4,8 +4,9 @@ import json
 
 
 class BBDD_backend:
-    def __init__(self, lenght_exam, only_fails=False) -> None:
+    def __init__(self, lenght_exam, only_fails=False, repetir=False) -> None:
         self.lenght_exam = lenght_exam
+        self.repetir = repetir
         self.only_fails = only_fails
         self.all_questions = self.get_preguntas()
         self.questions = self.preguntas_examen()
@@ -88,18 +89,25 @@ class BBDD_backend:
         dct = {}
         index = 0
         for x in asks:
-            if (
-                "e_count" in self.all_questions[x]
-                and int(self.all_questions[x]["e_count"]) > 0
-            ):
-                if "c_count" not in self.all_questions[x] or (
-                    "c_count" in self.all_questions[x]
-                    and int(self.all_questions[x]["c_count"]) <= 2
-                ):
+            if self.repetir:
+                if "examen" in self.all_questions[x]:
                     index += 1
                     dct[x] = self.all_questions[x]
-                    if index >= self.lenght_exam:
-                        return dct
+            else:
+                if (
+                    "e_count" in self.all_questions[x]
+                    and int(self.all_questions[x]["e_count"]) > 0
+                ):
+                    if "c_count" not in self.all_questions[x] or (
+                        "c_count" in self.all_questions[x]
+                        and int(self.all_questions[x]["c_count"]) <= 2
+                    ):
+                        index += 1
+                        dct[x] = self.all_questions[x]
+                        if index >= self.lenght_exam:
+                            return dct
+        if self.repetir:
+            return dct
         if not self.only_fails:
             ask_exam = self.lenght_exam - len(list(dct))
 
