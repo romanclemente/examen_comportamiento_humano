@@ -6352,7 +6352,7 @@
             "Las funciones cognitivas y la memoria, ya que el robot necesita recordar cómo agarrar diferentes objetos basándose en experiencias pasadas."
         ],
         "examen": "si",
-        "c_count": 3
+        "c_count": 4
     },
     "Imagina que hemos desarrollado un robot capaz de jugar al tenis. La I.A. del robot ha sido entrenada para optimizar su rendimiento ajustando en tiempo real la fuerza y dirección de sus golpes. Para mejorar su capacidad de respuesta, se le añade un módulo similar a los ganglios basales en humanos, que le permite automatizar ciertos movimientos repetitivos. Desde una perspectiva neurocientífica, ¿qué estructura del sistema nervioso humano habría servido de inspiración para este módulo de automatización?": {
         "v": "El cerebelo, porque es crucial para la coordinación y el ajuste fino de los movimientos.",
@@ -6362,8 +6362,8 @@
             "La amígdala, porque es esencial para la respuesta emocional durante el juego."
         ],
         "examen": "si",
-        "e_count": 4,
-        "c_count": 2
+        "e_count": 3,
+        "c_count": 3
     },
     "Supongamos que hemos creado una I.A. para detectar y responder adecuadamente a cambios en el entorno mediante un sistema de recompensas y castigos inspirado en el circuito dopaminérgico humano. La I.A. recibe un refuerzo positivo al identificar correctamente los cambios, incrementando su capacidad de procesamiento y memoria, mientras que recibe un castigo negativo al equivocarse, disminuyendo estos recursos. ¿Qué dimensión de las emociones humanas podría estar representando el aumento de la capacidad de procesamiento en esta I.A.?": {
         "v": "La dimensión emocional de activación, que refleja cómo de energizante resulta una emoción.",
@@ -6373,7 +6373,7 @@
             "La dimensión emocional de intensidad, que refleja cuán fuerte se siente una emoción."
         ],
         "examen": "si",
-        "c_count": 2
+        "c_count": 3
     },
     "Considera un robot diseñado para realizar tareas de construcción, que puede aprender nuevas habilidades observando videos de humanos realizando esas tareas. Para mejorar su capacidad de aprendizaje, el robot está equipado con un módulo adicional que procesa y extrae patrones de movimiento, similar al sistema de espejo en el cerebro humano. ¿Qué parte del cerebro humano ha inspirado este módulo de aprendizaje observacional?": {
         "v": "Las neuronas espejo, porque permiten la imitación y el aprendizaje observacional.",
@@ -6383,7 +6383,7 @@
             "El hipocampo, porque está involucrado en la memoria a largo plazo."
         ],
         "examen": "si",
-        "c_count": 2
+        "c_count": 3
     },
     "Supongamos que hemos desarrollado un robot con la capacidad de navegar en un entorno complejo y evitar obstáculos en tiempo real. Para ello, la I.A. del robot utiliza un sistema de planificación y toma de decisiones similar a la corteza prefrontal humana. Desde el punto de vista neurocientífico, ¿qué función principal de la corteza prefrontal se refleja en este sistema de navegación?": {
         "v": "La toma de decisiones y la planificación estratégica.",
@@ -6393,7 +6393,8 @@
             "La regulación emocional y la respuesta al estrés."
         ],
         "examen": "si",
-        "c_count": 2
+        "c_count": 2,
+        "e_count": 1
     },
     "¿Qué es un reflejo en el contexto del sistema nervioso?": {
         "v": "1. Transducción; 2. Conducción; 3. Procesamiento primario e inconsciente; 4. Procesamiento profundo y consciente.",
@@ -6403,7 +6404,7 @@
             "1. Conducción; 2. Transducción; 3. Procesamiento primario e inconsciente; 4. Procesamiento profundo y consciente."
         ],
         "examen": "si",
-        "c_count": 3
+        "c_count": 4
     },
     "Las siguientes imágenes muestran esquemáticamente la relación nerviosa que se establece entre los músculos del lado derecho del \ncuerpo (visto a la izquierda por ser una vista frontal de la persona) y la médula espinal. ¿Cuál de las cuatro imágenes es la correcta? ?": {
         "v": "examen_comportamiento_humano/Images/2/Músculo médula c.jpg",
@@ -6419,7 +6420,7 @@
             "examen_comportamiento_humano/Images/2/Músculo médula d.jpg"
         ],
         "examen": "si",
-        "c_count": 3
+        "c_count": 4
     },
     "¿Cuál de los siguientes diagramas describe mejor el flujo del control motor humano?": {
         "v": "examen_comportamiento_humano/Images/3/Flujo Motor bueno.png",
@@ -6435,7 +6436,7 @@
             "examen_comportamiento_humano/Images/3/Flujo Motor 3.png"
         ],
         "examen": "si",
-        "c_count": 2
+        "c_count": 3
     },
     "Supongamos que tenemos un objeto cúbico cuyas caras tienen las siguientes\n respectivas apariencias  desde nuestro punto de vista, \nobservamos la siguiente vista del objeto: ? A continuación, se muestran tres imágenes (A, B y C)\n. Cada una exhibe una representación mental de este objeto que una persona o un modelo computacional forma en su mente:\n [Distintas opciones que muestran las fases del modelo de Marr aplicadas al objeto cúbico, pero completadas en distinto grado.] De las cuatro siguientes opciones, \n¿cuál es la única que ordena correctamente cada una de estas últimas imágenes (A, B y C) según las tres fases del modelo de Marr? Images/1/Cubo 1.jpg , Images/1/Cubo 2.png , /Images/1/Cubo 3.jpg": {
         "v": "1. C; 2. A; 3. B",
@@ -6449,7 +6450,7 @@
             "examen_comportamiento_humano/Images/1/Cubo 2.png",
             "examen_comportamiento_humano/Images/1/Cubo 3.jpg"
         ],
-        "c_count": 4,
+        "c_count": 5,
         "examen": "si"
     },
     "Fotorreceptor encargado de la percepción de la longitud de onda (color)": {
@@ -6465,8 +6466,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 3,
-        "c_count": 3
+        "e_count": 2,
+        "c_count": 4
     },
     "Conjunto de capas que conforman la corteza visual primaria, y cuya capacidad de procesamiento profundo va \nsiendo progresivamente mayor entre sí (desde los rasgos más elementales de la percepción hasta el color y el \nmovimiento)": {
         "v": "V1,V2,V3,V4",
@@ -6482,8 +6483,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 4,
-        "c_count": 3
+        "e_count": 3,
+        "c_count": 4
     },
     "Fotorreceptor encargado de la percepción de la luminosidad": {
         "v": "Baston",
@@ -6499,8 +6500,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 3,
-        "c_count": 3
+        "e_count": 2,
+        "c_count": 4
     },
     "'Vía del qué': facción nerviosa de la visión encargada de procesar la identidad de los objetos.": {
         "v": "Vía parvocelular o ventral de la visión",
@@ -6516,7 +6517,7 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "c_count": 2
+        "c_count": 3
     },
     "Nos encontramos construyendo un computador que debe ser capaz de percibir información óptica, acústica, mecánica y térmica. Para ello, \nel computador cuenta con sensores para todas ellas, los cuales convierten cada tipo diferente de energía captada en corrientes \neléctricas que deberán ser procesadas en módulos concretos y diferentes de su placa madre. Supongamos que instalamos un mecanismo, llamado\n “distribuidor”, que recibe todas las informaciones de cada clase, las filtra, las preanaliza las y, finalmente, las envía al módulo de \nprocesamiento avanzado que le corresponde a cada una. Bioinspirándonos en el cerebro humano, ¿qué estructura cerebral es la que posee una \nfunción más parecida a la de este “distribuidor” de nuestro computador?": {
         "v": "El tálamo.",
@@ -6526,7 +6527,7 @@
             "La médula espinal."
         ],
         "examen": "si",
-        "c_count": 2
+        "c_count": 3
     },
     "Su núcleo geniculado lateral recibe las aferencias nerviosas \nde la retina “cruzando” la información del campo visual nasal, y \nmanteniendo igual la del campo visual periférico.": {
         "v": "Talamo",
@@ -6542,8 +6543,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 3,
-        "c_count": 3
+        "e_count": 2,
+        "c_count": 4
     },
     "Supongamos que fabricamos un robot con dos brazos y manos artificiales, dotado de una I.A. que le permite aprender a sostener objetos \nsin que se le caigan. Para cumplir con su función, el robot mueve los brazos y las manos gracias a una serie de muelles de cierta \nconstante elástica (valor numérico que determina cuánta fuerza ejerce el muelle según su grado de estiramiento o contracción). Gracias \na ello, cuando se le coloca un objeto en las manos que comienza a deformar sus muelles, el robot ajusta en todo momento esta constante \nelástica hasta recobrar el equilibrio y conseguir evitar que se le caiga el objeto. Bioinspirándonos neurocientíficamente en el ser humano,\n¿cuál de las siguientes opciones describe correctamente las funciones neurales que serían equivalentes a las imprescindibles en este robot?": {
         "v": "Las funciones motoras y la propiocepción, porque el robot necesita percibir sus propias fluctuaciones de tensión en los muelles \npara decidir el movimiento que mejor compense el peso del objeto.",
@@ -6552,7 +6553,8 @@
             "Las funciones motoras y la representación mental, ya que el robot necesita conocer perfectamente la identidad del objeto \nsostenido para poder sujetarlo con eficacia.",
             "La propiocepción y la emoción, ya que la posibilidad de que el objeto caiga al suelo debe ser computada emocionalmente como \nuna amenaza, en conjunto con la información sobre el estiramiento de los muelles y su tensión."
         ],
-        "examen": "si"
+        "examen": "si",
+        "c_count": 1
     },
     "Supongamos que deseamos fabricar un robot que sea capaz de disparar bolas de pintura a una diana mientras monta en una bicicleta. \nPara ello, hemos entrenado una I.A. para hacerle aprender ambas tareas por separado. Sin embargo, al tratar de realizarlas a la vez, \nsus recursos computacionales limitados no le permiten rendir en ambas simultáneamente. Para resolver este problema, instalamos en el robot un\n nuevo módulo extra, llamado “automatizador”, que adquiere información sobre las variables de movimiento de la bicicleta en cada \nmomento y precalcula la mejor secuencia de movimientos del robot para permanecer en movimiento sin caerse. Esto permite al robot concentrar toda\n su potencia computacional en el disparo de bolas de pintura, pudiendo ahora simultanearlo de forma exitosa con el movimiento en bicicleta.\n Desde el punto de vista de la neurociencia, ¿qué parte del sistema nervioso habría servido como bioinspiración para este módulo \n“automatizador”?": {
         "v": "Los ganglios basales y el cerebelo, ya que, aunque no poseen la habilidad de emitir órdenes motoras directas, sí que permiten \nprocesar la automatización y corrección instantánea de los movimientos para ahorrar esa carga computacional a la corteza motora.",
@@ -6562,7 +6564,7 @@
             "La corteza somatosensorial, porque es la que contiene un mapeado interno de todos los efectores del cuerpo, pudiendo computar \nla intervención de todos y cada uno ellos."
         ],
         "examen": "si",
-        "c_count": 1
+        "c_count": 2
     },
     "Con el fin de detectar emociones en imágenes fijas de rostros humanos, entrenamos una I.A. mediante aprendizaje supervisado por\nbioinspiración el circuito dopaminérgico de recompensa humano. Cada vez que la I.A. acierta en su análisis, le suministramos un\ncierto refuerzo (“premio”). Este refuerzo consiste en que aumentamos, en su memoria, el conjunto de imágenes que le sirven de base,\nsuministrándole directamente la información sobre las emociones que hay presentes en ellas. Esto significa que su base de conocimiento\ny su capacidad de acierto se ve aumentada sin haber tenido que continuar ensayando desde la última vez. Además, también es parte del\nrefuerzo el permitirle trabajar con una mayor potencia de cómputo (lo que también le permite mejorar su rendimiento). Supongamos que la\n cuantía en la que el refuerzo aumenta la potencia y la base de memoria es proporcional al grado de acierto de la I.A.Por contra,\ntambién existirá un 'castigo' proporcional al nivel de error cometido en la identificación de emociones. Este 'castigo' será una pérdida\n de potencia computacional. Desde un punto de vista bioinspirado en las emociones humanas, ¿cuál de las siguientes afirmaciones describe\nmejor el funcionamiento del refuerzo en el aprendizaje de esta I.A.?": {
         "v": "El aumento en la potencia de cómputo es comparable a la dimensión emocional de activación (cómo de energizante resulta una \nemoción), mientras que el aumento en la base de conocimiento previo puede interpretarse como algo que genera una emoción de polaridad\n positiva.",
@@ -6572,7 +6574,7 @@
             "El aumento en la potencia de cómputo es comparable a la dimensión emocional de polaridad (cómo de agradable es la emoción que se \nsiente), mientras que el aumento en la base de conocimiento previo puede interpretarse como algo que genera una emoción de \nintensidad activadora."
         ],
         "examen": "si",
-        "c_count": 2
+        "c_count": 3
     },
     "Un equipo policial busca a un fugitivo del que se sabe qué modelo de automóvil conduce. Para ello, deseamos entrenar a una I.A. \npara que, a partir de un set previo de imágenes de dicho modelo de automóvil, aprenda a reconocer cuándo un vehículo de dicha marca\ny modelo ha sido visto por las cámaras de seguridad de la ciudad. Sin embargo, el set de imágenes de entrenamiento sólo incluye \nfotografías del automóvil visto de frente, lo cual genera un problema en nuestra I.A., que no es capaz de reconocer el automóvil en \nlas grabaciones urbanas en las que se lo ve de perfil o por detrás. Bioinspirándonos en el modelo de percepción visual de tres fases \nde Marr, ¿cuál de las fases es la que estaría fallando?": {
         "v": "Fase de modelo 3D centrado en el objeto.",
@@ -6582,7 +6584,7 @@
             "Fase de representación en 2½D centrada en el observador."
         ],
         "examen": "si",
-        "c_count": 2
+        "c_count": 3
     },
     "Área de la corteza occipital del cerebro que alberga el procesamiento profundo y consciente de la visión.": {
         "v": "Corteza visual primaria",
@@ -6598,8 +6600,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 8,
-        "c_count": 1
+        "e_count": 7,
+        "c_count": 2
     },
     "“Vía del dónde”: facción nerviosa de la visión encargada de procesar la posición espacial de los objetos.": {
         "v": "Vía magnocelular o dorsal de la visión",
@@ -6615,8 +6617,7 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 1,
-        "c_count": 3
+        "c_count": 4
     },
     "Relación de correspondencia espacial por la cual cada parte de la capa V1 de la corteza visual primaria procesa un área específica de la retina.": {
         "v": "retinotopia",
@@ -6632,7 +6633,7 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "c_count": 3
+        "c_count": 4
     },
     "Células que recogen la información de los fotorreceptores para transmitirla por el nervio óptico.": {
         "v": "Células bipolares y ganglionares",
@@ -6648,8 +6649,8 @@
             "Vía magnocelular o dorsal de la visión"
         ],
         "examen": "si",
-        "e_count": 4,
-        "c_count": 2
+        "e_count": 3,
+        "c_count": 3
     },
     "Capa de células del fondo del globo ocular, que contiene los fotorreceptores elementales.": {
         "v": "Retina",
@@ -6665,8 +6666,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 4,
-        "c_count": 3
+        "e_count": 3,
+        "c_count": 4
     },
     "¿Qué función principal cumplen los bastones en la retina humana?": {
         "v": "Percibir la intensidad de la luz en condiciones de baja luminosidad",
