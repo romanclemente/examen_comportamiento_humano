@@ -151,7 +151,8 @@
             "SNS",
             "GNS",
             "EEG"
-        ]
+        ],
+        "c_count": 2
     },
     "¿Que afirmacion no es correcta?": {
         "f": [
@@ -159,7 +160,8 @@
             "En animales, existen comites eticos cada vez mas restrictivos con respecto a provcar lesiones con \nfines cientificos",
             "Cuando una cierta lesion produce daños la observacion de las consecuencias funcionales permite \nextraer conclusiones"
         ],
-        "v": "Aunque el estudio en casos humanos es muy restrictivo, con la aprobacion de un comite etico y \nla autorizacion del paciente se permite el estudio de las consecuencias \nde una lesion prextistente"
+        "v": "Aunque el estudio en casos humanos es muy restrictivo, con la aprobacion de un comite etico y \nla autorizacion del paciente se permite el estudio de las consecuencias \nde una lesion prextistente",
+        "c_count": 1
     },
     "¿Que es la neuroimagen?": {
         "v": "Es la observacion del funcionamiento del cerebro 'in vivo', es uno de los metodos mas modernos de estudio\ny permiten encontrar correlatos neuronales (ver que hace el cerebro)",
@@ -167,7 +169,8 @@
             "Es la observacion del funcionamiento del cerebro 'in vivo', es un metodo de investigaccion algo arcaico\ny permiten encontrar correlatos neuronales (ver que hace el cerebro)",
             "Es la observacion del funcionamiento del cerebro 'in vivo', es uno de los metodos mas modernos de estudio\n aunque es algo invasivo, permite encontrar correlatos neuronales (ver que hace el cerebro)",
             "Es la observacion del funcionamiento del cerebro 'in vivo', es uno de los metodos mas modernos de estudio\ny permiten encontrar interraciones neuronales (ver como esta hecho el cerebro)"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Que afirmacion es erronea?": {
         "v": "Las lesiones para cada persona son todas iguales si se hicieron del mismo modo",
@@ -697,7 +700,8 @@
             "Una relación competitiva",
             "Una relación colaborativa",
             "Una relación conflictiva"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál es uno de los objetivos de la Neurociencia Cognitiva según el texto?": {
         "v": "Integrar los procesos psicológicos básicos con la realidad biológica del sistema nervioso",
@@ -1457,7 +1461,8 @@
             "Proponer nuevas hipótesis sin datos.",
             "Alterar los datos según la hipótesis.",
             "Evitar la interpretación de los datos."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué se busca con la conclusión de una investigación?-d8b948c0-7f97-41e4-ac5a-619ed0dd3b20": {
         "v": "Formalizar la aceptación o descarte de la hipótesis.",
@@ -1474,7 +1479,8 @@
             "Mantener los resultados en secreto.",
             "Alterar los resultados para publicarlos.",
             "Evitar la difusión de los resultados."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué caracteriza a una investigación exploratoria?-2ad607b4-3e0e-4006-9ab5-ddbd30b97518": {
         "v": "Observación sin hipótesis específicas.",
@@ -1604,7 +1610,8 @@
             "Reducir la capacidad cognitiva humana.",
             "Aumentar la distancia entre humanos y tecnología.",
             "Limitar las funciones de las máquinas."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Cuál es la finalidad de las técnicas anatómicas en el estudio del comportamiento humano?-8385710f-f6e8-412e-8b23-0bee3575dd19": {
         "v": "Identificación y diferenciación de estructuras cerebrales y un enfoque estructural del sistema nervioso.",
@@ -1741,7 +1748,8 @@
             "Niveles de glucosa en el cerebro.",
             "Flujo sanguíneo cerebral.",
             "Producción de neurotransmisores."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Para qué se utiliza la estimulación eléctrica de zonas corticales?-ad541b00-7b70-4e08-97b4-44ff76e4b32f": {
         "v": "Para observar efectos conductuales y minimizar daño funcional en neurocirugía.",
@@ -1818,7 +1826,8 @@
             "Alta resolución espacial y baja resolución temporal.",
             "Alta resolución tanto espacial como temporal.",
             "Baja resolución espacial y temporal."
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué técnica utiliza campos magnéticos para estudiar la actividad cerebral?-8b8684c3-8798-4fd9-abef-4b723c7c3d50": {
         "v": "Magnetoencefalografía (MEG).",
@@ -2439,7 +2448,8 @@
             "Los fisiológicos son empíricos y los conductuales teóricos",
             "Los fisiológicos miden variables y los conductuales observan fenómenos",
             "Los fisiológicos son descriptivos y los conductuales explicativos"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué aspecto adicional deben considerar los estudios conductuales al interpretar resultados en modelos animales?": {
         "v": "El prisma diferencial humano",
@@ -2920,7 +2930,8 @@
             "Los objetivos del proyecto",
             "Los resultados esperados",
             "Las variables dependientes e independientes"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué es fundamental para el estudio del comportamiento humano?": {
         "v": "Considerar los paradigmas y sistemas históricos",
@@ -3215,7 +3226,8 @@
             "Funciones cognitivas específicas",
             "Zonas corticales y subcorticales",
             "Conexiones neuronales"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué se diferencia en la sustancia gris?": {
         "v": "Cuerpos neuronales",
@@ -3328,7 +3340,8 @@
             "Las conexiones neuronales",
             "La actividad eléctrica del cerebro",
             "Las funciones cognitivas"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué permite observar la microscopía?": {
         "v": "Muestras de tejido nervioso en secciones de nanómetros de grosor",
@@ -4069,7 +4082,8 @@
             "Moderada",
             "Indefinida",
             "Variable"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué se obtiene con la EEG que está asociado a sucesos cognitivos o estímulos sensoriales?": {
         "v": "Potenciales evocados (PE)",
@@ -5285,7 +5299,8 @@
             "Ventral y dorsal",
             "Anterior y posterior",
             "Rostral y occipital"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué sistema de referencia no toma en consideración el cambio de orientación a 90° del neuroeje?": {
         "v": "Eje de Meynert",
@@ -5396,7 +5411,8 @@
             "Ventral",
             "Dorsal",
             "Cranial"
-        ]
+        ],
+        "c_count": 2
     },
     "¿Desde qué disciplinas nos aproximamos a la mente y el comportamiento humano en el texto?": {
         "v": "Desde disciplinas como la Inteligencia Artificial",
@@ -5623,7 +5639,8 @@
             "Equilibrio, temperatura, vibración",
             "Sed, hambre, presión arterial",
             "Emociones, pensamientos, recuerdos"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué tipo de información proporcionan los sentidos interoceptivos?": {
         "v": "Información sobre lo que sucede en las propias estructuras y tejidos del organismo",
@@ -6362,8 +6379,8 @@
             "La amígdala, porque es esencial para la respuesta emocional durante el juego."
         ],
         "examen": "si",
-        "e_count": 3,
-        "c_count": 3
+        "e_count": 2,
+        "c_count": 4
     },
     "Supongamos que hemos creado una I.A. para detectar y responder adecuadamente a cambios en el entorno mediante un sistema de recompensas y castigos inspirado en el circuito dopaminérgico humano. La I.A. recibe un refuerzo positivo al identificar correctamente los cambios, incrementando su capacidad de procesamiento y memoria, mientras que recibe un castigo negativo al equivocarse, disminuyendo estos recursos. ¿Qué dimensión de las emociones humanas podría estar representando el aumento de la capacidad de procesamiento en esta I.A.?": {
         "v": "La dimensión emocional de activación, que refleja cómo de energizante resulta una emoción.",
@@ -6373,7 +6390,7 @@
             "La dimensión emocional de intensidad, que refleja cuán fuerte se siente una emoción."
         ],
         "examen": "si",
-        "c_count": 3
+        "c_count": 4
     },
     "Considera un robot diseñado para realizar tareas de construcción, que puede aprender nuevas habilidades observando videos de humanos realizando esas tareas. Para mejorar su capacidad de aprendizaje, el robot está equipado con un módulo adicional que procesa y extrae patrones de movimiento, similar al sistema de espejo en el cerebro humano. ¿Qué parte del cerebro humano ha inspirado este módulo de aprendizaje observacional?": {
         "v": "Las neuronas espejo, porque permiten la imitación y el aprendizaje observacional.",
@@ -6393,7 +6410,7 @@
             "La regulación emocional y la respuesta al estrés."
         ],
         "examen": "si",
-        "c_count": 2,
+        "c_count": 3,
         "e_count": 1
     },
     "¿Qué es un reflejo en el contexto del sistema nervioso?": {
@@ -6404,7 +6421,7 @@
             "1. Conducción; 2. Transducción; 3. Procesamiento primario e inconsciente; 4. Procesamiento profundo y consciente."
         ],
         "examen": "si",
-        "c_count": 4
+        "c_count": 5
     },
     "Las siguientes imágenes muestran esquemáticamente la relación nerviosa que se establece entre los músculos del lado derecho del \ncuerpo (visto a la izquierda por ser una vista frontal de la persona) y la médula espinal. ¿Cuál de las cuatro imágenes es la correcta? ?": {
         "v": "examen_comportamiento_humano/Images/2/Músculo médula c.jpg",
@@ -6420,7 +6437,7 @@
             "examen_comportamiento_humano/Images/2/Músculo médula d.jpg"
         ],
         "examen": "si",
-        "c_count": 4
+        "c_count": 5
     },
     "¿Cuál de los siguientes diagramas describe mejor el flujo del control motor humano?": {
         "v": "examen_comportamiento_humano/Images/3/Flujo Motor bueno.png",
@@ -6436,7 +6453,7 @@
             "examen_comportamiento_humano/Images/3/Flujo Motor 3.png"
         ],
         "examen": "si",
-        "c_count": 3
+        "c_count": 4
     },
     "Supongamos que tenemos un objeto cúbico cuyas caras tienen las siguientes\n respectivas apariencias  desde nuestro punto de vista, \nobservamos la siguiente vista del objeto: ? A continuación, se muestran tres imágenes (A, B y C)\n. Cada una exhibe una representación mental de este objeto que una persona o un modelo computacional forma en su mente:\n [Distintas opciones que muestran las fases del modelo de Marr aplicadas al objeto cúbico, pero completadas en distinto grado.] De las cuatro siguientes opciones, \n¿cuál es la única que ordena correctamente cada una de estas últimas imágenes (A, B y C) según las tres fases del modelo de Marr? Images/1/Cubo 1.jpg , Images/1/Cubo 2.png , /Images/1/Cubo 3.jpg": {
         "v": "1. C; 2. A; 3. B",
@@ -6483,8 +6500,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 3,
-        "c_count": 4
+        "e_count": 2,
+        "c_count": 5
     },
     "Fotorreceptor encargado de la percepción de la luminosidad": {
         "v": "Baston",
@@ -6500,8 +6517,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 2,
-        "c_count": 4
+        "e_count": 1,
+        "c_count": 5
     },
     "'Vía del qué': facción nerviosa de la visión encargada de procesar la identidad de los objetos.": {
         "v": "Vía parvocelular o ventral de la visión",
@@ -6517,7 +6534,7 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "c_count": 3
+        "c_count": 4
     },
     "Nos encontramos construyendo un computador que debe ser capaz de percibir información óptica, acústica, mecánica y térmica. Para ello, \nel computador cuenta con sensores para todas ellas, los cuales convierten cada tipo diferente de energía captada en corrientes \neléctricas que deberán ser procesadas en módulos concretos y diferentes de su placa madre. Supongamos que instalamos un mecanismo, llamado\n “distribuidor”, que recibe todas las informaciones de cada clase, las filtra, las preanaliza las y, finalmente, las envía al módulo de \nprocesamiento avanzado que le corresponde a cada una. Bioinspirándonos en el cerebro humano, ¿qué estructura cerebral es la que posee una \nfunción más parecida a la de este “distribuidor” de nuestro computador?": {
         "v": "El tálamo.",
@@ -6543,8 +6560,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 2,
-        "c_count": 4
+        "e_count": 1,
+        "c_count": 5
     },
     "Supongamos que fabricamos un robot con dos brazos y manos artificiales, dotado de una I.A. que le permite aprender a sostener objetos \nsin que se le caigan. Para cumplir con su función, el robot mueve los brazos y las manos gracias a una serie de muelles de cierta \nconstante elástica (valor numérico que determina cuánta fuerza ejerce el muelle según su grado de estiramiento o contracción). Gracias \na ello, cuando se le coloca un objeto en las manos que comienza a deformar sus muelles, el robot ajusta en todo momento esta constante \nelástica hasta recobrar el equilibrio y conseguir evitar que se le caiga el objeto. Bioinspirándonos neurocientíficamente en el ser humano,\n¿cuál de las siguientes opciones describe correctamente las funciones neurales que serían equivalentes a las imprescindibles en este robot?": {
         "v": "Las funciones motoras y la propiocepción, porque el robot necesita percibir sus propias fluctuaciones de tensión en los muelles \npara decidir el movimiento que mejor compense el peso del objeto.",
@@ -6564,7 +6581,7 @@
             "La corteza somatosensorial, porque es la que contiene un mapeado interno de todos los efectores del cuerpo, pudiendo computar \nla intervención de todos y cada uno ellos."
         ],
         "examen": "si",
-        "c_count": 2
+        "c_count": 3
     },
     "Con el fin de detectar emociones en imágenes fijas de rostros humanos, entrenamos una I.A. mediante aprendizaje supervisado por\nbioinspiración el circuito dopaminérgico de recompensa humano. Cada vez que la I.A. acierta en su análisis, le suministramos un\ncierto refuerzo (“premio”). Este refuerzo consiste en que aumentamos, en su memoria, el conjunto de imágenes que le sirven de base,\nsuministrándole directamente la información sobre las emociones que hay presentes en ellas. Esto significa que su base de conocimiento\ny su capacidad de acierto se ve aumentada sin haber tenido que continuar ensayando desde la última vez. Además, también es parte del\nrefuerzo el permitirle trabajar con una mayor potencia de cómputo (lo que también le permite mejorar su rendimiento). Supongamos que la\n cuantía en la que el refuerzo aumenta la potencia y la base de memoria es proporcional al grado de acierto de la I.A.Por contra,\ntambién existirá un 'castigo' proporcional al nivel de error cometido en la identificación de emociones. Este 'castigo' será una pérdida\n de potencia computacional. Desde un punto de vista bioinspirado en las emociones humanas, ¿cuál de las siguientes afirmaciones describe\nmejor el funcionamiento del refuerzo en el aprendizaje de esta I.A.?": {
         "v": "El aumento en la potencia de cómputo es comparable a la dimensión emocional de activación (cómo de energizante resulta una \nemoción), mientras que el aumento en la base de conocimiento previo puede interpretarse como algo que genera una emoción de polaridad\n positiva.",
@@ -6574,7 +6591,7 @@
             "El aumento en la potencia de cómputo es comparable a la dimensión emocional de polaridad (cómo de agradable es la emoción que se \nsiente), mientras que el aumento en la base de conocimiento previo puede interpretarse como algo que genera una emoción de \nintensidad activadora."
         ],
         "examen": "si",
-        "c_count": 3
+        "c_count": 4
     },
     "Un equipo policial busca a un fugitivo del que se sabe qué modelo de automóvil conduce. Para ello, deseamos entrenar a una I.A. \npara que, a partir de un set previo de imágenes de dicho modelo de automóvil, aprenda a reconocer cuándo un vehículo de dicha marca\ny modelo ha sido visto por las cámaras de seguridad de la ciudad. Sin embargo, el set de imágenes de entrenamiento sólo incluye \nfotografías del automóvil visto de frente, lo cual genera un problema en nuestra I.A., que no es capaz de reconocer el automóvil en \nlas grabaciones urbanas en las que se lo ve de perfil o por detrás. Bioinspirándonos en el modelo de percepción visual de tres fases \nde Marr, ¿cuál de las fases es la que estaría fallando?": {
         "v": "Fase de modelo 3D centrado en el objeto.",
@@ -6584,7 +6601,7 @@
             "Fase de representación en 2½D centrada en el observador."
         ],
         "examen": "si",
-        "c_count": 3
+        "c_count": 4
     },
     "Área de la corteza occipital del cerebro que alberga el procesamiento profundo y consciente de la visión.": {
         "v": "Corteza visual primaria",
@@ -6600,8 +6617,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 7,
-        "c_count": 2
+        "e_count": 5,
+        "c_count": 4
     },
     "“Vía del dónde”: facción nerviosa de la visión encargada de procesar la posición espacial de los objetos.": {
         "v": "Vía magnocelular o dorsal de la visión",
@@ -6617,7 +6634,7 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "c_count": 4
+        "c_count": 5
     },
     "Relación de correspondencia espacial por la cual cada parte de la capa V1 de la corteza visual primaria procesa un área específica de la retina.": {
         "v": "retinotopia",
@@ -6633,7 +6650,7 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "c_count": 4
+        "c_count": 5
     },
     "Células que recogen la información de los fotorreceptores para transmitirla por el nervio óptico.": {
         "v": "Células bipolares y ganglionares",
@@ -6649,8 +6666,8 @@
             "Vía magnocelular o dorsal de la visión"
         ],
         "examen": "si",
-        "e_count": 3,
-        "c_count": 3
+        "e_count": 2,
+        "c_count": 4
     },
     "Capa de células del fondo del globo ocular, que contiene los fotorreceptores elementales.": {
         "v": "Retina",
@@ -6732,7 +6749,8 @@
             "Procesar información sensorial básica",
             "Regular funciones motoras",
             "Almacenar recuerdos a largo plazo"
-        ]
+        ],
+        "c_count": 1
     },
     "¿Qué tipo de aprendizaje en IA se inspira en el proceso de percepción humana para reconocimiento de patrones?": {
         "v": "Aprendizaje supervisado",
