@@ -208,8 +208,7 @@
             "Permite distinguir tejidos gracias a los anticuerpos",
             "Usa tecnicas como 'La tincion de Nissl"
         ],
-        "e_count": 2,
-        "c_count": 1
+        "c_count": 3
     },
     "¿Que afirmacion es correcta acerca de la Histoquimicas?": {
         "v": "Usa tecnicas como 'La tincion de Nissl",
@@ -1074,8 +1073,8 @@
             "Electroencefalografía (EEG)",
             "Magnetoencefalografía (MEG)"
         ],
-        "e_count": 2,
-        "c_count": 2
+        "e_count": 1,
+        "c_count": 3
     },
     "¿Qué término describe la capacidad del cerebro para cambiar y adaptarse a lo largo del \ntiempo?-b84c3dbc-8e73-4bb3-b74b-89189d74168d": {
         "v": "Neuroplasticidad",
@@ -5476,8 +5475,7 @@
             "Una respuesta instintiva inmediata",
             "Un almacenamiento temporal de información"
         ],
-        "e_count": 1,
-        "c_count": 1
+        "c_count": 2
     },
     "¿Qué condiciona enormemente el proceso perceptivo desde su inicio?": {
         "v": "Esquemas concretos de expectativas y predicciones",
@@ -6421,7 +6419,7 @@
             "examen_comportamiento_humano/Images/2/Músculo médula d.jpg"
         ],
         "examen": "si",
-        "e_count": 2
+        "c_count": 3
     },
     "¿Cuál de los siguientes diagramas describe mejor el flujo del control motor humano?": {
         "v": "examen_comportamiento_humano/Images/3/Flujo Motor bueno.png",
@@ -6467,8 +6465,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 5,
-        "c_count": 1
+        "e_count": 3,
+        "c_count": 3
     },
     "Conjunto de capas que conforman la corteza visual primaria, y cuya capacidad de procesamiento profundo va \nsiendo progresivamente mayor entre sí (desde los rasgos más elementales de la percepción hasta el color y el \nmovimiento)": {
         "v": "V1,V2,V3,V4",
@@ -6484,7 +6482,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 6
+        "e_count": 4,
+        "c_count": 3
     },
     "Fotorreceptor encargado de la percepción de la luminosidad": {
         "v": "Baston",
@@ -6500,8 +6499,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 5,
-        "c_count": 1
+        "e_count": 3,
+        "c_count": 3
     },
     "'Vía del qué': facción nerviosa de la visión encargada de procesar la identidad de los objetos.": {
         "v": "Vía parvocelular o ventral de la visión",
@@ -6543,8 +6542,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 5,
-        "c_count": 1
+        "e_count": 3,
+        "c_count": 3
     },
     "Supongamos que fabricamos un robot con dos brazos y manos artificiales, dotado de una I.A. que le permite aprender a sostener objetos \nsin que se le caigan. Para cumplir con su función, el robot mueve los brazos y las manos gracias a una serie de muelles de cierta \nconstante elástica (valor numérico que determina cuánta fuerza ejerce el muelle según su grado de estiramiento o contracción). Gracias \na ello, cuando se le coloca un objeto en las manos que comienza a deformar sus muelles, el robot ajusta en todo momento esta constante \nelástica hasta recobrar el equilibrio y conseguir evitar que se le caiga el objeto. Bioinspirándonos neurocientíficamente en el ser humano,\n¿cuál de las siguientes opciones describe correctamente las funciones neurales que serían equivalentes a las imprescindibles en este robot?": {
         "v": "Las funciones motoras y la propiocepción, porque el robot necesita percibir sus propias fluctuaciones de tensión en los muelles \npara decidir el movimiento que mejor compense el peso del objeto.",
@@ -6573,8 +6572,7 @@
             "El aumento en la potencia de cómputo es comparable a la dimensión emocional de polaridad (cómo de agradable es la emoción que se \nsiente), mientras que el aumento en la base de conocimiento previo puede interpretarse como algo que genera una emoción de \nintensidad activadora."
         ],
         "examen": "si",
-        "e_count": 1,
-        "c_count": 1
+        "c_count": 2
     },
     "Un equipo policial busca a un fugitivo del que se sabe qué modelo de automóvil conduce. Para ello, deseamos entrenar a una I.A. \npara que, a partir de un set previo de imágenes de dicho modelo de automóvil, aprenda a reconocer cuándo un vehículo de dicha marca\ny modelo ha sido visto por las cámaras de seguridad de la ciudad. Sin embargo, el set de imágenes de entrenamiento sólo incluye \nfotografías del automóvil visto de frente, lo cual genera un problema en nuestra I.A., que no es capaz de reconocer el automóvil en \nlas grabaciones urbanas en las que se lo ve de perfil o por detrás. Bioinspirándonos en el modelo de percepción visual de tres fases \nde Marr, ¿cuál de las fases es la que estaría fallando?": {
         "v": "Fase de modelo 3D centrado en el objeto.",
@@ -6600,7 +6598,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 6
+        "e_count": 8,
+        "c_count": 1
     },
     "“Vía del dónde”: facción nerviosa de la visión encargada de procesar la posición espacial de los objetos.": {
         "v": "Vía magnocelular o dorsal de la visión",
@@ -6616,7 +6615,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 3
+        "e_count": 1,
+        "c_count": 3
     },
     "Relación de correspondencia espacial por la cual cada parte de la capa V1 de la corteza visual primaria procesa un área específica de la retina.": {
         "v": "retinotopia",
@@ -6632,8 +6632,7 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 2,
-        "c_count": 1
+        "c_count": 3
     },
     "Células que recogen la información de los fotorreceptores para transmitirla por el nervio óptico.": {
         "v": "Células bipolares y ganglionares",
@@ -6649,8 +6648,8 @@
             "Vía magnocelular o dorsal de la visión"
         ],
         "examen": "si",
-        "e_count": 5,
-        "c_count": 1
+        "e_count": 4,
+        "c_count": 2
     },
     "Capa de células del fondo del globo ocular, que contiene los fotorreceptores elementales.": {
         "v": "Retina",
@@ -6666,7 +6665,8 @@
             "Células bipolares y ganglionares"
         ],
         "examen": "si",
-        "e_count": 6
+        "e_count": 4,
+        "c_count": 3
     },
     "¿Qué función principal cumplen los bastones en la retina humana?": {
         "v": "Percibir la intensidad de la luz en condiciones de baja luminosidad",
