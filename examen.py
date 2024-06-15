@@ -405,7 +405,7 @@ class StartApp:
         )
         self.label.pack(pady=10)
 
-        self.num_questions = tk.IntVar(value=5)
+        self.num_questions = tk.IntVar(value=10)
         self.spinbox = tk.Spinbox(
             self.new_window, from_=10, to=300, textvariable=self.num_questions
         )
