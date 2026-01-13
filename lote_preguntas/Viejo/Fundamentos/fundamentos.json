@@ -1,0 +1,1634 @@
+{
+    "¿Qué es la ciencia de datos?": {
+        "v": "Un campo que analiza datos para obtener información útil",
+        "f": [
+            "Un lenguaje de programación",
+            "Un sistema de bases de datos",
+            "Un software de análisis financiero"
+        ]
+    },
+    "¿Qué significa 'data-driven' en el contexto empresarial?": {
+        "v": "Tomar decisiones basadas en datos",
+        "f": [
+            "Basar decisiones en la intuición",
+            "Usar solo datos históricos",
+            "Depender de expertos en análisis"
+        ]
+    },
+    "¿Cuál es el objetivo principal de la ciencia de datos?": {
+        "v": "Descubrir patrones y generar conocimiento",
+        "f": [
+            "Crear bases de datos",
+            "Eliminar datos irrelevantes",
+            "Almacenar información en la nube"
+        ]
+    },
+    "¿Qué metodología es ampliamente usada en minería de datos?": {
+        "v": "CRISP-DM",
+        "f": [
+            "SQL",
+            "BigQuery",
+            "Power BI"
+        ]
+    },
+    "¿Qué caracteriza la filosofía empresarial data-driven?": {
+        "v": "Uso de datos para tomar decisiones",
+        "f": [
+            "Uso exclusivo de software avanzado",
+            "Solo se enfoca en el big data",
+            "No requiere análisis de datos"
+        ]
+    },
+    "¿Qué ventaja ofrece un enfoque basado en datos?": {
+        "v": "Minimizar riesgos y mejorar estrategias",
+        "f": [
+            "Reducir el número de empleados",
+            "Eliminar la competencia",
+            "Automatizar toda la empresa"
+        ]
+    },
+    "¿Cuál de las siguientes es una aplicación de la ciencia de datos?": {
+        "v": "Detección de fraudes en banca",
+        "f": [
+            "Creación de hardware",
+            "Desarrollo de software de videojuegos",
+            "Diseño de redes eléctricas"
+        ]
+    },
+    "¿Qué significa CRISP-DM?": {
+        "v": "Cross-Industry Standard Process for Data Mining",
+        "f": [
+            "Customer Relationship Intelligent Systems Processing",
+            "Cloud-Related Intelligent Software Processing",
+            "Computational Resource Integration for Smart Processing"
+        ]
+    },
+    "¿Cuál es la primera fase de CRISP-DM?": {
+        "v": "Comprensión del negocio",
+        "f": [
+            "Preparación de los datos",
+            "Modelado de datos",
+            "Evaluación de modelos"
+        ]
+    },
+    "¿Qué herramienta se usa en ciencia de datos para bases de datos\nrelacionales?": {
+        "v": "SQL",
+        "f": [
+            "Python",
+            "TensorFlow",
+            "Excel"
+        ]
+    },
+    "¿Cuál es una ventaja clave de SQL?": {
+        "v": "Eficiencia en consultas de datos",
+        "f": [
+            "Es un lenguaje de programación",
+            "Permite crear gráficos avanzados",
+            "Es una alternativa a la inteligencia artificial"
+        ]
+    },
+    "¿Qué es Pandas en ciencia de datos?": {
+        "v": "Una librería de Python para manipular datos",
+        "f": [
+            "Un sistema operativo",
+            "Un lenguaje de programación",
+            "Un software de bases de datos"
+        ]
+    },
+    "¿Qué estructura de datos usa Pandas?": {
+        "v": "DataFrame",
+        "f": [
+            "Vector",
+            "Lista",
+            "Matriz 3D"
+        ]
+    },
+    "¿Qué lenguaje usa Pandas?": {
+        "v": "Python",
+        "f": [
+            "Java",
+            "C++",
+            "SQL"
+        ]
+    },
+    "¿Cuál es una debilidad de Pandas?": {
+        "v": "Escalabilidad limitada con grandes datos",
+        "f": [
+            "No soporta datos estructurados",
+            "No permite análisis estadísticos",
+            "Solo funciona en Windows"
+        ]
+    },
+    "¿Qué tecnología se usa para big data en ciencia de datos?": {
+        "v": "Apache Spark",
+        "f": [
+            "Microsoft Excel",
+            "Tableau",
+            "Google Docs"
+        ]
+    },
+    "¿Cuál es una ventaja de Apache Spark?": {
+        "v": "Procesamiento rápido de grandes datos",
+        "f": [
+            "Es más fácil de usar que SQL",
+            "No necesita servidores",
+            "No requiere programación"
+        ]
+    },
+    "¿Qué diferencia a Spark de Hadoop?": {
+        "v": "Procesa datos en memoria",
+        "f": [
+            "Solo funciona con datos estructurados",
+            "Usa más almacenamiento en disco",
+            "Es un lenguaje de programación"
+        ]
+    },
+    "¿Cuál es una aplicación de Spark?": {
+        "v": "Análisis de grandes volúmenes de datos",
+        "f": [
+            "Desarrollo de videojuegos",
+            "Edición de imágenes",
+            "Diseño web"
+        ]
+    },
+    "¿Qué significa SQL?": {
+        "v": "Structured Query Language",
+        "f": [
+            "Sequential Query Logic",
+            "Standard Quick Lookup",
+            "Smart Query Layout"
+        ]
+    },
+    "¿Qué es la minería de datos?": {
+        "v": "Proceso de descubrir patrones en grandes volúmenes de datos",
+        "f": [
+            "Almacenar datos en bases de datos",
+            "Eliminar datos duplicados en sistemas",
+            "Codificar información en redes seguras"
+        ]
+    },
+    "¿Qué tipo de datos analiza la minería de datos?": {
+        "v": "Datos estructurados y no estructurados",
+        "f": [
+            "Solo datos almacenados en Excel",
+            "Solo datos numéricos en SQL",
+            "Solo imágenes y vídeos"
+        ]
+    },
+    "¿Qué técnica de minería de datos se usa para clasificar datos?": {
+        "v": "Árboles de decisión",
+        "f": [
+            "Clustering",
+            "Redes neuronales",
+            "Algoritmos genéticos"
+        ]
+    },
+    "¿Qué algoritmo de clustering es muy utilizado en ciencia de datos?": {
+        "v": "K-means",
+        "f": [
+            "Naïve Bayes",
+            "Regresión logística",
+            "Análisis de componentes principales"
+        ]
+    },
+    "¿Cuál es una desventaja de K-means?": {
+        "v": "Debe conocer el número de clusters antes de ejecutarlo",
+        "f": [
+            "No permite datos categóricos",
+            "No puede analizar datos numéricos",
+            "Siempre produce los mismos resultados"
+        ]
+    },
+    "¿Qué significa supervisado en aprendizaje automático?": {
+        "v": "El modelo aprende con datos etiquetados",
+        "f": [
+            "El modelo se entrena sin datos previos",
+            "Solo usa datos no estructurados",
+            "No necesita entrenamiento previo"
+        ]
+    },
+    "¿Qué diferencia el aprendizaje supervisado del no supervisado?": {
+        "v": "El supervisado usa datos etiquetados",
+        "f": [
+            "Solo el no supervisado usa redes neuronales",
+            "El supervisado no requiere datos previos",
+            "El no supervisado no usa algoritmos"
+        ]
+    },
+    "¿Qué es un modelo de regresión en ciencia de datos?": {
+        "v": "Un modelo que predice valores continuos",
+        "f": [
+            "Un modelo que agrupa datos similares",
+            "Un modelo basado en reglas de negocio",
+            "Un algoritmo para eliminar datos irrelevantes"
+        ]
+    },
+    "¿Qué significa overfitting en un modelo?": {
+        "v": "El modelo se ajusta demasiado a los datos de entrenamiento",
+        "f": [
+            "El modelo ignora los datos de prueba",
+            "El modelo no puede hacer predicciones",
+            "El modelo solo funciona con datos pequeños"
+        ]
+    },
+    "¿Qué técnica ayuda a reducir el overfitting?": {
+        "v": "Regularización",
+        "f": [
+            "Aumentar la cantidad de datos",
+            "Eliminar variables irrelevantes",
+            "Reducir la tasa de aprendizaje"
+        ]
+    },
+    "¿Qué es la validación cruzada?": {
+        "v": "Un método para evaluar la precisión de un modelo",
+        "f": [
+            "Un proceso para entrenar redes neuronales",
+            "Un tipo de algoritmo supervisado",
+            "Una técnica para reducir el tamaño de datos"
+        ]
+    },
+    "¿Cuál es una métrica para evaluar modelos de clasificación?": {
+        "v": "Precisión",
+        "f": [
+            "Media aritmética",
+            "Coeficiente de correlación",
+            "Desviación estándar"
+        ]
+    },
+    "¿Qué mide la matriz de confusión?": {
+        "v": "El rendimiento de un modelo de clasificación",
+        "f": [
+            "El tiempo de ejecución de un modelo",
+            "La cantidad de datos perdidos en el proceso",
+            "La relación entre variables categóricas"
+        ]
+    },
+    "¿Qué representa el área bajo la curva ROC?": {
+        "v": "La capacidad del modelo para distinguir clases",
+        "f": [
+            "El porcentaje de datos correctamente clasificados",
+            "El tiempo que tarda en entrenar un modelo",
+            "La cantidad de variables en el modelo"
+        ]
+    },
+    "¿Qué diferencia una regresión lineal de una regresión logística?": {
+        "v": "La regresión logística predice valores categóricos",
+        "f": [
+            "La regresión lineal usa solo datos numéricos",
+            "La regresión logística no usa ecuaciones matemáticas",
+            "La regresión lineal no permite más de dos variables"
+        ]
+    },
+    "¿Qué representa la métrica F1-score?": {
+        "v": "El balance entre precisión y exhaustividad",
+        "f": [
+            "El número de predicciones correctas",
+            "La cantidad de datos utilizados en el modelo",
+            "El tiempo de ejecución del algoritmo"
+        ]
+    },
+    "¿Qué significa que un modelo tenga alta varianza?": {
+        "v": "Se ajusta demasiado a los datos de entrenamiento",
+        "f": [
+            "No logra encontrar patrones en los datos",
+            "Funciona mejor con menos datos",
+            "Siempre produce predicciones correctas"
+        ]
+    },
+    "¿Qué técnica se usa para reducir la dimensionalidad?": {
+        "v": "Análisis de componentes principales (PCA)",
+        "f": [
+            "Reducción de ruido en datos",
+            "Transformación de variables categóricas",
+            "Aumento de la cantidad de datos"
+        ]
+    },
+    "¿Qué representa la entropía en árboles de decisión?": {
+        "v": "El grado de incertidumbre en los datos",
+        "f": [
+            "El tiempo que tarda en entrenar un modelo",
+            "El número de hojas en el árbol",
+            "La cantidad de datos de prueba usados"
+        ]
+    },
+    "¿Qué significa 'bagging' en aprendizaje automático?": {
+        "v": "Combinar varios modelos entrenados con datos distintos",
+        "f": [
+            "Reducir la cantidad de datos de entrenamiento",
+            "Aumentar la cantidad de capas en una red neuronal",
+            "Eliminar variables irrelevantes de un modelo"
+        ]
+    },
+    "¿Qué diferencia 'bagging' de 'boosting'?": {
+        "v": "Bagging usa modelos independientes, boosting modelos secuenciales",
+        "f": [
+            "Boosting usa menos datos que bagging",
+            "Bagging solo se aplica a redes neuronales",
+            "Boosting ignora los errores de modelos anteriores"
+        ]
+    },
+    "¿Qué técnica se usa en Random Forest?": {
+        "v": "Bagging con árboles de decisión",
+        "f": [
+            "Redes neuronales profundas",
+            "Regresión lineal múltiple",
+            "Clustering jerárquico"
+        ]
+    },
+    "¿Qué algoritmo de boosting es muy popular?": {
+        "v": "Gradient Boosting",
+        "f": [
+            "K-means Clustering",
+            "Regresión logística",
+            "Naïve Bayes"
+        ]
+    },
+    "¿Qué hace un clasificador Naïve Bayes?": {
+        "v": "Usa probabilidad condicional para clasificar datos",
+        "f": [
+            "Divide datos en grupos sin etiquetas",
+            "Optimiza modelos de regresión lineal",
+            "Calcula distancias entre puntos de datos"
+        ]
+    },
+    "¿Qué ventaja tiene Naïve Bayes?": {
+        "v": "Es rápido y funciona bien con datos categóricos",
+        "f": [
+            "No necesita datos de entrenamiento",
+            "Siempre produce predicciones perfectas",
+            "Solo funciona con datos numéricos continuos"
+        ]
+    },
+    "¿Qué significa 'ensembles' en ciencia de datos?": {
+        "v": "Combinar múltiples modelos para mejorar predicciones",
+        "f": [
+            "Reducir el tamaño de un conjunto de datos",
+            "Eliminar variables irrelevantes en un modelo",
+            "Aplicar un solo modelo en múltiples conjuntos de datos"
+        ]
+    },
+    "¿Qué representa la distancia euclidiana en ciencia de datos?": {
+        "v": "Una métrica para calcular similitud entre puntos",
+        "f": [
+            "El número de dimensiones en un conjunto de datos",
+            "La relación entre variables en regresión",
+            "El porcentaje de datos correctamente clasificados"
+        ]
+    },
+    "¿Qué mide el coeficiente de correlación de Pearson?": {
+        "v": "La relación lineal entre dos variables",
+        "f": [
+            "El tiempo de ejecución de un modelo",
+            "El error absoluto en una predicción",
+            "La cantidad de datos en una muestra"
+        ]
+    },
+    "¿Qué significa que dos variables sean independientes?": {
+        "v": "Que no tienen relación estadística entre sí",
+        "f": [
+            "Que tienen el mismo valor en todos los casos",
+            "Que siempre cambian en la misma dirección",
+            "Que una depende completamente de la otra"
+        ]
+    },
+    "¿Qué significa 'normalización' en ciencia de datos?": {
+        "v": "Escalar datos para que tengan un rango específico",
+        "f": [
+            "Eliminar valores nulos de un dataset",
+            "Transformar datos categóricos en numéricos",
+            "Aumentar el tamaño del conjunto de datos"
+        ]
+    },
+    "¿Qué técnica se usa para detectar valores atípicos?": {
+        "v": "Análisis de valores extremos",
+        "f": [
+            "Agrupamiento jerárquico",
+            "Clasificación supervisada",
+            "Regresión logística"
+        ]
+    },
+    "¿Qué hace el algoritmo K-Nearest Neighbors (KNN)?": {
+        "v": "Clasifica un dato según los vecinos más cercanos",
+        "f": [
+            "Predice valores continuos en un dataset",
+            "Genera modelos de aprendizaje profundo",
+            "Reduce la dimensionalidad de los datos"
+        ]
+    },
+    "¿Qué significa que un modelo tenga alta sesgo?": {
+        "v": "Hace predicciones simples y poco precisas",
+        "f": [
+            "Se ajusta demasiado a los datos de entrenamiento",
+            "Solo funciona con datos categóricos",
+            "Siempre produce predicciones perfectas"
+        ]
+    },
+    "¿Qué es la reducción de dimensionalidad?": {
+        "v": "Reducir el número de variables manteniendo la información clave",
+        "f": [
+            "Eliminar datos redundantes en un dataset",
+            "Convertir datos numéricos en categóricos",
+            "Aumentar la cantidad de datos en el modelo"
+        ]
+    },
+    "¿Qué hace el análisis de componentes principales (PCA)?": {
+        "v": "Transforma variables correlacionadas en independientes",
+        "f": [
+            "Crea modelos de aprendizaje supervisado",
+            "Predice valores continuos en un dataset",
+            "Calcula probabilidades condicionales"
+        ]
+    },
+    "¿Qué representa la varianza explicada en PCA?": {
+        "v": "La cantidad de información retenida por cada componente",
+        "f": [
+            "El error absoluto de un modelo",
+            "La cantidad de datos perdidos en la transformación",
+            "El número de dimensiones eliminadas"
+        ]
+    },
+    "¿Qué es la selección de características?": {
+        "v": "Elegir las variables más relevantes para un modelo",
+        "f": [
+            "Eliminar datos duplicados en un dataset",
+            "Transformar variables numéricas en categóricas",
+            "Reducir el tamaño de una muestra"
+        ]
+    },
+    "¿Qué significa que un modelo sea robusto?": {
+        "v": "Es resistente a datos ruidosos o valores atípicos",
+        "f": [
+            "Solo funciona con datos limpios",
+            "No puede ajustarse a nuevos datos",
+            "Siempre genera predicciones idénticas"
+        ]
+    },
+    "Cuál es la diferencia clave entre la Ciencia de Datos y la Estadística\ntradicional?": {
+        "v": "La Ciencia de Datos integra programación y Machine Learning",
+        "f": [
+            "La Ciencia de Datos solo trabaja con datos estructurados",
+            "La Estadística siempre usa modelos predictivos",
+            "La Ciencia de Datos no usa técnicas estadísticas"
+        ]
+    },
+    "Cuál de los siguientes conceptos NO es parte del flujo de trabajo en\nCiencia de Datos?": {
+        "v": "Recolección de datos",
+        "f": [
+            "Creación de bases de datos relacionales",
+            "Análisis exploratorio de datos",
+            "Modelado predictivo"
+        ]
+    },
+    "Cuál de los siguientes perfiles NO es un rol típico en un equipo de Ciencia\nde Datos?": {
+        "v": "DevOps Engineer",
+        "f": [
+            "Data Scientist",
+            "Machine Learning Engineer",
+            "Data Engineer"
+        ]
+    },
+    "Qué característica diferencia al Machine Learning de los métodos\nestadísticos clásicos?": {
+        "v": "Aprende automáticamente patrones sin reglas explícitas",
+        "f": [
+            "Usa datos históricos",
+            "Se basa en cálculos de probabilidad",
+            "No requiere datos limpios para funcionar"
+        ]
+    },
+    "Cuál es la función principal de un Data Engineer?": {
+        "v": "Diseñar arquitecturas de datos escalables",
+        "f": [
+            "Crear modelos de Machine Learning",
+            "Analizar patrones en los datos",
+            "Crear reportes y dashboards"
+        ]
+    },
+    "Qué técnica se usa para analizar qué factores causaron un fenómeno en los\ndatos?": {
+        "v": "Análisis predictivo",
+        "f": [
+            "Análisis descriptivo",
+            "Análisis diagnóstico",
+            "Análisis prescriptivo"
+        ]
+    },
+    "Cuál de las siguientes afirmaciones es FALSA respecto a la Ciencia de\nDatos?": {
+        "v": "Puede trabajar con datos no estructurados",
+        "f": [
+            "Usa modelos de Machine Learning para predecir el futuro",
+            "No requiere conocimientos de dominio para ser efectiva",
+            "Puede integrarse con Big Data"
+        ]
+    },
+    "Cuál de las siguientes herramientas es más usada en análisis de datos?": {
+        "v": "Tableau",
+        "f": [
+            "React",
+            "Unity",
+            "Kubernetes"
+        ]
+    },
+    "Qué lenguaje de programación es más utilizado en Ciencia de Datos?": {
+        "v": "Python",
+        "f": [
+            "Java",
+            "C++",
+            "PHP"
+        ]
+    },
+    "Qué se entiende por modelado prescriptivo en Ciencia de Datos?": {
+        "v": "Proponer acciones basadas en análisis de datos",
+        "f": [
+            "Encontrar patrones en los datos",
+            "Predecir eventos futuros",
+            "Crear modelos explicativos de datos pasados"
+        ]
+    },
+    "Qué tipo de análisis responde la pregunta '¿Por qué ocurrió un fenómeno?'": {
+        "v": "Análisis diagnóstico",
+        "f": [
+            "Análisis descriptivo",
+            "Análisis predictivo",
+            "Análisis prescriptivo"
+        ]
+    },
+    "Cuál es la principal diferencia entre Machine Learning y Deep Learning?": {
+        "v": "Deep Learning usa redes neuronales profundas",
+        "f": [
+            "Machine Learning requiere más datos",
+            "Machine Learning solo se usa en problemas estructurados",
+            "Deep Learning no usa datos etiquetados"
+        ]
+    },
+    "Qué concepto describe la tendencia a encontrar patrones en datos\naleatorios?": {
+        "v": "Correlación espuria",
+        "f": [
+            "Overfitting",
+            "Sesgo de confirmación",
+            "Subajuste"
+        ]
+    },
+    "Cuál de los siguientes es un ejemplo de uso de Ciencia de Datos en\nMarketing?": {
+        "v": "Modelos de recomendación",
+        "f": [
+            "Mantenimiento predictivo",
+            "Detección de fraudes bancarios",
+            "Optimización de procesos industriales"
+        ]
+    },
+    "Cuál de los siguientes factores NO es una habilidad clave en un científico\nde datos?": {
+        "v": "Diseño gráfico",
+        "f": [
+            "Programación",
+            "Visualización de datos",
+            "Conocimientos estadísticos"
+        ]
+    },
+    "Cuál es el orden correcto en el proceso de Ciencia de Datos?": {
+        "v": "Recolección → Limpieza → Análisis exploratorio → Modelado → Evaluación →\nComunicación",
+        "f": [
+            "Recolección → Modelado → Análisis exploratorio → Comunicación",
+            "Análisis exploratorio → Modelado → Recolección → Comunicación",
+            "Modelado → Evaluación → Análisis exploratorio → Recolección"
+        ]
+    },
+    "Qué problema surge cuando el conjunto de datos de entrenamiento y prueba no\nson representativos?": {
+        "v": "Sesgo de selección",
+        "f": [
+            "Overfitting",
+            "Underfitting",
+            "Regularización"
+        ]
+    },
+    "Qué técnica ayuda a garantizar que los resultados de un modelo sean\nreproducibles?": {
+        "v": "Validación cruzada",
+        "f": [
+            "Normalización",
+            "One-Hot Encoding",
+            "Establecer una semilla aleatoria"
+        ]
+    },
+    "Por qué es importante la normalización en el preprocesamiento de datos?": {
+        "v": "Para evitar que las variables con valores grandes dominen el modelo",
+        "f": [
+            "Para eliminar valores nulos",
+            "Para convertir datos categóricos en numéricos",
+            "Para dividir datos en entrenamiento y prueba"
+        ]
+    },
+    "Qué tipo de análisis se utiliza para detectar relaciones entre variables\nantes del modelado?": {
+        "v": "Análisis exploratorio de datos",
+        "f": [
+            "Modelado predictivo",
+            "Minería de datos",
+            "Análisis semántico"
+        ]
+    },
+    "Qué método se utiliza para seleccionar las características más relevantes\nen un modelo predictivo?": {
+        "v": "B y C son correctas",
+        "f": [
+            "Eliminación de outliers",
+            "Feature Selection",
+            "Regularización Lasso"
+        ]
+    },
+    "Cuál de las siguientes afirmaciones es verdadera sobre el preprocesamiento\nde datos?": {
+        "v": "Es crucial para mejorar el desempeño de los modelos",
+        "f": [
+            "Se realiza únicamente después del modelado",
+            "No es necesario en modelos de aprendizaje profundo",
+            "Solo se aplica a datos numéricos"
+        ]
+    },
+    "Qué aspecto del proceso de Ciencia de Datos se evalúa en la fase de\nmodelado?": {
+        "v": "Precisión y desempeño del modelo",
+        "f": [
+            "Calidad de los datos",
+            "La estructura de los datos",
+            "La visualización de los datos"
+        ]
+    },
+    "Por qué es importante dividir los datos en conjunto de entrenamiento y\nprueba?": {
+        "v": "Para medir la capacidad de generalización del modelo",
+        "f": [
+            "Para mejorar la precisión del modelo en el conjunto de entrenamiento",
+            "Para evitar usar todas las observaciones en el modelado",
+            "Para reducir la dimensionalidad de los datos"
+        ]
+    },
+    "Qué técnica se usa para encontrar la mejor combinación de hiperparámetros\nen un modelo?": {
+        "v": "Grid Search",
+        "f": [
+            "One-Hot Encoding",
+            "PCA",
+            "Binning"
+        ]
+    },
+    "Qué se debe hacer si un dataset contiene muchas variables con alta\ncorrelación entre sí?": {
+        "v": "Usar PCA para reducir la dimensionalidad",
+        "f": [
+            "Aumentar la cantidad de datos",
+            "Aplicar normalización",
+            "Aplicar balanceo de clases"
+        ]
+    },
+    "Qué técnica se usa para reemplazar valores nulos en una columna numérica?": {
+        "v": "Imputación con la media, mediana o moda",
+        "f": [
+            "Eliminación de la columna",
+            "Aplicar One-Hot Encoding",
+            "Reducción de dimensionalidad"
+        ]
+    },
+    "Cuál de los siguientes es un problema común en la recopilación de datos?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Sesgo en los datos",
+            "Datos faltantes",
+            "Datos inconsistentes"
+        ]
+    },
+    "Cuál de las siguientes opciones NO es un método para manejar valores\natípicos?": {
+        "v": "Aplicación de Machine Learning",
+        "f": [
+            "Eliminación de valores extremos",
+            "Transformaciones logarítmicas",
+            "Reemplazo con la media"
+        ]
+    },
+    "Qué es un dato semiestructurado?": {
+        "v": "Datos en formato JSON o XML",
+        "f": [
+            "Datos organizados en bases relacionales",
+            "Imágenes sin etiquetas",
+            "Datos de texto en redes sociales"
+        ]
+    },
+    "Qué es el One-Hot Encoding?": {
+        "v": "Una forma de convertir variables categóricas en numéricas",
+        "f": [
+            "Una técnica de reducción de dimensionalidad",
+            "Un método para manejar valores nulos",
+            "Un modelo de clasificación"
+        ]
+    },
+    "Cómo se pueden detectar valores atípicos en una distribución de datos?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Usando diagramas de dispersión",
+            "Aplicando técnicas de Machine Learning",
+            "Usando Boxplots y el método de IQR"
+        ]
+    },
+    "Qué tipo de datos son los más difíciles de limpiar?": {
+        "v": "Datos no estructurados",
+        "f": [
+            "Datos estructurados",
+            "Datos categóricos",
+            "Datos numéricos"
+        ]
+    },
+    "Por qué es importante eliminar duplicados en un dataset?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Para reducir el tiempo de entrenamiento del modelo",
+            "Para mejorar la precisión del modelo",
+            "Para evitar sesgos en los análisis"
+        ]
+    },
+    "Cuál es el impacto de no manejar adecuadamente los datos faltantes en un\nmodelo?": {
+        "v": "Disminución de la calidad de las predicciones",
+        "f": [
+            "Reducción del sesgo del modelo",
+            "Aumento de la dimensionalidad",
+            "Mejora de la interpretabilidad"
+        ]
+    },
+    "Cómo se pueden normalizar los datos antes de un análisis?": {
+        "v": "A y B son correctas",
+        "f": [
+            "Aplicando Min-Max Scaling",
+            "Aplicando Z-score Standardization",
+            "Eliminando valores negativos"
+        ]
+    },
+    "Qué técnica ayuda a reducir el sesgo en un conjunto de datos?": {
+        "v": "Balanceo de clases",
+        "f": [
+            "Eliminación de valores nulos",
+            "Transformaciones de variables",
+            "PCA"
+        ]
+    },
+    "Cómo se pueden manejar datos categóricos con alta cardinalidad?": {
+        "v": "B y C son correctas",
+        "f": [
+            "One-Hot Encoding",
+            "Target Encoding",
+            "Creación de variables dummies"
+        ]
+    },
+    "Cuál de las siguientes afirmaciones sobre la limpieza de datos es correcta?": {
+        "v": "Es una de las fases más importantes en Ciencia de Datos",
+        "f": [
+            "No afecta el desempeño del modelo",
+            "Se realiza solo en datasets pequeños",
+            "Se puede evitar con suficiente cantidad de datos"
+        ]
+    },
+    "Qué métrica se usa para evaluar la correlación entre variables numéricas?": {
+        "v": "Pearson",
+        "f": [
+            "Cramér’s V",
+            "Entropía",
+            "Gini Index"
+        ]
+    },
+    "Qué efecto tiene la estandarización en un dataset?": {
+        "v": "Mantiene la distribución original pero ajusta la escala",
+        "f": [
+            "Reduce la varianza de los datos",
+            "Genera nuevas variables",
+            "Aumenta la dimensionalidad del dataset"
+        ]
+    },
+    "Cuál es el principal propósito del Análisis Exploratorio de Datos (EDA)?": {
+        "v": "Identificar patrones y relaciones en los datos",
+        "f": [
+            "Preparar datos para modelos de Machine Learning",
+            "Transformar datos categóricos en numéricos",
+            "Comprobar si un modelo es sobreajustado"
+        ]
+    },
+    "Qué herramienta es más adecuada para visualizar la distribución de una\nvariable numérica?": {
+        "v": "Boxplot",
+        "f": [
+            "Gráfico de barras",
+            "Matriz de correlación",
+            "Tabla de contingencia"
+        ]
+    },
+    "Cuál de las siguientes técnicas NO es parte del EDA?": {
+        "v": "Entrenamiento de modelos predictivos",
+        "f": [
+            "Análisis de outliers",
+            "Imputación de valores nulos",
+            "Análisis de correlación"
+        ]
+    },
+    "Cuál de los siguientes gráficos es más útil para detectar valores atípicos?": {
+        "v": "A y C son correctas",
+        "f": [
+            "Histograma",
+            "Gráfico de dispersión",
+            "Boxplot"
+        ]
+    },
+    "Qué significa una correlación de Pearson de -0.85 entre dos variables?": {
+        "v": "Relación negativa fuerte",
+        "f": [
+            "Relación positiva fuerte",
+            "No hay correlación",
+            "Es un error de cálculo"
+        ]
+    },
+    "Para qué se usa un mapa de calor en el análisis de datos?": {
+        "v": "Para detectar correlaciones entre variables",
+        "f": [
+            "Para visualizar la distribución de datos numéricos",
+            "Para comparar tendencias temporales",
+            "Para analizar redes neuronales"
+        ]
+    },
+    "Qué técnica se utiliza para detectar la relación entre una variable\ncategórica y una variable numérica?": {
+        "v": "Boxplot",
+        "f": [
+            "Matriz de correlación",
+            "Regresión lineal",
+            "PCA"
+        ]
+    },
+    "Qué métrica se usa para medir la relación entre dos variables categóricas?": {
+        "v": "Cramér’s V",
+        "f": [
+            "Correlación de Pearson",
+            "R²",
+            "MAE"
+        ]
+    },
+    "Cuál de las siguientes afirmaciones sobre valores atípicos es FALSA?": {
+        "v": "Siempre deben eliminarse del dataset",
+        "f": [
+            "Pueden ser errores en los datos",
+            "Pueden influir negativamente en los modelos",
+            "Se pueden detectar con el método IQR"
+        ]
+    },
+    "Qué técnica se usa para identificar la distribución de una variable\nnumérica?": {
+        "v": "Histograma",
+        "f": [
+            "Test de Chi-cuadrado",
+            "PCA",
+            "Codificación de variables"
+        ]
+    },
+    "Cómo se puede detectar colinealidad entre variables numéricas?": {
+        "v": "Matriz de correlación",
+        "f": [
+            "Regresión Ridge",
+            "Boxplot",
+            "Prueba de hipótesis"
+        ]
+    },
+    "Cuál es un posible efecto de la alta correlación entre dos variables\npredictoras?": {
+        "v": "Genera redundancia en los datos",
+        "f": [
+            "Mejora el desempeño del modelo",
+            "Disminuye la necesidad de normalización",
+            "Reduce la interpretabilidad del modelo"
+        ]
+    },
+    "Qué tipo de gráfico se usa para visualizar la relación entre dos variables\nnuméricas?": {
+        "v": "Gráfico de dispersión",
+        "f": [
+            "Boxplot",
+            "Histograma",
+            "Mapa de calor"
+        ]
+    },
+    "Cuál es el problema principal de los datos sesgados en una variable\nobjetivo?": {
+        "v": "Puede hacer que el modelo aprenda relaciones incorrectas",
+        "f": [
+            "Aumenta la precisión del modelo",
+            "No afecta los resultados finales",
+            "Evita la necesidad de validación cruzada"
+        ]
+    },
+    "Cuál es el propósito de una tabla de contingencia en análisis exploratorio?": {
+        "v": "Analizar la relación entre variables categóricas",
+        "f": [
+            "Predecir valores futuros",
+            "Reducir la dimensionalidad del dataset",
+            "Crear nuevas variables derivadas"
+        ]
+    },
+    "Cuál de las siguientes afirmaciones sobre Machine Learning es correcta?": {
+        "v": "Se basa en la identificación de patrones en los datos",
+        "f": [
+            "Solo se usa para clasificación",
+            "No requiere datos históricos",
+            "No necesita preprocesamiento de datos"
+        ]
+    },
+    "Cuál es la diferencia principal entre regresión lineal simple y regresión\nlineal múltiple?": {
+        "v": "La regresión simple tiene una única variable independiente",
+        "f": [
+            "La regresión múltiple solo usa datos categóricos",
+            "La regresión múltiple no usa términos de error",
+            "La regresión simple requiere normalización de datos"
+        ]
+    },
+    "Qué métrica se usa para evaluar el desempeño de un modelo de regresión?": {
+        "v": "R²",
+        "f": [
+            "Precisión",
+            "F1-Score",
+            "AUC-ROC"
+        ]
+    },
+    "Cuál de los siguientes problemas es causado por el sobreajuste\n(overfitting)?": {
+        "v": "Baja precisión en datos de prueba",
+        "f": [
+            "Bajo rendimiento en datos de entrenamiento",
+            "Falta de capacidad para modelar datos complejos",
+            "Menor cantidad de valores atípicos"
+        ]
+    },
+    "Qué modelo de regresión es adecuado para datos con relaciones no lineales?": {
+        "v": "Regresión Polinómica",
+        "f": [
+            "Regresión Ridge",
+            "Regresión Lasso",
+            "Regresión Logística"
+        ]
+    },
+    "Qué problema resuelve la regresión Lasso?": {
+        "v": "Reducción de coeficientes irrelevantes",
+        "f": [
+            "Manejo de valores atípicos",
+            "Reducción de la colinealidad",
+            "Optimización de hiperparámetros"
+        ]
+    },
+    "Qué técnica se usa para ajustar modelos de regresión con alta colinealidad?": {
+        "v": "Regresión Ridge",
+        "f": [
+            "Regresión Polinómica",
+            "Min-Max Scaling",
+            "Feature Selection"
+        ]
+    },
+    "Qué tipo de datos predice un modelo de regresión?": {
+        "v": "Datos numéricos continuos",
+        "f": [
+            "Clases categóricas",
+            "Agrupaciones en clusters",
+            "Relaciones causales"
+        ]
+    },
+    "Qué efecto tiene la regularización en un modelo de regresión?": {
+        "v": "A y C son correctas",
+        "f": [
+            "Reduce la complejidad del modelo",
+            "Aumenta el error en datos de entrenamiento",
+            "Mejora la interpretabilidad"
+        ]
+    },
+    "Cuál de los siguientes métodos ayuda a evitar el sobreajuste en un modelo\nde regresión?": {
+        "v": "Regularización L1 y L2",
+        "f": [
+            "Dropout",
+            "One-Hot Encoding",
+            "Expansión polinómica"
+        ]
+    },
+    "Cuál es la diferencia entre MAE y RMSE como métricas de error en regresión?": {
+        "v": "RMSE penaliza más los errores grandes",
+        "f": [
+            "MAE y RMSE siempre tienen los mismos valores",
+            "MAE es más sensible a los valores atípicos",
+            "RMSE solo se usa en modelos lineales"
+        ]
+    },
+    "Cuál es un problema común en modelos de regresión con datos\nmulticolineales?": {
+        "v": "Coeficientes inestables",
+        "f": [
+            "Reducción del error cuadrático",
+            "Mejor generalización del modelo",
+            "Incremento en la capacidad predictiva"
+        ]
+    },
+    "Qué técnica se puede usar para reducir la dimensionalidad en regresión?": {
+        "v": "PCA",
+        "f": [
+            "SMOTE",
+            "Matriz de confusión",
+            "Grid Search"
+        ]
+    },
+    "Qué significa un valor de R² cercano a 1 en un modelo de regresión?": {
+        "v": "El modelo explica bien la variabilidad de los datos",
+        "f": [
+            "Hay un error significativo en las predicciones",
+            "El modelo tiene un sesgo alto",
+            "No hay relación entre las variables"
+        ]
+    },
+    "Cómo afecta la heterocedasticidad a un modelo de regresión?": {
+        "v": "Introduce varianza no constante en los errores",
+        "f": [
+            "Mejora la precisión del modelo",
+            "Reduce la necesidad de regularización",
+            "No afecta el desempeño del modelo"
+        ]
+    },
+    "Cuál de las siguientes afirmaciones sobre modelos de clasificación es\ncorrecta?": {
+        "v": "Asignan etiquetas a las observaciones",
+        "f": [
+            "Solo pueden trabajar con datos numéricos",
+            "Predicen valores continuos",
+            "No requieren normalización de datos"
+        ]
+    },
+    "Cuál de los siguientes modelos es un clasificador lineal?": {
+        "v": "Regresión Logística",
+        "f": [
+            "Random Forest",
+            "K-Means",
+            "Redes Neuronales"
+        ]
+    },
+    "Qué métrica es más adecuada para evaluar un modelo de clasificación con\nclases desbalanceadas?": {
+        "v": "F1-Score",
+        "f": [
+            "Accuracy",
+            "MAE",
+            "R²"
+        ]
+    },
+    "Cuál es la principal diferencia entre un árbol de decisión y un Random\nForest?": {
+        "v": "Random Forest es un conjunto de múltiples árboles de decisión",
+        "f": [
+            "Un árbol de decisión siempre tiene mejor rendimiento",
+            "Random Forest solo funciona con datos categóricos",
+            "Un árbol de decisión no necesita poda"
+        ]
+    },
+    "Qué significa la métrica AUC-ROC en clasificación?": {
+        "v": "Evalúa la capacidad del modelo para separar clases",
+        "f": [
+            "Mide la precisión de un modelo",
+            "Calcula el error medio absoluto",
+            "Indica la cantidad de datos correctamente clasificados"
+        ]
+    },
+    "Qué técnica puede mejorar el desempeño de un modelo de clasificación?": {
+        "v": "Balanceo de clases",
+        "f": [
+            "Expansión polinómica",
+            "Eliminación de la variable objetivo",
+            "Aplicar regresión Ridge"
+        ]
+    },
+    "Qué método es más adecuado para clasificar textos en positivo o negativo?": {
+        "v": "Naïve Bayes",
+        "f": [
+            "Regresión Lineal",
+            "PCA",
+            "Clustering"
+        ]
+    },
+    "Qué problema puede ocurrir cuando se entrena un modelo de clasificación con\ndatos desbalanceados?": {
+        "v": "A y B son correctas",
+        "f": [
+            "El modelo favorecerá la clase mayoritaria",
+            "Se reducirá la precisión del modelo",
+            "No se podrá aplicar validación cruzada"
+        ]
+    },
+    "Cuál de las siguientes opciones NO es un algoritmo de clasificación?": {
+        "v": "DBSCAN",
+        "f": [
+            "KNN",
+            "SVM",
+            "Árbol de Decisión"
+        ]
+    },
+    "Qué significa que un modelo tenga alta precisión pero baja sensibilidad?": {
+        "v": "Predice correctamente los casos negativos, pero no los positivos",
+        "f": [
+            "Predice correctamente los casos positivos, pero no los negativos",
+            "Tiene alta tasa de falsos positivos",
+            "Es un modelo balanceado"
+        ]
+    },
+    "Qué impacto tiene el hiperparámetro k en el modelo KNN?": {
+        "v": "Controla la cantidad de vecinos usados para la clasificación",
+        "f": [
+            "Afecta la profundidad de los árboles en Random Forest",
+            "Define el umbral de decisión en regresión logística",
+            "Mide la varianza del modelo"
+        ]
+    },
+    "Qué técnica se puede usar para ajustar hiperparámetros en clasificación?": {
+        "v": "Grid Search",
+        "f": [
+            "Regularización L1",
+            "PCA",
+            "Eliminación de valores atípicos"
+        ]
+    },
+    "Qué métrica es más relevante para evaluar un modelo de detección de fraude\n(clases desbalanceadas)?": {
+        "v": "Recall",
+        "f": [
+            "Accuracy",
+            "RMSE",
+            "R²"
+        ]
+    },
+    "Qué función de activación se usa comúnmente en la última capa de una red\nneuronal para clasificación binaria?": {
+        "v": "Sigmoide",
+        "f": [
+            "Softmax",
+            "ReLU",
+            "Tangente hiperbólica"
+        ]
+    },
+    "Cuál es la diferencia entre una matriz de confusión y la métrica F1-Score?": {
+        "v": "La matriz de confusión muestra todos los errores, F1-Score es un resumen",
+        "f": [
+            "F1-Score solo se usa en regresión",
+            "La matriz de confusión solo mide precisión",
+            "No hay diferencia"
+        ]
+    },
+    "Cuál de los siguientes modelos es de clusterización?": {
+        "v": "K-Means",
+        "f": [
+            "Regresión Logística",
+            "Random Forest",
+            "Redes Neuronales"
+        ]
+    },
+    "Cómo determina K-Means el número de clusters óptimos?": {
+        "v": "Método del codo",
+        "f": [
+            "AUC-ROC",
+            "Matriz de confusión",
+            "Validación cruzada"
+        ]
+    },
+    "Qué problema puede surgir si el valor de k en K-Means es demasiado alto?": {
+        "v": "Los clusters serán muy pequeños y poco significativos",
+        "f": [
+            "Se reducirá la precisión del modelo",
+            "El modelo no podrá generalizar",
+            "No hay impacto"
+        ]
+    },
+    "Qué modelo de clusterización es adecuado para datos con formas no\nesféricas?": {
+        "v": "DBSCAN",
+        "f": [
+            "K-Means",
+            "Regresión Ridge",
+            "Random Forest"
+        ]
+    },
+    "Qué significa el coeficiente de silueta en clustering?": {
+        "v": "Mide la separación entre clusters",
+        "f": [
+            "Calcula la precisión del modelo",
+            "Evalúa la matriz de confusión",
+            "Mide la relación entre variables"
+        ]
+    },
+    "Qué método es más adecuado para agrupar clientes según su comportamiento de\ncompra?": {
+        "v": "K-Means",
+        "f": [
+            "Regresión Lineal",
+            "PCA",
+            "Grid Search"
+        ]
+    },
+    "Qué problema puede ocurrir en clustering si los datos tienen escalas muy\ndiferentes?": {
+        "v": "Los clusters estarán distorsionados",
+        "f": [
+            "El modelo no convergerá",
+            "El modelo será más rápido",
+            "No habrá impacto"
+        ]
+    },
+    "Cómo afecta el número de iteraciones en K-Means?": {
+        "v": "Puede hacer que el modelo tarde más en converger",
+        "f": [
+            "Aumenta la precisión del modelo",
+            "Reduce la dimensionalidad de los datos",
+            "No tiene impacto"
+        ]
+    },
+    "Cuál es una ventaja de DBSCAN sobre K-Means?": {
+        "v": "Puede detectar outliers como ruido",
+        "f": [
+            "Funciona mejor con datos categóricos",
+            "No necesita hiperparámetros",
+            "Es más rápido"
+        ]
+    },
+    "Qué métrica evalúa la calidad de un modelo de clustering?": {
+        "v": "Índice de Silueta",
+        "f": [
+            "RMSE",
+            "Recall",
+            "Accuracy"
+        ]
+    },
+    "Qué ocurre si K-Means se inicializa con malas semillas?": {
+        "v": "Puede converger a soluciones subóptimas",
+        "f": [
+            "Se reducirá la precisión del modelo",
+            "Aumentará el sesgo del modelo",
+            "No tendrá impacto"
+        ]
+    },
+    "Cuál de los siguientes NO es un método de clusterización?": {
+        "v": "Random Forest",
+        "f": [
+            "DBSCAN",
+            "K-Means",
+            "Clustering Jerárquico"
+        ]
+    },
+    "Qué problema tiene K-Means al trabajar con clusters de diferente densidad?": {
+        "v": "Puede asignar mal los puntos de los clusters menos densos",
+        "f": [
+            "No es capaz de separar los datos",
+            "Aumenta la varianza del modelo",
+            "Reduce la interpretabilidad"
+        ]
+    },
+    "Qué modelo de clusterización es mejor para detectar anomalías en datos?": {
+        "v": "DBSCAN",
+        "f": [
+            "K-Means",
+            "Random Forest",
+            "Árbol de Decisión"
+        ]
+    },
+    "Qué ocurre si en K-Means se elige un número de clusters menor al óptimo?": {
+        "v": "Algunos clusters contendrán datos de categorías diferentes",
+        "f": [
+            "Se reducirá la precisión del modelo",
+            "No tendrá impacto",
+            "Se reducirá el sesgo"
+        ]
+    },
+    "Cuál de los siguientes NO es un principio clave en la visualización de\ndatos?": {
+        "v": "Complejidad innecesaria",
+        "f": [
+            "Claridad",
+            "Precisión",
+            "Concisión"
+        ]
+    },
+    "Qué tipo de gráfico es más adecuado para representar la relación entre dos\nvariables numéricas?": {
+        "v": "Gráfico de dispersión",
+        "f": [
+            "Gráfico de barras",
+            "Histograma",
+            "Diagrama de caja"
+        ]
+    },
+    "Cuál es la principal ventaja de usar un dashboard interactivo en la\npresentación de datos?": {
+        "v": "Permite actualizar los datos en tiempo real",
+        "f": [
+            "Muestra información de forma estática",
+            "Se usa solo para datos cualitativos",
+            "No requiere interpretación por parte del usuario"
+        ]
+    },
+    "Cuál de los siguientes elementos NO debería estar presente en una\nvisualización de datos efectiva?": {
+        "v": "Exceso de colores",
+        "f": [
+            "Etiquetas claras",
+            "Unidades y escalas correctas",
+            "Títulos explicativos"
+        ]
+    },
+    "Qué herramienta es más utilizada para crear dashboards interactivos?": {
+        "v": "Tableau",
+        "f": [
+            "Excel",
+            "Word",
+            "Notepad"
+        ]
+    },
+    "Cuál es la mejor estrategia para comunicar resultados a una audiencia no\ntécnica?": {
+        "v": "Explicar con ejemplos y visualizaciones simples",
+        "f": [
+            "Usar lenguaje técnico avanzado",
+            "Presentar únicamente ecuaciones",
+            "Evitar hacer gráficos"
+        ]
+    },
+    "Cuál es una buena práctica al usar gráficos de líneas?": {
+        "v": "Destacar tendencias con anotaciones",
+        "f": [
+            "Incluir demasiados colores",
+            "No etiquetar los ejes",
+            "No incluir leyendas"
+        ]
+    },
+    "Cuál de los siguientes tipos de gráficos es más útil para representar la\nproporción de una categoría dentro de un total?": {
+        "v": "Gráfico de torta",
+        "f": [
+            "Histograma",
+            "Diagrama de caja",
+            "Gráfico de dispersión"
+        ]
+    },
+    "Qué tipo de gráfico es más adecuado para visualizar distribuciones de\ndatos?": {
+        "v": "Histograma",
+        "f": [
+            "Gráfico de líneas",
+            "Gráfico de dispersión",
+            "Mapa de calor"
+        ]
+    },
+    "Cuál es la importancia de la selección del color en las visualizaciones de\ndatos?": {
+        "v": "Para diferenciar claramente categorías y tendencias",
+        "f": [
+            "Para hacer que los gráficos sean llamativos sin importar la legibilidad",
+            "Para llenar el espacio vacío en la visualización",
+            "Para hacer que los datos sean difíciles de interpretar"
+        ]
+    },
+    "Qué herramienta permite generar reportes automatizados con visualizaciones\nen Python?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Seaborn",
+            "Matplotlib",
+            "Plotly"
+        ]
+    },
+    "Cuál es el principal objetivo de la visualización de datos en un informe\nejecutivo?": {
+        "v": "Facilitar la toma de decisiones",
+        "f": [
+            "Mostrar el código del análisis",
+            "Demostrar el conocimiento técnico del analista",
+            "Incluir la mayor cantidad de datos posible"
+        ]
+    },
+    "Qué técnica se usa para resaltar información clave en una visualización?": {
+        "v": "Uso de colores contrastantes",
+        "f": [
+            "Incluir ruido en los gráficos",
+            "Ocultar valores atípicos",
+            "Usar una paleta monocromática"
+        ]
+    },
+    "Qué es más importante en la presentación de datos?": {
+        "v": "Claridad y precisión",
+        "f": [
+            "Complejidad visual",
+            "Uso excesivo de animaciones",
+            "Cantidad de información mostrada"
+        ]
+    },
+    "Cómo se puede evitar el sesgo en la presentación de datos?": {
+        "v": "Usando escalas adecuadas y representaciones neutrales",
+        "f": [
+            "Presentando únicamente los resultados favorables",
+            "Omitiendo los valores extremos",
+            "Ajustando los datos para confirmar la hipótesis"
+        ]
+    },
+    "¿Cuál es el mayor riesgo de usar datos sin considerar aspectos éticos?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Sesgo en los modelos",
+            "Discriminación algorítmica",
+            "Violación de la privacidad"
+        ]
+    },
+    "¿Qué significa el concepto de privacidad diferencial en Ciencia de Datos?": {
+        "v": "Técnica para agregar ruido a los datos y preservar la privacidad",
+        "f": [
+            "Método de optimización en Machine Learning",
+            "Algoritmo para mejorar la precisión del modelo",
+            "Proceso de normalización de datos"
+        ]
+    },
+    "¿Qué regulaciones protegen la privacidad de los datos en Europa?": {
+        "v": "GDPR",
+        "f": [
+            "CCPA",
+            "HIPAA",
+            "ISO 27001"
+        ]
+    },
+    "¿Cómo se puede mitigar el sesgo en modelos de Machine Learning?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Asegurando diversidad en los datos de entrenamiento",
+            "Aplicando técnicas de fairness en modelos",
+            "Monitoreando el desempeño del modelo en producción"
+        ]
+    },
+    "¿Qué es el sesgo algorítmico?": {
+        "v": "La tendencia del modelo a discriminar ciertos grupos debido a datos\nsesgados",
+        "f": [
+            "Un error de cálculo en modelos estadísticos",
+            "Un método de optimización en redes neuronales",
+            "Un tipo de preprocesamiento de datos"
+        ]
+    },
+    "¿Por qué es importante la transparencia en modelos de Machine Learning?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Para comprender cómo toman decisiones",
+            "Para evitar resultados arbitrarios",
+            "Para cumplir regulaciones de ética en IA"
+        ]
+    },
+    "¿Qué herramienta se usa para auditar la interpretabilidad de modelos de IA?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "SHAP",
+            "LIME",
+            "Fairness Indicators"
+        ]
+    },
+    "¿Cuál es un problema común al recopilar datos para entrenar modelos de IA?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Falta de diversidad en los datos",
+            "Datos incorrectamente etiquetados",
+            "Errores en la recopilación"
+        ]
+    },
+    "¿Qué es el principio de minimización de datos en ética de datos?": {
+        "v": "Limitar la cantidad de datos recopilados solo a los necesarios",
+        "f": [
+            "Reducir el tamaño del dataset para entrenar más rápido",
+            "Usar algoritmos de compresión de datos",
+            "Eliminar valores atípicos en análisis exploratorio"
+        ]
+    },
+    "¿Qué técnica ayuda a mejorar la equidad en modelos de IA?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Re-muestreo de datos",
+            "Penalización de sesgo en la función de costo",
+            "Métodos de fairness en entrenamiento"
+        ]
+    },
+    "¿Cuál es un riesgo de usar modelos de IA sin supervisión humana?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Falta de interpretabilidad",
+            "Resultados inesperados o perjudiciales",
+            "Discriminación por sesgo en los datos"
+        ]
+    },
+    "¿Cómo se puede mejorar la transparencia en la toma de decisiones de un\nmodelo de IA?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Usando modelos explicables como árboles de decisión",
+            "Aplicando interpretabilidad con SHAP o LIME",
+            "Documentando cómo se entrenó el modelo"
+        ]
+    },
+    "¿Qué problema ético surge al recolectar datos sin consentimiento?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Violación de privacidad",
+            "Riesgo de demandas legales",
+            "Falta de confianza del público en los sistemas de IA"
+        ]
+    },
+    "¿Por qué es importante auditar modelos de IA en producción?": {
+        "v": "Para detectar sesgo y errores en la toma de decisiones",
+        "f": [
+            "Para evitar pérdida de datos",
+            "Para reducir el tiempo de procesamiento",
+            "Para aumentar la precisión del modelo"
+        ]
+    },
+    "¿Qué tipo de datos requieren mayor protección legal?": {
+        "v": "Datos personales sensibles (salud, raza, religión)",
+        "f": [
+            "Datos de productos en un inventario",
+            "Datos meteorológicos",
+            "Datos de tráfico vehicular"
+        ]
+    },
+    "¿Cómo se usa la Ciencia de Datos en finanzas?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Predicción de fraudes bancarios",
+            "Optimización de carteras de inversión",
+            "Modelos de riesgo crediticio"
+        ]
+    },
+    "¿Cuál es un caso de uso común de la Ciencia de Datos en el sector salud?": {
+        "v": "Diagnóstico automático basado en imágenes médicas",
+        "f": [
+            "Recomendación de productos en e-commerce",
+            "Optimización de rutas de entrega",
+            "Análisis de sentimientos en redes sociales"
+        ]
+    },
+    "¿Qué técnica se usa en mantenimiento predictivo en la industria?": {
+        "v": "Series temporales y modelos de predicción",
+        "f": [
+            "Análisis de sentimiento",
+            "Redes convolucionales",
+            "Naïve Bayes"
+        ]
+    },
+    "¿Cuál es un ejemplo de aplicación de Ciencia de Datos en el sector retail?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Segmentación de clientes mediante clustering",
+            "Optimización de precios dinámicos",
+            "Modelos de recomendación de productos"
+        ]
+    },
+    "¿Qué modelo es más adecuado para un sistema de recomendación en e-commerce?": {
+        "v": "Modelos basados en filtrado colaborativo",
+        "f": [
+            "K-Means",
+            "Random Forest",
+            "Árboles de decisión"
+        ]
+    },
+    "¿Qué técnica se usa en la detección de fraudes en transacciones bancarias?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Modelos de clasificación supervisados",
+            "Algoritmos de clustering para detectar anomalías",
+            "Redes neuronales para patrones complejos"
+        ]
+    },
+    "¿Cuál de los siguientes sectores utiliza Ciencia de Datos para la\noptimización de la cadena de suministro?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Logística y transporte",
+            "Industria farmacéutica",
+            "Comercio minorista"
+        ]
+    },
+    "¿Qué problema se resuelve con modelos de procesamiento de lenguaje natural\n(NLP) en servicio al cliente?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Automatización de respuestas en chatbots",
+            "Análisis de sentimiento en redes sociales",
+            "Traducción automática de idiomas"
+        ]
+    },
+    "¿Cómo se aplica la Ciencia de Datos en la agricultura de precisión?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Modelos de predicción climática",
+            "Monitoreo de cultivos con visión por computadora",
+            "Optimización del uso de fertilizantes y agua"
+        ]
+    },
+    "¿Qué análisis es más útil en epidemiología para predecir brotes de\nenfermedades?": {
+        "v": "Modelos de series temporales",
+        "f": [
+            "Algoritmos de clusterización",
+            "Modelos supervisados de regresión",
+            "Redes adversariales generativas"
+        ]
+    },
+    "¿Cuál es la principal aplicación de Ciencia de Datos en la industria\nautomotriz?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Conducción autónoma mediante redes neuronales",
+            "Modelos de predicción de mantenimiento de vehículos",
+            "Optimización de rutas de tráfico"
+        ]
+    },
+    "¿Cómo se aplica la Ciencia de Datos en energía y medio ambiente?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Predicción de demanda energética",
+            "Optimización de paneles solares mediante visión artificial",
+            "Detección de fugas en redes de distribución"
+        ]
+    },
+    "¿Qué modelo es más adecuado para analizar patrones de consumo de\nelectricidad?": {
+        "v": "Modelos de series temporales",
+        "f": [
+            "Regresión lineal",
+            "K-Means",
+            "Árboles de decisión"
+        ]
+    },
+    "¿Qué herramienta se usa comúnmente en el análisis de redes sociales?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Sentiment Analysis con NLP",
+            "Detección de comunidades en grafos",
+            "Modelos de clasificación para detectar tendencias"
+        ]
+    },
+    "¿Cuál es un uso clave de la Ciencia de Datos en marketing digital?": {
+        "v": "Todas las anteriores",
+        "f": [
+            "Predicción de abandono de clientes (churn prediction)",
+            "Optimización de anuncios publicitarios",
+            "Análisis de conversión de campañas"
+        ]
+    }
+}

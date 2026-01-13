@@ -1,0 +1,3557 @@
+{
+    "¿Cuál de las siguientes estructuras es típicamente utilizada para\nimplementar una cola de prioridad?": {
+        "v": "Montículo",
+        "f": [
+            "Grafo",
+            "Pila",
+            "Lista enlazada"
+        ]
+    },
+    "¿Qué tipo de árbol garantiza que la diferencia de altura entre subárboles\nizquierdo y derecho es, como máximo, 1?": {
+        "v": "Árbol binario equilibrado",
+        "f": [
+            "Árbol binario perfecto",
+            "Árbol binario completo",
+            "Árbol binario de búsqueda"
+        ]
+    },
+    "¿Qué representa la matriz de adyacencia en un grafo?": {
+        "v": "Las conexiones entre nodos y sus pesos",
+        "f": [
+            "Los nodos y sus conexiones",
+            "Los nodos y sus valores",
+            "Las conexiones entre nodos"
+        ],
+        "e_count": 1
+    },
+    "En un grafo ponderado, ¿qué representa el peso?": {
+        "v": "El coste o distancia entre dos nodos",
+        "f": [
+            "La dirección de una arista",
+            "El número máximo de nodos conectados",
+            "La cantidad de nodos"
+        ]
+    },
+    "En una tabla hash, ¿qué ayuda a resolver las colisiones?": {
+        "v": "Encadenamiento",
+        "f": [
+            "Pila",
+            "Árboles binarios",
+            "Función hash mejorada"
+        ]
+    },
+    "¿Qué estructura de datos es esencialmente una colección de elementos que\nsigue la regla |primer elemento en entrar, primer elemento en salir|\n(FIFO)?": {
+        "v": "Cola",
+        "f": [
+            "Conjunto (Set)",
+            "Lista enlazada",
+            "Pila"
+        ]
+    },
+    "¿Qué estructura de datos es ideal para representar conjuntos de elementos\ndonde el orden no importa y no debe haber duplicados?": {
+        "v": "Conjunto (Set)",
+        "f": [
+            "Diccionario",
+            "Lista",
+            "Pila"
+        ],
+        "c_count": 1
+    },
+    "En un árbol binario, ¿cuántos hijos como máximo puede tener un nodo?": {
+        "v": "2",
+        "f": [
+            "1",
+            "3",
+            "0"
+        ]
+    },
+    "¿Cuál de las siguientes estructuras de datos utiliza una función hash para\nmapear claves con valores?": {
+        "v": "Tabla hash",
+        "f": [
+            "Lista enlazada",
+            "Pila",
+            "Cola de prioridad"
+        ]
+    },
+    "En un grafo, ¿cómo se llama la conexión entre dos nodos?": {
+        "v": "Arista",
+        "f": [
+            "Borde",
+            "Nodo",
+            "Raíz"
+        ]
+    },
+    "¿Qué notación describe el peor caso de rendimiento de un algoritmo?": {
+        "v": "Big O (O)",
+        "f": [
+            "Little o (o)",
+            "Big Omega (Ω)",
+            "Big Theta (Θ)"
+        ]
+    },
+    "Un algoritmo que ofrece una solución lo suficientemente cercana a la óptima\nen un tiempo razonable es conocido como:": {
+        "v": "Algoritmo aproximado",
+        "f": [
+            "Algoritmo óptimo",
+            "Algoritmo de backtracking",
+            "Algoritmo voraz"
+        ]
+    },
+    "¿Cuál de las siguientes no es una clase de complejidad?": {
+        "v": "Big O",
+        "f": [
+            "P",
+            "co-NP",
+            "NP"
+        ]
+    },
+    "Un problema cuyo tiempo de solución crece tan rápidamente que resulta\nprácticamente irresoluble con un incremento relativamente pequeño en el\ntamaño de la entrada se dice que es:": {
+        "v": "Inmanejable (o intractable)",
+        "f": [
+            "Ineficiente",
+            "Voraz",
+            "Óptimo"
+        ]
+    },
+    "Cuando un algoritmo tiene un tiempo de ejecución que crece de manera\nproporcional al tamaño de la entrada, se dice que es:": {
+        "v": "Lineal",
+        "f": [
+            "Constante",
+            "Cuadrático",
+            "Exponencial"
+        ]
+    },
+    "Al evaluar el rendimiento real de un algoritmo en un sistema específico, es\nmás apropiado depender de:": {
+        "v": "Benchmarking y pruebas empíricas",
+        "f": [
+            "Análisis teórico",
+            "Técnicas de optimización",
+            "Efecto de la arquitectura del software"
+        ]
+    },
+    "¿Qué componente tiene un impacto directo en el rendimiento de un algoritmo,\nindependientemente de su lógica?": {
+        "v": "Arquitectura del software",
+        "f": [
+            "Benchmarking",
+            "Algoritmo voraz",
+            "Técnica de optimización"
+        ]
+    },
+    "¿Qué propiedad asegura que un algoritmo voraz toma decisiones locales que\nresultan en una solución global óptima?": {
+        "v": "Subestructura óptima",
+        "f": [
+            "Amortización",
+            "Optimalidad",
+            "Convexidad"
+        ]
+    },
+    "En el análisis de amortización, estamos principalmente interesados en:": {
+        "v": "El tiempo de ejecución promedio durante una secuencia de operaciones",
+        "f": [
+            "El tiempo de ejecución en función del espacio utilizado",
+            "El peor tiempo de ejecución para cualquier entrada",
+            "El mejor tiempo de ejecución para cualquier entrada"
+        ]
+    },
+    "¿Qué describe la notación Big Theta (Θ)?": {
+        "v": "Un límite inferior y superior asintótico ajustado",
+        "f": [
+            "El peor caso",
+            "Solo el caso promedio",
+            "El mejor caso"
+        ]
+    },
+    "En un Árbol Binario de Búsqueda (BST), si todos los nodos en el subárbol\nizquierdo son menores que el nodo raíz y todos los nodos en el subárbol\nderecho son mayores que el nodo raíz, este es:": {
+        "v": "Una propiedad básica de un BST",
+        "f": [
+            "Balanceado",
+            "Un trie",
+            "No balanceado"
+        ]
+    },
+    "¿Cuál es la principal característica de la búsqueda binaria en comparación\ncon la búsqueda lineal?": {
+        "v": "Requiere que los datos estén ordenados",
+        "f": [
+            "Examina todos los elementos de la lista",
+            "Funciona mejor en conjuntos de datos pequeños",
+            "Requiere que los datos estén desordenados"
+        ],
+        "e_count": 1
+    },
+    "¿Cuál de los siguientes algoritmos o estructuras tiene un tiempo de\nbúsqueda promedio de tiempo constante?": {
+        "v": "Tablas hash",
+        "f": [
+            "Árboles AVL",
+            "Tries",
+            "Búsqueda binaria"
+        ],
+        "e_count": 1
+    },
+    "¿Cuál de las siguientes estructuras de datos es particularmente útil para\nla búsqueda de prefijos, como en autocompletado?": {
+        "v": "Tries",
+        "f": [
+            "Árboles KD",
+            "Árboles B",
+            "Tablas hash"
+        ]
+    },
+    "¿Cuál de los siguientes algoritmos divide repetidamente su lista de entrada\nhasta que solo quedan sub-listas de tamaño cero o uno?": {
+        "v": "Quicksort",
+        "f": [
+            "Burbuja",
+            "Selección",
+            "Inserción"
+        ]
+    },
+    "¿Qué algoritmo de ordenación compara repetidamente elementos adyacentes y\nlos intercambia si están en el orden incorrecto?": {
+        "v": "Ordenación por burbuja",
+        "f": [
+            "Ordenación por selección",
+            "Ordenación por inserción",
+            "Quicksort"
+        ],
+        "c_count": 1
+    },
+    "¿En qué tipo de árbol cada nodo representa un carácter de una cadena?": {
+        "v": "Tries",
+        "f": [
+            "Árbol KD",
+            "Árbol Binario de Búsqueda",
+            "Árbol AVL"
+        ]
+    },
+    "¿Cuál de los siguientes es utilizado principalmente en sistemas de bases de\ndatos y sistemas de archivos debido a su eficiencia en acceso a disco?": {
+        "v": "Árboles B y B+",
+        "f": [
+            "Tries",
+            "Árboles KD",
+            "Árboles AVL"
+        ]
+    },
+    "Los árboles AVL son una variante de:": {
+        "v": "Árboles Binarios de Búsqueda (BST)",
+        "f": [
+            "Árboles B",
+            "Árboles Rojo-Negro",
+            "Tries"
+        ]
+    },
+    "¿En qué algoritmo de ordenación cada paso selecciona el elemento más\npequeño y lo coloca en la posición correcta?": {
+        "v": "Ordenación por selección",
+        "f": [
+            "Quicksort",
+            "Ordenación por inserción",
+            "Ordenación por burbuja"
+        ]
+    },
+    "¿Qué tipo de algoritmo es mejor para los datos no ordenados?": {
+        "v": "Búsqueda Lineal",
+        "f": [
+            "QuickSort",
+            "Merge Sort",
+            "Búsqueda Binaria"
+        ]
+    },
+    "¿Qué es un algoritmo en informática?": {
+        "v": "Un conjunto de instrucciones o reglas definidas para realizar una tarea",
+        "f": [
+            "Una función matemática",
+            "Una pregunta de un test",
+            "Un tipo de software"
+        ]
+    },
+    "En el problema de la mochila (Knapsack), ¿qué estamos tratando de\nmaximizar?": {
+        "v": "El valor total sin exceder un peso dado",
+        "f": [
+            "El número total de ítems",
+            "El peso total",
+            "El tiempo de ejecución"
+        ]
+    },
+    "¿Cuál es el peor caso de complejidad temporal para el algoritmo Bubble\nSort?": {
+        "v": "O(n^2)",
+        "f": [
+            "O(n)",
+            "O(n log n)",
+            "O(log n)"
+        ]
+    },
+    "¿Cuál de los siguientes es un ejemplo de un algoritmo de ordenación?": {
+        "v": "QuickSort",
+        "f": [
+            "Búsqueda Binaria",
+            "Programación Dinámica",
+            "Dijkstra"
+        ]
+    },
+    "¿Cuál es el principal beneficio de utilizar memorización en programación\ndinámica?": {
+        "v": "Reducir la redundancia en los cálculos",
+        "f": [
+            "Incrementar la velocidad de la red",
+            "Mejorar la claridad del código",
+            "Aumentar la capacidad de almacenamiento"
+        ]
+    },
+    "¿En qué tipo de estructura de datos se utiliza principalmente el algoritmo\nde Dijkstra?": {
+        "v": "Grafos",
+        "f": [
+            "Arrays",
+            "Colas",
+            "Pilas"
+        ]
+    },
+    "¿Cuál es el caso base típico para el cálculo de Fibonacci en programación\ndinámica?": {
+        "v": "F(0) = 0 y F(1) = 1",
+        "f": [
+            "F(0) = 0 y F(1) = 0",
+            "F(0) = 1 y F(1) = 1",
+            "F(0) = 1 y F(1) = 0"
+        ]
+    },
+    "¿Qué representa el \"n\" en la complejidad O(n)?": {
+        "v": "El número de elementos en la entrada del algoritmo",
+        "f": [
+            "El número máximo de iteraciones permitidas",
+            "El número de pruebas en un test",
+            "La capacidad de la mochila en el problema de la mochila"
+        ]
+    },
+    "¿Qué mide la complejidad temporal de un algoritmo?": {
+        "v": "El tiempo que tarda en ejecutarse",
+        "f": [
+            "El número de líneas de código",
+            "La cantidad de memoria utilizada",
+            "La facilidad de implementación"
+        ]
+    },
+    "¿En qué escenario es más adecuado utilizar una cola de prioridad?": {
+        "v": "Cuando el procesamiento de los elementos depende de su prioridad",
+        "f": [
+            "Cuando necesitamos acceso rápido a elementos arbitrarios",
+            "Cuando los elementos deben ser procesados en orden de llegada",
+            "Cuando los elementos se procesan en un orden inverso a su llegada"
+        ]
+    },
+    "¿Cuál es la diferencia principal entre un montículo max y un montículo min?": {
+        "v": "En un montículo max, el elemento máximo está en la raíz, mientras que en un\nmontículo min, el mínimo está en la raíz",
+        "f": [
+            "Un montículo max permite extracciones más rápidas que un montículo min",
+            "Un montículo max usa árboles binarios, pero un montículo min usa listas\nenlazadas",
+            "Un montículo max no permite duplicados, mientras que un montículo min sí"
+        ],
+        "c_count": 1
+    },
+    "¿Qué estructura de datos sería más adecuada para implementar la función\ndeshacer (undo) en un editor de texto?": {
+        "v": "Pila",
+        "f": [
+            "Cola",
+            "Lista Enlazada",
+            "Tabla Hash"
+        ]
+    },
+    "¿Qué característica principal diferencia a las listas enlazadas de los\narrays?": {
+        "v": "Las listas enlazadas permiten inserciones y eliminaciones más eficientes",
+        "f": [
+            "Los elementos de las listas enlazadas pueden ser accedidos en tiempo\nconstante",
+            "Las listas enlazadas requieren memoria contigua",
+            "Las listas enlazadas no permiten almacenar datos de diferentes tipos"
+        ],
+        "e_count": 1
+    },
+    "¿Qué estructura de datos es la más adecuada para implementar la\nfuncionalidad de un conjunto (set) en la mayoría de los lenguajes de\nprogramación?": {
+        "v": "Tablas Hash",
+        "f": [
+            "Colas de prioridad",
+            "Árboles binarios",
+            "Listas enlazadas"
+        ]
+    },
+    "¿Cuál es una ventaja principal de las tablas hash?": {
+        "v": "Permiten búsquedas de tiempo constante en el mejor caso",
+        "f": [
+            "Ordenan los elementos automáticamente",
+            "Requieren menos memoria que las listas enlazadas",
+            "No permiten colisiones de datos"
+        ]
+    },
+    "En un grafo dirigido, ¿qué representa una arista dirigida de A a B?": {
+        "v": "Una conexión unidireccional de A a B",
+        "f": [
+            "Una conexión bidireccional entre A y B",
+            "Una conexión unidireccional de B a A",
+            "Una relación de peso entre A y B"
+        ]
+    },
+    "¿Qué es un grafo ponderado?": {
+        "v": "Un grafo donde cada arista tiene un valor o peso asociado",
+        "f": [
+            "Un grafo con pesos en los vértices y las aristas",
+            "Un grafo que solo permite valores numéricos",
+            "Un grafo donde cada vértice tiene un peso asociado"
+        ],
+        "c_count": 1
+    },
+    "¿Qué caracteriza a un grafo ponderado y dirigido?": {
+        "v": "Las aristas son unidireccionales con pesos asignados",
+        "f": [
+            "Las aristas pueden ser unidireccionales o bidireccionales sin pesos",
+            "Todas las aristas son bidireccionales y tienen pesos asignados",
+            "Los vértices, no las aristas, tienen pesos asignados"
+        ]
+    },
+    "¿Cuál es el principio de funcionamiento de una cola?": {
+        "v": "FIFO (First In First Out)",
+        "f": [
+            "LIFO (Last In First Out)",
+            "Acceso aleatorio",
+            "Ordenación por prioridad"
+        ]
+    },
+    "En el Problema de la Mochila, ¿qué se intenta maximizar?": {
+        "v": "El valor total sin sobrepasar un límite de peso",
+        "f": [
+            "El peso total en la mochila",
+            "La eficiencia de la búsqueda",
+            "El número total de ítems en la mochila"
+        ]
+    },
+    "¿Qué tipo de lista es ideal para el Algoritmo de Inserción?": {
+        "v": "Listas pequeñas y casi ordenadas",
+        "f": [
+            "Listas con elementos todos iguales",
+            "Listas grandes y desordenadas",
+            "Listas en las que todos los elementos están en orden inverso"
+        ]
+    },
+    "¿Qué tipo de estructura de datos se utiliza habitualmente en la Búsqueda en\nÁrboles Binarios y AVL?": {
+        "v": "Árbol binario",
+        "f": [
+            "Array",
+            "Grafo",
+            "Lista enlazada"
+        ]
+    },
+    "¿En qué escenario es más efectivo el Algoritmo Quick Sort?": {
+        "v": "Listas grandes y desordenadas",
+        "f": [
+            "Cuando todos los elementos son iguales",
+            "Listas con muchos elementos duplicados",
+            "Listas pequeñas y ordenadas"
+        ]
+    },
+    "¿Cuál es el objetivo del Algoritmo de Kruskal?": {
+        "v": "Encontrar el Árbol de Cobertura Mínima en un grafo",
+        "f": [
+            "Ordenar los elementos de un array",
+            "Encontrar el elemento mínimo en un montículo",
+            "Encontrar el camino más corto en un grafo"
+        ]
+    },
+    "¿Qué característica principal tiene el Algoritmo Quick Sort?": {
+        "v": "Usa un enfoque de divide y vencerás",
+        "f": [
+            "Tiene una complejidad temporal promedio de O(n^2)",
+            "Es ineficiente para listas pequeñas",
+            "No es un algoritmo de ordenación in situ"
+        ]
+    },
+    "En el algoritmo de Fibonacci con Memorización, ¿qué técnica se utiliza para\nmejorar la eficiencia?": {
+        "v": "Almacenar los resultados de subproblemas",
+        "f": [
+            "Usar un árbol binario",
+            "Ordenar los resultados intermedios",
+            "Divide y vencerás y conquistar"
+        ],
+        "e_count": 1
+    },
+    "¿Cuál es la ventaja principal de Selection Sort sobre otros algoritmos de\nordenación simples?": {
+        "v": "La cantidad mínima de intercambios que realiza",
+        "f": [
+            "Su capacidad para detectar si la lista ya está ordenada",
+            "Su eficiencia en listas grandes",
+            "Su complejidad temporal en el mejor caso"
+        ],
+        "e_count": 1
+    },
+    "¿Cuál es la principal aplicación del Algoritmo de Floyd-Warshall?": {
+        "v": "Encontrar el camino más corto entre todos los pares de nodos en un grafo",
+        "f": [
+            "Búsqueda eficiente en árboles AVL",
+            "Encontrar el elemento máximo en un montículo",
+            "Ordenación rápida de listas"
+        ]
+    },
+    "¿Qué caracteriza al Algoritmo de Inserción?": {
+        "v": "Es muy eficiente para listas casi ordenadas",
+        "f": [
+            "Funciona mejor con listas en orden descendente",
+            "Tiene una complejidad temporal promedio de O(n log n)",
+            "Siempre tiene la misma eficiencia sin importar el orden de los datos"
+        ]
+    },
+    "¿Cuál es la principal ventaja del Algoritmo de Selección sobre otros\nalgoritmos de ordenación?": {
+        "v": "La cantidad mínima de intercambios que realiza",
+        "f": [
+            "Su complejidad temporal en el mejor caso",
+            "Su eficiencia en listas grandes",
+            "Su simplicidad y facilidad de implementación"
+        ]
+    },
+    "¿Cuál es la complejidad temporal promedio del Algoritmo de la Burbuja?": {
+        "v": "O(n^2)",
+        "f": [
+            "O(n log n)",
+            "O(log n)",
+            "O(n)"
+        ]
+    },
+    "El Algoritmo de Dijkstra se utiliza para:": {
+        "v": "Encontrar el camino más corto en un grafo ponderado sin pesos negativos",
+        "f": [
+            "Ordenar elementos en un array",
+            "Buscar un elemento en un array",
+            "Encontrar el camino más corto en un grafo no ponderado"
+        ]
+    },
+    "¿En qué situación es más eficiente el Algoritmo de Búsqueda Binaria?": {
+        "v": "En listas previamente ordenadas",
+        "f": [
+            "En listas pequeñas",
+            "Cuando los datos no están ordenados",
+            "Cuando se busca el elemento en la mitad de la lista"
+        ]
+    },
+    "¿Cuál es la complejidad temporal promedio del Algoritmo Merge Sort?": {
+        "v": "O(n log n)",
+        "f": [
+            "O(log n)",
+            "O(n)",
+            "O(n^2)"
+        ]
+    },
+    "¿Cuál es el peor caso de complejidad temporal del Algoritmo Merge Sort?": {
+        "v": "O(n log n)",
+        "f": [
+            "O(n)",
+            "O(n^2)",
+            "O(log n)"
+        ]
+    },
+    "En el Algoritmo de Búsqueda en Profundidad (DFS), ¿cuál es la estrategia de\nexploración?": {
+        "v": "Explorar tan profundamente como sea posible antes de retroceder",
+        "f": [
+            "Usar el nodo con menor valor primero",
+            "Visitar primero todos los nodos adyacentes",
+            "Seleccionar siempre el nodo más cercano al inicio"
+        ]
+    },
+    "¿Cuál es la principal desventaja del Algoritmo de la Burbuja?": {
+        "v": "Su complejidad temporal en el peor caso",
+        "f": [
+            "La dificultad de implementación",
+            "Su ineficiencia en listas casi ordenadas",
+            "La imposibilidad de usarlo en listas no ordenadas"
+        ]
+    },
+    "¿Cómo funciona el Algoritmo de Búsqueda en Amplitud (BFS)?": {
+        "v": "Visita primero los nodos adyacentes al nodo actual",
+        "f": [
+            "Visita primero el nodo más profundo disponible",
+            "Usa un enfoque de divide y vencerás",
+            "Ordena los nodos antes de visitarlos"
+        ]
+    },
+    "¿Cuál es el peor caso de complejidad temporal del Algoritmo de Búsqueda\nLineal?": {
+        "v": "O(n)",
+        "f": [
+            "O(log n)",
+            "O(1)",
+            "O(n^2)"
+        ]
+    },
+    "¿Qué describe mejor la eficiencia de un algoritmo?": {
+        "v": "La cantidad de memoria y tiempo consumidos en su ejecución.",
+        "f": [
+            "El número de líneas de código.",
+            "El lenguaje de programación en el que está implementado.",
+            "La claridad de su estructura."
+        ]
+    },
+    "¿Cuál de las siguientes afirmaciones sobre la notación asintótica es falsa?": {
+        "v": "Big Θ describe el caso promedio.",
+        "f": [
+            "Big O describe el peor caso.",
+            "Big Ω representa la cota inferior.",
+            "Big Θ es una cota ajustada."
+        ]
+    },
+    "¿Qué método analiza la eficiencia de un algoritmo sin depender del\nhardware?": {
+        "v": "Análisis teórico.",
+        "f": [
+            "Análisis empírico.",
+            "Pruebas experimentales.",
+            "Simulación computacional."
+        ]
+    },
+    "Un algoritmo tiene una complejidad de O(n²). ¿Qué significa esto?": {
+        "v": "Su tiempo de ejecución crece cuadráticamente con el tamaño de la entrada.",
+        "f": [
+            "Su rendimiento es lineal.",
+            "Siempre es menos eficiente que uno con O(n).",
+            "Es la mejor opción para grandes entradas."
+        ]
+    },
+    "¿Cuál de las siguientes opciones es un ejemplo de un problema?": {
+        "v": "Ordenar una lista de números de menor a mayor.",
+        "f": [
+            "Ordenar la lista [3, 1, 4, 1, 5, 9].",
+            "Implementar un algoritmo de ordenamiento.",
+            "Comparar dos algoritmos de ordenamiento."
+        ],
+        "e_count": 1
+    },
+    "¿Qué representa Big O en la notación asintótica?": {
+        "v": "La cota superior del tiempo de ejecución.",
+        "f": [
+            "El tiempo promedio de un algoritmo.",
+            "La cota inferior del tiempo de ejecución.",
+            "La memoria consumida por el algoritmo."
+        ]
+    },
+    "¿Qué limita el análisis empírico de algoritmos?": {
+        "v": "Depende del hardware y el software utilizados.",
+        "f": [
+            "No considera el peor caso.",
+            "No permite medir el tiempo de ejecución.",
+            "No es útil para algoritmos recursivos."
+        ],
+        "c_count": 1
+    },
+    "¿Qué diferencia a un problema de un ejemplar?": {
+        "v": "Un problema es abstracto, un ejemplar es concreto.",
+        "f": [
+            "Un problema es específico, un ejemplar es general.",
+            "Un problema siempre tiene solución, un ejemplar no.",
+            "Un problema se define por datos, un ejemplar no."
+        ],
+        "c_count": 1
+    },
+    "¿Qué notación describe tanto la cota superior como inferior de un\nalgoritmo?": {
+        "v": "Big Θ.",
+        "f": [
+            "Big O.",
+            "Big Ω.",
+            "Big ∆."
+        ]
+    },
+    "¿Cuál de las siguientes es una ventaja del análisis teórico sobre el\nempírico?": {
+        "v": "Es independiente del hardware y software.",
+        "f": [
+            "Permite considerar condiciones específicas.",
+            "Proporciona resultados más precisos.",
+            "Mide directamente el tiempo de ejecución."
+        ]
+    },
+    "Si un algoritmo tiene complejidad O(1), ¿qué implica?": {
+        "v": "Su tiempo de ejecución es constante.",
+        "f": [
+            "Su tiempo de ejecución crece linealmente.",
+            "Consume siempre una cantidad fija de memoria.",
+            "Solo funciona para pequeñas entradas."
+        ]
+    },
+    "¿Cuál de las siguientes afirmaciones sobre la eficiencia es correcta?": {
+        "v": "Un algoritmo eficiente minimiza tiempo y memoria.",
+        "f": [
+            "Un algoritmo eficiente siempre utiliza menos memoria.",
+            "Un algoritmo eficiente maximiza el uso de recursos.",
+            "La eficiencia no depende del tamaño de la entrada."
+        ],
+        "e_count": 1
+    },
+    "¿Qué relación describe mejor la notación Big O y Big Ω?": {
+        "v": "Big O es una cota superior, Big Ω es una cota inferior.",
+        "f": [
+            "Ambas describen el caso promedio.",
+            "Big O y Big Ω son equivalentes en el peor caso.",
+            "Big O describe memoria, Big Ω describe tiempo."
+        ]
+    },
+    "¿Qué tipo de análisis es más útil para estimar el rendimiento a gran\nescala?": {
+        "v": "Teórico.",
+        "f": [
+            "Empírico.",
+            "Experimental.",
+            "Pragmático."
+        ]
+    },
+    "¿Qué característica NO es esencial en un algoritmo eficiente?": {
+        "v": "Uso del menor número de líneas de código.",
+        "f": [
+            "Correctitud en todos los ejemplares.",
+            "Minimización de recursos computacionales.",
+            "Escalabilidad con entradas más grandes."
+        ]
+    },
+    "¿Qué tipo de problema es más difícil de resolver de forma eficiente?": {
+        "v": "Problema NP-completo.",
+        "f": [
+            "Problema lineal.",
+            "Problema polinómico.",
+            "Problema constante."
+        ]
+    },
+    "¿Qué significa analizar el peor caso de un algoritmo?": {
+        "v": "Evaluar el máximo tiempo posible que podría tardar.",
+        "f": [
+            "Calcular el tiempo promedio de ejecución.",
+            "Considerar la eficiencia para entradas pequeñas.",
+            "Determinar la complejidad espacial."
+        ]
+    },
+    "¿Qué afirmación sobre Big Θ es verdadera?": {
+        "v": "Proporciona una descripción ajustada del rendimiento.",
+        "f": [
+            "Describe únicamente el peor caso.",
+            "Es equivalente a Big O en todos los casos.",
+            "Representa la cota inferior del tiempo de ejecución."
+        ]
+    },
+    "¿Cuál es un ejemplo de análisis empírico?": {
+        "v": "Medir el tiempo de ejecución en un entorno específico.",
+        "f": [
+            "Utilizar notación asintótica para evaluar un algoritmo.",
+            "Comparar dos algoritmos mediante cálculo teórico.",
+            "Probar un algoritmo con entradas infinitas."
+        ]
+    },
+    "¿Qué describe mejor la relación entre espacio y tiempo en algoritmos?": {
+        "v": "Optimizar uno puede aumentar el consumo del otro.",
+        "f": [
+            "Ambos son siempre inversamente proporcionales.",
+            "Reducir el tiempo siempre reduce el espacio.",
+            "No tienen relación entre sí."
+        ]
+    },
+    "¿Qué significa que un algoritmo sea eficiente?": {
+        "v": "Optimiza el uso de tiempo y memoria para resolver un problema.",
+        "f": [
+            "Siempre resuelve problemas en tiempo constante.",
+            "Solo minimiza el uso de memoria.",
+            "Solo minimiza el tiempo de ejecución."
+        ]
+    },
+    "¿Qué mide el análisis de tiempo de un algoritmo?": {
+        "v": "El número de operaciones realizadas.",
+        "f": [
+            "La cantidad de memoria consumida durante la ejecución.",
+            "La calidad del código fuente.",
+            "El tamaño del ejemplar procesado."
+        ]
+    },
+    "¿Cuál es una ventaja del análisis teórico?": {
+        "v": "Refleja el comportamiento del algoritmo en cualquier hardware.",
+        "f": [
+            "Permite probar el algoritmo en entradas grandes sin costos.",
+            "Considera los datos específicos del problema.",
+            "Es más rápido de implementar que el análisis empírico."
+        ]
+    },
+    "¿Cuál de los siguientes es un ejemplo del peor caso?": {
+        "v": "El elemento buscado no está en la lista.",
+        "f": [
+            "El elemento buscado está en la primera posición de la lista.",
+            "El algoritmo termina antes de procesar todos los datos.",
+            "Todos los datos son iguales."
+        ]
+    },
+    "¿Qué limita al análisis empírico de algoritmos?": {
+        "v": "Depende del hardware y no refleja el comportamiento con entradas grandes.",
+        "f": [
+            "Solo mide el tiempo de ejecución para el mejor caso.",
+            "No permite analizar el consumo de memoria.",
+            "Requiere notaciones asintóticas para interpretar los resultados."
+        ]
+    },
+    "¿Qué tipo de caso ocurre cuando un algoritmo realiza el menor número de\noperaciones posibles?": {
+        "v": "Mejor caso.",
+        "f": [
+            "Peor caso.",
+            "Caso promedio.",
+            "Caso límite."
+        ]
+    },
+    "¿Qué caracteriza al análisis del caso promedio?": {
+        "v": "Requiere conocer la distribución de los datos.",
+        "f": [
+            "Solo considera el mejor escenario posible.",
+            "Es el más utilizado en análisis críticos.",
+            "Calcula la cota superior del tiempo de ejecución."
+        ]
+    },
+    "¿Qué implica un algoritmo con alta eficiencia en tiempo?": {
+        "v": "Resuelve problemas más rápido, pero puede usar más memoria.",
+        "f": [
+            "Siempre utiliza menos memoria.",
+            "Es óptimo solo para entradas pequeñas.",
+            "Es menos flexible para diferentes tipos de datos."
+        ]
+    },
+    "¿Qué tipo de caso suele ser el foco principal en análisis críticos?": {
+        "v": "Peor caso.",
+        "f": [
+            "Mejor caso.",
+            "Caso promedio.",
+            "Caso teórico."
+        ]
+    },
+    "¿Qué ocurre si optimizamos el tiempo de ejecución de un algoritmo?": {
+        "v": "Puede aumentar el consumo de memoria.",
+        "f": [
+            "Siempre se reduce el consumo de memoria.",
+            "El algoritmo deja de ser eficiente.",
+            "El tamaño del ejemplar no afecta su rendimiento."
+        ]
+    },
+    "¿Qué mide el análisis del espacio de un algoritmo?": {
+        "v": "La cantidad de memoria utilizada.",
+        "f": [
+            "La cantidad de datos procesados.",
+            "El tiempo total de ejecución.",
+            "El tamaño del algoritmo en líneas de código."
+        ],
+        "e_count": 1
+    },
+    "¿Qué escenario describe el mejor caso en una búsqueda lineal?": {
+        "v": "El elemento buscado está en la primera posición.",
+        "f": [
+            "El elemento buscado está en la última posición.",
+            "El elemento buscado está en una posición aleatoria.",
+            "El elemento buscado no está en la lista."
+        ]
+    },
+    "¿Qué describe mejor la relación entre tiempo y espacio en algoritmos?": {
+        "v": "Optimizar uno puede requerir más del otro.",
+        "f": [
+            "Son completamente independientes.",
+            "Ambos siempre disminuyen al mismo tiempo.",
+            "El espacio es más importante que el tiempo."
+        ]
+    },
+    "¿Qué análisis requiere información previa sobre la distribución de los\ndatos?": {
+        "v": "Caso promedio.",
+        "f": [
+            "Mejor caso.",
+            "Peor caso.",
+            "Caso teórico."
+        ]
+    },
+    "¿Qué tipo de caso es más frecuente en problemas críticos?": {
+        "v": "Peor caso.",
+        "f": [
+            "Mejor caso.",
+            "Caso promedio.",
+            "Caso óptimo."
+        ]
+    },
+    "¿Qué significa que un algoritmo tenga complejidad O(1)?": {
+        "v": "Su tiempo de ejecución es constante, independientemente del tamaño de la\nentrada.",
+        "f": [
+            "Su tiempo de ejecución crece linealmente con el tamaño de la entrada.",
+            "Consume una cantidad fija de memoria.",
+            "Siempre es más rápido que un algoritmo con O(n)."
+        ]
+    },
+    "¿Qué ocurre en el peor caso de un algoritmo?": {
+        "v": "El algoritmo realiza el mayor número de operaciones posibles.",
+        "f": [
+            "El algoritmo utiliza menos memoria de lo esperado.",
+            "El algoritmo siempre se detiene antes de tiempo.",
+            "El algoritmo solo funciona para entradas pequeñas."
+        ]
+    },
+    "¿Qué es el tamaño del ejemplar?": {
+        "v": "La cantidad de componentes en los datos de entrada.",
+        "f": [
+            "El número de operaciones que realiza un algoritmo.",
+            "El tiempo necesario para resolver un problema.",
+            "El número de líneas de código del algoritmo."
+        ]
+    },
+    "¿Qué ventaja tiene almacenar resultados intermedios en un algoritmo?": {
+        "v": "Acelera los cálculos futuros.",
+        "f": [
+            "Reduce el uso de memoria.",
+            "Permite manejar entradas infinitas.",
+            "Evita el análisis del peor caso."
+        ],
+        "c_count": 1
+    },
+    "¿Qué notación describe el comportamiento típico de un algoritmo?": {
+        "v": "Caso promedio.",
+        "f": [
+            "Big O.",
+            "Big Ω.",
+            "Mejor caso."
+        ]
+    },
+    "¿Qué notación describe una cota superior del peor caso?": {
+        "v": "O (Big O)",
+        "f": [
+            "Ω (Big Omega)",
+            "Θ (Theta)",
+            "Ninguna de las anteriores"
+        ]
+    },
+    "¿Cuál de las siguientes es una definición válida para f(n) ∈ Ω(g(n))?": {
+        "v": "f(n) ≥ c · g(n) para todo n ≥ n₀",
+        "f": [
+            "f(n) ≤ c · g(n) para todo n ≥ n₀",
+            "f(n) = c · g(n) para todo n ≥ n₀",
+            "Ninguna de las anteriores"
+        ]
+    },
+    "¿Cuál es un ejemplo de un algoritmo con complejidad O(n²)?": {
+        "v": "Ordenamiento por burbuja",
+        "f": [
+            "Búsqueda binaria",
+            "Ordenamiento por mezcla",
+            "Algoritmo de búsqueda lineal"
+        ]
+    },
+    "¿Qué complejidad describe un algoritmo con O(n!)?": {
+        "v": "Tiempo factorial",
+        "f": [
+            "Tiempo cuadrático",
+            "Tiempo exponencial",
+            "Tiempo polinómico"
+        ]
+    },
+    "En términos de notación asintótica, O(1) significa:": {
+        "v": "Tiempo constante",
+        "f": [
+            "Tiempo lineal",
+            "Tiempo logarítmico",
+            "Tiempo cúbico"
+        ],
+        "c_count": 1
+    },
+    "¿Cuál de las siguientes no es una notación asintótica?": {
+        "v": "Φ (Phi)",
+        "f": [
+            "O (Big O)",
+            "Ω (Big Omega)",
+            "Θ (Theta)"
+        ]
+    },
+    "Si f(n) = n², su complejidad es:": {
+        "v": "O(n²)",
+        "f": [
+            "O(n)",
+            "O(n log n)",
+            "O(n³)"
+        ]
+    },
+    "¿Qué notación describe el mejor caso posible?": {
+        "v": "Ω (Big Omega)",
+        "f": [
+            "O (Big O)",
+            "Θ (Theta)",
+            "Ninguna de las anteriores"
+        ]
+    },
+    "¿Qué patrón de crecimiento es más eficiente para entradas grandes?": {
+        "v": "O(log n)",
+        "f": [
+            "O(n!)",
+            "O(n²)",
+            "O(n³)"
+        ]
+    },
+    "Si un algoritmo tiene complejidad O(cⁿ), su crecimiento es:": {
+        "v": "Exponencial",
+        "f": [
+            "Polinómico",
+            "Factorial",
+            "Constante"
+        ]
+    },
+    "¿Qué indica la notación asintótica O(c)?": {
+        "v": "Tiempo constante",
+        "f": [
+            "Tiempo logarítmico",
+            "Tiempo lineal",
+            "Tiempo cuadrático"
+        ],
+        "c_count": 1
+    },
+    "¿Cuál es la definición formal de f(n) ∈ O(g(n))?": {
+        "v": "f(n) ≤ c · g(n) para todo n ≥ n₀",
+        "f": [
+            "f(n) ≥ c · g(n) para todo n ≥ n₀",
+            "f(n) = c · g(n) para todo n ≥ n₀",
+            "Ninguna de las anteriores"
+        ]
+    },
+    "Un algoritmo con complejidad O(n³) se clasifica como:": {
+        "v": "Tiempo cúbico",
+        "f": [
+            "Tiempo lineal",
+            "Tiempo cuadrático",
+            "Tiempo exponencial"
+        ]
+    },
+    "Si un algoritmo tiene O(n log n), se dice que su tiempo de ejecución es:": {
+        "v": "Casi lineal",
+        "f": [
+            "Lineal",
+            "Cuadrático",
+            "Logarítmico"
+        ]
+    },
+    "La notación Θ (Theta) representa:": {
+        "v": "Una cota ajustada",
+        "f": [
+            "Una cota superior",
+            "Una cota inferior",
+            "Ninguna de las anteriores"
+        ]
+    },
+    "¿Qué representa la notación O (Big O)?": {
+        "v": "El peor caso posible",
+        "f": [
+            "El mejor caso posible",
+            "El caso promedio",
+            "Ninguna de las anteriores"
+        ]
+    },
+    "¿Qué patrón de crecimiento describe un algoritmo con complejidad O(log n)?": {
+        "v": "Tiempo logarítmico",
+        "f": [
+            "Tiempo constante",
+            "Tiempo lineal",
+            "Tiempo cuadrático"
+        ]
+    },
+    "¿Qué notación se utiliza para describir una cota inferior del crecimiento\nde una función?": {
+        "v": "Ω (Big Omega)",
+        "f": [
+            "O (Big O)",
+            "Θ (Theta)",
+            "Ninguna de las anteriores"
+        ]
+    },
+    "¿Qué significa que un algoritmo sea Θ(n²)?": {
+        "v": "Su tiempo de ejecución es cuadrático en promedio",
+        "f": [
+            "Su mejor caso es cuadrático",
+            "Su peor caso es cuadrático",
+            "Siempre ejecuta n² operaciones"
+        ],
+        "e_count": 1
+    },
+    "¿Cuál de las siguientes opciones tiene el mayor crecimiento asintótico?": {
+        "v": "O(n!)",
+        "f": [
+            "O(log n)",
+            "O(n)",
+            "O(n²)"
+        ]
+    },
+    "¿Qué describe la notación Θ?": {
+        "v": "Cota superior y cota inferior para el crecimiento de una función.",
+        "f": [
+            "Solo la cota superior.",
+            "Solo la cota inferior.",
+            "Ninguna de las anteriores."
+        ],
+        "e_count": 1
+    },
+    "¿Cuándo se cumple que una función es Θ(g(n))?": {
+        "v": "Cuando es O(g(n)) y Ω(g(n)).",
+        "f": [
+            "Cuando es solo O(g(n)).",
+            "Cuando es solo Ω(g(n)).",
+            "Cuando no tiene un crecimiento claro."
+        ]
+    },
+    "¿Qué implica que una función sea Θ(n^2)?": {
+        "v": "Que su crecimiento está ajustado exactamente a n^2.",
+        "f": [
+            "Que su crecimiento es al menos n^2.",
+            "Que su crecimiento es como un múltiplo constante de n.",
+            "Que su crecimiento no puede ser menor que n."
+        ]
+    },
+    "¿Qué ocurre si una función es O(n^2) pero Ω(n)?": {
+        "v": "No es Θ(n^2).",
+        "f": [
+            "Es Θ(n^2).",
+            "No es ni O(n^2) ni Ω(n).",
+            "Es Θ(n)."
+        ]
+    },
+    "¿Cuál de las siguientes complejidades representa tiempo constante?": {
+        "v": "Θ(c)",
+        "f": [
+            "Θ(log n)",
+            "Θ(n)",
+            "Θ(n^2)"
+        ]
+    },
+    "¿Qué significa Θ(log n)?": {
+        "v": "Tiempo logarítmico.",
+        "f": [
+            "Tiempo cuadrático.",
+            "Tiempo lineal.",
+            "Tiempo factorial."
+        ]
+    },
+    "¿Qué tipo de tiempo es Θ(n log n)?": {
+        "v": "Tiempo casi lineal.",
+        "f": [
+            "Tiempo exponencial.",
+            "Tiempo polinómico.",
+            "Tiempo constante."
+        ]
+    },
+    "¿Cuál es el coste de un bucle que se ejecuta n veces con coste O(1) por\niteración?": {
+        "v": "O(n)",
+        "f": [
+            "O(1)",
+            "O(n^2)",
+            "O(log n)"
+        ]
+    },
+    "¿Cuál es el coste de k bucles anidados?": {
+        "v": "O(n^k)",
+        "f": [
+            "O(k*n)",
+            "O(n+k)",
+            "O(k^n)"
+        ]
+    },
+    "¿Qué se analiza con el teorema maestro?": {
+        "v": "Problemas de recursividad.",
+        "f": [
+            "Condicionales if-else.",
+            "Bucle for.",
+            "Secuencias."
+        ]
+    },
+    "¿Cuál es el coste de una secuencia de operaciones elementales?": {
+        "v": "La suma de los costes individuales.",
+        "f": [
+            "El coste del paso más costoso.",
+            "El coste del paso más rápido.",
+            "El coste medio de todos los pasos."
+        ]
+    },
+    "¿Cuál es el coste de una operación elemental como una asignación?": {
+        "v": "O(1)",
+        "f": [
+            "O(n)",
+            "O(log n)",
+            "O(n^2)"
+        ]
+    },
+    "¿Qué implica el tiempo total de un algoritmo?": {
+        "v": "El mayor tiempo requerido entre sus diferentes pasos.",
+        "f": [
+            "El menor tiempo entre sus pasos.",
+            "La media de los tiempos de todos los pasos.",
+            "El tiempo requerido por los bucles."
+        ]
+    },
+    "¿Qué ocurre si una función tiene un crecimiento inconsistente?": {
+        "v": "No puede tener una notación Θ bien definida.",
+        "f": [
+            "Siempre tiene una notación Θ definida.",
+            "Es Θ(n log n).",
+            "Es Θ(n)."
+        ]
+    },
+    "¿Cómo se evalúa el coste de un condicional if-else?": {
+        "v": "O(g + max(rama verdadera, rama falsa))",
+        "f": [
+            "O(max(rama verdadera, rama falsa))",
+            "O(g + min(rama verdadera, rama falsa))",
+            "O(g)"
+        ]
+    },
+    "¿Cuál es el coste de un bucle while dependiente de estructuras dinámicas?": {
+        "v": "Depende de las estructuras dinámicas.",
+        "f": [
+            "Siempre es O(n^2).",
+            "Siempre es O(1).",
+            "Siempre es O(n log n)."
+        ]
+    },
+    "¿Qué tipo de crecimiento representa Θ(n!)?": {
+        "v": "Tiempo factorial.",
+        "f": [
+            "Tiempo polinómico.",
+            "Tiempo exponencial.",
+            "Tiempo constante."
+        ]
+    },
+    "¿Cuál es un patrón común de orden de complejidad?": {
+        "v": "Θ(n^3)",
+        "f": [
+            "Θ(c^n)",
+            "Θ(n!)",
+            "Θ(log n)"
+        ]
+    },
+    "¿Cuál es un ejemplo de tiempo polinómico?": {
+        "v": "Θ(n^k)",
+        "f": [
+            "Θ(n log n)",
+            "Θ(n!)",
+            "Θ(log n)"
+        ]
+    },
+    "¿Cuándo se usa la notación Θ?": {
+        "v": "Cuando el mejor y el peor caso coinciden en crecimiento.",
+        "f": [
+            "Cuando solo existe un mejor caso.",
+            "Cuando solo existe un peor caso.",
+            "Cuando no se puede determinar el crecimiento."
+        ]
+    },
+    "¿Cuál es un ejemplo de un tipo de dato básico?": {
+        "v": "Integer",
+        "f": [
+            "List",
+            "Set",
+            "Dict",
+            "Tupla",
+            "Arreglo"
+        ],
+        "c_count": 1
+    },
+    "¿Cuál de los siguientes no es mutable?": {
+        "v": "Tupla",
+        "f": [
+            "Lista",
+            "Set",
+            "Diccionario",
+            "Lista Enlazada",
+            "Árbol"
+        ]
+    },
+    "¿Qué método se usa para agregar un elemento al final de una lista?": {
+        "v": "append",
+        "f": [
+            "insert",
+            "add",
+            "extend",
+            "push",
+            "put"
+        ]
+    },
+    "¿Qué método de los diccionarios devuelve las claves?": {
+        "v": "keys",
+        "f": [
+            "values",
+            "items",
+            "get",
+            "pop",
+            "keys_and_values"
+        ]
+    },
+    "¿Cuál de los siguientes es un tipo de dato abstracto?": {
+        "v": "Conjunto",
+        "f": [
+            "Boolean",
+            "Float",
+            "String",
+            "Integer",
+            "Char"
+        ],
+        "c_count": 1
+    },
+    "¿Cuál es una característica de los arreglos (arrays)?": {
+        "v": "Elementos contiguos del mismo tipo",
+        "f": [
+            "Elementos no contiguos",
+            "Permiten duplicados",
+            "Tienen prioridad de acceso",
+            "Almacenan claves-valor",
+            "Son no indexables"
+        ]
+    },
+    "¿Qué estructura sigue el principio LIFO?": {
+        "v": "Pilas",
+        "f": [
+            "Colas",
+            "Listas enlazadas",
+            "Árboles",
+            "Tablas hash",
+            "Grafos"
+        ]
+    },
+    "¿Qué estructura utiliza una función hash para almacenar elementos?": {
+        "v": "Tablas Hash",
+        "f": [
+            "Pilas",
+            "Colas",
+            "Árboles binarios",
+            "Conjuntos",
+            "Matrices"
+        ]
+    },
+    "¿Qué tipo de lista enlazada permite recorrer en ambas direcciones?": {
+        "v": "Lista enlazada doble",
+        "f": [
+            "Lista enlazada simple",
+            "Lista enlazada circular",
+            "Árbol binario",
+            "Lista enlazada jerárquica",
+            "Grafo"
+        ]
+    },
+    "¿Qué operación de una lista enlazada requiere recorrer los nodos?": {
+        "v": "Búsqueda",
+        "f": [
+            "Inserción al inicio",
+            "Inserción al final",
+            "Eliminación en la cabeza",
+            "Acceso directo",
+            "Asignación por índice"
+        ]
+    },
+    "¿Qué estructura no tiene un orden fijo y no admite duplicados?": {
+        "v": "Set",
+        "f": [
+            "Lista",
+            "Tupla",
+            "Árbol",
+            "Cola",
+            "Pila"
+        ]
+    },
+    "¿Qué estructura utiliza nodos y aristas para representar relaciones?": {
+        "v": "Grafo",
+        "f": [
+            "Árbol",
+            "Lista enlazada",
+            "Tabla hash",
+            "Array",
+            "Set"
+        ],
+        "c_count": 1
+    },
+    "¿Qué tipo de estructura almacena datos en filas y columnas?": {
+        "v": "Matrices",
+        "f": [
+            "Pilas",
+            "Colas",
+            "Tablas hash",
+            "Grafos",
+            "Conjuntos"
+        ]
+    },
+    "¿Cuál es una ventaja de las listas enlazadas?": {
+        "v": "Inserción eficiente",
+        "f": [
+            "Acceso aleatorio rápido",
+            "Menor consumo de memoria",
+            "Ordenamiento automático",
+            "Indexación directa",
+            "Tamaño fijo"
+        ]
+    },
+    "¿Qué tipo de estructura se utiliza para implementar colas de prioridad?": {
+        "v": "Montículo (heap)",
+        "f": [
+            "Lista enlazada",
+            "Árbol binario",
+            "Tabla hash",
+            "Set",
+            "Matriz"
+        ]
+    },
+    "¿Qué tipo de nodo apunta al primero en una lista circular?": {
+        "v": "Último nodo",
+        "f": [
+            "Cabeza",
+            "Nodo siguiente",
+            "Nodo previo",
+            "Nodo vacío",
+            "Nodo raíz"
+        ]
+    },
+    "¿Qué estructura almacena pares clave-valor?": {
+        "v": "Tablas Hash",
+        "f": [
+            "Árbol binario",
+            "Pila",
+            "Cola",
+            "Matriz",
+            "Grafo"
+        ]
+    },
+    "¿Qué tipo de árbol garantiza el balance en su estructura?": {
+        "v": "Árbol AVL",
+        "f": [
+            "Árbol binario simple",
+            "Árbol Rojo-Negro",
+            "Árbol B",
+            "Árbol de decisión",
+            "Árbol de búsqueda"
+        ],
+        "c_count": 1
+    },
+    "¿Qué operación básica no pertenece a una lista enlazada?": {
+        "v": "Acceso por índice",
+        "f": [
+            "Inserción",
+            "Eliminación",
+            "Búsqueda",
+            "Recorrido",
+            "Inversión"
+        ]
+    },
+    "¿Qué nodo apunta a `None` en una lista enlazada simple?": {
+        "v": "Último nodo",
+        "f": [
+            "Cabeza",
+            "Nodo previo",
+            "Nodo siguiente",
+            "Nodo raíz",
+            "Nodo vacío"
+        ]
+    },
+    "¿Qué tipo de estructura no es jerárquica?": {
+        "v": "Colas",
+        "f": [
+            "Árboles",
+            "Grafos",
+            "Montículos",
+            "Conjuntos",
+            "Matrices"
+        ],
+        "e_count": 1
+    },
+    "¿Qué define una estructura FIFO?": {
+        "v": "Primero en entrar, primero en salir",
+        "f": [
+            "Último en entrar, primero en salir",
+            "Orden jerárquico",
+            "Acceso aleatorio",
+            "Acceso por prioridad",
+            "Uso de claves"
+        ],
+        "c_count": 1
+    },
+    "¿Qué tipo de estructura puede ser dirigida o no dirigida?": {
+        "v": "Grafo",
+        "f": [
+            "Árbol",
+            "Lista enlazada",
+            "Cola",
+            "Pila",
+            "Set"
+        ],
+        "c_count": 1
+    },
+    "¿Qué operación cambia el orden de una lista enlazada?": {
+        "v": "Inversión",
+        "f": [
+            "Inserción",
+            "Búsqueda",
+            "Eliminación",
+            "Recorrido",
+            "Ordenamiento"
+        ]
+    },
+    "¿Qué característica distingue a un BST?": {
+        "v": "Orden en subárboles",
+        "f": [
+            "Nodos con claves",
+            "Aristas dirigidas",
+            "Equilibrio perfecto",
+            "Estructura circular",
+            "Cola de prioridad"
+        ]
+    },
+    "¿Qué ventaja tiene una lista enlazada doble frente a una simple?": {
+        "v": "Recorrido bidireccional",
+        "f": [
+            "Mayor velocidad",
+            "Menor consumo de memoria",
+            "No admite duplicados",
+            "Tamaño dinámico",
+            "Mejor indexación"
+        ],
+        "c_count": 1
+    },
+    "¿Qué estructura apunta siempre al primer nodo en una lista circular?": {
+        "v": "Último nodo",
+        "f": [
+            "Cabeza",
+            "Nodo vacío",
+            "Nodo raíz",
+            "Nodo previo",
+            "Nodo central"
+        ]
+    },
+    "¿Qué operación implica eliminar un nodo en una lista enlazada?": {
+        "v": "Eliminación",
+        "f": [
+            "Inserción",
+            "Recorrido",
+            "Búsqueda",
+            "Inversión",
+            "Ordenamiento"
+        ],
+        "c_count": 1
+    },
+    "¿Qué tipo de lista enlazada no tiene un nodo `None`?": {
+        "v": "Lista enlazada circular",
+        "f": [
+            "Lista enlazada simple",
+            "Lista enlazada doble",
+            "Árbol binario",
+            "Matriz",
+            "Pila"
+        ]
+    },
+    "¿Qué tipo de nodo contiene un valor y una referencia en una lista enlazada?": {
+        "v": "Nodo",
+        "f": [
+            "Cabeza",
+            "Cola",
+            "Raíz",
+            "Clave",
+            "Puntero"
+        ]
+    },
+    "¿Qué operación se usa para navegar por todos los nodos de una lista\nenlazada?": {
+        "v": "Recorrido",
+        "f": [
+            "Inserción",
+            "Eliminación",
+            "Ordenamiento",
+            "Indexación",
+            "Busqueda"
+        ]
+    },
+    "¿Qué estructura es más eficiente para inserciones y eliminaciones\nfrecuentes?": {
+        "v": "Lista enlazada",
+        "f": [
+            "Arreglo",
+            "Árbol binario",
+            "Set",
+            "Grafo",
+            "Tabla hash"
+        ]
+    },
+    "¿Qué tipo de lista enlazada puede ser bidireccional?": {
+        "v": "Lista enlazada doble",
+        "f": [
+            "Lista enlazada simple",
+            "Lista enlazada circular",
+            "Lista ordenada",
+            "Árbol AVL",
+            "Matriz"
+        ]
+    },
+    "¿Qué característica tiene una pila?": {
+        "v": "LIFO",
+        "f": [
+            "FIFO",
+            "Acceso por índice",
+            "Elementos únicos",
+            "Jerarquía",
+            "Ordenación automática"
+        ]
+    },
+    "¿Qué estructura utiliza índices para acceder rápidamente a los elementos?": {
+        "v": "Arreglos",
+        "f": [
+            "Listas enlazadas",
+            "Pilas",
+            "Colas",
+            "Árboles",
+            "Grafos"
+        ]
+    },
+    "¿Qué ventaja tienen las listas enlazadas sobre los arreglos?": {
+        "v": "Tamaño dinámico",
+        "f": [
+            "Acceso rápido",
+            "Menor uso de memoria",
+            "Duplicados permitidos",
+            "Indexación directa",
+            "Orden fijo"
+        ]
+    },
+    "¿Qué tipo de lista enlazada conecta el último nodo con el primero?": {
+        "v": "Lista enlazada circular",
+        "f": [
+            "Lista enlazada simple",
+            "Lista enlazada doble",
+            "Árbol",
+            "Matriz",
+            "Tabla hash"
+        ]
+    },
+    "¿Qué estructura es ideal para representar jerarquías?": {
+        "v": "Árbol",
+        "f": [
+            "Grafo",
+            "Lista enlazada",
+            "Arreglo",
+            "Set",
+            "Pila"
+        ],
+        "c_count": 1
+    },
+    "¿Qué operación requiere recorrer todos los nodos para encontrar un valor en\nuna lista enlazada?": {
+        "v": "Búsqueda",
+        "f": [
+            "Inserción",
+            "Eliminación",
+            "Ordenamiento",
+            "Recorrido",
+            "Acceso"
+        ]
+    },
+    "¿Qué hace el recolector de basura en Python al eliminar un nodo de una\nlista enlazada?": {
+        "v": "Elimina automáticamente el nodo cuando no hay referencias a él",
+        "f": [
+            "Requiere liberación manual de memoria",
+            "Almacena el nodo en caché",
+            "Conserva el nodo para reutilizarlo",
+            "Convierte el nodo en una lista vacía"
+        ]
+    },
+    "¿Qué operación busca un nodo en una lista enlazada por su valor?": {
+        "v": "Búsqueda",
+        "f": [
+            "Inserción",
+            "Eliminación",
+            "Actualización",
+            "Ordenamiento",
+            "Recorrido"
+        ]
+    },
+    "¿Qué sucede si una lista enlazada está vacía durante una operación de\nbúsqueda?": {
+        "v": "Se informa que el valor no está en la lista",
+        "f": [
+            "Se detiene el programa",
+            "Se elimina automáticamente la lista",
+            "Se crea un nodo vacío",
+            "La búsqueda comienza desde el nodo final"
+        ]
+    },
+    "¿Qué operación implica modificar el dato de un nodo en una posición\nespecífica?": {
+        "v": "Actualización",
+        "f": [
+            "Búsqueda",
+            "Inserción",
+            "Eliminación",
+            "Ordenamiento",
+            "Acceso"
+        ]
+    },
+    "¿Qué método devuelve el tamaño de una lista enlazada mediante un recorrido?": {
+        "v": "Contador en el recorrido",
+        "f": [
+            "Acceso directo",
+            "Inserción",
+            "Eliminación",
+            "Ordenamiento",
+            "Busqueda lineal"
+        ],
+        "c_count": 1
+    },
+    "¿Qué operación verifica si una lista enlazada está vacía?": {
+        "v": "isEmpty",
+        "f": [
+            "Recorrido",
+            "Actualización",
+            "Ordenamiento",
+            "Eliminación",
+            "Acceso"
+        ]
+    },
+    "¿Qué define el principio LIFO en una pila?": {
+        "v": "Último en entrar, primero en salir",
+        "f": [
+            "Primero en entrar, primero en salir",
+            "Acceso aleatorio",
+            "Elementos únicos",
+            "Jerarquía ascendente",
+            "Orden automático"
+        ]
+    },
+    "¿Qué operación elimina el elemento superior de una pila?": {
+        "v": "pop",
+        "f": [
+            "push",
+            "top",
+            "isEmpty",
+            "insert",
+            "remove"
+        ],
+        "c_count": 1
+    },
+    "¿Qué característica tiene el método `top` en una pila?": {
+        "v": "Obtiene el elemento superior sin eliminarlo",
+        "f": [
+            "Elimina el elemento superior",
+            "Agrega un nuevo elemento",
+            "Verifica si la pila está vacía",
+            "Ordena los elementos",
+            "Accede al elemento inferior"
+        ]
+    },
+    "¿Qué operación ordena los elementos de una lista enlazada?": {
+        "v": "Ordenamiento",
+        "f": [
+            "Recorrido",
+            "Inserción",
+            "Actualización",
+            "Eliminación",
+            "Búsqueda"
+        ],
+        "c_count": 1
+    },
+    "¿Qué sucede si intentas acceder a una posición inexistente en una lista\nenlazada?": {
+        "v": "Se informa que la posición no es válida",
+        "f": [
+            "Se devuelve un nodo vacío",
+            "Se elimina automáticamente la lista",
+            "Se crea un nodo nuevo",
+            "Se detiene el programa",
+            "La búsqueda continúa indefinidamente"
+        ]
+    },
+    "¿Qué operación devuelve el tamaño de una lista enlazada de forma directa?": {
+        "v": "Atributo `longitud`",
+        "f": [
+            "Recorrido con contador",
+            "Ordenamiento",
+            "Actualización",
+            "Inserción",
+            "Eliminación"
+        ]
+    },
+    "¿Qué estructura usa Python para implementar pilas?": {
+        "v": "Lista",
+        "f": [
+            "Set",
+            "Diccionario",
+            "Tupla",
+            "Matriz",
+            "Tabla hash"
+        ]
+    },
+    "¿Qué operación de una pila verifica si está vacía?": {
+        "v": "isEmpty",
+        "f": [
+            "pop",
+            "push",
+            "top",
+            "insert",
+            "delete"
+        ]
+    },
+    "¿Qué implica recorrer una lista enlazada?": {
+        "v": "Pasar por todos los nodos desde el principio hasta el final",
+        "f": [
+            "Acceder a nodos específicos por índice",
+            "Ordenar automáticamente los nodos",
+            "Eliminar nodos duplicados",
+            "Insertar nuevos nodos al final",
+            "Crear referencias circulares"
+        ]
+    },
+    "¿Qué estructura utiliza el algoritmo de burbuja adaptado para ordenar?": {
+        "v": "Lista enlazada",
+        "f": [
+            "Matriz",
+            "Pila",
+            "Cola",
+            "Set",
+            "Tabla hash"
+        ]
+    },
+    "¿Qué método utiliza Python para evitar liberar memoria manualmente?": {
+        "v": "Recolector de basura",
+        "f": [
+            "Administrador de memoria",
+            "Gestor de nodos",
+            "Punteros inteligentes",
+            "Referencias explícitas",
+            "Método `isEmpty`"
+        ],
+        "e_count": 1
+    },
+    "¿Qué operación en una lista enlazada es más eficiente que en un arreglo?": {
+        "v": "Inserción",
+        "f": [
+            "Acceso por índice",
+            "Ordenamiento",
+            "Búsqueda",
+            "Recorrido",
+            "Actualización"
+        ]
+    },
+    "¿Qué sucede al recorrer una lista enlazada que contiene nodos?": {
+        "v": "Se procesa el valor de cada nodo",
+        "f": [
+            "Se eliminan automáticamente los nodos",
+            "Se añaden nuevos nodos al final",
+            "Se duplica cada nodo",
+            "Se fusionan nodos adyacentes",
+            "Se reinicia el puntero al nodo inicial"
+        ]
+    },
+    "¿Qué tipo de datos suele manejar una pila?": {
+        "v": "Datos lineales",
+        "f": [
+            "Datos jerárquicos",
+            "Datos únicos",
+            "Datos dispersos",
+            "Datos de pares clave-valor",
+            "Datos gráficos"
+        ]
+    },
+    "¿Qué operación básica se realiza antes de eliminar un nodo de una lista?": {
+        "v": "Búsqueda",
+        "f": [
+            "Recorrido",
+            "Ordenamiento",
+            "Acceso",
+            "Actualización",
+            "Indexación"
+        ]
+    },
+    "¿Qué indica una referencia `None` en un nodo de lista enlazada?": {
+        "v": "Fin de la lista",
+        "f": [
+            "Inicio de la lista",
+            "Nodo vacío",
+            "Nodo duplicado",
+            "Error de memoria",
+            "Nodo circular"
+        ]
+    },
+    "¿Qué hace el método `push` en una pila?": {
+        "v": "Agrega un elemento a la parte superior",
+        "f": [
+            "Elimina el elemento superior",
+            "Devuelve el tamaño de la pila",
+            "Ordena los elementos",
+            "Verifica si la pila está vacía"
+        ]
+    },
+    "¿Qué representa la cabeza de una lista enlazada?": {
+        "v": "El primer nodo",
+        "f": [
+            "El último nodo",
+            "Un nodo vacío",
+            "El nodo central",
+            "El nodo con menor valor"
+        ]
+    },
+    "¿Qué se verifica antes de buscar un nodo en una lista enlazada?": {
+        "v": "Si la lista está vacía",
+        "f": [
+            "Si hay nodos duplicados",
+            "Si la cabeza es mayor que el último nodo",
+            "Si el nodo siguiente es `None`",
+            "Si la lista está ordenada"
+        ]
+    },
+    "¿Qué sucede si se encuentra un nodo con el valor buscado en una lista\nenlazada?": {
+        "v": "Se informa su posición",
+        "f": [
+            "Se elimina automáticamente",
+            "Se duplica su valor",
+            "Se mueve al inicio de la lista",
+            "Se convierte en la cabeza"
+        ]
+    },
+    "¿Qué operación utiliza un contador para determinar el tamaño de una lista\nenlazada?": {
+        "v": "Recorrido",
+        "f": [
+            "Inserción",
+            "Eliminación",
+            "Actualización",
+            "Acceso directo",
+            "Ordenamiento"
+        ],
+        "c_count": 1
+    },
+    "¿Qué operación en una lista enlazada es lineal en el peor de los casos?": {
+        "v": "Búsqueda",
+        "f": [
+            "Inserción al inicio",
+            "Eliminación",
+            "Acceso por índice",
+            "Ordenamiento",
+            "Verificación de vacío"
+        ]
+    },
+    "¿Qué se necesita para actualizar un nodo en una posición específica?": {
+        "v": "Recorrer la lista hasta la posición deseada",
+        "f": [
+            "Eliminar el nodo actual",
+            "Crear un nuevo nodo",
+            "Ordenar la lista previamente",
+            "Establecer la cabeza como nueva posición"
+        ]
+    },
+    "¿Qué indica un nodo siguiente `None` en una lista enlazada?": {
+        "v": "El final de la lista",
+        "f": [
+            "Un nodo vacío",
+            "El inicio de la lista",
+            "Un nodo circular",
+            "Un nodo duplicado",
+            "El primer nodo"
+        ]
+    },
+    "¿Qué sucede si intentas actualizar una posición inexistente en una lista\nenlazada?": {
+        "v": "Se informa que la posición no es válida",
+        "f": [
+            "Se crea automáticamente un nuevo nodo",
+            "Se detiene el programa",
+            "Se elimina el nodo más cercano",
+            "Se reinicia la lista",
+            "Se redirige a la posición final"
+        ]
+    },
+    "¿Qué implica acceder a un nodo en una posición específica?": {
+        "v": "Recorrer la lista hasta la posición deseada",
+        "f": [
+            "Insertar un nuevo nodo en esa posición",
+            "Actualizar el nodo al final de la lista",
+            "Eliminar nodos previos a esa posición",
+            "Duplicar todos los nodos existentes"
+        ]
+    },
+    "¿Qué estructura utiliza nodos para almacenar y organizar datos?": {
+        "v": "Lista enlazada",
+        "f": [
+            "Matriz",
+            "Set",
+            "Diccionario",
+            "Tabla hash",
+            "Array"
+        ]
+    },
+    "¿Qué operación básica permite visualizar el elemento superior de una pila?": {
+        "v": "top",
+        "f": [
+            "pop",
+            "push",
+            "insert",
+            "delete",
+            "swap"
+        ]
+    },
+    "¿Qué tipo de operación utiliza un flujograma para ilustrar pasos?": {
+        "v": "Algoritmo",
+        "f": [
+            "Ordenamiento",
+            "Inserción",
+            "Búsqueda",
+            "Acceso",
+            "Recorrido"
+        ]
+    },
+    "¿Qué parte de un nodo contiene el dato almacenado?": {
+        "v": "Dato o Valor",
+        "f": [
+            "Referencia o Enlace",
+            "Cabeza",
+            "Puntero",
+            "Nodo siguiente",
+            "Nodo anterior"
+        ]
+    },
+    "¿Qué tipo de lista enlazada tiene referencias al nodo anterior y al\nsiguiente?": {
+        "v": "Lista enlazada doble",
+        "f": [
+            "Lista enlazada simple",
+            "Lista enlazada circular",
+            "Lista jerárquica",
+            "Lista lineal",
+            "Lista vacía"
+        ]
+    },
+    "¿Qué característica distingue a las listas enlazadas de los arrays?": {
+        "v": "Acceso secuencial",
+        "f": [
+            "Acceso directo",
+            "Menor consumo de memoria",
+            "Ordenamiento automático",
+            "Estructura jerárquica",
+            "Tamaño fijo"
+        ]
+    },
+    "¿Qué operación implica crear un nodo y establecerlo como cabeza de la\nlista?": {
+        "v": "Inserción al principio",
+        "f": [
+            "Inserción al final",
+            "Inserción en una posición específica",
+            "Eliminación de nodos",
+            "Concatenación"
+        ]
+    },
+    "¿Qué se debe hacer antes de eliminar el primer nodo de una lista?": {
+        "v": "Actualizar la cabeza al siguiente nodo",
+        "f": [
+            "Recorrer la lista completa",
+            "Crear un nodo vacío",
+            "Eliminar todos los nodos duplicados",
+            "Ordenar la lista"
+        ]
+    },
+    "¿Qué proceso es necesario para eliminar nodos duplicados en una lista?": {
+        "v": "Recorrer y eliminar ocurrencias duplicadas",
+        "f": [
+            "Reemplazar nodos duplicados",
+            "Crear una nueva lista",
+            "Invertir el orden de los nodos",
+            "Ordenar automáticamente los nodos"
+        ]
+    },
+    "¿Qué ventaja tiene una lista enlazada sobre un array para inserciones?": {
+        "v": "Inserciones eficientes en cualquier posición",
+        "f": [
+            "Mayor velocidad de acceso",
+            "Menor consumo de memoria",
+            "Acceso directo",
+            "Menor uso de punteros"
+        ]
+    },
+    "¿Qué indica un puntero `None` en un nodo?": {
+        "v": "El final de la lista",
+        "f": [
+            "El inicio de la lista",
+            "Un nodo duplicado",
+            "Un error en la lista",
+            "Un nodo circular"
+        ]
+    },
+    "¿Qué operación requiere recorrer la lista hasta una posición específica?": {
+        "v": "Acceso por posición",
+        "f": [
+            "Inserción al principio",
+            "Eliminación de duplicados",
+            "Recorrido general",
+            "Ordenamiento",
+            "Concatenación"
+        ]
+    },
+    "¿Qué sucede si la lista está vacía durante una inserción al final?": {
+        "v": "Se inserta como el primer nodo",
+        "f": [
+            "Se ignora la operación",
+            "Se genera un error",
+            "Se ordena automáticamente",
+            "Se convierte en una lista circular"
+        ]
+    },
+    "¿Qué implica invertir el orden de los nodos en una lista?": {
+        "v": "Cambiar la dirección de los punteros entre nodos",
+        "f": [
+            "Duplicar los nodos",
+            "Eliminar nodos duplicados",
+            "Recorrer la lista en orden inverso",
+            "Eliminar todos los nodos"
+        ]
+    },
+    "¿Qué operación combina dos listas enlazadas en una sola?": {
+        "v": "Concatenación",
+        "f": [
+            "Inserción",
+            "Eliminación",
+            "Ordenamiento",
+            "Actualización",
+            "Búsqueda"
+        ]
+    },
+    "¿Qué método permite encontrar la cantidad de nodos en una lista enlazada?": {
+        "v": "Recorrer la lista con un contador",
+        "f": [
+            "Acceso directo",
+            "Inserción al final",
+            "Actualización por posición",
+            "Concatenación",
+            "Eliminación de nodos"
+        ],
+        "c_count": 1
+    },
+    "¿Qué proceso elimina todos los nodos de una lista?": {
+        "v": "Eliminar uno a uno mediante un bucle",
+        "f": [
+            "Crear una nueva lista vacía",
+            "Actualizar el primer nodo a `None`",
+            "Concatenar con una lista vacía",
+            "Invertir los punteros de los nodos"
+        ]
+    },
+    "¿Qué tipo de lista es ideal para operaciones frecuentes de inserción y\neliminación?": {
+        "v": "Lista enlazada",
+        "f": [
+            "Array",
+            "Matriz",
+            "Set",
+            "Tabla hash",
+            "Tupla"
+        ],
+        "e_count": 1
+    },
+    "¿Qué se necesita para eliminar un nodo en el medio de la lista?": {
+        "v": "Ajustar los punteros de los nodos adyacentes",
+        "f": [
+            "Recorrer toda la lista",
+            "Actualizar todos los punteros",
+            "Eliminar el primer nodo",
+            "Convertir la lista en circular"
+        ],
+        "c_count": 1
+    },
+    "¿Qué representa el concepto de cabeza en una lista enlazada?": {
+        "v": "El primer nodo",
+        "f": [
+            "El último nodo",
+            "Un nodo vacío",
+            "Un puntero circular",
+            "El nodo con mayor valor"
+        ]
+    },
+    "¿Qué se debe hacer antes de concatenar dos listas enlazadas?": {
+        "v": "Conectar el último nodo de la primera lista con la cabeza de la segunda",
+        "f": [
+            "Crear una lista nueva",
+            "Ordenar ambas listas",
+            "Eliminar nodos duplicados",
+            "Actualizar el puntero de la cabeza"
+        ]
+    },
+    "¿Qué característica tienen las listas enlazadas dobles?": {
+        "v": "Tienen punteros al nodo anterior y al siguiente",
+        "f": [
+            "Solo tienen punteros al nodo siguiente",
+            "Son listas circulares por defecto",
+            "El primer nodo apunta al último",
+            "No pueden contener nodos vacíos"
+        ]
+    },
+    "¿Qué operación requiere recorrer una lista desde la cabeza hasta el nodo\ndeseado?": {
+        "v": "Búsqueda por valor",
+        "f": [
+            "Inserción al principio",
+            "Eliminación del último nodo",
+            "Acceso por índice directo",
+            "Concatenación de listas"
+        ]
+    },
+    "¿Qué debe hacerse antes de eliminar el último nodo de una lista enlazada?": {
+        "v": "Actualizar el puntero del penúltimo nodo a `None`",
+        "f": [
+            "Actualizar todos los nodos anteriores",
+            "Conectar el último nodo con la cabeza",
+            "Invertir el orden de la lista",
+            "Eliminar los nodos duplicados"
+        ]
+    },
+    "¿Qué sucede si se intenta eliminar un nodo en una lista vacía?": {
+        "v": "Se informa que la lista está vacía",
+        "f": [
+            "Se elimina automáticamente la lista",
+            "Se crea un nodo vacío",
+            "Se convierte en una lista circular",
+            "Se conecta el último nodo a la cabeza"
+        ]
+    },
+    "¿Qué operación cambia la referencia de los nodos en orden inverso?": {
+        "v": "Inversión del orden",
+        "f": [
+            "Concatenación",
+            "Inserción",
+            "Búsqueda",
+            "Eliminación de nodos",
+            "Recorrido"
+        ]
+    },
+    "¿Qué ventaja tiene eliminar el primer nodo de una lista enlazada?": {
+        "v": "Es más eficiente que en estructuras contiguas como arrays",
+        "f": [
+            "Requiere menos punteros",
+            "No necesita ajustar punteros",
+            "Permite acceso aleatorio",
+            "Reduce el tamaño de memoria ocupado"
+        ]
+    },
+    "¿Qué operación elimina nodos duplicados en una lista enlazada?": {
+        "v": "Recorrer la lista y ajustar punteros de cada nodo duplicado",
+        "f": [
+            "Eliminar el primer nodo",
+            "Invertir el orden de los nodos",
+            "Actualizar el puntero de la cabeza",
+            "Concatenar con una lista vacía"
+        ],
+        "c_count": 1
+    },
+    "¿Qué método puede usarse para obtener el tamaño de una lista enlazada?": {
+        "v": "Un atributo de la clase lista que se actualiza con inserciones y\neliminaciones",
+        "f": [
+            "Recorrer la lista en cada consulta",
+            "Crear una nueva lista temporal",
+            "Eliminar nodos y contar los restantes",
+            "Ordenar la lista antes de contar"
+        ]
+    },
+    "¿Qué debe hacerse después de insertar un nodo al final de una lista\nenlazada?": {
+        "v": "Actualizar el puntero del último nodo al nuevo nodo",
+        "f": [
+            "Actualizar la cabeza",
+            "Invertir el orden de la lista",
+            "Conectar el nodo al nodo anterior",
+            "Eliminar todos los nodos duplicados"
+        ]
+    },
+    "¿Qué se debe verificar antes de insertar un nodo en una lista enlazada?": {
+        "v": "Si la lista está vacía",
+        "f": [
+            "Si hay nodos duplicados",
+            "Si el nodo tiene valor nulo",
+            "Si la lista está ordenada",
+            "Si la cabeza apunta a `None`"
+        ]
+    },
+    "¿Qué operación permite recorrer una lista desde el primer nodo hasta el\núltimo?": {
+        "v": "Recorrido",
+        "f": [
+            "Concatenación",
+            "Inserción al principio",
+            "Inversión",
+            "Ordenamiento",
+            "Eliminación de duplicados"
+        ],
+        "c_count": 1
+    },
+    "¿Qué indica la referencia de un nodo en una lista enlazada simple?": {
+        "v": "El siguiente nodo en la lista",
+        "f": [
+            "El nodo anterior",
+            "El nodo duplicado",
+            "El nodo raíz",
+            "El nodo final"
+        ]
+    },
+    "¿Qué tipo de lista enlazada es más eficiente para recorridos\nbidireccionales?": {
+        "v": "Lista enlazada doble",
+        "f": [
+            "Lista enlazada simple",
+            "Lista circular",
+            "Lista jerárquica",
+            "Lista vacía",
+            "Lista lineal"
+        ]
+    },
+    "¿Qué sucede si conectas el último nodo de una lista enlazada al primero?": {
+        "v": "Se convierte en una lista circular",
+        "f": [
+            "Se pierde la referencia al nodo inicial",
+            "Se elimina el último nodo",
+            "Se genera un error",
+            "La lista se reorganiza automáticamente"
+        ]
+    },
+    "¿Qué acción es clave para evitar fugas de memoria al eliminar nodos en\nPython?": {
+        "v": "Dejar de referenciar el nodo para que sea gestionado por el recolector de\nbasura",
+        "f": [
+            "Actualizar manualmente todos los punteros",
+            "Convertir los nodos eliminados en nodos vacíos",
+            "Eliminar la cabeza de la lista",
+            "Conectar el nodo eliminado al siguiente disponible"
+        ],
+        "c_count": 1
+    },
+    "¿Qué característica distingue a una lista doblemente enlazada de una\nsimple?": {
+        "v": "Cada nodo tiene enlaces al anterior y al siguiente",
+        "f": [
+            "Solo tienen enlaces al siguiente nodo",
+            "Los nodos se enlazan de forma circular",
+            "No permiten eliminar nodos",
+            "Los nodos no tienen referencias"
+        ]
+    },
+    "¿Qué tipo de nodo permite acceder a toda una lista doblemente enlazada?": {
+        "v": "Cualquier nodo",
+        "f": [
+            "Solo el nodo cabeza",
+            "Solo el nodo final",
+            "El nodo raíz",
+            "Un nodo central"
+        ]
+    },
+    "¿Qué tipo de árbol permite como máximo dos hijos por nodo?": {
+        "v": "Árbol binario",
+        "f": [
+            "Árbol N-ario",
+            "Árbol AVL",
+            "Árbol de decisión",
+            "Árbol de expansión mínima"
+        ]
+    },
+    "¿Qué nodo en un árbol no tiene hijos?": {
+        "v": "Nodo hoja",
+        "f": [
+            "Nodo raíz",
+            "Nodo interno",
+            "Nodo padre",
+            "Nodo descendiente"
+        ]
+    },
+    "¿Qué representa la altura de un árbol?": {
+        "v": "La longitud del camino más largo desde la raíz hasta un nodo hoja",
+        "f": [
+            "El número total de nodos",
+            "La distancia entre los nodos padre e hijo",
+            "El número de nodos hoja",
+            "El número de niveles menos uno"
+        ],
+        "c_count": 1
+    },
+    "¿Qué es un grafo dirigido?": {
+        "v": "Un grafo donde las aristas tienen dirección específica",
+        "f": [
+            "Un grafo sin aristas",
+            "Un grafo donde todas las aristas tienen peso",
+            "Un grafo con ciclos",
+            "Un grafo con nodos conectados en todas direcciones"
+        ]
+    },
+    "¿Qué tipo de árbol organiza los valores menores a la izquierda y los\nmayores a la derecha?": {
+        "v": "Árbol de búsqueda binaria (BST)",
+        "f": [
+            "Árbol N-ario",
+            "Árbol AVL",
+            "Árbol de decisión",
+            "Árbol Trie"
+        ]
+    },
+    "¿Qué tipo de grafo tiene aristas con valores asociados?": {
+        "v": "Grafo ponderado",
+        "f": [
+            "Grafo cíclico",
+            "Grafo acíclico",
+            "Grafo plano",
+            "Grafo dirigido"
+        ]
+    },
+    "¿Qué concepto representa un subárbol?": {
+        "v": "Un nodo y todos sus descendientes",
+        "f": [
+            "Un nodo sin descendientes",
+            "Todos los nodos en el mismo nivel",
+            "Un nodo conectado por una arista cíclica",
+            "Un conjunto de nodos no conectados"
+        ]
+    },
+    "¿Qué operación agrega un nodo como subárbol de otro árbol?": {
+        "v": "Injertar",
+        "f": [
+            "Podar",
+            "Enumerar",
+            "Buscar",
+            "Eliminar"
+        ]
+    },
+    "¿Qué característica define a un grafo conexo?": {
+        "v": "Existe un camino entre cualquier par de nodos",
+        "f": [
+            "Tiene al menos un ciclo",
+            "Todas las aristas tienen peso",
+            "Sus aristas no tienen dirección",
+            "Cada nodo tiene al menos dos conexiones"
+        ]
+    },
+    "¿Qué se utiliza para representar rutas en servicios de navegación?": {
+        "v": "Grafos",
+        "f": [
+            "Árboles binarios",
+            "Listas enlazadas",
+            "Pilas",
+            "Colas"
+        ],
+        "c_count": 1
+    },
+    "¿Qué nodo en un árbol tiene hijos pero también un padre?": {
+        "v": "Nodo interno",
+        "f": [
+            "Nodo hoja",
+            "Nodo raíz",
+            "Nodo descendiente",
+            "Nodo padre"
+        ]
+    },
+    "¿Qué define el grado de un nodo en un árbol?": {
+        "v": "La cantidad de hijos que tiene",
+        "f": [
+            "El número de nodos hoja en el subárbol",
+            "La altura del árbol",
+            "El nivel del nodo",
+            "El número de hermanos que tiene"
+        ]
+    },
+    "¿Qué tipo de grafo se usa en redes sociales?": {
+        "v": "Grafo no dirigido",
+        "f": [
+            "Árbol binario",
+            "Grafo acíclico",
+            "Grafo ponderado",
+            "Árbol de decisión"
+        ]
+    },
+    "¿Qué nodo en un árbol no tiene padre?": {
+        "v": "Nodo raíz",
+        "f": [
+            "Nodo hoja",
+            "Nodo interno",
+            "Nodo descendiente",
+            "Nodo hermano"
+        ],
+        "c_count": 1
+    },
+    "¿Qué representa un nodo hermano en un árbol?": {
+        "v": "Un nodo que comparte el mismo padre con otro",
+        "f": [
+            "Un nodo sin descendientes",
+            "Un nodo con el mismo número de hijos",
+            "Un nodo en el mismo nivel",
+            "Un nodo raíz"
+        ]
+    },
+    "¿Qué nodo en un árbol tiene múltiples descendientes pero ningún padre?": {
+        "v": "Nodo raíz",
+        "f": [
+            "Nodo hoja",
+            "Nodo interno",
+            "Nodo hermano",
+            "Nodo hijo"
+        ],
+        "c_count": 1
+    },
+    "¿Qué grafo tiene al menos un ciclo?": {
+        "v": "Grafo cíclico",
+        "f": [
+            "Grafo conexo",
+            "Grafo dirigido",
+            "Grafo ponderado",
+            "Grafo plano"
+        ]
+    },
+    "¿Qué operación elimina un subárbol completo de un árbol?": {
+        "v": "Podar",
+        "f": [
+            "Injertar",
+            "Enumerar",
+            "Buscar",
+            "Eliminar un nodo"
+        ]
+    },
+    "¿Qué grafo no permite que las aristas se crucen al ser dibujado?": {
+        "v": "Grafo plano",
+        "f": [
+            "Grafo ponderado",
+            "Grafo dirigido",
+            "Grafo conexo",
+            "Grafo acíclico"
+        ]
+    },
+    "¿Qué tipo de árbol se utiliza en algoritmos de búsqueda de texto?": {
+        "v": "Árbol Trie",
+        "f": [
+            "Árbol AVL",
+            "Árbol N-ario",
+            "Árbol de decisión",
+            "Árbol binario"
+        ]
+    },
+    "¿Qué tipo de nodo en un árbol no tiene descendientes?": {
+        "v": "Nodo hoja",
+        "f": [
+            "Nodo raíz",
+            "Nodo interno",
+            "Nodo padre",
+            "Nodo hijo"
+        ]
+    },
+    "¿Qué característica define a un grafo dirigido?": {
+        "v": "Las aristas tienen una dirección específica",
+        "f": [
+            "Cada nodo tiene peso asociado",
+            "No hay ciclos en el grafo",
+            "Todas las aristas conectan a nodos vecinos",
+            "No hay caminos entre algunos nodos"
+        ]
+    },
+    "¿Qué operación lista todos los nodos de un árbol?": {
+        "v": "Enumerar",
+        "f": [
+            "Podar",
+            "Injertar",
+            "Buscar",
+            "Eliminar"
+        ]
+    },
+    "¿Qué representa el nivel de un nodo en un árbol?": {
+        "v": "La distancia entre el nodo y la raíz",
+        "f": [
+            "La cantidad de descendientes que tiene",
+            "El número de nodos en el mismo subárbol",
+            "El grado del nodo",
+            "El número de aristas en el árbol"
+        ],
+        "c_count": 1
+    },
+    "¿Qué tipo de grafo tiene pesos asociados a sus aristas?": {
+        "v": "Grafo ponderado",
+        "f": [
+            "Grafo no dirigido",
+            "Grafo acíclico",
+            "Grafo simple",
+            "Grafo plano"
+        ]
+    },
+    "¿Qué representa un bosque en la teoría de árboles?": {
+        "v": "Un conjunto de árboles no conectados entre sí",
+        "f": [
+            "Un árbol binario con más de dos hijos",
+            "Un árbol con ciclos internos",
+            "Un grafo dirigido con múltiples aristas",
+            "Un árbol con nodos raíz duplicados"
+        ]
+    },
+    "¿Qué tipo de grafo no tiene ciclos?": {
+        "v": "Grafo acíclico",
+        "f": [
+            "Grafo ponderado",
+            "Grafo cíclico",
+            "Grafo dirigido",
+            "Grafo plano"
+        ]
+    },
+    "¿Qué operación busca un elemento específico en un árbol?": {
+        "v": "Buscar un elemento",
+        "f": [
+            "Injertar",
+            "Podar",
+            "Enumerar",
+            "Eliminar"
+        ]
+    },
+    "¿Qué tipo de nodo puede tener tanto hijos como padres?": {
+        "v": "Nodo interno",
+        "f": [
+            "Nodo hoja",
+            "Nodo raíz",
+            "Nodo hermano",
+            "Nodo descendiente"
+        ]
+    },
+    "¿Qué grafo conecta todos los nodos con el mínimo costo?": {
+        "v": "Árbol de expansión mínima",
+        "f": [
+            "Grafo conexo",
+            "Grafo ponderado",
+            "Grafo acíclico",
+            "Grafo dirigido"
+        ]
+    },
+    "¿Qué define el grado de un árbol?": {
+        "v": "El número máximo de hijos de un nodo",
+        "f": [
+            "La cantidad total de nodos",
+            "La longitud del camino más largo",
+            "El número de nodos hoja",
+            "El número de niveles en el árbol"
+        ]
+    },
+    "¿Qué grafo tiene conexiones directas de un nodo consigo mismo?": {
+        "v": "Grafo con bucles",
+        "f": [
+            "Grafo dirigido",
+            "Grafo plano",
+            "Grafo simple",
+            "Grafo ponderado"
+        ]
+    },
+    "¿Qué estructura se usa para representar relaciones complejas en sistemas\nreales?": {
+        "v": "Grafos",
+        "f": [
+            "Árboles binarios",
+            "Listas enlazadas",
+            "Matrices",
+            "Pilas"
+        ],
+        "e_count": 1
+    },
+    "¿Qué indica un valor de 1 en una matriz de adyacencia para un grafo no\ndirigido?": {
+        "v": "Hay una arista entre dos vértices",
+        "f": [
+            "El grafo es ponderado",
+            "No hay una arista entre dos vértices",
+            "Los vértices no están conectados",
+            "La arista tiene un peso asociado"
+        ]
+    },
+    "¿Qué tipo de grafo tiene una matriz de adyacencia simétrica?": {
+        "v": "Grafo no dirigido",
+        "f": [
+            "Grafo dirigido",
+            "Grafo ponderado",
+            "Grafo cíclico",
+            "Grafo plano"
+        ],
+        "e_count": 1
+    },
+    "¿Qué representa una lista de adyacencia?": {
+        "v": "Los vecinos de cada nodo",
+        "f": [
+            "El peso de las aristas",
+            "La dirección de las aristas",
+            "La cantidad de nodos del grafo",
+            "El número total de ciclos"
+        ]
+    },
+    "¿Qué valor se almacena en una celda de la matriz de adyacencia para un\ngrafo ponderado?": {
+        "v": "El peso de la arista",
+        "f": [
+            "Un 1 o un 0",
+            "La cantidad de nodos adyacentes",
+            "La dirección de la arista",
+            "El número de ciclos del grafo"
+        ]
+    },
+    "¿Qué operación en un grafo agrega una nueva conexión entre dos nodos?": {
+        "v": "Agregar arista",
+        "f": [
+            "Agregar nodo",
+            "Eliminar arista",
+            "Verificar conexión",
+            "Recorrer el grafo"
+        ],
+        "c_count": 1
+    },
+    "¿Qué tipo de grafo se representa con una lista de adyacencia más eficiente?": {
+        "v": "Grafo disperso",
+        "f": [
+            "Grafo denso",
+            "Grafo completo",
+            "Grafo ponderado",
+            "Grafo dirigido"
+        ]
+    },
+    "¿Qué valor en la matriz de adyacencia indica una arista cíclica en un nodo?": {
+        "v": "Un valor en la diagonal principal",
+        "f": [
+            "Un valor fuera de la diagonal principal",
+            "Cualquier valor mayor a 1",
+            "Un valor simétrico respecto al eje",
+            "Un valor cero en toda la fila"
+        ]
+    },
+    "¿Qué operación lista todos los nodos conectados directamente a uno dado en\nun grafo?": {
+        "v": "Vecinos o adyacentes",
+        "f": [
+            "Grado del nodo",
+            "Eliminar nodo",
+            "Recorrer el grafo",
+            "Verificar conexión"
+        ]
+    },
+    "¿Qué ventaja tiene la matriz de adyacencia frente a la lista de adyacencia?": {
+        "v": "Acceso rápido para verificar conexiones",
+        "f": [
+            "Uso eficiente de memoria en grafos dispersos",
+            "Representación más compacta",
+            "Facilidad para grafos ponderados",
+            "Representación intuitiva"
+        ]
+    },
+    "¿Qué operación en una tabla hash convierte información en un número único?": {
+        "v": "Función de hash",
+        "f": [
+            "Colisión",
+            "Búsqueda directa",
+            "Mapeo de claves",
+            "Partición de datos"
+        ]
+    },
+    "¿Qué problema ocurre cuando dos elementos diferentes producen el mismo\nnúmero en una tabla hash?": {
+        "v": "Colisión",
+        "f": [
+            "Pérdida de datos",
+            "Bucle infinito",
+            "Fragmentación",
+            "Duplicación"
+        ],
+        "c_count": 1
+    },
+    "¿Qué estructura utiliza los montículos para organizar sus elementos?": {
+        "v": "Árbol binario especializado",
+        "f": [
+            "Lista de adyacencia",
+            "Matriz de adyacencia",
+            "Tabla hash",
+            "Árbol N-ario"
+        ]
+    },
+    "¿Qué propiedad tiene un montículo máximo?": {
+        "v": "El valor del nodo raíz es mayor o igual que sus hijos",
+        "f": [
+            "El valor del nodo raíz es menor o igual que sus hijos",
+            "El árbol tiene solo un nivel",
+            "El árbol no permite duplicados",
+            "El nodo raíz tiene siempre un hijo"
+        ]
+    },
+    "¿Qué operación en un montículo elimina el elemento máximo o mínimo?": {
+        "v": "Pop",
+        "f": [
+            "Push",
+            "Peek",
+            "Sink-down",
+            "Heapify"
+        ]
+    },
+    "¿Qué método asegura que un array cumple las propiedades de un montículo?": {
+        "v": "Heapify",
+        "f": [
+            "Bubble-up",
+            "Sink-down",
+            "Peek",
+            "Merge"
+        ]
+    },
+    "¿Qué tipo de grafo tiene aristas con pesos asociados?": {
+        "v": "Grafo ponderado",
+        "f": [
+            "Grafo dirigido",
+            "Grafo cíclico",
+            "Grafo plano",
+            "Grafo disperso"
+        ]
+    },
+    "¿Qué operación en un montículo retorna el tamaño de los elementos?": {
+        "v": "Size",
+        "f": [
+            "Peek",
+            "Delete",
+            "Merge",
+            "Heapify"
+        ]
+    },
+    "¿Qué operación permite combinar dos montículos en uno solo?": {
+        "v": "Merge",
+        "f": [
+            "Sink-down",
+            "Heapify",
+            "Push",
+            "Pop"
+        ]
+    },
+    "¿Qué nodo en un montículo binario se encuentra en el índice (i-1)//2?": {
+        "v": "El padre del nodo en el índice i",
+        "f": [
+            "El hijo izquierdo del nodo en el índice i",
+            "El hijo derecho del nodo en el índice i",
+            "El nodo raíz del montículo",
+            "El nodo hoja más cercano"
+        ],
+        "e_count": 1
+    },
+    "¿Qué tipo de grafo es eficiente de representar con una lista de adyacencia?": {
+        "v": "Grafo disperso",
+        "f": [
+            "Grafo completo",
+            "Grafo ponderado",
+            "Grafo dirigido",
+            "Grafo denso"
+        ]
+    },
+    "¿Qué operación en un grafo verifica si hay un camino entre dos nodos?": {
+        "v": "Verificar conexión",
+        "f": [
+            "Eliminar arista",
+            "Grado del nodo",
+            "Recorrer el grafo",
+            "Listar adyacentes"
+        ]
+    },
+    "¿Qué tipo de grafo se representa con una matriz de adyacencia simétrica?": {
+        "v": "Grafo no dirigido",
+        "f": [
+            "Grafo dirigido",
+            "Grafo ponderado",
+            "Grafo cíclico",
+            "Grafo plano"
+        ],
+        "e_count": 1
+    },
+    "¿Qué indica el grado de un nodo en un grafo?": {
+        "v": "La cantidad de nodos con los que está directamente conectado",
+        "f": [
+            "El peso total de sus aristas",
+            "El número de ciclos en el grafo",
+            "El nivel del nodo",
+            "El número de aristas dirigidas hacia el nodo"
+        ]
+    },
+    "¿Qué estructura permite modelar relaciones entre objetos con nodos y\naristas?": {
+        "v": "Grafo",
+        "f": [
+            "Árbol binario",
+            "Tabla hash",
+            "Montículo",
+            "Lista enlazada"
+        ],
+        "c_count": 1
+    },
+    "¿Qué problema resuelve un montículo en una cola de prioridad?": {
+        "v": "Ordenar elementos según su prioridad",
+        "f": [
+            "Eliminar nodos duplicados",
+            "Encontrar ciclos en un grafo",
+            "Optimizar búsquedas lineales",
+            "Reducir colisiones en tablas hash"
+        ],
+        "e_count": 1
+    },
+    "¿Qué operación en un montículo coloca un nuevo elemento en la raíz?": {
+        "v": "Bubble-up",
+        "f": [
+            "Sink-down",
+            "Heapify",
+            "Merge",
+            "Peek"
+        ],
+        "e_count": 1
+    },
+    "¿Qué tipo de grafo se usa en algoritmos de navegación como Dijkstra?": {
+        "v": "Grafo ponderado",
+        "f": [
+            "Grafo cíclico",
+            "Grafo dirigido",
+            "Grafo plano",
+            "Grafo disperso"
+        ]
+    },
+    "¿Qué ocurre al aplicar Sink-down en un montículo?": {
+        "v": "El nodo raíz se ajusta para mantener la propiedad del montículo",
+        "f": [
+            "Se elimina el nodo hoja más grande",
+            "El nodo raíz se convierte en un nodo hoja",
+            "Se crea un nuevo nodo en la raíz",
+            "Se fusionan dos montículos en uno"
+        ]
+    },
+    "¿Qué estructura utiliza índices para representar relaciones entre nodos en\nun montículo?": {
+        "v": "Array o lista",
+        "f": [
+            "Lista enlazada",
+            "Tabla hash",
+            "Matriz de adyacencia",
+            "Árbol binario de búsqueda"
+        ]
+    },
+    "¿Qué operación asegura que un montículo recién creado cumpla sus\npropiedades?": {
+        "v": "Heapify",
+        "f": [
+            "Merge",
+            "Sink-down",
+            "Bubble-up",
+            "Pop"
+        ]
+    },
+    "¿Qué propiedad tiene una tabla hash bien diseñada?": {
+        "v": "Acceso rápido a elementos en tiempo constante promedio",
+        "f": [
+            "Reducción automática de tamaño",
+            "Ordenamiento automático de claves",
+            "Evita completamente las colisiones",
+            "Almacenamiento eficiente en matrices dispersas"
+        ]
+    },
+    "¿Qué tipo de dato en una tabla hash ayuda a reducir colisiones?": {
+        "v": "Función de hash",
+        "f": [
+            "Matriz de adyacencia",
+            "Lista de adyacencia",
+            "Arreglo ordenado",
+            "Búsqueda lineal"
+        ],
+        "c_count": 1
+    },
+    "¿Qué ventaja tienen las listas de adyacencia frente a las matrices de\nadyacencia?": {
+        "v": "Uso eficiente de memoria en grafos dispersos",
+        "f": [
+            "Fácil acceso para verificar conexiones",
+            "Representación más intuitiva para grafos completos",
+            "Optimización para grafos dirigidos",
+            "Soporte nativo para grafos ponderados"
+        ]
+    },
+    "¿Qué ventaja tiene un montículo sobre otros árboles para operaciones de\nprioridad?": {
+        "v": "Acceso constante al máximo o mínimo",
+        "f": [
+            "Búsqueda eficiente de cualquier elemento",
+            "Ordenamiento automático de nodos",
+            "Representación compacta de relaciones",
+            "Optimización de grafos completos"
+        ]
+    },
+    "¿Qué operación en un montículo verifica si no contiene elementos?": {
+        "v": "Is Empty",
+        "f": [
+            "Size",
+            "Peek",
+            "Heapify",
+            "Merge"
+        ]
+    },
+    "¿Qué propiedad define un montículo mínimo (Min Heap)?": {
+        "v": "El nodo padre siempre es menor que sus hijos",
+        "f": [
+            "El nodo padre siempre es mayor que sus hijos",
+            "Los nodos están ordenados alfabéticamente",
+            "El nodo raíz tiene dos hijos obligatoriamente",
+            "Todos los nodos son hojas"
+        ]
+    },
+    "¿Qué operación en un montículo asegura que se mantengan sus propiedades\ntras una inserción?": {
+        "v": "Bubble-up",
+        "f": [
+            "Sink-down",
+            "Heapify",
+            "Peek",
+            "Merge"
+        ],
+        "e_count": 1
+    },
+    "¿Qué ventaja tiene implementar MaxHeap y MinHeap como subclases de una\nclase genérica Heap?": {
+        "v": "Permite reutilizar código y facilitar el mantenimiento",
+        "f": [
+            "Elimina la necesidad de implementar _bubble_up",
+            "Hace que los montículos sean más rápidos",
+            "Permite eliminar nodos en tiempo constante",
+            "Reduce el tamaño de los montículos"
+        ]
+    },
+    "¿Qué operación en una cola de prioridad remueve el elemento con mayor\nprioridad?": {
+        "v": "Desencolar",
+        "f": [
+            "Insertar",
+            "Peek",
+            "Fusionar",
+            "Modificar prioridad"
+        ]
+    },
+    "¿Qué estructura de datos es comúnmente utilizada para implementar colas de\nprioridad?": {
+        "v": "Montículos (Heaps)",
+        "f": [
+            "Tablas hash",
+            "Listas enlazadas",
+            "Grafos",
+            "Árboles binarios de búsqueda"
+        ]
+    },
+    "¿Qué operación permite combinar dos colas de prioridad en una sola?": {
+        "v": "Fusionar",
+        "f": [
+            "Heapify",
+            "Bubble-up",
+            "Insertar",
+            "Desencolar"
+        ]
+    },
+    "¿Qué algoritmo utiliza colas de prioridad para encontrar el camino más\ncorto?": {
+        "v": "Dijkstra",
+        "f": [
+            "A*",
+            "Prim",
+            "Huffman",
+            "DFS"
+        ]
+    },
+    "¿Qué estructura asegura que los elementos sean únicos y no tienen un orden\nespecífico?": {
+        "v": "Conjuntos (Sets)",
+        "f": [
+            "Listas",
+            "Tablas hash",
+            "Montículos",
+            "Colas de prioridad"
+        ]
+    },
+    "¿Qué operación de un conjunto combina los elementos de dos conjuntos sin\nduplicados?": {
+        "v": "Unión",
+        "f": [
+            "Intersección",
+            "Diferencia",
+            "Diferencia simétrica",
+            "Subconjunto"
+        ]
+    },
+    "¿Qué operación de un conjunto devuelve los elementos comunes entre dos\nconjuntos?": {
+        "v": "Intersección",
+        "f": [
+            "Unión",
+            "Diferencia",
+            "Diferencia simétrica",
+            "Clonación"
+        ],
+        "e_count": 1
+    },
+    "¿Qué uso común tienen los conjuntos en problemas de grafos?": {
+        "v": "Representar nodos visitados",
+        "f": [
+            "Almacenar ciclos",
+            "Calcular grados de nodos",
+            "Modelar listas de adyacencia",
+            "Eliminar aristas"
+        ]
+    },
+    "¿Qué operación de un conjunto verifica si todos los elementos de un\nconjunto están en otro?": {
+        "v": "Subconjunto",
+        "f": [
+            "Diferencia simétrica",
+            "Unión",
+            "Intersección",
+            "Igualdad"
+        ]
+    },
+    "¿Qué estructura utiliza Python para garantizar la unicidad en los\nconjuntos?": {
+        "v": "Tablas hash",
+        "f": [
+            "Árboles binarios",
+            "Listas ordenadas",
+            "Montículos",
+            "Diccionarios"
+        ]
+    },
+    "¿Qué operación en un conjunto elimina un elemento si existe?": {
+        "v": "Eliminación",
+        "f": [
+            "Unión",
+            "Intersección",
+            "Clonación",
+            "Tamaño"
+        ]
+    },
+    "¿Qué ventaja ofrecen los conjuntos para eliminar duplicados en listas?": {
+        "v": "Garantizan unicidad automáticamente",
+        "f": [
+            "Ordenan automáticamente los elementos",
+            "Permiten acceder a los elementos por índice",
+            "Reducen el tamaño en memoria",
+            "Aseguran eficiencia en búsquedas"
+        ]
+    },
+    "¿Qué función de Python convierte una lista en un conjunto?": {
+        "v": "set()",
+        "f": [
+            "list_to_set()",
+            "convert_set()",
+            "unique_list()",
+            "filter_duplicates()"
+        ]
+    },
+    "¿Qué operación de conjuntos devuelve elementos que están en uno de los\nconjuntos, pero no en ambos?": {
+        "v": "Diferencia simétrica",
+        "f": [
+            "Intersección",
+            "Diferencia",
+            "Unión",
+            "Subconjunto"
+        ]
+    },
+    "¿Qué estructura es ideal para filtrar elementos únicos rápidamente?": {
+        "v": "Conjuntos",
+        "f": [
+            "Listas",
+            "Tablas hash",
+            "Árboles binarios",
+            "Colas de prioridad"
+        ]
+    },
+    "¿Qué operación en un conjunto devuelve el número de elementos únicos?": {
+        "v": "Tamaño",
+        "f": [
+            "Unión",
+            "Intersección",
+            "Pertenencia",
+            "Clonación"
+        ]
+    },
+    "¿Qué desventaja tienen los conjuntos en comparación con listas?": {
+        "v": "No permiten acceder a elementos por índice",
+        "f": [
+            "No garantizan unicidad",
+            "Tienen operaciones de búsqueda lentas",
+            "No permiten elementos inmutables",
+            "No admiten operaciones matemáticas"
+        ]
+    },
+    "¿Qué operación en una cola de prioridad permite observar el elemento de\nmayor prioridad sin eliminarlo?": {
+        "v": "Peek",
+        "f": [
+            "Insertar",
+            "Fusionar",
+            "Heapify",
+            "Desencolar"
+        ]
+    },
+    "¿Qué característica de un montículo facilita su implementación en un array?": {
+        "v": "La relación entre índices de nodos padres e hijos",
+        "f": [
+            "Los nodos siempre son hojas",
+            "El ordenamiento automático al insertarlos",
+            "El tamaño fijo de los montículos",
+            "El soporte para operaciones en tiempo constante"
+        ]
+    },
+    "¿Qué uso tienen los conjuntos en análisis de datos?": {
+        "v": "Eliminar duplicados y realizar operaciones matemáticas entre colecciones",
+        "f": [
+            "Almacenar datos ordenados",
+            "Calcular ciclos en grafos",
+            "Modelar árboles binarios",
+            "Generar claves únicas"
+        ],
+        "c_count": 1
+    },
+    "¿Qué operación de conjuntos permite crear una copia de un conjunto\nexistente?": {
+        "v": "Clonación/Copia",
+        "f": [
+            "Unión",
+            "Intersección",
+            "Diferencia",
+            "Subconjunto"
+        ]
+    },
+    "¿Qué implementación es más común para una cola de prioridad?": {
+        "v": "Montículo binario (Binary Heap)",
+        "f": [
+            "Lista enlazada",
+            "Matriz de adyacencia",
+            "Tabla hash",
+            "Árbol binario de búsqueda"
+        ]
+    },
+    "¿Qué estructura subyace en la implementación de un conjunto en Python?": {
+        "v": "Diccionario",
+        "f": [
+            "Lista",
+            "Árbol binario",
+            "Cola de prioridad",
+            "Montículo"
+        ],
+        "e_count": 1
+    },
+    "¿Qué operación en una cola de prioridad cambia la prioridad de un elemento\nexistente?": {
+        "v": "Modificar prioridad",
+        "f": [
+            "Fusionar",
+            "Insertar",
+            "Desencolar",
+            "Peek"
+        ]
+    },
+    "¿Qué ventaja ofrece la variable `index` en la implementación de una cola de\nprioridad en Python?": {
+        "v": "Desempatar elementos con la misma prioridad",
+        "f": [
+            "Ordenar automáticamente los elementos",
+            "Reducir el tamaño de la cola",
+            "Incrementar la velocidad de búsqueda",
+            "Garantizar unicidad"
+        ]
+    },
+    "¿Qué tipo de operación matemática entre conjuntos resulta en elementos\nexclusivos de un conjunto base?": {
+        "v": "Diferencia",
+        "f": [
+            "Intersección",
+            "Unión",
+            "Diferencia simétrica",
+            "Igualdad"
+        ]
+    },
+    "¿Qué tipo de montículo se utiliza en el algoritmo de Dijkstra?": {
+        "v": "Montículo mínimo (Min Heap)",
+        "f": [
+            "Montículo máximo (Max Heap)",
+            "Montículo balanceado",
+            "Montículo de prioridad",
+            "Montículo de búsqueda"
+        ]
+    },
+    "¿Qué desventaja tienen los conjuntos con respecto a estructuras como\nlistas?": {
+        "v": "Mayor consumo de memoria",
+        "f": [
+            "No permiten operaciones de búsqueda",
+            "No garantizan unicidad",
+            "No soportan operaciones matemáticas",
+            "Son más lentos en operaciones básicas"
+        ]
+    },
+    "¿Qué operación de conjuntos devuelve `True` si dos conjuntos tienen\nexactamente los mismos elementos?": {
+        "v": "Igualdad",
+        "f": [
+            "Subconjunto",
+            "Diferencia",
+            "Intersección",
+            "Diferencia simétrica"
+        ],
+        "c_count": 1
+    },
+    "¿Qué ventaja tienen los montículos en comparación con otras estructuras\npara colas de prioridad?": {
+        "v": "Eficiencia en inserciones y extracciones de elementos con prioridad",
+        "f": [
+            "Permiten búsquedas arbitrarias rápidas",
+            "Reducen el consumo de memoria",
+            "Son fáciles de visualizar",
+            "No requieren reordenar elementos"
+        ]
+    },
+    "¿Qué característica tienen los elementos de un conjunto?": {
+        "v": "Son únicos y no están ordenados",
+        "f": [
+            "Pueden estar duplicados",
+            "Están ordenados automáticamente",
+            "Solo pueden ser números",
+            "Se acceden por índices"
+        ],
+        "c_count": 1
+    },
+    "¿Qué herramienta se utiliza para analizar la eficiencia de algoritmos de\nmanera independiente del hardware?": {
+        "v": "Notación asintótica",
+        "f": [
+            "Análisis empírico",
+            "Medición de tiempo de ejecución",
+            "Simulaciones",
+            "Notación algebraica"
+        ]
+    },
+    "¿Qué simboliza la notación O (big O)?": {
+        "v": "Cota superior del crecimiento de un algoritmo",
+        "f": [
+            "Cota inferior del crecimiento de un algoritmo",
+            "Crecimiento promedio del algoritmo",
+            "Número exacto de operaciones",
+            "La complejidad espacial de un algoritmo"
+        ]
+    },
+    "¿Qué significa el mejor caso (Best case) en análisis de algoritmos?": {
+        "v": "El algoritmo se ejecuta más rápido",
+        "f": [
+            "El algoritmo se ejecuta más lento",
+            "El algoritmo siempre toma el mismo tiempo",
+            "El algoritmo requiere más memoria",
+            "El algoritmo falla en resolver el problema"
+        ]
+    },
+    "¿Qué caso de análisis es más útil para problemas críticos?": {
+        "v": "Peor caso (Worst case)",
+        "f": [
+            "Mejor caso (Best case)",
+            "Caso medio (Average case)",
+            "Caso límite",
+            "Caso trivial"
+        ],
+        "c_count": 1
+    },
+    "¿Qué representa 'n' en la notación asintótica?": {
+        "v": "El tamaño del conjunto de datos",
+        "f": [
+            "El número de operaciones",
+            "El tiempo exacto de ejecución",
+            "El número de iteraciones",
+            "El coste espacial del algoritmo"
+        ],
+        "c_count": 1
+    },
+    "¿Qué ventaja tiene el análisis teórico sobre el empírico?": {
+        "v": "Es independiente del hardware y software",
+        "f": [
+            "Es más rápido de implementar",
+            "Garantiza la eficiencia del código",
+            "Es más fácil de realizar en casos pequeños",
+            "Permite identificar errores de programación"
+        ]
+    },
+    "¿Qué término describe una tarea general que se desea resolver mediante un\nalgoritmo?": {
+        "v": "Problema",
+        "f": [
+            "Ejemplar",
+            "Caso límite",
+            "Instancia",
+            "Operación elemental"
+        ]
+    },
+    "¿Qué enfoque mide la eficiencia de un algoritmo programándolo y probándolo?": {
+        "v": "Enfoque empírico",
+        "f": [
+            "Enfoque teórico",
+            "Notación asintótica",
+            "Análisis matemático",
+            "Simulación"
+        ]
+    },
+    "¿Qué enfoque se utiliza para analizar el tiempo de ejecución\nmatemáticamente?": {
+        "v": "Enfoque teórico",
+        "f": [
+            "Enfoque empírico",
+            "Simulación",
+            "Análisis de casos",
+            "Pruebas automatizadas"
+        ]
+    },
+    "¿Qué simboliza la notación Θ (big Theta)?": {
+        "v": "Cota ajustada del crecimiento del algoritmo",
+        "f": [
+            "Cota superior del crecimiento del algoritmo",
+            "Cota inferior del crecimiento del algoritmo",
+            "El tiempo exacto de ejecución",
+            "La memoria usada por el algoritmo"
+        ]
+    },
+    "¿Qué concepto define el número de componentes de un ejemplar en análisis de\nalgoritmos?": {
+        "v": "Tamaño",
+        "f": [
+            "Dimensión",
+            "Costo unitario",
+            "Complejidad",
+            "Ejecución media"
+        ]
+    },
+    "¿Qué tipo de análisis considera todos los posibles escenarios de entrada?": {
+        "v": "Caso medio (Average case)",
+        "f": [
+            "Mejor caso (Best case)",
+            "Peor caso (Worst case)",
+            "Caso trivial",
+            "Caso límite"
+        ]
+    },
+    "¿Qué describe la notación Ω (big Omega)?": {
+        "v": "Cota inferior del crecimiento del algoritmo",
+        "f": [
+            "Cota superior del crecimiento del algoritmo",
+            "Cota ajustada del crecimiento del algoritmo",
+            "Complejidad espacial",
+            "Número de iteraciones"
+        ]
+    },
+    "¿Qué ventaja tiene el análisis empírico sobre el teórico?": {
+        "v": "Proporciona datos basados en la ejecución real",
+        "f": [
+            "Es más preciso en escenarios infinitos",
+            "Permite calcular cotas ajustadas",
+            "Es completamente independiente del hardware",
+            "No requiere programación previa"
+        ]
+    },
+    "¿Qué representa t(n) en la notación asintótica?": {
+        "v": "El tiempo o recursos utilizados por un algoritmo",
+        "f": [
+            "El tamaño máximo del conjunto de datos",
+            "La memoria necesaria para ejecutar el algoritmo",
+            "El tiempo exacto en segundos",
+            "La cantidad de iteraciones"
+        ]
+    },
+    "¿Qué enfoque se usa para medir la eficiencia promedio de un algoritmo?": {
+        "v": "Caso medio (Average case)",
+        "f": [
+            "Peor caso (Worst case)",
+            "Mejor caso (Best case)",
+            "Análisis de costes",
+            "Notación asintótica"
+        ]
+    },
+    "¿Qué ejemplo corresponde a un problema de búsqueda?": {
+        "v": "Determinar si un número está en una lista",
+        "f": [
+            "Ordenar una lista de números",
+            "Calcular la suma de una lista",
+            "Generar una lista de números primos",
+            "Eliminar duplicados en una lista"
+        ]
+    },
+    "¿Qué ventaja tiene analizar el peor caso de un algoritmo?": {
+        "v": "Garantiza la máxima eficiencia en situaciones críticas",
+        "f": [
+            "Es más representativo de los casos reales",
+            "Requiere menos información previa",
+            "Siempre asegura el menor tiempo de ejecución",
+            "Es más sencillo de implementar"
+        ]
+    },
+    "¿Qué ejemplo corresponde a un ejemplar del problema de ordenamiento?": {
+        "v": "Ordenar la lista [3, 1, 4, 1, 5, 9]",
+        "f": [
+            "Buscar un número en una lista",
+            "Determinar si una lista está vacía",
+            "Calcular la suma de una lista",
+            "Eliminar duplicados en una lista"
+        ]
+    },
+    "¿Qué tipo de operación tiene un límite definido por una constante?": {
+        "v": "Operación elemental",
+        "f": [
+            "Operación asintótica",
+            "Operación compleja",
+            "Operación dependiente",
+            "Operación compuesta"
+        ]
+    },
+    "¿Qué herramienta ayuda a evaluar algoritmos con datos de tamaño\nconsiderable?": {
+        "v": "Operación asintótica",
+        "f": [
+            "Operación elemental",
+            "Análisis empírico",
+            "Notación algebraica",
+            "Caso límite"
+        ],
+        "e_count": 1
+    },
+    "¿Qué describe la eficiencia de un algoritmo en términos de tiempo y\nespacio?": {
+        "v": "Análisis teórico",
+        "f": [
+            "Notación empírica",
+            "Medición directa",
+            "Simulación",
+            "Análisis práctico"
+        ]
+    },
+    "¿Qué significa que un algoritmo tiene un tiempo de orden t(n)?": {
+        "v": "Resuelve cualquier ejemplar de tamaño n en un tiempo proporcional a t(n)",
+        "f": [
+            "Siempre requiere tiempo constante",
+            "Solo resuelve problemas en tiempo infinito",
+            "Es independiente del tamaño del conjunto de datos",
+            "No se puede analizar teóricamente"
+        ]
+    },
+    "¿Qué caso de análisis es más relevante para datos con variabilidad alta?": {
+        "v": "Caso medio (Average case)",
+        "f": [
+            "Peor caso (Worst case)",
+            "Mejor caso (Best case)",
+            "Caso trivial",
+            "Caso determinista"
+        ]
+    },
+    "¿Qué tipo de problema implica ordenar números de menor a mayor?": {
+        "v": "Problema de ordenamiento",
+        "f": [
+            "Problema de búsqueda",
+            "Problema de optimización",
+            "Problema de clasificación",
+            "Problema de combinación"
+        ]
+    },
+    "¿Qué indica un análisis del peor caso de un algoritmo?": {
+        "v": "El tiempo máximo que podría tomar la ejecución",
+        "f": [
+            "El tiempo promedio para cualquier entrada",
+            "El tiempo mínimo posible para ejecutarse",
+            "El tiempo constante sin importar la entrada",
+            "El tiempo requerido en un hardware específico"
+        ]
+    },
+    "¿Por qué es útil la notación asintótica?": {
+        "v": "Permite comparar algoritmos sin depender de hardware",
+        "f": [
+            "Garantiza la implementación más rápida",
+            "Reduce el uso de memoria automáticamente",
+            "Elimina la necesidad de pruebas prácticas",
+            "Siempre asegura la mejor solución"
+        ]
+    },
+    "¿Qué mide el enfoque empírico al analizar algoritmos?": {
+        "v": "El tiempo real de ejecución en casos concretos",
+        "f": [
+            "El crecimiento asintótico en grandes volúmenes de datos",
+            "La eficiencia espacial",
+            "El número exacto de iteraciones",
+            "El tamaño del conjunto de datos"
+        ]
+    },
+    "¿Qué representa una operación elemental en análisis de algoritmos?": {
+        "v": "Una acción con coste constante",
+        "f": [
+            "Un cálculo recursivo",
+            "Una acción con coste dependiente del tamaño de los datos",
+            "Una acción optimizada automáticamente",
+            "Un cálculo paralelo"
+        ]
+    },
+    "¿Qué significa el caso medio en el análisis de algoritmos?": {
+        "v": "El tiempo promedio de ejecución para entradas variables",
+        "f": [
+            "El tiempo máximo que podría tomar la ejecución",
+            "El tiempo mínimo requerido para cualquier entrada",
+            "El tiempo constante sin importar los datos",
+            "El tiempo ideal para hardware específico"
+        ]
+    },
+    "¿Qué caso de análisis asegura el peor tiempo posible para un algoritmo?": {
+        "v": "Peor caso (Worst case)",
+        "f": [
+            "Caso medio (Average case)",
+            "Mejor caso (Best case)",
+            "Caso determinista",
+            "Caso límite"
+        ]
+    },
+    "¿Qué ventaja tiene el enfoque teórico en el análisis de algoritmos?": {
+        "v": "Es independiente del hardware y software",
+        "f": [
+            "Es más rápido para algoritmos pequeños",
+            "Evita el análisis de datos grandes",
+            "Es más eficiente que el empírico",
+            "Siempre asegura la solución más óptima"
+        ]
+    },
+    "¿Qué analiza la notación asintótica en algoritmos?": {
+        "v": "El comportamiento del algoritmo en entradas grandes",
+        "f": [
+            "El tiempo exacto de ejecución en un hardware dado",
+            "La optimización del código",
+            "El coste promedio en un conjunto reducido",
+            "La compatibilidad con diferentes lenguajes de programación"
+        ]
+    },
+    "¿Qué significa un ejemplar en el contexto de algoritmos?": {
+        "v": "Una instancia específica de un problema",
+        "f": [
+            "La solución general a un problema",
+            "El análisis matemático de un algoritmo",
+            "El coste espacial de un algoritmo",
+            "La implementación estándar de un problema"
+        ]
+    },
+    "¿Qué permite demostrar un ejemplar incorrecto en un algoritmo?": {
+        "v": "Que el algoritmo no resuelve correctamente el problema",
+        "f": [
+            "Que el algoritmo es óptimo",
+            "Que el algoritmo tiene un mejor caso",
+            "Que el problema está mal planteado",
+            "Que el tamaño del problema es inválido"
+        ]
+    }
+}

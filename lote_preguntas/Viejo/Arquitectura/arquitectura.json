@@ -1,0 +1,4882 @@
+{
+    "¿A que tipologia corresponde 'Posicion de la instruccion en curso'?": {
+        "v": "Contador de programa",
+        "f": [
+            "Registro de Instruccion",
+            "Registro de estado",
+            "Registro a puntero a pila"
+        ],
+        "e_count": 11,
+        "c_count": 1
+    },
+    "¿Cuál es el valor decimal del número hexadecimal 2F3?": {
+        "v": "755",
+        "f": [
+            "632",
+            "1024",
+            "499",
+            "800",
+            "723",
+            "600",
+            "900",
+            "1500",
+            "650",
+            "810"
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "¿Cuál es el valor octal del número decimal 125?": {
+        "v": "175",
+        "f": [
+            "144",
+            "200",
+            "157",
+            "167",
+            "120",
+            "132",
+            "220",
+            "162",
+            "134",
+            "154"
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "¿Cuál es el valor binario del número octal 73?": {
+        "v": "111011",
+        "f": [
+            "101101",
+            "110010",
+            "100011",
+            "111000",
+            "101011",
+            "110110",
+            "100101",
+            "110011",
+            "101110",
+            "111100"
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "¿Cuál es el valor hexadecimal del número decimal 345?": {
+        "v": "159",
+        "f": [
+            "14A",
+            "168",
+            "172",
+            "133",
+            "15F",
+            "160",
+            "178",
+            "140",
+            "15A",
+            "167"
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "¿Cuál es el valor binario del número decimal 47?": {
+        "v": "101111",
+        "f": [
+            "110101",
+            "100011",
+            "111010",
+            "101100",
+            "110110",
+            "100101",
+            "111100",
+            "110000",
+            "101010",
+            "111000"
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "¿Cuál es el valor octal del número hexadecimal 3B?": {
+        "v": "73",
+        "f": [
+            "70",
+            "75",
+            "64",
+            "66",
+            "77",
+            "71",
+            "76",
+            "72",
+            "74",
+            "67"
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "¿Cuál es el valor decimal del número octal 321?": {
+        "v": "209",
+        "f": [
+            "198",
+            "220",
+            "250",
+            "180",
+            "230",
+            "175",
+            "240",
+            "260",
+            "195",
+            "225"
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "¿Cuál es el valor binario del número decimal 85?": {
+        "v": "1010101",
+        "f": [
+            "1101101",
+            "1011010",
+            "1001111",
+            "1110000",
+            "1001011",
+            "1111111",
+            "1010110",
+            "1001001",
+            "1100010",
+            "1011001"
+        ],
+        "e_count": 10
+    },
+    "¿Cuál es el valor octal del número binario 110011?": {
+        "v": "63",
+        "f": [
+            "61",
+            "64",
+            "70",
+            "66",
+            "62",
+            "65",
+            "67",
+            "60",
+            "71",
+            "68"
+        ],
+        "e_count": 10
+    },
+    "Convierte el número hexadecimal B4 a decimal": {
+        "v": "180",
+        "f": [
+            "170",
+            "190",
+            "200",
+            "165",
+            "175",
+            "185",
+            "195",
+            "210",
+            "160",
+            "155"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número octal 157 a decimal": {
+        "v": "111",
+        "f": [
+            "109",
+            "115",
+            "120",
+            "105",
+            "113",
+            "117",
+            "125",
+            "130",
+            "140",
+            "108"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número decimal 239 a hexadecimal": {
+        "v": "EF",
+        "f": [
+            "E9",
+            "F3",
+            "E5",
+            "EE",
+            "F1",
+            "EC",
+            "F0",
+            "EA",
+            "F4",
+            "F5"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número decimal 54 a octal": {
+        "v": "66",
+        "f": [
+            "62",
+            "70",
+            "64",
+            "61",
+            "65",
+            "67",
+            "71",
+            "75",
+            "60",
+            "68"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número binario 101101 a decimal": {
+        "v": "45",
+        "f": [
+            "50",
+            "40",
+            "55",
+            "48",
+            "38",
+            "46",
+            "42",
+            "44",
+            "47",
+            "41"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número hexadecimal 9D a decimal": {
+        "v": "157",
+        "f": [
+            "150",
+            "160",
+            "145",
+            "170",
+            "165",
+            "140",
+            "155",
+            "175",
+            "135",
+            "142"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número octal 245 a decimal": {
+        "v": "165",
+        "f": [
+            "150",
+            "175",
+            "140",
+            "180",
+            "160",
+            "155",
+            "170",
+            "145",
+            "135",
+            "190"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número binario 111010 a hexadecimal": {
+        "v": "3A",
+        "f": [
+            "2E",
+            "3C",
+            "37",
+            "3F",
+            "2D",
+            "39",
+            "34",
+            "35",
+            "3E",
+            "38"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número decimal 312 a hexadecimal": {
+        "v": "138",
+        "f": [
+            "124",
+            "14F",
+            "11A",
+            "130",
+            "12C",
+            "12D",
+            "140",
+            "150",
+            "131",
+            "128"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número octal 512 a decimal": {
+        "v": "330",
+        "f": [
+            "320",
+            "340",
+            "315",
+            "325",
+            "335",
+            "345",
+            "355",
+            "365",
+            "375",
+            "385"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número binario 10011001 a decimal": {
+        "v": "153",
+        "f": [
+            "140",
+            "147",
+            "160",
+            "165",
+            "170",
+            "155",
+            "149",
+            "180",
+            "135",
+            "145"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número hexadecimal F2 a decimal": {
+        "v": "242",
+        "f": [
+            "230",
+            "250",
+            "225",
+            "255",
+            "235",
+            "245",
+            "260",
+            "275",
+            "265",
+            "240"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número decimal 76 a binario": {
+        "v": "1001100",
+        "f": [
+            "1010100",
+            "1100110",
+            "1000100",
+            "1011000",
+            "1001010",
+            "1110000",
+            "1101000",
+            "1011110",
+            "1110100",
+            "1100001"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número hexadecimal 2E a octal": {
+        "v": "56",
+        "f": [
+            "54",
+            "52",
+            "50",
+            "62",
+            "64",
+            "60",
+            "66",
+            "70",
+            "74",
+            "76"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número octal 721 a decimal": {
+        "v": "465",
+        "f": [
+            "450",
+            "480",
+            "470",
+            "455",
+            "460",
+            "490",
+            "495",
+            "500",
+            "510",
+            "520"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número binario 11010101 a decimal": {
+        "v": "213",
+        "f": [
+            "200",
+            "225",
+            "230",
+            "210",
+            "215",
+            "220",
+            "235",
+            "240",
+            "245",
+            "250"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número hexadecimal A8 a decimal": {
+        "v": "168",
+        "f": [
+            "160",
+            "175",
+            "170",
+            "165",
+            "180",
+            "185",
+            "155",
+            "190",
+            "200",
+            "210"
+        ],
+        "e_count": 9
+    },
+    "¿A que tipologia corresponde 'Proxima instruccion a ejecutar'?": {
+        "v": "Registro a puntero a pila",
+        "f": [
+            "Registro de Instruccion",
+            "Registro de estado",
+            "Contador de programa"
+        ],
+        "e_count": 8,
+        "c_count": 2
+    },
+    "¿A que tipologia corresponde 'Instruccion en Curso'?": {
+        "v": "Registro de Instruccion",
+        "f": [
+            "Registro de estado",
+            "Contador de programa",
+            "Registro a puntero a pila"
+        ],
+        "e_count": 11
+    },
+    "¿A que tipologia corresponde 'Division por Cero'?": {
+        "v": "Registro de estado",
+        "f": [
+            "Contador de programa",
+            "Registro de Instruccion",
+            "Registro a puntero a pila"
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "Un sistema operativo es:": {
+        "v": "Todas son correctas.",
+        "f": [
+            "El que permite la interacción entre el usuario y la computadora.",
+            "El encargado de gestionar los recursos.",
+            "El intermediario entre el hardware de un computador y las aplicaciones."
+        ],
+        "e_count": 8,
+        "c_count": 2
+    },
+    "Un proceso es:": {
+        "v": "Un programa que en ejecución y Un programa que está interrumpido",
+        "f": [
+            "Un programa que está interrumpido",
+            "Un programa que está en ejecución",
+            "Un programa que está listo para ejecutarse",
+            "Todas son correctas",
+            "Ninguna es correcta",
+            "Un programa que está listo para ejecutarse y Un programa que está en\nejecución",
+            "Un programa que está listo para ejecutarse y Un programa que está\ninterrumpido"
+        ],
+        "e_count": 10,
+        "c_count": 1
+    },
+    "¿Cuáles son las funciones de la CPU?": {
+        "v": "Decodificación de instrucciones, ejecución de instrucciones, gestión de\nmemoria, gestión de interrupciones y control de periféricos.",
+        "f": [
+            "Codificación de instrucciones, ejecución de instrucciones, gestión de\nmemoria principal, gestión de interrupciones y control de periféricos.",
+            "Decodificación de instrucciones, ejecución de instrucciones, gestión de\nmemoria, gestión de interrupciones y gestión de excepciones.",
+            "Codificación de instrucciones, ejecución de instrucciones, gestión de\nmemoria, gestión de interrupciones y gestión de excepciones."
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "Un archivo:": {
+        "v": "Está compuesto por datos y metadatos.",
+        "f": [
+            "Puede contener otros archivos dentro.",
+            "Es un concepto lógico que permite aislar al usuario de la representación\nfísica.",
+            "Todas son correctas."
+        ],
+        "e_count": 9,
+        "c_count": 2
+    },
+    "¿Cual es la evolucion de BIOS?": {
+        "v": "UEFI",
+        "f": [
+            "CMOS",
+            "FPU",
+            "ROM"
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "Las unidades de estado sólido:": {
+        "v": "Están basadas en tecnología flash y no utilizan unidades mecánicas",
+        "f": [
+            "El rendimiento es constante",
+            "Tienen una vida útil similar a la de las unidades magnéticas",
+            "El rendimiento es constante y no utilizan unidades mecánicas",
+            "Están basadas en tecnología flash y el rendimiento es constante",
+            "Están basadas en tecnología flash",
+            "No utilizan unidades mecánicas"
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "¿Qué es la FPU?": {
+        "v": "La unidad encargada de realizar operaciones en punto flotante que es\nparalela a la ALU.",
+        "f": [
+            "La unidad donde se almacenan los datos decimales.",
+            "No existe.",
+            "La unidad encargada de realizar operaciones en punto flotante que es\nparalela a la ALU.",
+            "La unidad encargada de realizar operaciones en punto flotante que está\nintegrada dentro de la ALU."
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "La fragmentación interna": {
+        "v": "Se produce cuando quedan huecos sin usar en particiones de memoria.",
+        "f": [
+            "Se produce cuando quedan huecos sin usar en páginas de memoria.",
+            "Se produce cuando quedan huecos sin usar entre páginas de memoria.",
+            "Se produce cuando quedan huecos sin usar entre particiones de memoria."
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "Los buses son": {
+        "v": "Todas son correctas.",
+        "f": [
+            "Unidireccionales y bidireccionales.",
+            "Vías de comunicación que usan la CPU, la memoria y los dispositivos de E/S\npara intercambiar información eficientemente.",
+            "Líneas de comunicación para transmitir datos, direcciones y señales de\ncontrol entre los diferentes componentes de una computadora."
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "En Linux": {
+        "v": "Existen tres niveles de permiso y Existen tres tipos de permisos.",
+        "f": [
+            "Todas son correctas.",
+            "Los permisos son equivalentes a los de Windows.",
+            "Existen tres niveles de permiso.",
+            "Existen tres tipos de permisos.",
+            "Los permisos son equivalentes a los de Windows y Existen tres tipos de\npermisos.",
+            "Existen tres niveles de permiso y Los permisos son equivalentes a los de\nWindows."
+        ],
+        "e_count": 9
+    },
+    "En Windows, compartir una carpeta con los usuarios de la misma máquina se\ndenomina": {
+        "v": "Compartir recurso local.",
+        "f": [
+            "Política de seguridad.",
+            "Compartir recurso de red.",
+            "Todas son correctas."
+        ],
+        "e_count": 9
+    },
+    "¿Qué es la información?": {
+        "v": "Conjunto de datos ordenados que representan algo.",
+        "f": [
+            "Cualquier dato almacenado en un computador.",
+            "Resultado de una observación en un momento dado de algo.",
+            "Todas son correctas."
+        ],
+        "e_count": 9
+    },
+    "¿Cuál es el objetivo principal de la arquitectura de ordenadores?": {
+        "v": "Diseñar y construir máquinas que procesen información de forma eficiente y\nautomática",
+        "f": [
+            "Reducir el tamaño de los ordenadores",
+            "Aumentar el consumo de energía",
+            "Hacer que el hardware sea independiente del software"
+        ],
+        "e_count": 9
+    },
+    "¿Cuál es el valor binario del dato hexadecimal AAA?": {
+        "v": "101010101010",
+        "f": [
+            "1000100110111",
+            "11010011101001",
+            "01011000000010",
+            "11101111010010",
+            "10011101110001",
+            "001110010010",
+            "110011001001",
+            "101100001001",
+            "10100100000011",
+            "101011111000"
+        ],
+        "e_count": 9
+    },
+    "Un sistema operativo puede pertenecer a más de una tipología": {
+        "v": "Verdadero.",
+        "f": [
+            "Falso."
+        ],
+        "e_count": 9
+    },
+    "En un sistema RAID 3 formado por 4 discos, 3 para datos y uno para paridad,\nse haperdido el disco 2. Indica cuál sería el valor de ese disco en base a\nla siguiente informaciónDisco 1: 1 1 1 1 0 1 1 1 0 1 0 0 1 0 0 0 1 1 0 1 1\n0 0 0 0 1Disco 2: ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?Disco\n3: 1 0 0 0 0 1 1 1 1 1 0 1 0 1 1 1 1 0 0 0 0 0 0 0 0 1Disco 4: 1 0 0 1 0 1\n1 0 1 1 0 0 0 1 1 1 0 0 0 1 1 1 1 0 0 0": {
+        "v": "11100110010010000100011000",
+        "f": [
+            "000101000000000011010000111",
+            "1110001100010101001000010100",
+            "10101100100111001100010001",
+            "111101010110010010010000011",
+            "10101001100010011000011001101",
+            "101010000011001010000111010",
+            "00000000101101101010100000",
+            "00110110101101110011010010",
+            "00100001101011110011101001",
+            "1101101001000011101001101110"
+        ],
+        "e_count": 9
+    },
+    "En un sistema RAID 3 con 4 discos (3 de datos y 1 de paridad), se ha\nperdido el Disco 2. Calcula su valor usando los datos restantes": {
+        "v": "11100110010010000100011000",
+        "f": [
+            "000101000000000011010000111",
+            "1110001100010101001000010100",
+            "10101100100111001100010001",
+            "111101010110010010010000011",
+            "10101001100010011000011001101",
+            "101010000011001010000111010",
+            "00000000101101101010100000",
+            "00110110101101110011010010",
+            "00100001101011110011101001",
+            "1101101001000011101001101110"
+        ],
+        "e_count": 9
+    },
+    "En un sistema RAID 4 con 5 discos (4 de datos y 1 de paridad), falta el\nDisco 3. Encuentra su contenido": {
+        "v": "11010100101101111001001000",
+        "f": [
+            "10100011101000101011101101",
+            "11110000001101101101101011",
+            "00001101111000011110100011",
+            "10011010101011110000010101",
+            "01001000110101001001101110",
+            "11001100100101101100010101",
+            "11101010111010111011001100",
+            "00010110100110101010101110",
+            "00101010101110001010110101",
+            "10111001100101001001101010"
+        ],
+        "e_count": 9
+    },
+    "Un sistema RAID 5 con 6 discos distribuye la paridad entre todos los\ndiscos. Si se pierde el Disco 5, ¿cuál es su valor?": {
+        "v": "10110110010111001001101101",
+        "f": [
+            "01101110010100101110100011",
+            "11000101001101011010110101",
+            "10111011010101100001011010",
+            "00011100101001001011110101",
+            "01011011010110010101000110",
+            "10100110100101010101100110",
+            "11100011101010101010101111",
+            "10001110111000101001101110",
+            "00101010010111011011010101",
+            "11011001001001101110101010"
+        ],
+        "e_count": 9
+    },
+    "En un sistema RAID 6 con 7 discos (5 de datos y 2 de paridad), se han\nperdido los discos 2 y 6. ¿Cuál es el valor del Disco 2?": {
+        "v": "01101011100111001100011010",
+        "f": [
+            "10100110101101100010101111",
+            "11100010110010110110001110",
+            "01011101010101010111001001",
+            "10011010001001010101001011",
+            "00110100100111010011110110",
+            "01110010101101111001001010",
+            "11000110011010101001100110",
+            "00011010101001101011001101",
+            "10101011001101010111001100",
+            "11101101101101001100101011"
+        ],
+        "e_count": 9
+    },
+    "Un sistema RAID 5 ha perdido un disco. Si los otros discos contienen\n10101100, 11011011, 00110010 y la paridad es 01000101, ¿cuál es el disco\nperdido?": {
+        "v": "10000010",
+        "f": [
+            "11110110",
+            "00101100",
+            "01100011",
+            "10111001",
+            "01001000",
+            "11010101",
+            "00001111",
+            "11100000",
+            "10010110",
+            "01101110"
+        ],
+        "e_count": 9
+    },
+    "¿Cuál es el valor decimal del dato hexadecimal 1F4?": {
+        "v": "500",
+        "f": [
+            "244",
+            "356",
+            "478",
+            "1024",
+            "600",
+            "128",
+            "999",
+            "450",
+            "700",
+            "520"
+        ],
+        "e_count": 10,
+        "c_count": 1
+    },
+    "¿Cuál es el valor octal del número decimal 156?": {
+        "v": "234",
+        "f": [
+            "226",
+            "176",
+            "200",
+            "245",
+            "300",
+            "222",
+            "210",
+            "157",
+            "270",
+            "250"
+        ],
+        "e_count": 8,
+        "c_count": 2
+    },
+    "¿Cuál es el valor binario del número octal 57?": {
+        "v": "101111",
+        "f": [
+            "111101",
+            "100011",
+            "101010",
+            "110011",
+            "100101",
+            "101100",
+            "110000",
+            "111000",
+            "100111",
+            "101011"
+        ],
+        "e_count": 9
+    },
+    "¿Cuál es el valor hexadecimal del número decimal 439?": {
+        "v": "1B7",
+        "f": [
+            "1C3",
+            "1A9",
+            "1F4",
+            "1D5",
+            "1E8",
+            "1B5",
+            "1B0",
+            "1A7",
+            "1C9",
+            "1D1"
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "¿Cuál es el valor binario del número decimal 29?": {
+        "v": "11101",
+        "f": [
+            "11011",
+            "10011",
+            "11110",
+            "10101",
+            "10111",
+            "11001",
+            "10001",
+            "10010",
+            "11010",
+            "11100"
+        ],
+        "e_count": 9,
+        "c_count": 1
+    },
+    "¿Cuál es el valor octal del número hexadecimal 2F?": {
+        "v": "57",
+        "f": [
+            "54",
+            "60",
+            "52",
+            "70",
+            "45",
+            "66",
+            "50",
+            "75",
+            "61",
+            "55"
+        ],
+        "e_count": 9
+    },
+    "¿Cuál es el valor decimal del número octal 345?": {
+        "v": "229",
+        "f": [
+            "218",
+            "240",
+            "256",
+            "301",
+            "198",
+            "210",
+            "235",
+            "275",
+            "230",
+            "280"
+        ],
+        "e_count": 9
+    },
+    "¿Qué disciplina está estrechamente relacionada con la evolución de la\ninformática?": {
+        "v": "La Electrónica",
+        "f": [
+            "La Física",
+            "La Matemática",
+            "La Química"
+        ]
+    },
+    "¿Qué factores son fundamentales en el diseño de los sistemas de\ncomputación?": {
+        "v": "Rendimiento, coste, potencia y funcionalidad",
+        "f": [
+            "Rendimiento y tamaño",
+            "Velocidad y diseño gráfico",
+            "Consumo energético y forma"
+        ]
+    },
+    "¿Qué componente ejecuta las instrucciones del programa?": {
+        "v": "El microprocesador",
+        "f": [
+            "La memoria",
+            "Los buses",
+            "El chip de control"
+        ]
+    },
+    "¿Qué componente almacena temporalmente datos e instrucciones?": {
+        "v": "La memoria",
+        "f": [
+            "Los slots de expansión",
+            "El microprocesador",
+            "Los buses internos"
+        ],
+        "c_count": 1
+    },
+    "¿Qué permiten los slots o ranuras de expansión?": {
+        "v": "Añadir tarjetas o módulos adicionales al sistema",
+        "f": [
+            "Mejorar el rendimiento del microprocesador",
+            "Incrementar la velocidad de los buses",
+            "Controlar los dispositivos periféricos"
+        ]
+    },
+    "¿Qué función tienen los chips de control, como la BIOS?": {
+        "v": "Gestionar el funcionamiento del sistema",
+        "f": [
+            "Ejecutar instrucciones de programas",
+            "Almacenar datos permanentemente",
+            "Aumentar la capacidad de la memoria"
+        ],
+        "c_count": 1
+    },
+    "¿Qué conectan los buses internos y externos?": {
+        "v": "Los componentes del sistema entre sí",
+        "f": [
+            "Los microprocesadores con los periféricos",
+            "La memoria con la BIOS",
+            "Los slots de expansión con el hardware externo"
+        ]
+    },
+    "¿Qué son los elementos integrados en la placa base o el microprocesador?": {
+        "v": "Componentes que mejoran el rendimiento o la funcionalidad del sistema",
+        "f": [
+            "Cables que conectan dispositivos externos",
+            "Tarjetas de expansión",
+            "Chips de control básicos"
+        ],
+        "c_count": 1
+    },
+    "¿Qué mejora la caché dentro de un sistema informático?": {
+        "v": "El rendimiento",
+        "f": [
+            "La cantidad de almacenamiento",
+            "La capacidad gráfica",
+            "La comunicación entre dispositivos externos"
+        ]
+    },
+    "¿Qué se busca además de incrementar la velocidad del microprocesador para\nmejorar el rendimiento?": {
+        "v": "Tener en cuenta otros factores como la organización de los componentes",
+        "f": [
+            "Reducir el consumo energético",
+            "Simplificar el diseño del hardware",
+            "Aumentar el tamaño de los buses internos"
+        ]
+    },
+    "¿Qué son los buses en un sistema informático?": {
+        "v": "Cables que conectan componentes y dispositivos externos",
+        "f": [
+            "Tarjetas de expansión",
+            "Elementos integrados en el microprocesador",
+            "Chips de control para el arranque del sistema"
+        ]
+    },
+    "¿Qué relación existe entre la Informática y la Electrónica?": {
+        "v": "La evolución de una está ligada al avance de la otra",
+        "f": [
+            "Son disciplinas completamente independientes",
+            "La Electrónica depende de los algoritmos informáticos",
+            "La Informática evolucionó sin influencias externas"
+        ]
+    },
+    "¿Qué se necesita para lograr eficiencia en la arquitectura de computadores?": {
+        "v": "La coordinación entre hardware, software, algoritmos y lenguajes de\nprogramación",
+        "f": [
+            "El aumento de memoria disponible",
+            "La reducción de componentes electrónicos",
+            "El uso exclusivo de software optimizado"
+        ],
+        "c_count": 1
+    },
+    "¿Qué permite un sistema con principios bien diseñados?": {
+        "v": "Ofrecer un rendimiento, coste, potencia y funcionalidad óptimos",
+        "f": [
+            "Tener un diseño estético",
+            "Reducir el tamaño de los dispositivos",
+            "Incrementar el consumo energético"
+        ]
+    },
+    "Cuál es el formato de caja de mayor tamaño": {
+        "v": "E-ATX",
+        "f": [
+            "S-ATX",
+            "ATX",
+            "Mini-ATX"
+        ]
+    },
+    "¿Cuál es el papel de la BIOS en la arquitectura de un sistema informático?": {
+        "v": "Iniciar el arranque",
+        "f": [
+            "Ejecutar aplicaciones y programas",
+            "Conectar componentes del sistema",
+            "Almacenar datos temporalmente"
+        ]
+    },
+    "¿Cuál es la función principal de la unidad de control?": {
+        "v": "Ejecutar instrucciones almacenadas en la memoria principal",
+        "f": [
+            "Realizar operaciones aritméticas y lógicas",
+            "Sincronizar las operaciones con los periféricos",
+            "Transmitir señales eléctricas a través del bus"
+        ]
+    },
+    "¿Cuál es la función principal del sistema operativo en la arquitectura de\nun sistema informático?": {
+        "v": "Gestionar los recursos hardware",
+        "f": [
+            "Ejecutar instrucciones específicas de un microprocesador",
+            "Traducir el código fuente de un programador a lenguaje de alto nivel",
+            "Añadir tarjetas gráficas y de sonido al sistema"
+        ],
+        "c_count": 1
+    },
+    "¿Cuál es una ventaja de los dispositivos de almacenamiento óptico en\ncomparación con otros medios de almacenamiento?": {
+        "v": "Mayor resistencia al calor y las ralladuras",
+        "f": [
+            "Mayor capacidad de espacio",
+            "Menor vida útil",
+            "Mayor velocidad de acceso a los datos"
+        ]
+    },
+    "Cuál fue el componente que impulsó la tercera generación de computadores?": {
+        "v": "El circuito integrado",
+        "f": [
+            "El microprocesador",
+            "El transistor",
+            "La válvula de vacío"
+        ]
+    },
+    "¿En la construcción de qué computador colaboró Alan Turing?": {
+        "v": "Colossus",
+        "f": [
+            "MARK I",
+            "ENIAC",
+            "Enigma"
+        ]
+    },
+    "¿Qué característica añade la UEFI con respecto a la BIOS?": {
+        "v": "Inicio seguro",
+        "f": [
+            "Interfaz gráfica más antigua",
+            "Ejecución de rutinas del sistema operativo",
+            "Prueba de autochequeo"
+        ]
+    },
+    "¿Qué determina en parte la velocidad de funcionamiento de la CPU?": {
+        "v": "La frecuencia del reloj",
+        "f": [
+            "La capacidad de almacenamiento de la memoria principal",
+            "La velocidad de la unidad aritmético-lógica",
+            "El número de cables en el bus de comunicación"
+        ]
+    },
+    "¿Qué generación de computadores dio un salto cualitativo sin ayuda de la\nElectrónica?": {
+        "v": "La quinta",
+        "f": [
+            "La tercera",
+            "La cuarta",
+            "La primera"
+        ],
+        "e_count": 1
+    },
+    "Cuál de las siguientes partes de una instrucción especifica la operación\nque se debe realizar?": {
+        "v": "El código de operación",
+        "f": [
+            "Los operandos",
+            "La dirección de memoria",
+            "El modo de direccionamiento"
+        ]
+    },
+    "¿Cuál es la función de la Branch Unit en la Unidad de Ejecución de una CPU?": {
+        "v": "Ejecutar instrucciones de salto condicional",
+        "f": [
+            "Gestionar las operaciones de transferencia de datos",
+            "Realizar operaciones lógicas",
+            "Realizar operaciones de punto flotante"
+        ]
+    },
+    "¿Cuál es la función principal de los registros generales en una CPU?": {
+        "v": "Almacenar datos temporales y resultados de cálculos",
+        "f": [
+            "Almacenar el estado de las operaciones anteriores",
+            "Almacenar la instrucción actual en ejecución",
+            "Almacenar la dirección de memoria de la próxima instrucción"
+        ]
+    },
+    "¿Cuál es una de las arquitecturas RISC ampliamente utilizadas?": {
+        "v": "ARM",
+        "f": [
+            "IBM Power",
+            "AMD Ryzen",
+            "Intel x86"
+        ]
+    },
+    "¿Cuál fue el microprocesador de 8 bits y antecesor de la arquitectura x86?": {
+        "v": "Intel 8080",
+        "f": [
+            "Intel 4004",
+            "Intel 80386",
+            "Intel 8086"
+        ],
+        "e_count": 1
+    },
+    "¿Qué almacena el registro Contador de Programa?": {
+        "v": "La siguiente instrucción a ejecutar",
+        "f": [
+            "La instrucción que se está ejecutando",
+            "La dirección de la cima de la pila",
+            "La bandera de cero"
+        ]
+    },
+    "¿Qué almacena el Registro de Instrucción en la CPU?": {
+        "v": "La instrucción que se está ejecutando",
+        "f": [
+            "La siguiente instrucción a ejecutar",
+            "La bandera de cero",
+            "La dirección de la cima de la pila"
+        ]
+    },
+    "¿Qué característica introdujo el Intel 80386 que lo hizo destacar en su\népoca?": {
+        "v": "Uso de pipeline",
+        "f": [
+            "Contenía muy pocos transistores",
+            "Mayor velocidad de reloj",
+            "Arquitectura de 64 bits"
+        ],
+        "c_count": 1
+    },
+    "¿Qué es el pipelining en una CPU?": {
+        "v": "Una técnica que descompone en etapas el ciclo de instrucción",
+        "f": [
+            "Un conjunto de instrucciones de un programa",
+            "Una unidad especializada para cálculos en punto flotante",
+            "Un tipo de memoria cache"
+        ]
+    },
+    "¿Qué parte de una instrucción especifica cómo se va a acceder a los\noperandos?": {
+        "v": "Modo de direccionamiento",
+        "f": [
+            "Dirección de memoria",
+            "Resultados",
+            "Código de operación"
+        ]
+    },
+    "¿Cuál es el resultado de la operación XOR entre los siguientes valores en\nformato hexadecimal: 0xF0 y 0xAA?": {
+        "v": "0x5A",
+        "f": [
+            "0xAA",
+            "0x5F",
+            "0x0F"
+        ],
+        "e_count": 1
+    },
+    "¿Cuál es una desventaja de la arquitectura de Harvard en contraste con la\nde Von Neumann?": {
+        "v": "Requiere más espacio y coste para implementar memorias y buses",
+        "f": [
+            "Ofrece un menor rendimiento en términos de velocidad",
+            "Proporciona una mayor eficiencia en el uso de memoria",
+            "Es menos compleja y más fácil de programar y diseñar"
+        ]
+    },
+    "¿Cuál fue el primer tipo de ranura de expansión que se utilizó en los\ncomputadores?": {
+        "v": "ISA",
+        "f": [
+            "M.2",
+            "AGP",
+            "PCI"
+        ],
+        "c_count": 1
+    },
+    "¿Cuándo aparecieron los primeros SSD comerciales en el mercado?": {
+        "v": "A mediados de la década de 1990",
+        "f": [
+            "En la última década",
+            "Finales del siglo XX",
+            "Principios del año 2000"
+        ],
+        "e_count": 1
+    },
+    "¿Por qué, a pesar de poder transferir varios bits simultáneamente, en\nmuchos casos se prefiere la transmisión en serie sobre la transmisión en\nparalelo?": {
+        "v": "La transmisión en paralelo favorece la aparición de interferencias y ruido",
+        "f": [
+            "La transmisión en serie es más lenta que la transmisión en paralelo",
+            "La transmisión en paralelo evita la aparición de interferencias y ruido en\nla señal",
+            "El uso de múltiples hilos simultáneos hace que la transmisión en paralelo\nsea más confiable"
+        ]
+    },
+    "¿Qué características definen la operación de la memoria caché en relación a\nla localidad espacial y temporal?": {
+        "v": "Previsión de accesos a direcciones ya visitadas o a otras vecinas",
+        "f": [
+            "Baja velocidad de acceso y tamaño de almacenamiento reducido",
+            "Baja frecuencia de lecturas y escrituras, solo se realizan esporádicamente",
+            "Proximidad al procesador y gran capacidad de almacenamiento"
+        ]
+    },
+    "¿Qué caracteriza a la caché L1 en relación a su ubicación y tamaño?": {
+        "v": "Se ubica en el núcleo del procesador y es la más veloz pero la más pequeña",
+        "f": [
+            "Está más lejos del procesador y es la más grande de todas",
+            "Está en el procesador pero es más lenta y grande que la L2",
+            "Se encuentra cerca de la RAM y es la más grande de todas las cachés"
+        ],
+        "c_count": 1
+    },
+    "¿Qué tipo de RAM requiere refrescar su contenido periódicamente para evitar\nla pérdida de datos?": {
+        "v": "DRAM",
+        "f": [
+            "SDRAM",
+            "SRAM",
+            "RDRAM"
+        ]
+    },
+    "¿Qué tipo de ROM permitía borrar su contenido exponiéndolo a luz\nultravioleta una posterior escritura y requería sacar el chip de la caja?": {
+        "v": "EPROM",
+        "f": [
+            "PROM",
+            "EEPROM",
+            "ROM"
+        ]
+    },
+    "En un procesador multihilo, ¿qué hace la CPU cuando un hilo está bloqueado\nesperando una operación?": {
+        "v": "Cambia a otro hilo activo y continúa ejecutando instrucciones",
+        "f": [
+            "Detiene completamente la ejecución de todos los hilos",
+            "Reduce la velocidad de ejecución de los hilos bloqueados",
+            "Cambia al hilo bloqueado para liberar recursos"
+        ],
+        "c_count": 1
+    },
+    "¿Cuál de las siguientes opciones es una línea de comandos de Linux?": {
+        "v": "FISH",
+        "f": [
+            "GNOME",
+            "CMD",
+            "POWERSHELL"
+        ]
+    },
+    "¿Cuál de los siguientes es un dispositivo virtual, desde  punto de vista de\nla E/S?": {
+        "v": "Disco duro",
+        "f": [
+            "Impresora",
+            "Ratón",
+            "Teclado"
+        ]
+    },
+    "¿En qué etapa de la evolución de los sistemas operativos aparece la memoria\nvirtual?": {
+        "v": "Etapa 3 (1964-1979)",
+        "f": [
+            "Etapa 4 (1980-2004)",
+            "Etapa 1 (1943-1955)",
+            "Etapa 2 (1956-1963)"
+        ],
+        "e_count": 1
+    },
+    "¿En qué tipo de sistema operativo si no se obtiene una respuesta en un\ntiempo reducido, las consecuencias pueden ser trágicas?": {
+        "v": "De tiempo real",
+        "f": [
+            "Microkernel",
+            "Multiprocesamiento",
+            "Multiusuario"
+        ]
+    },
+    "¿Qué caracteriza al Modo Kernel en un sistema operativo?": {
+        "v": "Ejecución de instrucciones privilegiadas con acceso total al hardware",
+        "f": [
+            "Acceso restringido al hardware y a las operaciones críticas del sistema",
+            "Nivel privilegiado para la mayoría de los programas y aplicaciones",
+            "Restricciones para el kernel del sistema operativo"
+        ]
+    },
+    "¿Qué diferencia fundamental existe entre el Modo Kernel  y el Modo Usuario\nen un sistema operativo?": {
+        "v": "El Modo Kernel tiene acceso total al hardware, al contrario que el Modo\nUsuario",
+        "f": [
+            "El Modo Kernel ejecuta la mayoría de programas y el Modo Usuario administra\nel hardware",
+            "El Modo Kernel restringe el acceso al hardware, mientras que el Modo\nUsuario no",
+            "Ambos modos ejecutan procesos restringidos, pero en diferentes niveles de\nprivilegio"
+        ]
+    },
+    "¿Qué etapa se produce después de que un programa en Modo Usuario carga los\nparámetros necesarios en la CPU?": {
+        "v": "Atención de la llamada al sistema",
+        "f": [
+            "Resultado",
+            "Preparación",
+            "Invocación"
+        ]
+    },
+    "¿Qué función cumple una línea de comandos en un sistema informático?": {
+        "v": "Facilitar la interacción del usuario con la computadora",
+        "f": [
+            "Restringir el acceso del usuario a las funcionalidades del sistema",
+            "Mantener los detalles específicos del hardware a la vista de los usuarios",
+            "Proporcionar una capa de abstracción que oculta el hardware a los usuarios"
+        ],
+        "c_count": 1
+    },
+    "¿Qué función realiza la abstracción de hardware en un sistema operativo?": {
+        "v": "Crear una capa intermedia que simplifique el acceso al hardware",
+        "f": [
+            "Ocultar los detalles específicos del software a los programadores",
+            "Hacer que el hardware sea más complejo para los programadores",
+            "Obligar a los programadores a considerar los detalles del hardware\nespecífico"
+        ]
+    },
+    "¿Qué ocurre en la etapa de \"Captura de la Interrupción\" durante el manejo\nde una interrupción?": {
+        "v": "Suspensión del programa actual y transferencia al controlador de\ninterrupciones",
+        "f": [
+            "Procesamiento de la interrupción para responder al evento",
+            "Generación de una señal de interrupción por hardware o por software",
+            "Identificación de la causa de la interrupción"
+        ]
+    },
+    "¿Cuál de las siguientes condiciones no tiene que ver con el problema del\nbloqueo mutuo?": {
+        "v": "No apreciación",
+        "f": [
+            "Espera circular",
+            "Uso exclusivo",
+            "Retención y espera"
+        ]
+    },
+    "¿Qué algoritmo de reemplazo de páginas genera la anomalía de Belady?": {
+        "v": "FIFO",
+        "f": [
+            "LFU",
+            "LRU",
+            "Óptimo"
+        ]
+    },
+    "¿Qué nuevos estados de un proceso surgen con la técnica del swapping?": {
+        "v": "Listo en disco y bloqueado en disco",
+        "f": [
+            "Bloqueado en disco y preparado en disco",
+            "Preparado en disco y activo en disco"
+        ]
+    },
+    "¿Qué sistema de almacenamiento de archivos produce el problema conocido\ncomo desbordamiento?": {
+        "v": "Lista de enlaces",
+        "f": [
+            "Lista de enlaces mejorada",
+            "Almacenamiento contiguo",
+            "I-Nodos"
+        ]
+    },
+    "¿Qué sistema de almacenamiento de archivos requiere accesos secuenciales al\ndisco para leer un determinado bloque de un archivo?": {
+        "v": "Lista de enlaces",
+        "f": [
+            "Almacenamiento contiguo",
+            "I-Nodos",
+            "Lista de enlaces mejorada"
+        ]
+    },
+    "¿Qué tipo de gestión de la memoria utiliza la técnica de compactación para\nreubicar los procesos en posiciones de memoria consecutivas?": {
+        "v": "Particionamiento dinámico",
+        "f": [
+            "Particionamiento estático",
+            "Segmentación",
+            "Paginación"
+        ],
+        "e_count": 1
+    },
+    "Supongamos un sistema que utiliza el método FIFO para gestionar la memoria\nvirtual con tres marcos de página. ¿Cuántos fallos de página produce la\nsiguiente secuencia de llamadas a las páginas de un proceso en ejecución: 1\n3 2 3 5 4 2 3 5?": {
+        "v": "6",
+        "f": [
+            "5",
+            "7",
+            "4"
+        ]
+    },
+    "Un algoritmo de planificación FIFO debe gestionar los procesos P1, P2, P3 y\nP4 cuyos tiempos de ejecución en ms son 20, 15, 38 y 53, ¿en qué instante\nterminará su ejecución P3, suponiendo que P1 se inicia en el instante 0?": {
+        "v": "73",
+        "f": [
+            "35",
+            "40",
+            "62"
+        ]
+    },
+    "Un algoritmo de planificación Round-Robin de quantum 10 debe gestionar los\nprocesos P1, P2, P3 y P4 cuyos tiempos de ejecución en ms son 20, 15, 38 y\n53, ¿en qué instante terminará su ejecución P2, suponiendo que P1 se inicia\nen el instante 0?": {
+        "v": "55",
+        "f": [
+            "73",
+            "35",
+            "43"
+        ]
+    },
+    "Un semáforo se usa:": {
+        "v": "En algoritmos de espera no activa",
+        "f": [
+            "Como solución para el problema de bloqueo mutuo",
+            "En algoritmos de espera activa",
+            "Para obtener la exclusión mutua mediante hardware"
+        ]
+    },
+    "¿Qué objetivo tiene la arquitectura de ordenadores?": {
+        "v": "Diseñar máquinas que procesen información de forma eficiente",
+        "f": [
+            "Crear software de alto nivel",
+            "Optimizar únicamente los microprocesadores",
+            "Diseñar redes de comunicación",
+            "Reducir el tamaño de las tarjetas gráficas"
+        ]
+    },
+    "¿Qué componente se encargaba de amplificar señales eléctricas en la primera\ngeneración de computadoras?": {
+        "v": "Válvula de vacío",
+        "f": [
+            "Transistor",
+            "Caché",
+            "Coprocesador",
+            "Relés electromecánicos"
+        ]
+    },
+    "¿Qué componente es el encargado de ejecutar las instrucciones del programa?": {
+        "v": "Microprocesador",
+        "f": [
+            "Memoria",
+            "Buses internos",
+            "BIOS",
+            "Slots de expansión"
+        ]
+    },
+    "¿Qué máquina descifraba los mensajes secretos nazis durante la Segunda\nGuerra Mundial?": {
+        "v": "Colossus",
+        "f": [
+            "MARK I",
+            "ENIAC",
+            "Enigma",
+            "UNIVAC"
+        ]
+    },
+    "¿Qué es la arquitectura del conjunto de instrucciones (ISA)?": {
+        "v": "El repertorio de instrucciones que puede ejecutar un microprocesador",
+        "f": [
+            "El diseño físico de un procesador",
+            "El sistema operativo de un computador",
+            "Un lenguaje de programación de bajo nivel",
+            "La estructura de la memoria caché"
+        ]
+    },
+    "¿Quién es considerado el padre de la informática?": {
+        "v": "Alan Turing",
+        "f": [
+            "Grace Hopper",
+            "John von Neumann",
+            "Charles Babbage",
+            "Howard Aiken"
+        ]
+    },
+    "¿Qué dispositivo permitió reducir el tamaño y consumo energético de las\ncomputadoras en la segunda generación?": {
+        "v": "Transistor",
+        "f": [
+            "Válvula de vacío",
+            "Núcleos de ferrita",
+            "Caché",
+            "Controladores integrados"
+        ],
+        "c_count": 1
+    },
+    "¿Qué se utilizaba para programar ordenadores en la primera generación?": {
+        "v": "Tarjetas perforadas",
+        "f": [
+            "Lenguajes de alto nivel",
+            "Sistemas operativos avanzados",
+            "Transistores programables",
+            "Códigos en papel continuo"
+        ],
+        "c_count": 1
+    },
+    "¿Qué universidad colaboró con IBM para desarrollar el MARK I?": {
+        "v": "Harvard",
+        "f": [
+            "Stanford",
+            "Cambridge",
+            "MIT",
+            "Oxford"
+        ],
+        "c_count": 1
+    },
+    "¿Qué componente se utiliza para almacenar datos temporalmente en un sistema\ninformático?": {
+        "v": "Memoria",
+        "f": [
+            "Microprocesador",
+            "BIOS",
+            "Buses externos",
+            "Ranuras de expansión"
+        ]
+    },
+    "¿Qué factores intervienen para aumentar el rendimiento de un computador?": {
+        "v": "Velocidad del microprocesador y otros factores como coste y funcionalidad",
+        "f": [
+            "Solo la velocidad del microprocesador",
+            "Únicamente el coste de los componentes",
+            "Solo la funcionalidad del software",
+            "Incrementar la memoria RAM indefinidamente"
+        ]
+    },
+    "¿Qué componente gestiona el arranque de un sistema informático?": {
+        "v": "BIOS",
+        "f": [
+            "Memoria caché",
+            "Microprocesador",
+            "Slots de expansión",
+            "Buses externos"
+        ]
+    },
+    "¿Qué característica NO corresponde a los transistores?": {
+        "v": "Ocupan más espacio que las válvulas de vacío",
+        "f": [
+            "Son más rápidos",
+            "Consumen menos energía",
+            "Son más fiables",
+            "Disipan menos calor"
+        ]
+    },
+    "¿Qué invento marcó el inicio de la primera generación de computadoras?": {
+        "v": "Válvula de vacío",
+        "f": [
+            "Transistor",
+            "Lenguajes de alto nivel",
+            "Caché",
+            "Memoria RAM"
+        ]
+    },
+    "¿Qué lenguaje se utilizó por primera vez en la segunda generación de\ncomputadoras?": {
+        "v": "Lenguajes de alto nivel",
+        "f": [
+            "Código máquina",
+            "Lenguaje ensamblador",
+            "Lenguajes binarios",
+            "Lenguajes de bajo nivel"
+        ]
+    },
+    "¿Qué característica NO tenían los ordenadores de la primera generación?": {
+        "v": "Uso de transistores",
+        "f": [
+            "Eran enormes",
+            "Usaban válvulas de vacío",
+            "Eran lentos",
+            "Eran muy costosos"
+        ],
+        "c_count": 1
+    },
+    "¿Qué dispositivo utilizaba el silicio como material principal?": {
+        "v": "Transistor",
+        "f": [
+            "Núcleos de ferrita",
+            "Válvula de vacío",
+            "Tarjetas perforadas",
+            "Coprocesadores"
+        ]
+    },
+    "¿Qué máquina fue creada por la Universidad de Pennsylvania?": {
+        "v": "ENIAC",
+        "f": [
+            "MARK I",
+            "Colossus",
+            "UNIVAC",
+            "Zuse Z3"
+        ],
+        "c_count": 1
+    },
+    "¿Qué nombre se dio al primer error registrado en un computador?": {
+        "v": "Bug",
+        "f": [
+            "Glitch",
+            "Crash",
+            "Error lógico",
+            "Malfunction"
+        ]
+    },
+    "¿Qué innovación de la segunda generación permitió almacenar información de\nmanera magnética?": {
+        "v": "Núcleos de ferrita",
+        "f": [
+            "Transistores",
+            "Tarjetas perforadas",
+            "Relés electromecánicos",
+            "Caché"
+        ]
+    },
+    "¿Qué es el compilador en un sistema informático?": {
+        "v": "Un programa que traduce código fuente a código máquina",
+        "f": [
+            "El software que arranca el sistema",
+            "Un componente de hardware",
+            "Un sistema operativo de bajo nivel",
+            "Una unidad de almacenamiento"
+        ]
+    },
+    "¿Qué componente integra controladores para mejorar el rendimiento del\nsistema?": {
+        "v": "Elementos integrados en la placa base",
+        "f": [
+            "Buses internos",
+            "BIOS",
+            "Ranuras de expansión",
+            "Caché externa"
+        ]
+    },
+    "¿Qué máquina se utilizó para descifrar mensajes nazis?": {
+        "v": "Colossus",
+        "f": [
+            "Enigma",
+            "MARK II",
+            "ENIAC",
+            "UNIVAC"
+        ],
+        "c_count": 1
+    },
+    "¿Qué aportó Alan Turing a la Informática?": {
+        "v": "El modelo teórico de una máquina universal",
+        "f": [
+            "El desarrollo del transistor",
+            "El diseño de lenguajes de alto nivel",
+            "La creación de núcleos de ferrita",
+            "La invención de la válvula de vacío"
+        ]
+    },
+    "¿Qué tecnología utilizaba el MARK I?": {
+        "v": "Relés electromecánicos",
+        "f": [
+            "Válvulas de vacío",
+            "Transistores",
+            "Circuitos integrados",
+            "Microprocesadores"
+        ]
+    },
+    "¿Qué característica definía al ENIAC?": {
+        "v": "Primer ordenador electrónico de carácter general",
+        "f": [
+            "Usaba transistores",
+            "Basado en núcleos de ferrita",
+            "Era portátil",
+            "Programado con lenguajes de alto nivel"
+        ]
+    },
+    "¿Qué permite el sistema operativo?": {
+        "v": "Gestionar recursos de hardware y aplicaciones",
+        "f": [
+            "Controlar solo la memoria caché",
+            "Diseñar circuitos integrados",
+            "Traducir código máquina a binario",
+            "Conectar buses internos con externos"
+        ]
+    },
+    "¿Qué dispositivo amplifica señales eléctricas y controla el flujo de\nelectrones?": {
+        "v": "Válvula de vacío",
+        "f": [
+            "Transistor",
+            "Caché",
+            "Compilador",
+            "BIOS"
+        ]
+    },
+    "¿Qué innovación se asocia a la segunda generación de computadoras?": {
+        "v": "Transistores y lenguajes de alto nivel",
+        "f": [
+            "Relés electromecánicos",
+            "Válvulas de vacío",
+            "Caché externa",
+            "Sistemas operativos avanzados"
+        ],
+        "c_count": 1
+    },
+    "¿Qué NO era una ventaja de los transistores sobre las válvulas de vacío?": {
+        "v": "Eran más grandes",
+        "f": [
+            "Consumían menos energía",
+            "Generaban menos calor",
+            "Eran más fiables",
+            "Eran más rápidos"
+        ]
+    },
+    "¿Qué papel juega la arquitectura de computadores en un sistema?": {
+        "v": "Coordinar hardware, software y algoritmos",
+        "f": [
+            "Crear únicamente microprocesadores",
+            "Diseñar solo sistemas operativos",
+            "Optimizar redes de comunicación",
+            "Reducir costos de fabricación"
+        ]
+    },
+    "¿Qué significa ISA?": {
+        "v": "Arquitectura del conjunto de instrucciones",
+        "f": [
+            "Interfaz del sistema avanzado",
+            "Integración de sistemas automatizados",
+            "Instrucciones de software avanzado",
+            "Arquitectura de software interno"
+        ]
+    },
+    "¿Qué fue revolucionario en los lenguajes de alto nivel?": {
+        "v": "Permitían programar más fácilmente",
+        "f": [
+            "Eran más rápidos que el código máquina",
+            "No necesitaban compilador",
+            "Reemplazaban al hardware",
+            "Eran más costosos de implementar"
+        ]
+    },
+    "¿Qué es la arquitectura de computadores?": {
+        "v": "Disciplina que diseña máquinas que procesen información eficientemente",
+        "f": [
+            "El diseño exclusivo del hardware",
+            "El desarrollo de sistemas operativos",
+            "El ensamblaje de componentes electrónicos",
+            "La creación de redes informáticas"
+        ]
+    },
+    "¿Qué función tienen los buses en un computador?": {
+        "v": "Conectar componentes internos y externos",
+        "f": [
+            "Almacenar datos de forma temporal",
+            "Ejecutar instrucciones del software",
+            "Proveer energía a los dispositivos",
+            "Configurar la comunicación con periféricos"
+        ],
+        "c_count": 1
+    },
+    "¿Qué caracteriza a la primera generación de computadoras?": {
+        "v": "Uso de válvulas de vacío",
+        "f": [
+            "Uso de transistores",
+            "Memoria basada en núcleos de ferrita",
+            "Lenguajes de alto nivel",
+            "Microprocesadores integrados"
+        ],
+        "c_count": 1
+    },
+    "¿Qué dispositivo fue revolucionario en la segunda generación?": {
+        "v": "El transistor",
+        "f": [
+            "Las válvulas de vacío",
+            "Los relés electromecánicos",
+            "La memoria caché",
+            "Las tarjetas perforadas"
+        ]
+    },
+    "¿Qué componente ejecuta instrucciones y realiza operaciones aritméticas?": {
+        "v": "El microprocesador",
+        "f": [
+            "La memoria RAM",
+            "Los buses internos",
+            "El sistema operativo",
+            "La arquitectura ISA"
+        ]
+    },
+    "¿Qué innovación introdujo los núcleos de ferrita?": {
+        "v": "Permitir almacenar información magnéticamente",
+        "f": [
+            "Ampliar la capacidad de los transistores",
+            "Mejorar la velocidad de las válvulas de vacío",
+            "Integrar lenguajes de alto nivel",
+            "Optimizar el uso de tarjetas perforadas"
+        ]
+    },
+    "¿Qué elemento traduce código fuente a código máquina?": {
+        "v": "El compilador",
+        "f": [
+            "El sistema operativo",
+            "La memoria caché",
+            "El microprocesador",
+            "El controlador"
+        ]
+    },
+    "¿Qué componente controla el flujo de electrones en un circuito?": {
+        "v": "El transistor",
+        "f": [
+            "La válvula de vacío",
+            "El relé electromecánico",
+            "El núcleo de ferrita",
+            "La memoria RAM"
+        ]
+    },
+    "¿Qué característica NO pertenece a las válvulas de vacío?": {
+        "v": "Eran más pequeñas que los transistores",
+        "f": [
+            "Representaban ceros y unos",
+            "Controlaban señales eléctricas",
+            "Generaban mucho calor",
+            "Consumían más energía"
+        ]
+    },
+    "¿Qué permitió el desarrollo del lenguaje binario?": {
+        "v": "Representar información con ceros y unos",
+        "f": [
+            "Diseñar microprocesadores",
+            "Almacenar información magnéticamente",
+            "Crear sistemas operativos modernos",
+            "Programar en lenguajes de alto nivel"
+        ]
+    },
+    "¿Qué elemento físico permitió representar ceros y unos?": {
+        "v": "La válvula de vacío",
+        "f": [
+            "El transistor",
+            "La memoria caché",
+            "El núcleo de ferrita",
+            "El compilador"
+        ]
+    },
+    "¿Qué máquina construyó Alan Turing para descifrar mensajes nazis?": {
+        "v": "Colossus",
+        "f": [
+            "MARK I",
+            "ENIAC",
+            "Enigma",
+            "UNIVAC"
+        ]
+    },
+    "¿Qué característica definió a los lenguajes de alto nivel?": {
+        "v": "Eran más cercanos al lenguaje humano",
+        "f": [
+            "Eran más rápidos que el código máquina",
+            "Permitían diseñar hardware",
+            "Se usaban exclusivamente en sistemas operativos",
+            "No requerían compilador"
+        ]
+    },
+    "¿Qué innovación introdujo la segunda generación de computadoras?": {
+        "v": "Transistores y lenguajes de alto nivel",
+        "f": [
+            "Válvulas de vacío",
+            "Relés electromecánicos",
+            "Circuitos integrados",
+            "Arquitectura ISA"
+        ]
+    },
+    "¿Qué se usaba para programar en la primera generación?": {
+        "v": "Tarjetas perforadas",
+        "f": [
+            "Lenguajes de alto nivel",
+            "Memoria caché",
+            "Sistemas operativos avanzados",
+            "Compiladores integrados"
+        ],
+        "c_count": 1
+    },
+    "¿Qué máquina se considera el primer ordenador electrónico de carácter\ngeneral?": {
+        "v": "ENIAC",
+        "f": [
+            "Colossus",
+            "MARK I",
+            "Zuse Z3",
+            "UNIVAC"
+        ]
+    },
+    "¿Qué elemento ayudó a reducir el tamaño de los computadores en la segunda\ngeneración?": {
+        "v": "El transistor",
+        "f": [
+            "La válvula de vacío",
+            "El relé electromecánico",
+            "El núcleo de ferrita",
+            "El compilador"
+        ]
+    },
+    "¿Qué característica NO corresponde al transistor?": {
+        "v": "Consumía más energía que las válvulas de vacío",
+        "f": [
+            "Era más fiable",
+            "Generaba menos calor",
+            "Permitía computadores más pequeños",
+            "Era más rápido"
+        ]
+    },
+    "¿Qué permitió la aparición del compilador?": {
+        "v": "Traducir lenguajes de alto nivel a código máquina",
+        "f": [
+            "Diseñar hardware más eficiente",
+            "Mejorar la memoria caché",
+            "Desarrollar transistores",
+            "Optimizar los buses internos"
+        ]
+    },
+    "¿Qué caracteriza a la arquitectura ISA?": {
+        "v": "Es el conjunto de instrucciones que ejecuta un procesador",
+        "f": [
+            "Es un tipo de sistema operativo",
+            "Es un lenguaje de programación avanzado",
+            "Es un componente de hardware",
+            "Es una memoria integrada en la placa base"
+        ]
+    },
+    "¿Qué dispositivo permitía representar información magnéticamente en la\nsegunda generación?": {
+        "v": "Núcleos de ferrita",
+        "f": [
+            "Transistores",
+            "Válvulas de vacío",
+            "Tarjetas perforadas",
+            "Buses externos"
+        ]
+    },
+    "¿Qué máquina es conocida como la primera en usar relés electromecánicos?": {
+        "v": "MARK I",
+        "f": [
+            "ENIAC",
+            "Colossus",
+            "UNIVAC",
+            "Zuse Z3"
+        ]
+    },
+    "¿Qué elemento se utilizó en la segunda generación para mejorar la\neficiencia energética?": {
+        "v": "Transistor",
+        "f": [
+            "Válvula de vacío",
+            "Relés electromecánicos",
+            "Núcleos de ferrita",
+            "Tarjetas perforadas"
+        ],
+        "c_count": 1
+    },
+    "¿Qué máquina fue clave en descifrar el código Enigma?": {
+        "v": "Colossus",
+        "f": [
+            "MARK I",
+            "ENIAC",
+            "UNIVAC",
+            "Zuse Z3"
+        ]
+    },
+    "¿Qué innovaciones permitieron los lenguajes de alto nivel?": {
+        "v": "Programar de manera más cercana al lenguaje humano",
+        "f": [
+            "Mejorar la velocidad de los microprocesadores",
+            "Reducir el tamaño de las computadoras",
+            "Controlar dispositivos externos",
+            "Optimizar el almacenamiento magnético"
+        ],
+        "c_count": 1
+    },
+    "¿Qué sistema fue considerado revolucionario por almacenar información\nmagnéticamente?": {
+        "v": "Núcleos de ferrita",
+        "f": [
+            "Válvulas de vacío",
+            "Transistores",
+            "Caché",
+            "Ranuras de expansión"
+        ]
+    },
+    "¿Qué componente gestionaba el arranque y configuración básica del sistema?": {
+        "v": "BIOS",
+        "f": [
+            "Compilador",
+            "Buses internos",
+            "Caché",
+            "Sistema operativo"
+        ]
+    },
+    "¿Qué material permitió el desarrollo del transistor?": {
+        "v": "Silicio",
+        "f": [
+            "Hierro",
+            "Cobre",
+            "Plomo",
+            "Oro"
+        ],
+        "c_count": 1
+    },
+    "¿Qué máquina fue creada mediante una colaboración entre Harvard e IBM?": {
+        "v": "MARK I",
+        "f": [
+            "ENIAC",
+            "Colossus",
+            "UNIVAC",
+            "Zuse Z3"
+        ]
+    },
+    "¿Qué elemento mejoró la eficiencia de las computadoras al disipar menos\ncalor?": {
+        "v": "Transistor",
+        "f": [
+            "Válvula de vacío",
+            "Núcleo de ferrita",
+            "Relés electromecánicos",
+            "BIOS"
+        ]
+    },
+    "¿Qué aportación hizo Alan Turing a la informática?": {
+        "v": "La máquina universal teórica",
+        "f": [
+            "El diseño del transistor",
+            "La creación de núcleos de ferrita",
+            "El desarrollo del lenguaje binario",
+            "La implementación de sistemas operativos"
+        ]
+    },
+    "¿Qué componente se encarga de ejecutar las instrucciones de un programa?": {
+        "v": "El microprocesador",
+        "f": [
+            "La memoria RAM",
+            "Los buses internos",
+            "El sistema operativo",
+            "El compilador"
+        ]
+    },
+    "¿Qué característica principal tenían las computadoras de la primera\ngeneración?": {
+        "v": "Usaban válvulas de vacío",
+        "f": [
+            "Utilizaban transistores",
+            "Eran programadas con lenguajes de alto nivel",
+            "Poseían circuitos integrados",
+            "Tenían microprocesadores avanzados"
+        ]
+    },
+    "¿Qué permitió el desarrollo del transistor en la segunda generación?": {
+        "v": "Reducción del tamaño y consumo energético de las computadoras",
+        "f": [
+            "Eliminación de la memoria caché",
+            "Incremento de la velocidad de los relés electromecánicos",
+            "Automatización del proceso de programación",
+            "Creación de sistemas operativos más avanzados"
+        ]
+    },
+    "¿Qué elemento se utilizó para representar información magnéticamente?": {
+        "v": "Núcleos de ferrita",
+        "f": [
+            "Tarjetas perforadas",
+            "Válvulas de vacío",
+            "Relés electromecánicos",
+            "Compiladores"
+        ],
+        "c_count": 1
+    },
+    "¿Qué máquina fue considerada como el primer ordenador electrónico de\npropósito general?": {
+        "v": "ENIAC",
+        "f": [
+            "MARK I",
+            "Colossus",
+            "UNIVAC",
+            "Zuse Z3"
+        ]
+    },
+    "¿Qué característica definía a los lenguajes de alto nivel en la segunda\ngeneración?": {
+        "v": "Eran más cercanos al lenguaje humano",
+        "f": [
+            "Reemplazaban al código máquina por completo",
+            "No necesitaban compiladores",
+            "Eran exclusivos de sistemas operativos avanzados",
+            "Facilitaban el diseño de hardware"
+        ]
+    },
+    "¿Qué dispositivo revolucionó la informática al permitir amplificar señales\neléctricas?": {
+        "v": "El transistor",
+        "f": [
+            "La válvula de vacío",
+            "El núcleo de ferrita",
+            "El compilador",
+            "El microprocesador"
+        ]
+    },
+    "¿Qué se utilizaba para programar computadoras en la primera generación?": {
+        "v": "Tarjetas perforadas",
+        "f": [
+            "Lenguajes de alto nivel",
+            "Memorias magnéticas",
+            "Sistemas operativos integrados",
+            "Relés electromecánicos"
+        ]
+    },
+    "¿Qué relación existe entre la informática y la electrónica?": {
+        "v": "Los avances en electrónica impulsaron el desarrollo de la informática",
+        "f": [
+            "La informática reemplazó completamente a la electrónica",
+            "No tienen relación directa",
+            "La electrónica depende de los sistemas operativos informáticos",
+            "Ambas disciplinas evolucionaron de forma independiente"
+        ]
+    },
+    "¿Qué característica definía a los ordenadores de la segunda generación?": {
+        "v": "Uso de transistores en lugar de válvulas de vacío",
+        "f": [
+            "Introducción de microprocesadores",
+            "Implementación de sistemas operativos avanzados",
+            "Uso de tarjetas perforadas como memoria principal",
+            "Relés electromecánicos más rápidos"
+        ],
+        "c_count": 1
+    },
+    "¿Qué dispositivo permitió reducir el tamaño y el consumo energético de las\ncomputadoras?": {
+        "v": "El transistor",
+        "f": [
+            "La válvula de vacío",
+            "Los núcleos de ferrita",
+            "El compilador",
+            "La BIOS"
+        ],
+        "c_count": 1
+    },
+    "¿Qué máquina fue utilizada para descifrar códigos durante la Segunda Guerra\nMundial?": {
+        "v": "Colossus",
+        "f": [
+            "MARK I",
+            "ENIAC",
+            "UNIVAC",
+            "Zuse Z3"
+        ],
+        "c_count": 1
+    },
+    "¿Qué innovación tecnológica permitió almacenar información magnéticamente?": {
+        "v": "Los núcleos de ferrita",
+        "f": [
+            "El transistor",
+            "Las válvulas de vacío",
+            "Las tarjetas perforadas",
+            "Los relés electromecánicos"
+        ]
+    },
+    "¿Qué componente traduce código fuente a código máquina?": {
+        "v": "El compilador",
+        "f": [
+            "El sistema operativo",
+            "La memoria RAM",
+            "El microprocesador",
+            "El núcleo de ferrita"
+        ]
+    },
+    "¿Qué universidad colaboró con IBM en la creación del MARK I?": {
+        "v": "Harvard",
+        "f": [
+            "Stanford",
+            "Cambridge",
+            "MIT",
+            "Oxford"
+        ]
+    },
+    "¿Qué característica principal tenían los lenguajes de alto nivel?": {
+        "v": "Facilitaban la programación al ser más cercanos al lenguaje humano",
+        "f": [
+            "Eliminaban la necesidad de hardware especializado",
+            "Permitían ejecutar código sin necesidad de compiladores",
+            "Eran exclusivos de sistemas operativos avanzados",
+            "Reemplazaban por completo el código máquina"
+        ]
+    },
+    "¿Qué dispositivo reemplazó a las válvulas de vacío en la segunda\ngeneración?": {
+        "v": "El transistor",
+        "f": [
+            "Los núcleos de ferrita",
+            "El relé electromecánico",
+            "La memoria caché",
+            "La BIOS"
+        ]
+    },
+    "¿Qué máquina es considerada el primer ordenador electrónico de propósito\ngeneral?": {
+        "v": "ENIAC",
+        "f": [
+            "Colossus",
+            "MARK I",
+            "Zuse Z3",
+            "UNIVAC"
+        ]
+    },
+    "¿Qué elemento se utilizó en la primera generación para representar ceros y\nunos?": {
+        "v": "La válvula de vacío",
+        "f": [
+            "El transistor",
+            "El núcleo de ferrita",
+            "La memoria caché",
+            "El compilador"
+        ]
+    },
+    "¿Qué componente se encarga de ejecutar instrucciones y realizar cálculos\naritméticos?": {
+        "v": "El microprocesador",
+        "f": [
+            "La memoria RAM",
+            "El sistema operativo",
+            "Los buses internos",
+            "La arquitectura ISA"
+        ],
+        "c_count": 1
+    },
+    "¿Qué permitió la introducción del transistor en los sistemas\ncomputacionales?": {
+        "v": "Reducir el tamaño y aumentar la velocidad de los computadores",
+        "f": [
+            "Mejorar la programación con lenguajes binarios",
+            "Aumentar el uso de tarjetas perforadas",
+            "Crear sistemas operativos más avanzados",
+            "Optimizar el uso de válvulas de vacío"
+        ]
+    },
+    "¿Qué máquina utilizaba relés electromecánicos?": {
+        "v": "MARK I",
+        "f": [
+            "ENIAC",
+            "Colossus",
+            "UNIVAC",
+            "Zuse Z3"
+        ]
+    },
+    "¿Qué material permitió la creación de transistores?": {
+        "v": "El silicio",
+        "f": [
+            "El cobre",
+            "El hierro",
+            "El oro",
+            "El plomo"
+        ],
+        "c_count": 1
+    },
+    "¿Qué componente gestiona el arranque básico de un sistema informático?": {
+        "v": "La BIOS",
+        "f": [
+            "El compilador",
+            "El sistema operativo",
+            "La memoria RAM",
+            "El núcleo de ferrita"
+        ]
+    },
+    "¿Qué característica principal diferenciaba a las válvulas de vacío de los\ntransistores?": {
+        "v": "Eran más grandes y consumían más energía",
+        "f": [
+            "Eran más rápidas",
+            "Permitían computadores más pequeños",
+            "Generaban menos calor",
+            "Facilitaban el uso de lenguajes de alto nivel"
+        ]
+    },
+    "¿Qué máquina ayudó a descifrar el código Enigma durante la Segunda Guerra\nMundial?": {
+        "v": "Colossus",
+        "f": [
+            "ENIAC",
+            "MARK I",
+            "UNIVAC",
+            "Zuse Z3"
+        ],
+        "c_count": 1
+    },
+    "¿Qué innovación permitió la introducción de lenguajes de alto nivel?": {
+        "v": "Facilitar la programación en un lenguaje más cercano al humano",
+        "f": [
+            "Eliminar la necesidad de hardware especializado",
+            "Aumentar la velocidad de procesamiento",
+            "Reemplazar por completo el código máquina",
+            "Optimizar el uso de transistores"
+        ]
+    },
+    "¿Qué componente almacenaba información magnéticamente en la segunda\ngeneración?": {
+        "v": "Núcleos de ferrita",
+        "f": [
+            "Transistores",
+            "Tarjetas perforadas",
+            "Relés electromecánicos",
+            "Memoria caché"
+        ]
+    },
+    "¿Qué innovación tecnológica introdujo los compiladores?": {
+        "v": "Traducción de lenguajes de alto nivel a código máquina",
+        "f": [
+            "Gestión de recursos de hardware",
+            "Optimización de la memoria caché",
+            "Reducción del tamaño de los sistemas",
+            "Automatización del proceso de arranque"
+        ]
+    },
+    "¿Qué elemento permitió la miniaturización de los componentes electrónicos?": {
+        "v": "El transistor",
+        "f": [
+            "El relé electromecánico",
+            "La válvula de vacío",
+            "El núcleo de ferrita",
+            "La BIOS"
+        ]
+    },
+    "¿Qué máquina fue clave en el desarrollo de la informática moderna?": {
+        "v": "ENIAC",
+        "f": [
+            "MARK I",
+            "Colossus",
+            "UNIVAC",
+            "Zuse Z3"
+        ]
+    },
+    "¿Qué aportación hizo Alan Turing al campo de la informática?": {
+        "v": "El modelo teórico de una máquina universal",
+        "f": [
+            "El desarrollo del transistor",
+            "La creación de núcleos de ferrita",
+            "La invención de la válvula de vacío",
+            "El diseño de lenguajes de alto nivel"
+        ],
+        "c_count": 1
+    },
+    "¿Qué máquina fue diseñada para trabajar con relés electromecánicos?": {
+        "v": "MARK I",
+        "f": [
+            "ENIAC",
+            "Colossus",
+            "UNIVAC",
+            "Zuse Z3"
+        ]
+    },
+    "¿Qué se entiende por arquitectura de un sistema operativo?": {
+        "v": "El diseño y estructura que define cómo interactúan sus componentes",
+        "f": [
+            "La programación exclusiva del hardware",
+            "La implementación de dispositivos periféricos",
+            "El diseño de microprocesadores avanzados",
+            "La gestión de usuarios conectados al sistema"
+        ]
+    },
+    "¿Cuál es la función principal del kernel en un sistema operativo?": {
+        "v": "Gestionar los recursos del sistema y actuar como puente entre hardware y\nsoftware",
+        "f": [
+            "Proveer una interfaz gráfica para el usuario",
+            "Ejecutar únicamente procesos de red",
+            "Almacenar datos de forma permanente",
+            "Optimizar los tiempos de compilación de programas"
+        ]
+    },
+    "¿Qué componente de un sistema operativo permite la comunicación entre\naplicaciones y hardware?": {
+        "v": "El kernel",
+        "f": [
+            "El sistema de archivos",
+            "El gestor de memoria",
+            "La BIOS",
+            "El compilador"
+        ]
+    },
+    "¿Qué define un sistema operativo monolítico?": {
+        "v": "Un sistema en el que todos los servicios se ejecutan en modo kernel",
+        "f": [
+            "Un sistema distribuido entre múltiples dispositivos",
+            "Un sistema que utiliza microkernels",
+            "Un sistema con soporte exclusivo para multitarea",
+            "Un sistema diseñado solo para servidores"
+        ]
+    },
+    "¿Qué característica distingue a los microkernels?": {
+        "v": "La separación de servicios en espacio de usuario para reducir la carga del\nkernel",
+        "f": [
+            "La ejecución de todos los servicios en modo kernel",
+            "La dependencia exclusiva de hardware propietario",
+            "La falta de soporte para multiprocesamiento",
+            "El uso de sistemas de archivos distribuidos por defecto"
+        ]
+    },
+    "¿Qué sistema operativo es un ejemplo clásico de arquitectura monolítica?": {
+        "v": "UNIX",
+        "f": [
+            "Windows NT",
+            "MacOS moderno",
+            "Minix",
+            "Android"
+        ]
+    },
+    "¿Cuál es una ventaja de los sistemas operativos basados en microkernels?": {
+        "v": "Mayor estabilidad al aislar servicios del kernel principal",
+        "f": [
+            "Mejor rendimiento en sistemas embebidos",
+            "Menor consumo de memoria RAM",
+            "Compatibilidad exclusiva con hardware antiguo",
+            "Mayor velocidad en la ejecución de procesos"
+        ]
+    },
+    "¿Qué componente de un sistema operativo administra la memoria física y\nvirtual?": {
+        "v": "El gestor de memoria",
+        "f": [
+            "El kernel",
+            "El gestor de dispositivos",
+            "El sistema de archivos",
+            "El intérprete de comandos"
+        ]
+    },
+    "¿Qué función cumple el sistema de archivos en un sistema operativo?": {
+        "v": "Organizar y gestionar los datos almacenados en dispositivos",
+        "f": [
+            "Optimizar el uso de la memoria virtual",
+            "Ejecutar procesos en paralelo",
+            "Configurar el hardware del sistema",
+            "Proveer soporte exclusivo para multitarea"
+        ],
+        "c_count": 1
+    },
+    "¿Qué sistema operativo introdujo la arquitectura de microkernel como base?": {
+        "v": "Minix",
+        "f": [
+            "Linux",
+            "MS-DOS",
+            "UNIX",
+            "Windows 3.1"
+        ]
+    },
+    "¿Qué característica es propia de los sistemas operativos distribuidos?": {
+        "v": "Permiten la ejecución de tareas en múltiples máquinas como si fueran una\nsola",
+        "f": [
+            "Dependen de un único procesador central",
+            "No soportan multitarea",
+            "Son exclusivos para dispositivos móviles",
+            "Requieren hardware propietario para funcionar"
+        ]
+    },
+    "¿Qué elemento es esencial para la gestión de dispositivos en un sistema\noperativo?": {
+        "v": "Los controladores o drivers",
+        "f": [
+            "El sistema de archivos",
+            "El gestor de procesos",
+            "El intérprete de comandos",
+            "El compilador"
+        ]
+    },
+    "¿Qué define a un sistema operativo multitarea?": {
+        "v": "La capacidad de ejecutar múltiples procesos al mismo tiempo",
+        "f": [
+            "La dependencia de múltiples procesadores",
+            "La exclusividad para entornos empresariales",
+            "La gestión avanzada de sistemas de archivos",
+            "El soporte limitado para aplicaciones en red"
+        ],
+        "c_count": 1
+    },
+    "¿Qué ventaja ofrece un sistema operativo de tiempo real?": {
+        "v": "Respuesta inmediata a eventos en un tiempo garantizado",
+        "f": [
+            "Mayor soporte para aplicaciones gráficas",
+            "Optimización exclusiva para hardware de consumo",
+            "Mejor gestión de memoria virtual",
+            "Compatibilidad con sistemas distribuidos"
+        ]
+    },
+    "¿Qué función realiza el intérprete de comandos?": {
+        "v": "Proveer una interfaz para que los usuarios ejecuten órdenes",
+        "f": [
+            "Gestionar la memoria física del sistema",
+            "Administrar los dispositivos conectados",
+            "Compilar programas escritos en lenguajes de alto nivel",
+            "Proveer acceso directo al kernel"
+        ]
+    },
+    "¿Qué ventaja principal tiene un sistema operativo de tiempo compartido?": {
+        "v": "Permite que varios usuarios usen el sistema simultáneamente",
+        "f": [
+            "Optimiza la velocidad del hardware",
+            "Ejecuta solo un proceso a la vez",
+            "Reduce la carga en sistemas monousuario",
+            "Elimina la necesidad de sistemas de archivos"
+        ],
+        "c_count": 1
+    },
+    "¿Qué componente del sistema operativo administra los procesos en ejecución?": {
+        "v": "El gestor de procesos",
+        "f": [
+            "El kernel",
+            "El sistema de archivos",
+            "El gestor de memoria",
+            "El intérprete de comandos"
+        ],
+        "e_count": 1
+    },
+    "¿Qué define un sistema operativo en tiempo real?": {
+        "v": "Garantiza tiempos de respuesta predecibles a eventos",
+        "f": [
+            "Es exclusivo para servidores",
+            "Requiere hardware especializado",
+            "No soporta multitarea",
+            "Depende de un único núcleo de procesamiento"
+        ]
+    },
+    "¿Qué tipo de sistema operativo es ideal para sistemas embebidos?": {
+        "v": "De tiempo real",
+        "f": [
+            "Monolítico",
+            "Distribuido",
+            "De microkernel",
+            "De red"
+        ]
+    },
+    "¿Qué característica define a un sistema operativo de red?": {
+        "v": "Proporciona servicios para conectar múltiples dispositivos en red",
+        "f": [
+            "Es exclusivo para servidores empresariales",
+            "No permite la multitarea",
+            "Requiere un único núcleo para funcionar",
+            "Es dependiente de hardware propietario"
+        ]
+    },
+    "¿Qué hace el gestor de dispositivos en un sistema operativo?": {
+        "v": "Administra la comunicación entre hardware y software",
+        "f": [
+            "Ejecuta programas de usuario",
+            "Configura el sistema de archivos",
+            "Compila instrucciones del kernel",
+            "Controla los procesos en ejecución"
+        ]
+    },
+    "¿Qué diferencia a un sistema operativo distribuido de uno tradicional?": {
+        "v": "Opera en múltiples máquinas como si fueran una sola",
+        "f": [
+            "Es más rápido en sistemas monousuario",
+            "No soporta multitarea",
+            "Requiere hardware propietario",
+            "No utiliza sistemas de archivos locales"
+        ]
+    },
+    "¿Qué sistema operativo introdujo el concepto de multitarea?": {
+        "v": "UNIX",
+        "f": [
+            "MS-DOS",
+            "Windows 3.1",
+            "Minix",
+            "Linux"
+        ],
+        "e_count": 1
+    },
+    "¿Qué función realiza el planificador en un sistema operativo?": {
+        "v": "Determina qué procesos se ejecutan y en qué orden",
+        "f": [
+            "Gestiona la memoria virtual",
+            "Controla los dispositivos conectados",
+            "Proporciona acceso al sistema de archivos",
+            "Configura el entorno gráfico del sistema"
+        ]
+    },
+    "¿Qué define un sistema operativo monousuario?": {
+        "v": "Solo permite que un usuario interactúe con el sistema a la vez",
+        "f": [
+            "Es exclusivo para servidores",
+            "Requiere múltiples procesadores",
+            "No soporta multitarea",
+            "Utiliza sistemas distribuidos por defecto"
+        ]
+    },
+    "¿Qué característica principal tienen los sistemas operativos móviles?": {
+        "v": "Están optimizados para dispositivos con recursos limitados",
+        "f": [
+            "Requieren sistemas distribuidos",
+            "Dependen exclusivamente de redes inalámbricas",
+            "No soportan aplicaciones multitarea",
+            "Solo funcionan en arquitecturas monolíticas"
+        ],
+        "c_count": 1
+    },
+    "¿Qué componente es esencial para la virtualización en un sistema operativo?": {
+        "v": "El hipervisor",
+        "f": [
+            "El sistema de archivos",
+            "El kernel",
+            "El gestor de procesos",
+            "El intérprete de comandos"
+        ]
+    },
+    "¿Qué ventaja tienen los sistemas operativos basados en Linux?": {
+        "v": "Son de código abierto y altamente configurables",
+        "f": [
+            "Ofrecen soporte exclusivo para aplicaciones comerciales",
+            "Son compatibles solo con hardware propietario",
+            "Requieren licencia paga para su uso",
+            "No permiten personalización del kernel"
+        ]
+    },
+    "¿Qué función realiza el sistema de archivos en un sistema operativo?": {
+        "v": "Organiza los datos en el almacenamiento de forma estructurada",
+        "f": [
+            "Gestiona los procesos en ejecución",
+            "Proporciona acceso al kernel",
+            "Controla dispositivos periféricos",
+            "Optimiza la memoria virtual"
+        ]
+    },
+    "¿Qué caracteriza a un sistema operativo propietario?": {
+        "v": "Es desarrollado y controlado por una empresa específica",
+        "f": [
+            "Es siempre de código abierto",
+            "No requiere actualizaciones",
+            "Solo funciona en arquitecturas monolíticas",
+            "Es exclusivo para sistemas distribuidos"
+        ]
+    },
+    "¿Qué tipo de kernel se utiliza comúnmente en sistemas embebidos?": {
+        "v": "Microkernel",
+        "f": [
+            "Monolítico",
+            "Distribuido",
+            "De red",
+            "Virtualizado"
+        ]
+    },
+    "¿Qué permite la multitarea en un sistema operativo?": {
+        "v": "Ejecutar varios procesos de forma simultánea o concurrente",
+        "f": [
+            "Optimizar el uso de dispositivos periféricos",
+            "Reducir el consumo energético del hardware",
+            "Proveer soporte exclusivo para sistemas de red",
+            "Eliminar la necesidad de sistemas de archivos"
+        ]
+    },
+    "¿Qué sistema operativo fue diseñado para soportar entornos empresariales?": {
+        "v": "Windows NT",
+        "f": [
+            "MS-DOS",
+            "Minix",
+            "Android",
+            "Linux"
+        ]
+    },
+    "¿Qué es un hipervisor en el contexto de sistemas operativos?": {
+        "v": "Una capa de software que permite la virtualización de sistemas operativos",
+        "f": [
+            "Un gestor de dispositivos físicos",
+            "Un sistema de archivos avanzado",
+            "Una interfaz gráfica de usuario",
+            "Un componente de memoria caché"
+        ]
+    },
+    "¿Qué función realiza la Unidad de Control (UC) en una CPU?": {
+        "v": "Coordina todas las operaciones internas y garantiza la ejecución adecuada\nde las instrucciones",
+        "f": [
+            "Almacena datos temporalmente",
+            "Ejecuta operaciones aritméticas",
+            "Gestiona dispositivos externos",
+            "Optimiza el uso de memoria caché"
+        ]
+    },
+    "¿Qué es la decodificación de instrucciones en la Unidad de Control?": {
+        "v": "El proceso de interpretar el opcode y los operandos para determinar la\nacción de la CPU",
+        "f": [
+            "El almacenamiento de datos en memoria",
+            "La transferencia de datos entre registros",
+            "La ejecución de operaciones lógicas",
+            "La gestión de interrupciones externas"
+        ]
+    },
+    "¿Qué unidad se encarga de manejar excepciones e interrupciones en la CPU?": {
+        "v": "La Unidad de Control (UC)",
+        "f": [
+            "La Unidad de Ejecución (UE)",
+            "La ALU",
+            "El sistema de almacenamiento",
+            "El compilador"
+        ]
+    },
+    "¿Qué componente realiza operaciones aritméticas y lógicas en la CPU?": {
+        "v": "La ALU (Unidad Aritmético-Lógica)",
+        "f": [
+            "La FPU",
+            "La Unidad de Control",
+            "El Bus de datos",
+            "El Contador de Programa"
+        ],
+        "c_count": 1
+    },
+    "¿Qué tipo de cálculos realiza la FPU en la CPU?": {
+        "v": "Operaciones con números en punto flotante",
+        "f": [
+            "Operaciones lógicas básicas",
+            "Gestión de interrupciones",
+            "Operaciones con datos binarios",
+            "Ejecución de saltos condicionales"
+        ]
+    },
+    "¿Qué unidad gestiona las instrucciones de salto en un programa?": {
+        "v": "La Unidad de Salto",
+        "f": [
+            "La ALU",
+            "La Unidad de Control",
+            "La Unidad de Manejo de Interrupciones",
+            "El Registro de Resultado"
+        ]
+    },
+    "¿Qué se almacena en el Registro de Resultado?": {
+        "v": "Los resultados temporales de las operaciones realizadas por la CPU",
+        "f": [
+            "Las instrucciones decodificadas",
+            "Las señales de control generadas",
+            "Las direcciones de memoria próximas",
+            "Los datos transferidos entre la CPU y la RAM"
+        ]
+    },
+    "¿Qué arquitectura utiliza un conjunto reducido de instrucciones\noptimizadas?": {
+        "v": "RISC",
+        "f": [
+            "CISC",
+            "VLIW",
+            "EPIC",
+            "Superescalar"
+        ]
+    },
+    "¿Qué ventaja principal tienen las CPU RISC?": {
+        "v": "Ejecución rápida y eficiente de instrucciones simples",
+        "f": [
+            "Mayor capacidad de memoria",
+            "Soporte exclusivo para software propietario",
+            "Ejecución de instrucciones complejas en un solo paso",
+            "Compatibilidad con lenguajes de alto nivel"
+        ]
+    },
+    "¿Qué arquitectura se caracteriza por un amplio conjunto de instrucciones?": {
+        "v": "CISC",
+        "f": [
+            "RISC",
+            "VLIW",
+            "EPIC",
+            "Superescalar"
+        ]
+    },
+    "¿Qué es una arquitectura VLIW?": {
+        "v": "Una arquitectura que permite la ejecución paralela de instrucciones\nmediante un compilador avanzado",
+        "f": [
+            "Una arquitectura con un conjunto reducido de instrucciones",
+            "Un diseño que depende de múltiples núcleos",
+            "Un sistema diseñado exclusivamente para servidores",
+            "Una arquitectura con soporte limitado para multitarea"
+        ]
+    },
+    "¿Qué define a una arquitectura superescalar?": {
+        "v": "La capacidad de ejecutar múltiples instrucciones en paralelo",
+        "f": [
+            "La simplicidad del conjunto de instrucciones",
+            "La ejecución de instrucciones en un único ciclo de reloj",
+            "La dependencia de compiladores avanzados",
+            "La exclusividad para operaciones de punto flotante"
+        ]
+    },
+    "¿Qué ejemplo es una arquitectura CISC?": {
+        "v": "x86",
+        "f": [
+            "ARM",
+            "MIPS",
+            "SPARC",
+            "RISC-V"
+        ]
+    },
+    "¿Qué ventaja ofrece la arquitectura EPIC?": {
+        "v": "Alto rendimiento en aplicaciones paralelas",
+        "f": [
+            "Ejecución secuencial de instrucciones",
+            "Compatibilidad con software heredado",
+            "Bajo consumo energético en dispositivos móviles",
+            "Mayor facilidad de programación"
+        ]
+    },
+    "¿Qué arquitectura es conocida por ser de código abierto?": {
+        "v": "RISC-V",
+        "f": [
+            "x86",
+            "ARM",
+            "EPIC",
+            "VLIW"
+        ],
+        "e_count": 1
+    },
+    "¿Qué componente utiliza un Bus de direcciones?": {
+        "v": "La Unidad de Control",
+        "f": [
+            "La ALU",
+            "La FPU",
+            "La Unidad de Salto",
+            "El Registro de Resultado"
+        ]
+    },
+    "¿Qué característica define a las instrucciones RISC?": {
+        "v": "Son simples y de longitud fija",
+        "f": [
+            "Incluyen modos de direccionamiento complejos",
+            "Realizan múltiples operaciones en una sola instrucción",
+            "Requieren varios ciclos de reloj para ejecutarse",
+            "Están optimizadas para operaciones gráficas"
+        ]
+    },
+    "¿Qué arquitectura utiliza múltiples núcleos RISC en un solo chip?": {
+        "v": "RISC de múltiples hilos",
+        "f": [
+            "CISC",
+            "Superescalar",
+            "EPIC",
+            "VLIW"
+        ]
+    },
+    "¿Qué tipo de operaciones realiza la ALU?": {
+        "v": "Aritméticas y lógicas",
+        "f": [
+            "Manejo de interrupciones",
+            "Gestión de memoria",
+            "Transferencia de datos entre registros",
+            "Control de banderas"
+        ]
+    },
+    "¿Qué ejemplo es una arquitectura RISC?": {
+        "v": "ARM",
+        "f": [
+            "x86",
+            "EPIC",
+            "VLIW",
+            "x86-64"
+        ],
+        "c_count": 1
+    },
+    "¿Qué arquitectura es utilizada principalmente en dispositivos móviles?": {
+        "v": "ARM",
+        "f": [
+            "x86",
+            "MIPS",
+            "SPARC",
+            "RISC-V"
+        ]
+    },
+    "¿Qué ventaja tienen las CPU CISC?": {
+        "v": "Eficiencia en términos de código al usar menos instrucciones",
+        "f": [
+            "Menor consumo energético",
+            "Ejecución más rápida de instrucciones simples",
+            "Diseño de hardware más sencillo",
+            "Mayor facilidad para la compilación"
+        ]
+    },
+    "¿Qué característica define a la arquitectura MIPS?": {
+        "v": "Es una arquitectura RISC optimizada para dispositivos embebidos",
+        "f": [
+            "Es una arquitectura CISC",
+            "Es exclusiva para servidores",
+            "Utiliza instrucciones complejas",
+            "No soporta operaciones paralelas"
+        ]
+    },
+    "¿Qué ventaja tiene la arquitectura x86-64 sobre la x86?": {
+        "v": "Mayor capacidad de direccionamiento de memoria",
+        "f": [
+            "Compatibilidad exclusiva con sistemas de 32 bits",
+            "Ejecución más rápida de operaciones paralelas",
+            "Soporte limitado para dispositivos móviles",
+            "Consumo energético reducido"
+        ]
+    },
+    "¿Qué arquitectura fue desarrollada por Intel y HP?": {
+        "v": "EPIC",
+        "f": [
+            "VLIW",
+            "CISC",
+            "RISC",
+            "MIPS"
+        ]
+    },
+    "¿Cuál es una ventaja principal de la arquitectura x86?": {
+        "v": "Amplia compatibilidad de software",
+        "f": [
+            "Bajo consumo de energía",
+            "Simplicidad en el diseño",
+            "Facilidad de implementación en dispositivos móviles",
+            "Compatibilidad limitada con aplicaciones antiguas"
+        ],
+        "c_count": 1
+    },
+    "¿Qué inconveniente tiene la arquitectura x86?": {
+        "v": "Consumo de energía elevado",
+        "f": [
+            "Dificultad para manejar instrucciones complejas",
+            "Compatibilidad limitada con sistemas operativos",
+            "Rendimiento impredecible",
+            "Incompatibilidad con software heredado"
+        ]
+    },
+    "¿Qué ventaja tiene la arquitectura ARM en dispositivos móviles?": {
+        "v": "Eficiencia energética",
+        "f": [
+            "Compatibilidad con aplicaciones x86",
+            "Alto rendimiento en tareas intensivas",
+            "Simplicidad de programación",
+            "Complejidad en el diseño"
+        ],
+        "e_count": 1
+    },
+    "¿Qué desventaja tiene la arquitectura ARM?": {
+        "v": "Compatibilidad limitada de software",
+        "f": [
+            "Alto consumo de energía",
+            "Complejidad en la decodificación de instrucciones",
+            "Falta de aplicaciones en dispositivos IoT",
+            "Dependencia de hardware propietario"
+        ],
+        "e_count": 1
+    },
+    "¿Qué caracteriza a la arquitectura MIPS?": {
+        "v": "Simplicidad y diseño limpio",
+        "f": [
+            "Alto consumo energético",
+            "Amplia compatibilidad con software x86",
+            "Rendimiento superior en aplicaciones gráficas",
+            "Complejidad en la implementación"
+        ]
+    },
+    "¿Qué limitación tiene la arquitectura MIPS?": {
+        "v": "Potencia de cómputo limitada",
+        "f": [
+            "Uso exclusivo en sistemas empresariales",
+            "Alto costo de implementación",
+            "Complejidad en la programación",
+            "Incompatibilidad con dispositivos móviles"
+        ]
+    },
+    "¿Qué ventaja principal tenía la arquitectura Itanium?": {
+        "v": "Alta potencia de cómputo",
+        "f": [
+            "Amplia compatibilidad de software",
+            "Eficiencia energética superior",
+            "Simplicidad en el diseño",
+            "Adopción masiva en dispositivos móviles"
+        ]
+    },
+    "¿Qué desventaja llevó al fracaso de la arquitectura Itanium?": {
+        "v": "Adopción limitada y falta de compatibilidad de software",
+        "f": [
+            "Bajo rendimiento en aplicaciones empresariales",
+            "Incapacidad para ejecutar instrucciones complejas",
+            "Dependencia de compiladores avanzados",
+            "Complejidad en la ejecución de instrucciones sencillas"
+        ]
+    },
+    "¿Qué etapa del ciclo de ejecución busca la instrucción en memoria?": {
+        "v": "Fetch (Captura de instrucción)",
+        "f": [
+            "Decode (Decodificación)",
+            "Execute (Ejecución)",
+            "Memory Access (Acceso a memoria)",
+            "Write Back (Escritura de resultados)"
+        ]
+    },
+    "¿Qué ocurre en la etapa de decodificación (Decode) del ciclo de ejecución?": {
+        "v": "La CPU interpreta el opcode y los operandos de la instrucción",
+        "f": [
+            "La instrucción se busca en la memoria",
+            "La CPU ejecuta la operación indicada",
+            "Los resultados se escriben en los registros",
+            "Los datos se transfieren entre registros"
+        ],
+        "c_count": 1
+    },
+    "¿Qué etapa del ciclo de ejecución realiza la operación indicada por la\ninstrucción?": {
+        "v": "Execute (Ejecución)",
+        "f": [
+            "Fetch (Captura de instrucción)",
+            "Decode (Decodificación)",
+            "Memory Access (Acceso a memoria)",
+            "Write Back (Escritura de resultados)"
+        ],
+        "e_count": 1,
+        "c_count": 1
+    },
+    "¿Qué técnica permite la ejecución simultánea de múltiples instrucciones en\nun pipeline?": {
+        "v": "Pipelining",
+        "f": [
+            "Branch Prediction",
+            "Reenvío de datos",
+            "Reordenamiento de instrucciones",
+            "Ejecución fuera de orden"
+        ]
+    },
+    "¿Qué ventaja tiene el pipelining?": {
+        "v": "Mejora del rendimiento al ejecutar instrucciones en paralelo",
+        "f": [
+            "Reducción de la complejidad de diseño",
+            "Eliminación de dependencias de datos",
+            "Optimización exclusiva para sistemas RISC",
+            "Mayor compatibilidad con software x86"
+        ]
+    },
+    "¿Qué problema ocurre en el pipeline debido a dependencias de datos?": {
+        "v": "Conflictos de datos",
+        "f": [
+            "Predicción de ramificaciones",
+            "Cancelación de instrucciones",
+            "Reducción del rendimiento",
+            "Retrasos de control"
+        ]
+    },
+    "¿Qué técnica reduce el impacto de instrucciones de salto en el pipeline?": {
+        "v": "Branch Prediction (Predicción de ramificaciones)",
+        "f": [
+            "Reenvío de datos",
+            "Reordenamiento de instrucciones",
+            "Ejecución fuera de orden",
+            "Pipeline flushing"
+        ]
+    },
+    "¿Qué problema aborda la técnica de reenvío de datos en el pipeline?": {
+        "v": "Dependencia de lectura-después-escritura (RAW)",
+        "f": [
+            "Dependencia de escritura-después-escritura (WAW)",
+            "Dependencia de escritura-después-lectura (WAR)",
+            "Predicción de saltos condicionales",
+            "Ejecución secuencial de instrucciones"
+        ]
+    },
+    "¿Qué técnica organiza las instrucciones para evitar conflictos en el\npipeline?": {
+        "v": "Reordenamiento de instrucciones",
+        "f": [
+            "Pipeline flushing",
+            "Reenvío de datos",
+            "Branch Prediction",
+            "Ejecución secuencial"
+        ]
+    },
+    "¿Qué ventaja ofrece el uso de Reservation Stations en el pipeline?": {
+        "v": "Evita conflictos en las etapas de ejecución",
+        "f": [
+            "Aumenta el número de ciclos de reloj",
+            "Simplifica el diseño del pipeline",
+            "Elimina dependencias de datos",
+            "Reduce el consumo energético"
+        ],
+        "c_count": 1
+    },
+    "¿Qué es una dependencia de lectura-después-escritura (RAW)?": {
+        "v": "Cuando una instrucción necesita un resultado de una instrucción anterior\nque aún no se ha escrito",
+        "f": [
+            "Cuando dos instrucciones escriben en el mismo registro",
+            "Cuando una instrucción lee un registro que otra está escribiendo",
+            "Cuando una instrucción cambia el flujo del programa",
+            "Cuando se produce un error en la ejecución"
+        ]
+    },
+    "¿Qué técnica mejora el rendimiento al ejecutar instrucciones fuera de\norden?": {
+        "v": "Ejecución fuera de orden",
+        "f": [
+            "Pipeline flushing",
+            "Reordenamiento de instrucciones",
+            "Branch Prediction",
+            "Data Forwarding"
+        ]
+    },
+    "¿Qué ocurre en la etapa de Write Back del ciclo de ejecución?": {
+        "v": "Los resultados de la instrucción se escriben en registros o memoria",
+        "f": [
+            "La instrucción se decodifica",
+            "La operación se realiza",
+            "Los datos se transfieren entre registros",
+            "La CPU predice el flujo de ejecución"
+        ]
+    },
+    "¿Qué ventaja tiene la detección de ramificaciones (Branch Prediction)?": {
+        "v": "Reduce los retrasos causados por saltos condicionales",
+        "f": [
+            "Aumenta el número de ciclos de reloj",
+            "Evita conflictos de datos en el pipeline",
+            "Elimina dependencias entre instrucciones",
+            "Optimiza la escritura de resultados"
+        ]
+    },
+    "¿Qué componente gestiona las dependencias en el pipeline?": {
+        "v": "El reenvío de datos",
+        "f": [
+            "El decodificador",
+            "El compilador",
+            "El pipeline flushing",
+            "La RAM"
+        ],
+        "c_count": 1
+    },
+    "¿Qué técnica utiliza un pipeline para manejar excepciones?": {
+        "v": "Cancelación de instrucciones en vuelo",
+        "f": [
+            "Branch Prediction",
+            "Pipeline flushing",
+            "Reordenamiento de instrucciones",
+            "Data Forwarding"
+        ],
+        "c_count": 1
+    },
+    "¿Qué característica define a la memoria ROM?": {
+        "v": "Es una memoria no volátil que almacena información esencial para el\narranque del sistema",
+        "f": [
+            "Es una memoria volátil utilizada para datos temporales",
+            "Permite escritura ilimitada durante su vida útil",
+            "Es más rápida que la memoria caché",
+            "Almacena datos únicamente durante el encendido del sistema"
+        ],
+        "c_count": 1
+    },
+    "¿Qué diferencia principal tiene la PROM respecto a la ROM tradicional?": {
+        "v": "La PROM permite una única escritura después de su fabricación",
+        "f": [
+            "La PROM es volátil",
+            "La PROM puede borrarse con luz ultravioleta",
+            "La PROM permite escrituras ilimitadas",
+            "La PROM almacena datos en bloques de bytes"
+        ]
+    },
+    "¿Cómo se borra el contenido de una memoria EPROM?": {
+        "v": "Exponiendo el chip a luz ultravioleta",
+        "f": [
+            "Aplicando un campo eléctrico",
+            "Reescribiendo directamente los datos",
+            "Calentando el chip a alta temperatura",
+            "A través de software especializado"
+        ]
+    },
+    "¿Qué ventaja tiene la Flash EEPROM sobre la EEPROM?": {
+        "v": "Es más rápida al realizar operaciones a nivel de bloques",
+        "f": [
+            "Permite un número ilimitado de ciclos de escritura",
+            "No requiere energía para mantener los datos",
+            "Es volátil",
+            "Es más pequeña en capacidad"
+        ]
+    },
+    "¿Qué define a la memoria RAM?": {
+        "v": "Es una memoria volátil utilizada para almacenar información temporal",
+        "f": [
+            "Es una memoria no volátil que almacena el firmware",
+            "Es más lenta que la memoria ROM",
+            "Almacena datos permanentemente",
+            "Solo se utiliza para guardar instrucciones de arranque"
+        ],
+        "c_count": 1
+    },
+    "¿Qué característica tiene la DRAM?": {
+        "v": "Requiere refresco periódico para mantener los datos",
+        "f": [
+            "No necesita refresco de datos",
+            "Es más rápida que la SRAM",
+            "Utiliza flip-flops para almacenar información",
+            "Es exclusivamente de solo lectura"
+        ],
+        "e_count": 1
+    },
+    "¿Cuál es una ventaja de la SRAM frente a la DRAM?": {
+        "v": "Es más rápida porque no necesita refresco de datos",
+        "f": [
+            "Tiene mayor capacidad de almacenamiento",
+            "Es más económica",
+            "Se utiliza principalmente en memorias USB",
+            "Requiere ciclos de escritura más largos"
+        ]
+    },
+    "¿Qué hace la memoria caché en un sistema informático?": {
+        "v": "Almacena temporalmente los datos a los que la CPU accede con mayor\nfrecuencia",
+        "f": [
+            "Almacena permanentemente los datos del sistema operativo",
+            "Actúa como una memoria de respaldo en caso de fallos",
+            "Reduce la capacidad de la RAM",
+            "Optimiza exclusivamente el almacenamiento externo"
+        ]
+    },
+    "¿Qué define la caché L1?": {
+        "v": "Es la más cercana al procesador y la más rápida",
+        "f": [
+            "Es la más grande en capacidad",
+            "Es compartida entre todos los núcleos del procesador",
+            "Se encuentra en la placa base",
+            "Es más lenta que la caché L2"
+        ]
+    },
+    "¿Qué característica tiene la caché L3?": {
+        "v": "Es compartida entre los núcleos del procesador",
+        "f": [
+            "Es la más pequeña en capacidad",
+            "Es la más rápida de todas las cachés",
+            "Se encuentra dentro del núcleo del procesador",
+            "Almacena datos temporalmente en discos duros"
+        ]
+    },
+    "¿Qué tipo de memoria RAM utiliza ciclos de reloj para sincronizar sus\noperaciones?": {
+        "v": "SDRAM",
+        "f": [
+            "DRAM",
+            "SRAM",
+            "EPROM",
+            "RDRAM"
+        ]
+    },
+    "¿Qué diferencia principal tiene la DDR SDRAM respecto a la SDRAM\ntradicional?": {
+        "v": "Transfiere datos en los ciclos ascendente y descendente del reloj",
+        "f": [
+            "Es volátil",
+            "No requiere sincronización con el reloj",
+            "Almacena datos permanentemente",
+            "Es más lenta en comparación"
+        ]
+    },
+    "¿Qué define a la memoria caché COAST?": {
+        "v": "Se insertaba en módulos en placas antiguas",
+        "f": [
+            "Es la más rápida en los sistemas modernos",
+            "Está integrada en los núcleos de los procesadores actuales",
+            "Funciona como memoria RAM principal",
+            "Almacena datos permanentemente"
+        ]
+    },
+    "¿Qué principio utiliza la memoria caché para anticipar las necesidades de\nla CPU?": {
+        "v": "Localidad espacial y temporal",
+        "f": [
+            "Jerarquía de almacenamiento",
+            "Sincronización por ciclos de reloj",
+            "Acceso directo a la RAM",
+            "Predicción de accesos futuros"
+        ]
+    },
+    "¿Qué ocurre si la caché no contiene la información necesaria?": {
+        "v": "Se accede a la memoria RAM",
+        "f": [
+            "Se detiene la ejecución del programa",
+            "Se almacena temporalmente en ROM",
+            "Se descartan las instrucciones actuales",
+            "Se transfiere a la memoria externa"
+        ],
+        "c_count": 1
+    },
+    "¿Qué tipo de memoria RAM utiliza una arquitectura diferente y se encuentra\nen sistemas de alta gama?": {
+        "v": "RDRAM",
+        "f": [
+            "SDRAM",
+            "SRAM",
+            "EPROM",
+            "Flash EEPROM"
+        ]
+    },
+    "¿Qué define a un disco duro Single-Platter?": {
+        "v": "Tiene un solo plato en su interior",
+        "f": [
+            "Es más grande en capacidad que los Dual-Platter",
+            "Utiliza más energía que los discos con varios platos",
+            "Almacena datos exclusivamente en caché",
+            "No utiliza cabezales de lectura y escritura"
+        ]
+    },
+    "¿Qué característica tienen los discos duros de varios platos?": {
+        "v": "Ofrecen mayor capacidad de almacenamiento",
+        "f": [
+            "Consumen menos energía",
+            "Son más pequeños en tamaño físico",
+            "No generan calor durante el uso",
+            "Tienen una única pista por plato"
+        ],
+        "c_count": 1
+    },
+    "¿Qué componente de un disco duro coordina las operaciones de lectura y\nescritura?": {
+        "v": "La electrónica del disco",
+        "f": [
+            "Los platos magnéticos",
+            "El motor de rotación",
+            "Los cabezales",
+            "El clúster"
+        ]
+    },
+    "¿Qué velocidad de rotación es común en discos duros actuales?": {
+        "v": "5400 o 7200 rpm",
+        "f": [
+            "10000 rpm",
+            "3600 rpm",
+            "5000 rpm",
+            "12000 rpm"
+        ]
+    },
+    "¿Qué define un clúster en un disco duro?": {
+        "v": "Es un grupo de sectores que se utiliza como unidad mínima de\nlectura/escritura",
+        "f": [
+            "Es un conjunto de pistas adyacentes",
+            "Es la capacidad máxima de un disco",
+            "Es un único sector en el disco",
+            "Es el motor que controla los cabezales"
+        ]
+    },
+    "¿Qué material se utiliza comúnmente en los platos de un disco duro?": {
+        "v": "Vidrio o aluminio recubierto de material magnetizable",
+        "f": [
+            "Cobre y plomo",
+            "Silicio puro",
+            "Acero inoxidable",
+            "Carbón"
+        ]
+    },
+    "¿Qué ventaja tienen los discos de un solo plato?": {
+        "v": "Son más eficientes en cuanto a energía",
+        "f": [
+            "Tienen mayor capacidad de almacenamiento",
+            "Generan más calor que otros discos",
+            "Requieren más cabezales de lectura",
+            "Son más lentos que los discos con varios platos"
+        ]
+    },
+    "¿Qué define el término cilindro en un disco duro?": {
+        "v": "El conjunto de todas las pistas a la misma distancia del eje",
+        "f": [
+            "Un grupo de sectores consecutivos",
+            "Un plato completo de datos",
+            "La capacidad máxima del disco",
+            "El área de almacenamiento temporal"
+        ]
+    },
+    "¿Qué componente permite mover los cabezales en un disco duro moderno?": {
+        "v": "Una bobina móvil inducida",
+        "f": [
+            "Un motor mecánico",
+            "Un sistema hidráulico",
+            "Un conjunto de engranajes",
+            "Un disco electromagnético"
+        ]
+    },
+    "¿Qué ventaja principal tienen los SSD frente a los discos duros\ntradicionales?": {
+        "v": "Son más veloces y resistentes a golpes",
+        "f": [
+            "Tienen mayor capacidad de almacenamiento",
+            "Son más económicos",
+            "No requieren energía para funcionar",
+            "No disminuyen su rendimiento con el uso"
+        ]
+    },
+    "¿Qué tipo de memoria es utilizada principalmente en los SSD?": {
+        "v": "Memoria Flash NAND",
+        "f": [
+            "Memoria DRAM",
+            "Memoria ROM",
+            "Memoria SRAM",
+            "Memoria óptica"
+        ]
+    },
+    "¿Qué componente de un SSD gestiona las operaciones de lectura y escritura?": {
+        "v": "El controlador",
+        "f": [
+            "La memoria Flash NAND",
+            "La DRAM Caché",
+            "El bus de datos",
+            "La interfaz SATA"
+        ]
+    },
+    "¿Qué ventaja tiene un SSD NVMe frente a un SSD SATA?": {
+        "v": "Ofrece velocidades de lectura y escritura mucho más altas",
+        "f": [
+            "Es más compatible con dispositivos antiguos",
+            "Tiene menor consumo energético",
+            "Utiliza tecnología magnética",
+            "No requiere una interfaz física"
+        ]
+    },
+    "¿Qué define un SSD M.2?": {
+        "v": "Es un SSD compacto que se conecta directamente a la placa base",
+        "f": [
+            "Es un SSD que utiliza una interfaz SATA",
+            "Es un SSD externo para almacenamiento masivo",
+            "Es un SSD diseñado exclusivamente para servidores",
+            "Es un SSD basado en tecnología óptica"
+        ]
+    },
+    "¿Qué característica tienen los SSD PCIe?": {
+        "v": "Se conectan a través de ranuras PCIe y ofrecen un rendimiento\nexcepcionalmente rápido",
+        "f": [
+            "Utilizan tecnología de almacenamiento magnético",
+            "Son compatibles con sistemas de bajo rendimiento",
+            "Tienen capacidades de almacenamiento ilimitadas",
+            "Son más lentos que los SSD SATA"
+        ]
+    },
+    "¿Qué tipo de celda almacena un solo bit de información en los SSD?": {
+        "v": "SLC (Single-Level Cell)",
+        "f": [
+            "MLC (Multi-Level Cell)",
+            "TLC (Triple-Level Cell)",
+            "QLC (Quad-Level Cell)",
+            "DRAM Cell"
+        ]
+    },
+    "¿Qué característica define a los SSD basados en TLC?": {
+        "v": "Almacenan tres bits por celda",
+        "f": [
+            "Son más rápidos que los SSD SLC",
+            "Almacenan cuatro bits por celda",
+            "Son exclusivamente para servidores",
+            "No utilizan memoria Flash NAND"
+        ]
+    },
+    "¿Qué componente mejora la velocidad de los SSD al actuar como un búfer?": {
+        "v": "DRAM Caché",
+        "f": [
+            "El controlador",
+            "La interfaz SATA",
+            "El bus PCIe",
+            "La memoria Flash NAND"
+        ],
+        "c_count": 1
+    },
+    "¿Qué desventaja tienen los SSD en comparación con los discos duros\ntradicionales?": {
+        "v": "La vida útil es inferior",
+        "f": [
+            "Son más susceptibles a daños físicos",
+            "Tienen un mayor consumo de energía",
+            "Requieren más espacio físico",
+            "No pueden utilizar interfaces SATA"
+        ]
+    },
+    "¿Qué tipo de unidad óptica utiliza rayos láser para grabar datos?": {
+        "v": "Unidades de CD-R o DVD-R",
+        "f": [
+            "Discos SSD",
+            "Discos PCIe",
+            "Memoria Flash",
+            "Ranuras M.2"
+        ]
+    },
+    "¿Qué define la velocidad de rotación en una unidad óptica?": {
+        "v": "Mantiene una velocidad de transferencia de datos constante",
+        "f": [
+            "Determina la cantidad de datos almacenados",
+            "Optimiza el acceso a la memoria RAM",
+            "Aumenta la capacidad de la memoria Flash",
+            "Permite leer varios discos simultáneamente"
+        ]
+    },
+    "¿Qué define una ranura de expansión PCIe?": {
+        "v": "Proporciona un alto ancho de banda para tarjetas de expansión",
+        "f": [
+            "Es exclusivamente para dispositivos de almacenamiento óptico",
+            "Permite solo la conexión de tarjetas gráficas",
+            "Es una versión antigua de la ranura ISA",
+            "Tiene una velocidad de transferencia limitada"
+        ]
+    },
+    "¿Qué característica tiene la ranura M.2?": {
+        "v": "Es compacta y utilizada para conectar unidades SSD",
+        "f": [
+            "Es exclusiva para tarjetas gráficas",
+            "Requiere una conexión externa",
+            "Soporta solo discos ópticos",
+            "Tiene un ancho de banda limitado"
+        ],
+        "c_count": 1
+    },
+    "¿Qué es el bus de datos en un sistema informático?": {
+        "v": "Es un bus que transfiere datos entre la CPU y otros componentes",
+        "f": [
+            "Es una ranura de expansión para tarjetas gráficas",
+            "Es una unidad de almacenamiento externa",
+            "Es un controlador de memoria",
+            "Es una interfaz para unidades ópticas"
+        ]
+    },
+    "¿Qué mide el ancho de banda de un bus?": {
+        "v": "La cantidad de datos que puede transferir en un tiempo determinado",
+        "f": [
+            "La velocidad máxima del procesador",
+            "El número de ranuras de expansión",
+            "La capacidad total de almacenamiento",
+            "La cantidad de dispositivos conectados"
+        ]
+    },
+    "¿Qué ventaja tiene la transmisión en serie en los buses?": {
+        "v": "Reduce las interferencias y el ruido en señales largas",
+        "f": [
+            "Permite transferencias más rápidas que en paralelo",
+            "Utiliza más hilos de comunicación",
+            "Incrementa la latencia en las operaciones",
+            "Requiere un mayor ancho de banda"
+        ]
+    },
+    "¿Qué característica tiene un procesador multihilo?": {
+        "v": "Permite ejecutar múltiples hilos de instrucciones simultáneamente",
+        "f": [
+            "Utiliza exclusivamente núcleos físicos",
+            "Es incompatible con tareas paralelas",
+            "Requiere software especializado para funcionar",
+            "No mejora la multitarea en sistemas operativos modernos"
+        ]
+    },
+    "¿Qué diferencia a un hilo lógico de un hilo físico en un procesador\nmultihilo?": {
+        "v": "Un hilo lógico simula capacidades multihilo en un núcleo físico",
+        "f": [
+            "Un hilo lógico utiliza múltiples núcleos físicos",
+            "Un hilo físico requiere programación paralela avanzada",
+            "Un hilo físico no puede manejar tareas simultáneas",
+            "Un hilo lógico depende exclusivamente de hardware especializado"
+        ]
+    },
+    "¿Qué ventaja tiene el procesamiento multihilo?": {
+        "v": "Aumenta el rendimiento al ejecutar múltiples tareas simultáneamente",
+        "f": [
+            "Reduce el consumo energético",
+            "Elimina la necesidad de núcleos físicos",
+            "Facilita la programación en todos los sistemas",
+            "Es exclusivo para aplicaciones gráficas"
+        ]
+    },
+    "¿Qué define la arquitectura de Von Neumann?": {
+        "v": "Utiliza una memoria unificada para datos e instrucciones",
+        "f": [
+            "Separa las memorias para datos e instrucciones",
+            "Permite el acceso simultáneo a datos e instrucciones",
+            "Es más rápida que la arquitectura de Harvard",
+            "No utiliza buses para transferencias internas"
+        ]
+    },
+    "¿Qué ventaja tiene la arquitectura de Harvard sobre la de Von Neumann?": {
+        "v": "Permite el acceso simultáneo a datos e instrucciones",
+        "f": [
+            "Es más fácil de programar",
+            "Requiere menos recursos de hardware",
+            "Tiene un diseño más simple",
+            "Es más económica de implementar"
+        ]
+    },
+    "¿Qué define el bus de control en un sistema?": {
+        "v": "Transporta señales para coordinar las operaciones del sistema",
+        "f": [
+            "Transfiere datos entre la CPU y la memoria",
+            "Almacena temporalmente datos e instrucciones",
+            "Sincroniza el acceso a dispositivos externos",
+            "Proporciona energía a los componentes"
+        ]
+    },
+    "¿Qué determina el ancho de banda de un bus?": {
+        "v": "La capacidad de datos y la velocidad de transferencia",
+        "f": [
+            "El número de dispositivos conectados",
+            "La latencia del sistema",
+            "El tipo de ranuras de expansión",
+            "El tamaño físico del bus"
+        ]
+    },
+    "¿Qué tipo de memoria es más común en los SSD actuales?": {
+        "v": "Memoria Flash NAND",
+        "f": [
+            "DRAM Caché",
+            "Memoria SRAM",
+            "Memoria óptica",
+            "Memoria Flash NOR"
+        ]
+    },
+    "¿En qué tipo de aplicaciones se utiliza principalmente la arquitectura de\nHarvard?": {
+        "v": "Microcontroladores y procesamiento digital de señales",
+        "f": [
+            "Computadoras personales",
+            "Estaciones de trabajo",
+            "Servidores empresariales",
+            "Dispositivos de almacenamiento"
+        ]
+    },
+    "¿Qué diferencia principal tiene la arquitectura Harvard modificada respecto\na la Harvard pura?": {
+        "v": "Comparte un bus de datos común para reducir la complejidad",
+        "f": [
+            "Combina datos e instrucciones en una sola memoria",
+            "Requiere dos buses independientes para datos e instrucciones",
+            "No permite paralelismo",
+            "Es exclusiva para dispositivos de almacenamiento"
+        ]
+    },
+    "¿Qué problema intenta resolver la memoria caché en la arquitectura Von\nNeumann?": {
+        "v": "El cuello de botella de Von Neumann",
+        "f": [
+            "La falta de paralelismo",
+            "La limitación de núcleos",
+            "El diseño complejo de buses",
+            "La baja capacidad de memoria"
+        ]
+    },
+    "¿Qué técnica permite a la CPU ejecutar varias instrucciones en cada ciclo?": {
+        "v": "Segmentación o superescalaridad",
+        "f": [
+            "Memoria caché",
+            "Ejecución secuencial",
+            "Unificación de buses",
+            "Arquitectura Dataflow"
+        ],
+        "e_count": 1
+    },
+    "¿Qué ventaja tienen los procesadores multinúcleo?": {
+        "v": "Permiten ejecutar operaciones simultáneamente en diferentes núcleos",
+        "f": [
+            "Reducen el consumo energético",
+            "Eliminan la necesidad de buses de datos",
+            "Son más simples de diseñar",
+            "Requieren menos memoria caché"
+        ]
+    },
+    "¿Qué técnica permite a la CPU ejecutar instrucciones en un orden diferente\nal del código fuente?": {
+        "v": "Ejecución fuera de orden o especulativa",
+        "f": [
+            "Segmentación",
+            "Memoria caché",
+            "Multiprocesamiento",
+            "Arquitectura Harvard"
+        ]
+    },
+    "¿Qué define la arquitectura Dataflow?": {
+        "v": "Se basa en el movimiento de datos entre unidades funcionales sin unidad de\ncontrol central",
+        "f": [
+            "Utiliza buses unificados para datos e instrucciones",
+            "Requiere memoria caché para operar",
+            "Se centra en el almacenamiento de datos en discos",
+            "Es exclusiva de dispositivos móviles"
+        ]
+    },
+    "¿Qué operación lógica se utiliza para calcular la paridad en la transmisión\nde datos?": {
+        "v": "XOR (Exclusive OR)",
+        "f": [
+            "AND",
+            "OR",
+            "NOT",
+            "NAND"
+        ]
+    },
+    "¿Cómo se calcula la dirección de red de un host?": {
+        "v": "Aplicando la operación AND entre la IP y la máscara de red",
+        "f": [
+            "Utilizando XOR entre la IP y la máscara de red",
+            "Sumando los bits de la IP",
+            "Multiplicando la IP por la máscara de red",
+            "Realizando una operación OR entre la IP y la máscara de red"
+        ]
+    },
+    "¿Qué operación lógica se utiliza para la recuperación de datos en discos\nRAID?": {
+        "v": "XOR (Exclusive OR)",
+        "f": [
+            "AND",
+            "OR",
+            "NOT",
+            "NAND"
+        ]
+    },
+    "¿Qué problema resuelve la arquitectura Harvard en comparación con la de Von\nNeumann?": {
+        "v": "Permite el acceso simultáneo a datos e instrucciones",
+        "f": [
+            "Reduce el costo de fabricación",
+            "Elimina la necesidad de buses de datos",
+            "Incrementa la capacidad de almacenamiento",
+            "Simplifica el diseño del procesador"
+        ],
+        "c_count": 1
+    },
+    "¿Qué ventaja tiene el uso de múltiples núcleos en una CPU?": {
+        "v": "Incrementa el paralelismo y el rendimiento general",
+        "f": [
+            "Simplifica el diseño del hardware",
+            "Reduce el tamaño del procesador",
+            "Aumenta el consumo energético",
+            "Disminuye la velocidad de ejecución"
+        ]
+    },
+    "¿Qué técnica de diseño permite a la CPU procesar varias instrucciones\nsimultáneamente?": {
+        "v": "Segmentación",
+        "f": [
+            "Ejecución secuencial",
+            "Unificación de buses",
+            "Reducción de instrucciones",
+            "Multiprocesamiento"
+        ]
+    },
+    "¿Qué característica tiene la arquitectura Harvard modificada?": {
+        "v": "Utiliza memorias separadas para datos e instrucciones con un bus común",
+        "f": [
+            "Unifica las memorias para datos e instrucciones",
+            "Requiere buses separados para cada operación",
+            "No permite el paralelismo",
+            "Es exclusiva para servidores empresariales"
+        ]
+    },
+    "¿Qué ventaja tiene la segmentación en el diseño de CPUs?": {
+        "v": "Permite ejecutar partes de varias instrucciones simultáneamente",
+        "f": [
+            "Elimina la necesidad de memoria caché",
+            "Incrementa la capacidad de almacenamiento",
+            "Simplifica la programación paralela",
+            "Reduce la latencia en sistemas distribuidos"
+        ]
+    },
+    "¿Qué es un sistema operativo?": {
+        "v": "Un software que actúa como intermediario entre el hardware y las\naplicaciones",
+        "f": [
+            "Un programa para diseño gráfico",
+            "Un hardware para procesar datos",
+            "Una interfaz de red avanzada",
+            "Un dispositivo de almacenamiento externo"
+        ]
+    },
+    "¿Cuál es uno de los propósitos principales de un sistema operativo?": {
+        "v": "Administrar los recursos hardware de un ordenador",
+        "f": [
+            "Proporcionar herramientas de diseño gráfico",
+            "Crear redes inalámbricas",
+            "Optimizar el hardware físico",
+            "Almacenar datos en la nube exclusivamente"
+        ]
+    },
+    "¿Qué permite la abstracción de hardware en un sistema operativo?": {
+        "v": "Ocultar los detalles complejos del hardware a las aplicaciones",
+        "f": [
+            "Mejorar la velocidad del procesador",
+            "Reducir la cantidad de memoria utilizada",
+            "Eliminar la necesidad de controladores de dispositivos",
+            "Proporcionar acceso directo al hardware"
+        ]
+    },
+    "¿Qué gestiona un sistema operativo en términos de memoria?": {
+        "v": "La asignación y liberación de espacio de memoria para programas y datos",
+        "f": [
+            "El diseño físico de la memoria",
+            "La conexión de dispositivos externos",
+            "La comunicación entre redes",
+            "La velocidad de la memoria RAM"
+        ]
+    },
+    "¿Qué es la memoria virtual?": {
+        "v": "Un método que permite a los programas usar más memoria de la físicamente\ndisponible",
+        "f": [
+            "Una memoria exclusiva para sistemas en red",
+            "Un tipo de memoria que no requiere energía",
+            "Un componente físico del sistema operativo",
+            "Una tecnología utilizada solo en dispositivos móviles"
+        ]
+    },
+    "¿Qué componente permite al sistema operativo comunicarse con dispositivos\nexternos?": {
+        "v": "Los controladores de dispositivos (drivers)",
+        "f": [
+            "La memoria caché",
+            "La interfaz gráfica",
+            "El kernel del sistema",
+            "El procesador de red"
+        ],
+        "c_count": 1
+    },
+    "¿Qué ventaja ofrecen los sistemas operativos de tiempo compartido?": {
+        "v": "Permiten a múltiples usuarios compartir recursos y tiempo de CPU",
+        "f": [
+            "Eliminan la necesidad de memoria RAM",
+            "Proporcionan acceso exclusivo a un único usuario",
+            "Simplifican la programación en ensamblador",
+            "Evitan el uso de dispositivos de entrada/salida"
+        ],
+        "c_count": 1
+    },
+    "¿Qué característica define a los sistemas operativos de tiempo real?": {
+        "v": "Procesan tareas con una latencia mínima en tiempo real",
+        "f": [
+            "Permiten múltiples usuarios simultáneamente",
+            "Ejecutan procesos exclusivamente en paralelo",
+            "Se utilizan únicamente en dispositivos móviles",
+            "Eliminan la necesidad de memoria virtual"
+        ]
+    },
+    "¿Qué define a los sistemas operativos embebidos?": {
+        "v": "Están diseñados para dispositivos específicos como electrodomésticos o\nautomóviles",
+        "f": [
+            "Son exclusivamente para servidores empresariales",
+            "Permiten la multitarea en sistemas de escritorio",
+            "Se centran en la ejecución de procesos en paralelo",
+            "Proporcionan acceso directo a la nube"
+        ]
+    },
+    "¿Qué define a un sistema operativo monolítico?": {
+        "v": "Todas las funcionalidades del sistema operativo se ejecutan en un único\nespacio de memoria",
+        "f": [
+            "Divide el sistema en capas jerárquicas",
+            "Proporciona una interfaz de usuario minimalista",
+            "Ejecución exclusiva en dispositivos móviles",
+            "Permite la ejecución de procesos en tiempo real"
+        ]
+    },
+    "¿Qué caracteriza a un sistema operativo microkernel?": {
+        "v": "El kernel es mínimo y solo proporciona servicios básicos",
+        "f": [
+            "Incluye todos los servicios en un único bloque de código",
+            "Proporciona acceso directo al hardware",
+            "Solo funciona en sistemas de tiempo real",
+            "Requiere un hardware dedicado"
+        ]
+    },
+    "¿Qué tipo de sistemas operativos permiten ejecutar procesos de múltiples\nusuarios simultáneamente?": {
+        "v": "Sistemas operativos multiusuario",
+        "f": [
+            "Sistemas operativos monotarea",
+            "Sistemas operativos monousuario",
+            "Sistemas operativos monolíticos",
+            "Sistemas operativos de escritorio"
+        ]
+    },
+    "¿Qué ventaja tiene un sistema operativo de código abierto?": {
+        "v": "Permite a la comunidad modificar y mejorar el sistema",
+        "f": [
+            "Es exclusivo para servidores empresariales",
+            "Proporciona acceso directo a la memoria virtual",
+            "No requiere controladores de dispositivos",
+            "Evita el uso de software propietario"
+        ]
+    },
+    "¿Qué característica define a los sistemas operativos híbridos?": {
+        "v": "Combinan características de sistemas monolíticos y microkernel",
+        "f": [
+            "Son exclusivos para dispositivos móviles",
+            "Dividen el sistema en múltiples capas",
+            "Solo permiten la ejecución de un proceso a la vez",
+            "Eliminan la necesidad de memoria caché"
+        ],
+        "c_count": 1
+    },
+    "¿Qué ventaja tiene la evolución de los sistemas operativos hacia el cloud\ncomputing?": {
+        "v": "Proporciona acceso a servicios en la nube como almacenamiento y computación\nremota",
+        "f": [
+            "Reduce la necesidad de sistemas multitarea",
+            "Elimina la dependencia de hardware físico",
+            "Optimiza la memoria virtual exclusivamente",
+            "Permite la conexión directa con dispositivos móviles"
+        ]
+    },
+    "¿Qué caracteriza a un sistema operativo multitarea?": {
+        "v": "Permite ejecutar múltiples procesos concurrentemente",
+        "f": [
+            "Solo permite ejecutar un proceso a la vez",
+            "Es exclusivo para dispositivos móviles",
+            "Divide el sistema operativo en capas",
+            "Elimina la necesidad de memoria caché"
+        ]
+    },
+    "¿Qué define a los sistemas operativos de escritorio?": {
+        "v": "Proporcionan una interfaz gráfica amigable para computadoras personales",
+        "f": [
+            "Son exclusivamente para servidores",
+            "Se centran en la multitarea en tiempo real",
+            "Están diseñados para dispositivos embebidos",
+            "Permiten solo el acceso por línea de comandos"
+        ],
+        "c_count": 1
+    },
+    "¿Qué define a los sistemas operativos multiprocesamiento?": {
+        "v": "Trabajan con más de un microprocesador simultáneamente",
+        "f": [
+            "Solo permiten un procesador físico",
+            "Están diseñados exclusivamente para sistemas móviles",
+            "Proporcionan acceso directo a la memoria virtual",
+            "Eliminan la necesidad de controladores de dispositivos"
+        ],
+        "c_count": 1
+    },
+    "¿Qué define a los sistemas operativos monousuario?": {
+        "v": "Están diseñados para un único usuario",
+        "f": [
+            "Permiten múltiples usuarios simultáneamente",
+            "Son exclusivamente para servidores",
+            "Se utilizan únicamente en dispositivos móviles",
+            "Dividen los procesos en capas"
+        ],
+        "c_count": 1
+    },
+    "¿Qué ventaja tienen los sistemas operativos distribuidos?": {
+        "v": "Permiten ejecutar programas distribuidos entre diferentes computadores",
+        "f": [
+            "Proporcionan acceso exclusivo a un único usuario",
+            "Eliminan la necesidad de redes de comunicación",
+            "Simplifican la multitarea en un solo dispositivo",
+            "Requieren menos memoria para ejecutarse"
+        ]
+    },
+    "¿Qué caracteriza a un sistema operativo de tiempo compartido?": {
+        "v": "Permite a múltiples usuarios compartir recursos y tiempo de CPU",
+        "f": [
+            "Es exclusivo para servidores",
+            "Elimina la necesidad de memoria caché",
+            "Se utiliza solo en dispositivos móviles",
+            "Divide los procesos en capas jerárquicas"
+        ]
+    },
+    "¿Qué ventaja tiene un sistema operativo embebido?": {
+        "v": "Está optimizado para hardware específico con funcionalidad limitada",
+        "f": [
+            "Proporciona acceso directo a redes globales",
+            "Es exclusivamente para servidores empresariales",
+            "Simplifica el diseño de dispositivos móviles",
+            "Permite ejecutar múltiples procesos simultáneamente"
+        ]
+    },
+    "¿Qué ventaja tienen los sistemas operativos en capas?": {
+        "v": "Proporcionan modularidad y facilidad para reemplazar componentes\nespecíficos",
+        "f": [
+            "Eliminan la necesidad de memoria virtual",
+            "Simplifican la ejecución de procesos concurrentes",
+            "Son exclusivos para servidores",
+            "Proporcionan acceso directo al hardware"
+        ]
+    },
+    "¿Qué característica tienen los sistemas operativos de tiempo real?": {
+        "v": "Procesan tareas con una latencia mínima",
+        "f": [
+            "Permiten múltiples usuarios simultáneamente",
+            "Están diseñados para dispositivos móviles",
+            "Eliminan la necesidad de controladores de dispositivos",
+            "Proporcionan acceso exclusivo a la memoria caché"
+        ]
+    },
+    "¿Qué define a los sistemas operativos para dispositivos móviles?": {
+        "v": "Están optimizados para pantallas táctiles y recursos limitados",
+        "f": [
+            "Son exclusivos para servidores empresariales",
+            "Permiten ejecutar múltiples procesos concurrentemente",
+            "Se utilizan solo en computadoras personales",
+            "Proporcionan acceso exclusivo a redes locales"
+        ]
+    },
+    "¿Qué es el kernel en un sistema operativo?": {
+        "v": "El núcleo que gestiona recursos y proporciona servicios a las aplicaciones",
+        "f": [
+            "Un controlador para dispositivos de entrada",
+            "La interfaz gráfica de usuario",
+            "Un módulo para la red",
+            "Una biblioteca de comandos del sistema"
+        ],
+        "c_count": 1
+    },
+    "¿Qué ventaja ofrece la GUI frente a la CLI?": {
+        "v": "Es más intuitiva y visual, adecuada para usuarios menos experimentados",
+        "f": [
+            "Ofrece mayor control sobre el sistema",
+            "Permite automatizar tareas complejas",
+            "Es más eficiente en la ejecución de comandos",
+            "No requiere recursos gráficos"
+        ]
+    },
+    "¿Qué característica define a la CLI?": {
+        "v": "Permite ejecutar comandos directamente mediante texto",
+        "f": [
+            "Incluye ventanas e iconos",
+            "Ofrece un entorno exclusivamente visual",
+            "Es menos potente que la GUI",
+            "Es exclusiva para sistemas Linux"
+        ]
+    },
+    "¿Qué tarea realiza la gestión de procesos en un sistema operativo?": {
+        "v": "Administra la ejecución de múltiples procesos asignando recursos de CPU",
+        "f": [
+            "Optimiza el uso de memoria virtual",
+            "Gestiona el acceso a dispositivos de almacenamiento",
+            "Controla la comunicación en redes",
+            "Organiza los archivos en directorios"
+        ],
+        "c_count": 1
+    },
+    "¿Qué permite la memoria virtual?": {
+        "v": "Usar más memoria de la físicamente disponible",
+        "f": [
+            "Reducir la velocidad de acceso a la memoria",
+            "Eliminar la necesidad de memoria física",
+            "Almacenar datos en dispositivos externos",
+            "Controlar los procesos en ejecución"
+        ],
+        "c_count": 1
+    },
+    "¿Qué es el spooling en la gestión de dispositivos de E/S?": {
+        "v": "Interponer un dispositivo de memoria auxiliar entre el proceso y el\nperiférico",
+        "f": [
+            "Asignar dispositivos exclusivamente a un proceso",
+            "Permitir el acceso simultáneo a dispositivos compartidos",
+            "Eliminar la necesidad de controladores",
+            "Reducir el tiempo de respuesta de los dispositivos"
+        ]
+    },
+    "¿Qué mejora el DMA en la gestión de E/S?": {
+        "v": "Permite que la CPU se dedique a otras tareas mientras transfiere datos",
+        "f": [
+            "Reduce la cantidad de memoria utilizada",
+            "Elimina la necesidad de dispositivos virtuales",
+            "Optimiza la ejecución de comandos de red",
+            "Incrementa el uso de CPU en las operaciones de E/S"
+        ]
+    },
+    "¿Qué es un driver?": {
+        "v": "Un programa que actúa como interfaz entre el hardware y el sistema\noperativo",
+        "f": [
+            "Un componente físico del hardware",
+            "Una biblioteca de comandos de usuario",
+            "Un módulo para la memoria virtual",
+            "Una herramienta para configurar redes"
+        ]
+    },
+    "¿Qué tarea realiza un controlador de dispositivo?": {
+        "v": "Traduce las instrucciones del sistema operativo a comandos específicos del\ndispositivo",
+        "f": [
+            "Elimina errores en la memoria física",
+            "Administra las conexiones de red",
+            "Controla el acceso exclusivo a la CPU",
+            "Optimiza el uso de la interfaz gráfica"
+        ],
+        "c_count": 1
+    },
+    "¿Qué es el modo kernel en un sistema operativo?": {
+        "v": "El nivel de mayor privilegio que permite acceso total al hardware",
+        "f": [
+            "Un nivel de acceso restringido para usuarios",
+            "Un entorno exclusivo para redes",
+            "Una interfaz gráfica avanzada",
+            "Un sistema de almacenamiento temporal"
+        ]
+    },
+    "¿Qué define el modo usuario en un sistema operativo?": {
+        "v": "Un nivel de menor privilegio que restringe el acceso al hardware",
+        "f": [
+            "Permite el control directo del hardware",
+            "Es exclusivo para procesos críticos",
+            "Se utiliza solo en sistemas distribuidos",
+            "Proporciona acceso completo al kernel"
+        ],
+        "c_count": 1
+    },
+    "¿Qué son las llamadas al sistema?": {
+        "v": "Un mecanismo para que programas de usuario soliciten servicios al núcleo\ndel sistema operativo",
+        "f": [
+            "Un proceso exclusivo para gestionar memoria virtual",
+            "Un conjunto de instrucciones para redes locales",
+            "Una técnica para mejorar la velocidad de E/S",
+            "Un sistema para traducir comandos gráficos"
+        ]
+    },
+    "¿Qué sucede cuando un programa invoca una llamada al sistema?": {
+        "v": "Se produce un cambio de contexto del modo usuario al modo kernel",
+        "f": [
+            "Se ejecuta un comando en la interfaz gráfica",
+            "El sistema operativo libera recursos del proceso",
+            "Se inicia un nuevo hilo de ejecución",
+            "El programa se detiene temporalmente"
+        ]
+    },
+    "¿Qué función tiene el manejador de interrupciones?": {
+        "v": "Identificar y responder a eventos específicos generados por hardware o\nsoftware",
+        "f": [
+            "Optimizar el acceso a la memoria caché",
+            "Controlar el uso de dispositivos compartidos",
+            "Proporcionar acceso directo al kernel",
+            "Organizar los archivos en el sistema"
+        ]
+    },
+    "¿Qué es una excepción en un sistema operativo?": {
+        "v": "Una situación inesperada de error generada durante la ejecución de un\nprograma",
+        "f": [
+            "Un proceso para gestionar memoria virtual",
+            "Un evento planificado por el kernel",
+            "Un mecanismo para acceder a dispositivos externos",
+            "Un tipo de interrupción generada por hardware"
+        ],
+        "c_count": 1
+    },
+    "¿Qué ventaja ofrece la gestión de interrupciones?": {
+        "v": "Permite manejar eventos imprevistos de manera eficiente",
+        "f": [
+            "Reduce el uso de memoria física",
+            "Elimina la necesidad de controladores de dispositivos",
+            "Simplifica la programación de aplicaciones gráficas",
+            "Optimiza el acceso a redes externas"
+        ]
+    },
+    "¿Qué mejora el uso de DMA en comparación con la E/S programada?": {
+        "v": "Libera a la CPU de tareas de transferencia de datos entre memoria y\nperiféricos",
+        "f": [
+            "Elimina la necesidad de dispositivos virtuales",
+            "Incrementa el tiempo de procesamiento de E/S",
+            "Simplifica la ejecución de comandos gráficos",
+            "Reduce el tamaño de la memoria caché"
+        ]
+    },
+    "¿Qué pasos incluye el manejo de una interrupción?": {
+        "v": "Generación, captura, atención, procesamiento y reanudación del programa",
+        "f": [
+            "Asignación, suspensión, finalización y reinicio",
+            "Carga, ejecución, pausa y finalización",
+            "Planificación, distribución, almacenamiento y recuperación",
+            "Identificación, traducción, optimización y eliminación"
+        ]
+    },
+    "¿Qué función tiene el controlador de interrupciones?": {
+        "v": "Transferir el control al manejador correspondiente cuando ocurre una\ninterrupción",
+        "f": [
+            "Controlar el acceso exclusivo al hardware",
+            "Optimizar la memoria física",
+            "Planificar la ejecución de procesos",
+            "Eliminar errores de red"
+        ],
+        "c_count": 1
+    },
+    "¿Qué diferencia principal hay entre interrupciones y excepciones?": {
+        "v": "Las interrupciones son generadas por hardware o software, y las excepciones\npor errores en la ejecución",
+        "f": [
+            "Ambas son siempre generadas por el hardware",
+            "Las excepciones solo ocurren en sistemas distribuidos",
+            "Las interrupciones no afectan al rendimiento del sistema",
+            "Las excepciones no pueden ser manejadas por el sistema operativo"
+        ]
+    },
+    "¿Qué ocurre tras gestionar una excepción?": {
+        "v": "El manejador toma medidas para resolver el error o finalizar el programa",
+        "f": [
+            "El sistema operativo reinicia el hardware",
+            "Se detiene la ejecución de todos los procesos",
+            "El kernel elimina todos los recursos asignados",
+            "El programa se reanuda automáticamente"
+        ]
+    },
+    "¿Qué componente gestiona las operaciones de E/S en un sistema operativo?": {
+        "v": "Los drivers o controladores de dispositivos",
+        "f": [
+            "El kernel de tiempo compartido",
+            "La interfaz gráfica de usuario",
+            "El gestor de memoria virtual",
+            "El procesador de interrupciones"
+        ]
+    },
+    "¿Qué ventaja tiene el modo SPOOL en la gestión de E/S?": {
+        "v": "Permite a los procesos finalizar sin esperar a los periféricos de baja\nvelocidad",
+        "f": [
+            "Optimiza el uso de memoria virtual",
+            "Reduce el número de interrupciones generadas",
+            "Incrementa el acceso exclusivo al hardware",
+            "Elimina la necesidad de dispositivos virtuales"
+        ],
+        "c_count": 1
+    },
+    "¿Qué determina el modo de operación (usuario o kernel) de un proceso?": {
+        "v": "El nivel de privilegio requerido por las operaciones que realiza",
+        "f": [
+            "La cantidad de memoria asignada al proceso",
+            "El tipo de dispositivo de entrada/salida utilizado",
+            "El sistema de archivos empleado",
+            "La interfaz gráfica seleccionada"
+        ]
+    },
+    "¿Qué característica tienen las llamadas al sistema?": {
+        "v": "Permiten que programas de usuario accedan a operaciones con privilegios del\nkernel",
+        "f": [
+            "Eliminan la necesidad de gestión de memoria",
+            "Facilitan la conexión con redes externas",
+            "Son exclusivas para procesos de tiempo real",
+            "Proporcionan acceso exclusivo a dispositivos gráficos"
+        ],
+        "c_count": 1
+    },
+    "¿Qué es un proceso en un sistema operativo?": {
+        "v": "Un programa en ejecución o cuya ejecución ha sido interrumpida",
+        "f": [
+            "Un recurso de hardware compartido",
+            "Una función del kernel",
+            "Un archivo almacenado en disco",
+            "Una aplicación sin iniciar"
+        ]
+    },
+    "¿Qué función tiene el planificador en un sistema operativo multitarea?": {
+        "v": "Coordinar la ejecución de procesos y asignarles recursos de manera\neficiente",
+        "f": [
+            "Cargar programas en la memoria virtual",
+            "Eliminar procesos inactivos",
+            "Optimizar el rendimiento del hardware",
+            "Gestionar los controladores de dispositivos"
+        ]
+    },
+    "¿Qué sucede cuando un proceso pasa a estar bloqueado?": {
+        "v": "Es retirado de la CPU porque necesita realizar una operación de E/S",
+        "f": [
+            "Se convierte en un proceso activo",
+            "Se almacena en la caché de la CPU",
+            "Es eliminado del sistema operativo",
+            "Recibe prioridad sobre otros procesos"
+        ]
+    },
+    "¿Qué es el swapping?": {
+        "v": "Mover procesos entre la memoria RAM y el disco para liberar espacio",
+        "f": [
+            "Asignar recursos de CPU a procesos en espera",
+            "Cargar todos los procesos en la memoria principal",
+            "Optimizar la velocidad de los discos duros",
+            "Dividir los procesos en múltiples hilos"
+        ]
+    },
+    "¿Qué caracteriza al algoritmo FIFO?": {
+        "v": "Los procesos se ejecutan en el orden de llegada",
+        "f": [
+            "Da prioridad a los procesos más cortos",
+            "Utiliza un quantum para alternar procesos",
+            "Divide los procesos en varias colas",
+            "Requiere predicciones del tiempo de ejecución"
+        ]
+    },
+    "¿Qué define el algoritmo Round Robin?": {
+        "v": "Asignar un quantum de tiempo fijo a cada proceso",
+        "f": [
+            "Ejecutar primero el proceso más corto",
+            "Almacenar procesos en diferentes niveles de prioridad",
+            "Ejecutar los procesos en orden de llegada sin interrupciones",
+            "Usar colas dinámicas para reorganizar procesos"
+        ]
+    },
+    "¿Qué ventaja tiene el algoritmo Shortest Job First?": {
+        "v": "Da prioridad al proceso con menor tiempo de CPU necesario",
+        "f": [
+            "Es el más simple de implementar",
+            "No requiere predicciones del tiempo de ejecución",
+            "Minimiza el tiempo de espera para todos los procesos",
+            "Reorganiza dinámicamente las colas de procesos"
+        ]
+    },
+    "¿Qué sucede en un algoritmo de colas multinivel dinámicas?": {
+        "v": "Los procesos pueden cambiar de cola según su estado",
+        "f": [
+            "Todos los procesos permanecen en la misma cola",
+            "Los procesos de mayor prioridad se ejecutan siempre primero",
+            "Los procesos se ejecutan en orden de llegada",
+            "No se permite reorganizar las colas"
+        ]
+    },
+    "¿Qué problema describe la condición de carrera?": {
+        "v": "Errores que ocurren cuando múltiples procesos acceden a recursos\ncompartidos sin control adecuado",
+        "f": [
+            "Conflictos en la asignación de memoria virtual",
+            "Procesos que se quedan bloqueados indefinidamente",
+            "Ineficiencia en la ejecución de algoritmos de planificación",
+            "Fallos en la comunicación entre dispositivos"
+        ]
+    },
+    "¿Cómo se evita la condición de carrera?": {
+        "v": "Usando exclusión mutua para proteger las secciones críticas",
+        "f": [
+            "Incrementando el tamaño de la memoria virtual",
+            "Reorganizando los procesos en tiempo real",
+            "Reduciendo el número de procesos en ejecución",
+            "Implementando colas de prioridad"
+        ]
+    },
+    "¿Qué es un semáforo binario?": {
+        "v": "Una variable que puede tomar valores 0 y 1 para gestionar el acceso a\nrecursos",
+        "f": [
+            "Un algoritmo para reorganizar procesos",
+            "Un mecanismo exclusivo para E/S programada",
+            "Una estructura de datos para memoria caché",
+            "Un tipo de interrupción generada por hardware"
+        ]
+    },
+    "¿Qué hace la operación P(S) en un semáforo?": {
+        "v": "Coloca el semáforo en rojo si está en verde o espera a que esté en verde",
+        "f": [
+            "Inicia un nuevo proceso",
+            "Asigna memoria al proceso activo",
+            "Elimina el semáforo del sistema",
+            "Reorganiza la cola de procesos"
+        ],
+        "c_count": 1
+    },
+    "¿Qué garantiza el uso de exclusión mutua?": {
+        "v": "Que solo un proceso acceda a la sección crítica a la vez",
+        "f": [
+            "Que los procesos siempre terminen en orden de llegada",
+            "Que no haya interrupciones en la memoria virtual",
+            "Que todos los procesos tengan la misma prioridad",
+            "Que la CPU se dedique exclusivamente a procesos críticos"
+        ]
+    },
+    "¿Qué diferencia tienen los semáforos contadores frente a los binarios?": {
+        "v": "Pueden tomar cualquier valor entero no negativo",
+        "f": [
+            "Solo gestionan procesos de E/S",
+            "Requieren un quantum para funcionar",
+            "Son exclusivos de sistemas monotarea",
+            "Solo funcionan en sistemas distribuidos"
+        ]
+    },
+    "¿Qué hace la operación V(S) en un semáforo?": {
+        "v": "Libera el semáforo o permite que otro proceso acceda a la sección crítica",
+        "f": [
+            "Elimina al proceso en ejecución",
+            "Crea una nueva cola de procesos",
+            "Aumenta el tiempo de CPU asignado",
+            "Reorganiza los datos en memoria"
+        ]
+    },
+    "¿Qué ventaja tienen los algoritmos de espera no activa?": {
+        "v": "Los procesos esperan en una cola fuera de la memoria principal",
+        "f": [
+            "Los procesos se ejecutan sin interrupciones",
+            "Se minimiza el tiempo de espera de los procesos",
+            "Se reduce la prioridad de los procesos en espera",
+            "La CPU dedica más recursos a los procesos activos"
+        ],
+        "c_count": 1
+    },
+    "¿Qué caracteriza al algoritmo FIFO en planificación?": {
+        "v": "Ejecuta procesos en el orden en que llegaron a la cola",
+        "f": [
+            "Prioriza procesos interactivos sobre los de lotes",
+            "Utiliza un quantum fijo para alternar procesos",
+            "Requiere predicciones del tiempo de ejecución",
+            "Divide los procesos en varias colas dinámicas"
+        ]
+    },
+    "¿Qué problema resuelve el algoritmo de Peterson?": {
+        "v": "Garantiza la exclusión mutua en sistemas multitarea",
+        "f": [
+            "Optimiza la velocidad de acceso a memoria virtual",
+            "Evita el uso de semáforos en sistemas monotarea",
+            "Elimina la necesidad de memoria caché",
+            "Minimiza el uso de la CPU en procesos críticos"
+        ],
+        "c_count": 1
+    },
+    "¿Qué función tiene la operación I(S, Valor) en un semáforo?": {
+        "v": "Inicializar el semáforo con un valor específico",
+        "f": [
+            "Eliminar procesos bloqueados en memoria",
+            "Reorganizar los datos en la memoria caché",
+            "Asignar un quantum de tiempo a los procesos",
+            "Reiniciar todos los procesos en cola"
+        ]
+    },
+    "¿Qué ocurre si no se controla el acceso a secciones críticas?": {
+        "v": "Pueden surgir errores impredecibles y pérdida de datos",
+        "f": [
+            "Los procesos se ejecutan más lentamente",
+            "La CPU prioriza procesos interactivos",
+            "Los dispositivos de E/S fallan constantemente",
+            "Se aumenta la memoria virtual utilizada"
+        ],
+        "c_count": 1
+    },
+    "¿Qué problema genera la condición de carrera?": {
+        "v": "Inconsistencias en los datos debido a accesos no controlados a recursos\ncompartidos",
+        "f": [
+            "Interrupciones en la ejecución de procesos",
+            "Bloqueos de la memoria principal",
+            "Conflictos en el uso de dispositivos de E/S",
+            "Errores de asignación de memoria virtual"
+        ]
+    },
+    "¿Qué determina la prioridad en el algoritmo Shortest Remaining Time First?": {
+        "v": "El tiempo de CPU que requiere cada proceso",
+        "f": [
+            "El orden de llegada de los procesos",
+            "La cantidad de memoria asignada",
+            "El tipo de dispositivo de E/S utilizado",
+            "El número de procesos en cola"
+        ]
+    },
+    "¿Qué mejora el uso de exclusión mutua mediante hardware?": {
+        "v": "Permite proteger secciones críticas sin intervención directa de software",
+        "f": [
+            "Reduce el número de procesos en cola",
+            "Optimiza la ejecución de procesos interactivos",
+            "Elimina la necesidad de semáforos",
+            "Simplifica la gestión de memoria virtual"
+        ],
+        "c_count": 1
+    },
+    "¿Qué permite un semáforo en un sistema operativo?": {
+        "v": "Controlar el acceso a recursos compartidos entre procesos",
+        "f": [
+            "Incrementar el rendimiento de la CPU",
+            "Eliminar procesos inactivos de la memoria",
+            "Optimizar la velocidad de los dispositivos de E/S",
+            "Asignar más memoria virtual a los procesos activos"
+        ]
+    },
+    "¿Qué caracteriza a los algoritmos de espera activa?": {
+        "v": "Los procesos permanecen en memoria principal mientras esperan su turno",
+        "f": [
+            "Los procesos se ejecutan sin interrupciones",
+            "Se priorizan procesos de E/S sobre los de CPU",
+            "Se reorganizan dinámicamente las colas de procesos",
+            "Los procesos esperan en una cola fuera de la memoria"
+        ]
+    },
+    "¿Qué problema resuelve la exclusión mutua mediante hardware?": {
+        "v": "Evitar que dos procesos entren simultáneamente en sus secciones críticas",
+        "f": [
+            "Optimizar el uso de memoria virtual",
+            "Eliminar los interbloqueos",
+            "Aumentar la velocidad de E/S",
+            "Mejorar la gestión de interrupciones"
+        ]
+    },
+    "¿Qué condiciones deben cumplirse para que ocurra un bloqueo mutuo?": {
+        "v": "Uso exclusivo, retención y espera, no apropiación y espera circular",
+        "f": [
+            "Fragmentación interna y externa",
+            "Alta carga de CPU y poca memoria",
+            "Prioridad baja en todos los procesos",
+            "Falta de recursos de hardware disponibles"
+        ]
+    },
+    "¿Qué es la fragmentación interna?": {
+        "v": "Espacio no utilizado dentro de una partición asignada a un proceso",
+        "f": [
+            "Espacio libre en memoria RAM no asignado",
+            "Particiones dinámicas sin procesos",
+            "Huecos pequeños en disco duro",
+            "Fragmentos de memoria compartida entre procesos"
+        ]
+    },
+    "¿Qué caracteriza al particionamiento dinámico?": {
+        "v": "Crea particiones ajustadas al tamaño del proceso",
+        "f": [
+            "Divide la memoria en particiones fijas",
+            "Evita la fragmentación externa",
+            "Asigna la memoria en bloques grandes",
+            "Prioriza procesos con mayor tamaño"
+        ]
+    },
+    "¿Qué estrategia de asignación coloca un proceso en el primer hueco\ndisponible?": {
+        "v": "Primer ajuste",
+        "f": [
+            "Mejor ajuste",
+            "Peor ajuste",
+            "Compactación",
+            "Condensación de huecos"
+        ]
+    },
+    "¿Qué técnica resuelve el problema de la fragmentación externa?": {
+        "v": "Compactación o reubicación",
+        "f": [
+            "Paginación estática",
+            "Bloqueo mutuo",
+            "Condensación de procesos",
+            "E/S programada"
+        ],
+        "e_count": 1
+    },
+    "¿Qué es la paginación en la gestión de memoria?": {
+        "v": "Dividir la memoria en marcos de página de tamaño fijo",
+        "f": [
+            "Asignar procesos consecutivos en memoria",
+            "Crear particiones dinámicas en tiempo real",
+            "Fusionar huecos adyacentes de memoria",
+            "Reorganizar procesos en colas de prioridad"
+        ]
+    },
+    "¿Qué ventaja ofrece la segmentación en memoria?": {
+        "v": "Permite compartir código y datos comunes entre procesos",
+        "f": [
+            "Elimina la fragmentación interna y externa",
+            "Simplifica la asignación de memoria virtual",
+            "Optimiza la velocidad de acceso a datos",
+            "Asigna memoria en bloques de tamaño fijo"
+        ]
+    },
+    "¿Qué es un fallo de página en memoria virtual?": {
+        "v": "Cuando una página requerida no está cargada en memoria principal",
+        "f": [
+            "Cuando una partición queda inutilizada",
+            "Cuando la memoria RAM se llena completamente",
+            "Cuando el sistema operativo no encuentra un proceso activo",
+            "Cuando se supera el límite de procesos simultáneos"
+        ]
+    },
+    "¿Qué algoritmo de reemplazamiento elige la página que lleva más tiempo en\nmemoria?": {
+        "v": "FIFO",
+        "f": [
+            "Óptimo",
+            "LRU",
+            "Segunda oportunidad",
+            "LFU"
+        ]
+    },
+    "¿Qué caracteriza al algoritmo LRU?": {
+        "v": "Reemplaza la página menos utilizada recientemente",
+        "f": [
+            "Elige la página más utilizada en memoria",
+            "Se basa en un bit de uso asociado a cada página",
+            "Elige la página con menos referencias totales",
+            "Utiliza colas para priorizar las páginas más antiguas"
+        ]
+    },
+    "¿Qué algoritmo de reemplazamiento utiliza un bit para indicar si una página\nfue usada?": {
+        "v": "Segunda oportunidad",
+        "f": [
+            "FIFO",
+            "Óptimo",
+            "LRU",
+            "LFU"
+        ]
+    },
+    "¿Qué es el algoritmo Óptimo en memoria virtual?": {
+        "v": "Elige como víctima la página que más tarde será usada en el futuro",
+        "f": [
+            "Selecciona la página menos utilizada recientemente",
+            "Reemplaza la página con menor contador de referencias",
+            "Elige la página que lleva más tiempo en memoria",
+            "Reorganiza las páginas en función de su prioridad"
+        ],
+        "c_count": 1
+    },
+    "¿Qué técnica permite que un proceso se ejecute sin estar completamente en\nmemoria principal?": {
+        "v": "Memoria virtual",
+        "f": [
+            "Paginación dinámica",
+            "Segmentación",
+            "Swapping programado",
+            "Compactación de memoria"
+        ]
+    },
+    "¿Qué es la anomalía de Belady?": {
+        "v": "Un aumento de fallos de página al incrementar los marcos en memoria",
+        "f": [
+            "Una disminución de la memoria virtual disponible",
+            "Una fragmentación severa en particiones dinámicas",
+            "Un bloqueo mutuo causado por falta de recursos",
+            "Un error en la gestión de semáforos binarios"
+        ]
+    },
+    "¿Qué problema resuelve la condensación de huecos en memoria?": {
+        "v": "Reduce la fragmentación externa al fusionar huecos adyacentes",
+        "f": [
+            "Optimiza la velocidad de acceso a memoria virtual",
+            "Evita la pérdida de datos en memoria caché",
+            "Aumenta el rendimiento de procesos críticos",
+            "Mejora la asignación de memoria en particiones estáticas"
+        ]
+    },
+    "¿Qué técnica de memoria virtual utiliza páginas de tamaño fijo?": {
+        "v": "Paginación",
+        "f": [
+            "Segmentación",
+            "Swapping",
+            "Compactación",
+            "Particionamiento estático"
+        ]
+    },
+    "¿Qué ventaja tiene la segmentación frente a la paginación?": {
+        "v": "Permite trabajar con unidades lógicas de información de tamaño variable",
+        "f": [
+            "Elimina completamente la fragmentación externa",
+            "Reduce el número de fallos de página",
+            "Es más fácil de implementar y gestionar",
+            "Aumenta la velocidad de reemplazo de páginas"
+        ]
+    },
+    "¿Qué técnica se utiliza para cargar solo las páginas necesarias en memoria\nvirtual?": {
+        "v": "Paginación bajo demanda",
+        "f": [
+            "Compactación de páginas",
+            "Swapping programado",
+            "Segmentación dinámica",
+            "FIFO dinámico"
+        ]
+    },
+    "¿Qué hace el algoritmo LFU en memoria virtual?": {
+        "v": "Reemplaza la página con menor número de referencias",
+        "f": [
+            "Elige la página más usada recientemente",
+            "Reemplaza la página más antigua en memoria",
+            "Selecciona la página con menor prioridad asignada",
+            "Utiliza bits de uso para decidir la página víctima"
+        ],
+        "c_count": 1
+    },
+    "¿Qué solución mitiga el problema del interbloqueo en concurrencia?": {
+        "v": "Evitar que las cuatro condiciones de interbloqueo ocurran simultáneamente",
+        "f": [
+            "Aumentar la memoria virtual disponible",
+            "Reorganizar los procesos en tiempo real",
+            "Reducir el número de procesos en ejecución",
+            "Asignar más recursos a los procesos bloqueados"
+        ]
+    },
+    "¿Qué permite la compactación en gestión de memoria?": {
+        "v": "Agrupar fragmentos libres para crear un espacio contiguo",
+        "f": [
+            "Dividir la memoria en particiones más pequeñas",
+            "Eliminar fallos de página en tiempo de ejecución",
+            "Aumentar el tamaño de los procesos en ejecución",
+            "Optimizar el uso de memoria caché"
+        ]
+    },
+    "¿Qué técnica de memoria reduce la fragmentación interna y externa?": {
+        "v": "Paginación",
+        "f": [
+            "Particionamiento estático",
+            "Compactación dinámica",
+            "Condensación de huecos",
+            "Segmentación pura"
+        ],
+        "c_count": 1,
+        "e_count": 1
+    },
+    "¿Qué técnica de reemplazamiento combina FIFO con un bit de uso?": {
+        "v": "Segunda oportunidad",
+        "f": [
+            "Óptimo",
+            "LRU",
+            "LFU",
+            "Compactación dinámica"
+        ]
+    },
+    "¿Qué hace un algoritmo de reemplazamiento al ocurrir un fallo de página?": {
+        "v": "Decide qué página en memoria debe ser descargada al disco",
+        "f": [
+            "Fusiona huecos adyacentes en memoria",
+            "Crea una nueva partición para el proceso",
+            "Reduce el tamaño del proceso en ejecución",
+            "Reinicia la memoria virtual"
+        ]
+    },
+    "¿Qué es un sistema de ficheros?": {
+        "v": "Conjunto de reglas y estructuras para organizar y gestionar archivos en un\ndispositivo de almacenamiento",
+        "f": [
+            "Una técnica para compactar datos en la RAM",
+            "Un sistema de particiones para discos duros",
+            "Un método para gestionar procesos concurrentes",
+            "Una interfaz gráfica para usuarios"
+        ]
+    },
+    "¿Qué atributo no es común en un archivo?": {
+        "v": "Capacidad de ejecutar procesos concurrentes",
+        "f": [
+            "Fecha de creación",
+            "Permisos de acceso",
+            "Contraseña de acceso",
+            "Fecha de última actualización"
+        ]
+    },
+    "¿Qué problema tiene el almacenamiento contiguo de archivos?": {
+        "v": "Si un archivo crece, puede provocar desbordamiento y reubicación",
+        "f": [
+            "Ocasiona fragmentación interna en la memoria",
+            "No permite almacenar archivos grandes",
+            "No puede manejar directorios jerárquicos",
+            "Ocupa demasiado espacio en disco"
+        ]
+    },
+    "¿Qué técnica utiliza i-nodos para gestionar archivos?": {
+        "v": "Unix y Linux",
+        "f": [
+            "Windows",
+            "MacOS",
+            "FAT",
+            "NTFS"
+        ],
+        "c_count": 1
+    },
+    "¿Cuál es la principal ventaja de la lista de enlaces mejorada frente a la\nlista de enlaces simple?": {
+        "v": "Permite acceder a bloques de archivo más rápido utilizando una tabla en RAM",
+        "f": [
+            "Elimina completamente la fragmentación",
+            "Almacena todos los archivos en bloques consecutivos",
+            "Optimiza la jerarquía de directorios",
+            "Aumenta el tamaño máximo de los archivos"
+        ]
+    },
+    "¿Qué es un directorio?": {
+        "v": "Una estructura jerárquica que organiza archivos y subdirectorios",
+        "f": [
+            "Un sistema de particiones en un disco duro",
+            "Un bloque de memoria reservado para archivos temporales",
+            "Una tabla de procesos del sistema operativo",
+            "Una lista de comandos del sistema"
+        ]
+    },
+    "¿Qué representa el directorio raíz en un árbol de directorios?": {
+        "v": "El nivel más alto que contiene subdirectorios y archivos",
+        "f": [
+            "Un archivo especial que almacena permisos",
+            "Un puntero a la memoria principal",
+            "El bloque inicial de un archivo",
+            "Una lista de todos los procesos en ejecución"
+        ],
+        "c_count": 1
+    },
+    "¿Qué ocurre al mover un archivo entre directorios en la misma partición?": {
+        "v": "Se actualizan las entradas en las listas de directorios, pero los bloques\nno se mueven",
+        "f": [
+            "Los bloques se copian y se eliminan del directorio origen",
+            "Se realiza una compactación de memoria",
+            "El archivo se fragmenta en el nuevo directorio",
+            "Se reorganizan todos los archivos en el sistema"
+        ],
+        "c_count": 1
+    },
+    "¿Qué ventaja ofrece el método FAT sobre la lista de enlaces simple?": {
+        "v": "Facilita un acceso más rápido a los bloques utilizando una tabla en memoria",
+        "f": [
+            "Permite el almacenamiento contiguo de archivos",
+            "Reduce el espacio utilizado en RAM",
+            "Elimina la necesidad de un árbol de directorios",
+            "Aumenta el tamaño de los clústeres en disco"
+        ]
+    },
+    "¿Cómo afecta la estructura jerárquica de directorios al usuario?": {
+        "v": "Facilita la navegación y localización de archivos",
+        "f": [
+            "Optimiza el tamaño de los archivos en disco",
+            "Elimina la necesidad de usar tablas de archivos",
+            "Aumenta la velocidad de acceso a los bloques",
+            "Reduce el uso de memoria virtual"
+        ]
+    },
+    "¿Cómo funciona la virtualización de hardware en términos de la relación\nentre el hipervisor y el hardware físico?": {
+        "v": "El hipervisor se ejecuta directamente sobre el hardware físico.",
+        "f": [
+            "El hipervisor permite que múltiples sistemas operativos compartan el mismo\nkernel.",
+            "El hipervisor se ejecuta sobre un sistema operativo anfitrión.",
+            "El hipervisor funciona como un contenedor."
+        ],
+        "e_count": 2
+    },
+    "¿Cuál de las siguientes afirmaciones es correcta sobre Oracle VM\nVirtualBox?": {
+        "v": "Puede utilizarse en una amplia variedad de sistemas operativos anfitriones.",
+        "f": [
+            "Ofrece funcionalidades de máquinas virtuales solo para entornos de\nproducción.",
+            "Es una solución de virtualización de código cerrado.",
+            "Es una herramienta de virtualización integrada en sistemas operativos\nWindows Server."
+        ],
+        "c_count": 1
+    },
+    "¿Cuál de las siguientes opciones describe mejor la computación cuántica?": {
+        "v": "Utiliza qubits y superposición cuántica para realizar cálculos.",
+        "f": [
+            "Emplea redes neuronales para procesar información.",
+            "Imita el funcionamiento del cerebro humano en la toma de decisiones.",
+            "Utiliza bits clásicos para realizar cálculos secuenciales."
+        ]
+    },
+    "¿Cuál es el requisito en Windows para compartir carpetas ocultas en red y\nacceder a ellas?": {
+        "v": "El alias de la carpeta debe contener un carácter $ al final.",
+        "f": [
+            "El alias de la carpeta debe contener un carácter $ al inicio.",
+            "El alias de la carpeta no puede contener el carácter $.",
+            "El alias de la carpeta debe contener ambos caracteres $ al inicio y al\nfinal."
+        ],
+        "e_count": 1,
+        "c_count": 1
+    },
+    "¿Cuál es la afirmación correcta sobre Docker y Kubernetes?": {
+        "v": "Docker se especializa en la creación de contenedores, mientras que\nKubernetes se encarga de la orquestación y gestión de múltiples\ncontenedores.",
+        "f": [
+            "Docker se encarga de la orquestación y gestión de contenedores, mientras\nque Kubernetes se centra en crear y ejecutar contenedores.",
+            "Ambos tienen roles idénticos en la creación y ejecución de contenedores,\npero Docker se utiliza en entornos reducidos y Kubernetes en entornos\ngrandes.",
+            "Docker se utiliza para entornos distribuidos, mientras que Kubernetes se\nutiliza para entornos locales."
+        ]
+    },
+    "¿Cuál es la representación en formato numérico del conjunto de permisos\nrwxr-xr-- en Linux?": {
+        "v": "754",
+        "f": [
+            "741",
+            "751",
+            "655"
+        ]
+    },
+    "¿Cuál es uno de los objetivos principales de Kubernetes en el contexto de\ncontenedores?": {
+        "v": "Automatizar operaciones como el despliegue, escalado y gestión de recursos.",
+        "f": [
+            "Proporcionar un entorno de desarrollo para aplicaciones en contenedores.",
+            "Fomentar la creación manual y gestión de contenedores.",
+            "Limitar el uso de contenedores a un único entorno de implementación."
+        ]
+    },
+    "¿Qué afirmación sobre emulación es correcta?": {
+        "v": "La emulación replica el comportamiento de otro sistema mediante software o\nhardware.",
+        "f": [
+            "La emulación solo es efectiva si las arquitecturas o plataformas de los\nsistemas son idénticas.",
+            "La emulación ofrece mejor rendimiento que la virtualización.",
+            "La emulación utiliza exclusivamente hardware para replicar el\ncomportamiento de otro sistema."
+        ]
+    },
+    "¿Qué caracteriza al modelo de Plataforma como Servicio (PaaS) en la nube?": {
+        "v": "Proporciona una plataforma completa para el desarrollo y despliegue de\naplicaciones.",
+        "f": [
+            "Permite el acceso a aplicaciones y software a través de la nube.",
+            "Ofrece acceso a recursos fundamentales de cómputo.",
+            "Requiere gestionar la infraestructura subyacente."
+        ]
+    },
+    "¿Qué diferencia a la virtualización de los contenedores?": {
+        "v": "La virtualización utiliza el mismo kernel del sistema operativo anfitrión.",
+        "f": [
+            "Los contenedores son menos eficientes que las máquinas virtuales.",
+            "Los contenedores crean instancias completas de sistemas operativos.",
+            "Todas las respuestas son verdaderas."
+        ]
+    },
+    "¿Cuál es el resultado de la operación lógica AND entre 1 y 0?": {
+        "v": "0",
+        "f": [
+            "1",
+            "01",
+            "10"
+        ]
+    },
+    "¿Qué significa el operador lógico NOT en álgebra de Boole?": {
+        "v": "Invierte el valor lógico de una variable.",
+        "f": [
+            "Suma dos valores lógicos.",
+            "Evalúa si ambos valores son verdaderos.",
+            "Combina dos valores lógicos en un OR."
+        ]
+    },
+    "Si A = 1 y B = 0, ¿cuál es el resultado de la operación A OR B?": {
+        "v": "1",
+        "f": [
+            "0",
+            "01",
+            "10"
+        ]
+    },
+    "¿Qué representa el término '1' en álgebra de Boole?": {
+        "v": "Verdadero o nivel alto.",
+        "f": [
+            "Falso o nivel bajo.",
+            "La ausencia de señal.",
+            "El operador AND."
+        ],
+        "c_count": 1
+    },
+    "¿Cuál es el resultado de la expresión lógica NOT (1 AND 0)?": {
+        "v": "1",
+        "f": [
+            "0",
+            "10",
+            "01"
+        ]
+    },
+    "Convierte el número binario 1011 al sistema decimal.": {
+        "v": "11",
+        "f": [
+            "10",
+            "13",
+            "15"
+        ]
+    },
+    "Convierte el número decimal 25 al sistema binario.": {
+        "v": "11001",
+        "f": [
+            "10101",
+            "10011",
+            "11100"
+        ]
+    },
+    "Convierte el número hexadecimal A3 al sistema decimal.": {
+        "v": "163",
+        "f": [
+            "143",
+            "173",
+            "153"
+        ]
+    },
+    "Convierte el número octal 57 al sistema binario.": {
+        "v": "101111",
+        "f": [
+            "111101",
+            "101101",
+            "111011"
+        ]
+    },
+    "Convierte el número binario 110110 al sistema octal.": {
+        "v": "66",
+        "f": [
+            "64",
+            "67",
+            "65"
+        ],
+        "c_count": 1
+    },
+    "¿Cuál es el resultado de la expresión lógica (A AND B) OR (A AND NOT B) si\nA = 1 y B = 0?": {
+        "v": "1",
+        "f": [
+            "0",
+            "01",
+            "10"
+        ]
+    },
+    "Si A = 1, B = 0 y C = 1, ¿cuál es el resultado de la expresión lógica (A OR\nB) AND NOT C?": {
+        "v": "0",
+        "f": [
+            "1",
+            "10",
+            "01"
+        ]
+    },
+    "Simplifica la expresión lógica (A AND 1) OR (A AND 0)": {
+        "v": "A",
+        "f": [
+            "1",
+            "0",
+            "A OR 1"
+        ]
+    },
+    "Convierte el número binario 11011001 al sistema hexadecimal.": {
+        "v": "D9",
+        "f": [
+            "C9",
+            "D8",
+            "B9"
+        ]
+    },
+    "Convierte el número decimal 255 al sistema hexadecimal.": {
+        "v": "FF",
+        "f": [
+            "F0",
+            "FE",
+            "100"
+        ],
+        "e_count": 1
+    },
+    "Convierte el número hexadecimal 1F4 al sistema decimal.": {
+        "v": "500",
+        "f": [
+            "504",
+            "250",
+            "496"
+        ]
+    },
+    "Si A = 1, B = 1 y C = 0, ¿cuál es el resultado de la expresión (A XOR B)\nAND (B OR C)?": {
+        "v": "0",
+        "f": [
+            "1",
+            "01",
+            "10"
+        ]
+    },
+    "Convierte el número binario 10110111 al sistema octal.": {
+        "v": "267",
+        "f": [
+            "257",
+            "276",
+            "265"
+        ]
+    },
+    "¿Cuál es la forma simplificada de la función lógica F = (A AND B) OR (A AND\nNOT B) OR (NOT A AND B)?": {
+        "v": "A OR B",
+        "f": [
+            "A XOR B",
+            "A AND B",
+            "NOT A OR B"
+        ],
+        "e_count": 9
+    },
+    "Convierte el número octal 764 al sistema hexadecimal.": {
+        "v": "1F4",
+        "f": [
+            "1E8",
+            "1F3",
+            "1E4"
+        ]
+    }
+}

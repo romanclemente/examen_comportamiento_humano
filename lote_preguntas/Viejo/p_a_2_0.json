@@ -18,7 +18,7 @@
         "c_count": 1
     },
     "¿Qué es una clave ajena en una base de datos relacional?": {
-        "v": "Un campo cuyos valores deben coincidir con la clave primaria de otra entidad",
+        "v": "Un campo cuyos valores deben coincidir con la clave primaria de otra\nentidad",
         "f": [
             "Un campo que siempre debe ser nulo",
             "Un identificador único dentro de una tabla",
@@ -72,10 +72,10 @@
         "c_count": 1
     },
     "¿Qué define una relación de tipo N a N entre tablas?": {
-        "v": "Un registro de la tabla A puede relacionarse con varios de la tabla B y viceversa",
+        "v": "Un registro de la tabla A puede relacionarse con varios de la tabla B y\nviceversa",
         "f": [
             "Un registro de la tabla A solo puede relacionarse con uno de la tabla B",
-            "Solo se permite una relación entre un registro de la tabla A y muchos de la tabla B",
+            "Solo se permite una relación entre un registro de la tabla A y muchos de la\ntabla B",
             "No se permite ninguna relación entre los registros de ambas tablas"
         ],
         "c_count": 1
@@ -116,7 +116,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de relación permite que un registro en la tabla A se relacione con múltiples registros en la tabla B, y viceversa?": {
+    "¿Qué tipo de relación permite que un registro en la tabla A se relacione\ncon múltiples registros en la tabla B, y viceversa?": {
         "v": "N a N",
         "f": [
             "1 a 1",
@@ -143,7 +143,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de relación se utiliza para dividir una relación N a N en dos relaciones 1 a N?": {
+    "¿Qué tipo de relación se utiliza para dividir una relación N a N en dos\nrelaciones 1 a N?": {
         "v": "Relacion de interseccion",
         "f": [
             "Relacion de unión",
@@ -152,7 +152,7 @@
         ],
         "c_count": 2
     },
-    "¿Qué atributo se utiliza para definir que un campo no puede ser nulo en SQL?": {
+    "¿Qué atributo se utiliza para definir que un campo no puede ser nulo en\nSQL?": {
         "v": "NOT NULL",
         "f": [
             "NULL",
@@ -188,7 +188,7 @@
         ],
         "c_count": 2
     },
-    "¿Qué comando SQL se usa para modificar la estructura de una tabla existente?": {
+    "¿Qué comando SQL se usa para modificar la estructura de una tabla\nexistente?": {
         "v": "ALTER TABLE",
         "f": [
             "UPDATE",
@@ -270,15 +270,15 @@
         "c_count": 1
     },
     "¿Cuál es la sentencia SQL para crear una tabla llamada PLANTA?": {
-        "v": "CREATE TABLE PLANTA (id_planta integer primary key not null, ciudad varchar(50), provincia varchar(50), direccion varchar(100));",
+        "v": "CREATE TABLE PLANTA (id_planta integer primary key not null, ciudad\nvarchar(50), provincia varchar(50), direccion varchar(100));",
         "f": [
-            "INSERT TABLE PLANTA (id_planta integer primary key not null, ciudad varchar(50), provincia varchar(50), direccion varchar(100));",
-            "MAKE TABLE PLANTA (id_planta integer primary key not null, ciudad varchar(50), provincia varchar(50), direccion varchar(100));",
-            "NEW TABLE PLANTA (id_planta integer primary key not null, ciudad varchar(50), provincia varchar(50), direccion varchar(100));"
+            "INSERT TABLE PLANTA (id_planta integer primary key not null, ciudad\nvarchar(50), provincia varchar(50), direccion varchar(100));",
+            "MAKE TABLE PLANTA (id_planta integer primary key not null, ciudad\nvarchar(50), provincia varchar(50), direccion varchar(100));",
+            "NEW TABLE PLANTA (id_planta integer primary key not null, ciudad\nvarchar(50), provincia varchar(50), direccion varchar(100));"
         ],
         "c_count": 1
     },
-    "¿Qué comando SQL se utiliza para actualizar registros existentes en una tabla?": {
+    "¿Qué comando SQL se utiliza para actualizar registros existentes en una\ntabla?": {
         "v": "UPDATE <table_name> SET campo=valor WHERE condition;",
         "f": [
             "INSERT INTO <table_name> SET campo=valor WHERE condition;",
@@ -359,7 +359,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué palabra clave se usa para ordenar los resultados de una consulta en orden descendente?": {
+    "¿Qué palabra clave se usa para ordenar los resultados de una consulta en\norden descendente?": {
         "v": "DESC",
         "f": [
             "ORDER DOWN",
@@ -368,7 +368,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué función de agregación se usa para calcular el promedio de un conjunto de valores?": {
+    "¿Qué función de agregación se usa para calcular el promedio de un conjunto\nde valores?": {
         "v": "AVG",
         "f": [
             "SUM",
@@ -377,7 +377,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando SQL se usa para crear una nueva tabla a partir de los resultados de una consulta SELECT?": {
+    "¿Qué comando SQL se usa para crear una nueva tabla a partir de los\nresultados de una consulta SELECT?": {
         "v": "CREATE TABLE <nombre> AS SELECT ...",
         "f": [
             "MAKE TABLE <nombre> AS SELECT ...",
@@ -404,7 +404,7 @@
         ],
         "c_count": 1
     },
-    "¿Cuál de los siguientes operadores se utiliza para seleccionar registros dentro de un rango específico?": {
+    "¿Cuál de los siguientes operadores se utiliza para seleccionar registros\ndentro de un rango específico?": {
         "v": "BETWEEN",
         "f": [
             "IN",
@@ -413,7 +413,7 @@
         ],
         "c_count": 2
     },
-    "¿Cuál de los siguientes operadores se usa para seleccionar registros que no están en una lista de valores específicos?": {
+    "¿Cuál de los siguientes operadores se usa para seleccionar registros que no\nestán en una lista de valores específicos?": {
         "v": "NOT IN",
         "f": [
             "IN",
@@ -422,7 +422,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué operador se utiliza para buscar patrones en cadenas de caracteres en SQL?": {
+    "¿Qué operador se utiliza para buscar patrones en cadenas de caracteres en\nSQL?": {
         "v": "LIKE",
         "f": [
             "MATCH",
@@ -467,7 +467,7 @@
         ],
         "c_count": 1
     },
-    "¿Cuál de las siguientes sentencias SQL se usa para unir datos de varias tablas?": {
+    "¿Cuál de las siguientes sentencias SQL se usa para unir datos de varias\ntablas?": {
         "v": "JOIN",
         "f": [
             "UNITE",
@@ -485,7 +485,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de JOIN retorna todos los registros de la tabla izquierda y los registros coincidentes de la tabla derecha?": {
+    "¿Qué tipo de JOIN retorna todos los registros de la tabla izquierda y los\nregistros coincidentes de la tabla derecha?": {
         "v": "LEFT JOIN",
         "f": [
             "INNER JOIN",
@@ -494,7 +494,7 @@
         ],
         "c_count": 2
     },
-    "¿Qué tipo de JOIN retorna todos los registros de la tabla derecha y los registros coincidentes de la tabla izquierda?": {
+    "¿Qué tipo de JOIN retorna todos los registros de la tabla derecha y los\nregistros coincidentes de la tabla izquierda?": {
         "v": "RIGHT JOIN",
         "f": [
             "INNER JOIN",
@@ -503,7 +503,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de JOIN retorna todos los registros cuando hay una coincidencia en una de las tablas?": {
+    "¿Qué tipo de JOIN retorna todos los registros cuando hay una coincidencia\nen una de las tablas?": {
         "v": "FULL JOIN",
         "f": [
             "INNER JOIN",
@@ -521,7 +521,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué palabra clave se utiliza para seleccionar registros con valores específicos en una lista?": {
+    "¿Qué palabra clave se utiliza para seleccionar registros con valores\nespecíficos en una lista?": {
         "v": "IN",
         "f": [
             "BETWEEN",
@@ -539,7 +539,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué palabra clave se usa para ordenar los resultados de una consulta en SQL?": {
+    "¿Qué palabra clave se usa para ordenar los resultados de una consulta en\nSQL?": {
         "v": "ORDER BY",
         "f": [
             "SORT BY",
@@ -548,7 +548,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué palabra clave se usa para eliminar duplicados en los resultados de una consulta en SQL?": {
+    "¿Qué palabra clave se usa para eliminar duplicados en los resultados de una\nconsulta en SQL?": {
         "v": "DISTINCT",
         "f": [
             "UNIQUE",
@@ -557,7 +557,7 @@
         ],
         "c_count": 2
     },
-    "¿Qué comando SQL se usa para seleccionar la cantidad de registros en una tabla?": {
+    "¿Qué comando SQL se usa para seleccionar la cantidad de registros en una\ntabla?": {
         "v": "SELECT COUNT(*) FROM <table_name>;",
         "f": [
             "SELECT NUMBER(*) FROM <table_name>;",
@@ -566,7 +566,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué función de agregación se usa para calcular la suma de un conjunto de valores?": {
+    "¿Qué función de agregación se usa para calcular la suma de un conjunto de\nvalores?": {
         "v": "SUM",
         "f": [
             "COUNT",
@@ -602,7 +602,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando SQL se usa para modificar el tipo de dato de un campo existente?": {
+    "¿Qué comando SQL se usa para modificar el tipo de dato de un campo\nexistente?": {
         "v": "ALTER TABLE <table_name> MODIFY <campo> <nuevo_tipo>;",
         "f": [
             "CHANGE TABLE <table_name> MODIFY <campo> <nuevo_tipo>;",
@@ -620,7 +620,7 @@
         ],
         "c_count": 2
     },
-    "¿Qué palabra clave se usa para seleccionar los primeros 'N' registros en una consulta?": {
+    "¿Qué palabra clave se usa para seleccionar los primeros 'N' registros en\nuna consulta?": {
         "v": "LIMIT",
         "f": [
             "TOP",
@@ -647,16 +647,16 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando SQL se usa para agregar una restricción de clave foránea a una tabla?": {
-        "v": "ALTER TABLE <table_name> ADD CONSTRAINT <constraint_name> FOREIGN KEY (<campo>) REFERENCES <referenced_table>(<referenced_field>);",
+    "¿Qué comando SQL se usa para agregar una restricción de clave foránea a una\ntabla?": {
+        "v": "ALTER TABLE <table_name> ADD CONSTRAINT <constraint_name> FOREIGN KEY\n(<campo>) REFERENCES <referenced_table>(<referenced_field>);",
         "f": [
-            "UPDATE TABLE <table_name> ADD FOREIGN KEY (<campo>) REFERENCES <referenced_table>(<referenced_field>);",
-            "ALTER TABLE <table_name> ADD FOREIGN KEY (<campo>) REFERS <referenced_table>(<referenced_field>);",
-            "ALTER TABLE <table_name> NEW FOREIGN KEY (<campo>) REFERENCES <referenced_table>(<referenced_field>);"
+            "UPDATE TABLE <table_name> ADD FOREIGN KEY (<campo>) REFERENCES\n<referenced_table>(<referenced_field>);",
+            "ALTER TABLE <table_name> ADD FOREIGN KEY (<campo>) REFERS\n<referenced_table>(<referenced_field>);",
+            "ALTER TABLE <table_name> NEW FOREIGN KEY (<campo>) REFERENCES\n<referenced_table>(<referenced_field>);"
         ],
         "c_count": 1
     },
-    "¿Qué palabra clave se utiliza para asegurar que un campo no tenga valores nulos?": {
+    "¿Qué palabra clave se utiliza para asegurar que un campo no tenga valores\nnulos?": {
         "v": "NOT NULL",
         "f": [
             "NO NULL",
@@ -692,7 +692,7 @@
         ],
         "c_count": 1
     },
-    "¿Cuál es el objetivo principal de una herramienta de visualización de datos?": {
+    "¿Cuál es el objetivo principal de una herramienta de visualización de\ndatos?": {
         "v": "Analizar tendencias en los datos y extraer conclusiones",
         "f": [
             "Almacenar grandes volúmenes de datos",
@@ -701,8 +701,8 @@
         ],
         "c_count": 1
     },
-    "¿Qué es un conector a orígenes de datos en una herramienta de visualización?": {
-        "v": "Un componente que permite conectarse a diferentes fuentes de datos como BBDD, Excel, storage en cloud",
+    "¿Qué es un conector a orígenes de datos en una herramienta de\nvisualización?": {
+        "v": "Un componente que permite conectarse a diferentes fuentes de datos como\nBBDD, Excel, storage en cloud",
         "f": [
             "Un protocolo de seguridad para proteger los datos",
             "Una función para realizar cálculos complejos",
@@ -720,7 +720,7 @@
         "c_count": 1
     },
     "¿Para qué se utilizan las métricas en un cuadro de mando?": {
-        "v": "Para medir la evolución o tendencia de variables como importes y número de ventas",
+        "v": "Para medir la evolución o tendencia de variables como importes y número de\nventas",
         "f": [
             "Para definir el diseño gráfico del dashboard",
             "Para almacenar los datos en la nube",
@@ -729,7 +729,7 @@
         "c_count": 1
     },
     "¿Qué representan las dimensiones en un cuadro de mando?": {
-        "v": "Variables que determinan sobre qué se va a mostrar el desglose de las métricas, como dimensión geográfica o temporal",
+        "v": "Variables que determinan sobre qué se va a mostrar el desglose de las\nmétricas, como dimensión geográfica o temporal",
         "f": [
             "El tamaño de los gráficos en el dashboard",
             "La capacidad de almacenamiento de la base de datos",
@@ -747,7 +747,7 @@
         "c_count": 2
     },
     "¿Qué se debe definir al diseñar el formato de visualización de un informe?": {
-        "v": "La tipología de visualización que se va a utilizar, como gráfica de líneas, de barras, tarta, radar",
+        "v": "La tipología de visualización que se va a utilizar, como gráfica de líneas,\nde barras, tarta, radar",
         "f": [
             "La capacidad de almacenamiento del informe",
             "Los permisos de acceso al informe",
@@ -755,7 +755,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué función tiene la construcción del informe en una herramienta de visualización?": {
+    "¿Qué función tiene la construcción del informe en una herramienta de\nvisualización?": {
         "v": "Implementar el informe en la herramienta seleccionada",
         "f": [
             "Configurar los servidores de la base de datos",
@@ -764,7 +764,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de visualización se utiliza para resaltar un KPI o métrica importante en Power BI?": {
+    "¿Qué tipo de visualización se utiliza para resaltar un KPI o métrica\nimportante en Power BI?": {
         "v": "Tarjetas/Cards",
         "f": [
             "Gráficos de barras",
@@ -773,7 +773,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de gráfico se utiliza para comparar categorías de una variable en Power BI?": {
+    "¿Qué tipo de gráfico se utiliza para comparar categorías de una variable en\nPower BI?": {
         "v": "Gráficos de barras",
         "f": [
             "Gráficos de líneas",
@@ -791,7 +791,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de gráfico se utiliza para mostrar la distribución de una variable en Power BI?": {
+    "¿Qué tipo de gráfico se utiliza para mostrar la distribución de una\nvariable en Power BI?": {
         "v": "Gráficos de tarta",
         "f": [
             "Gráficos de barras",
@@ -800,7 +800,7 @@
         ],
         "c_count": 2
     },
-    "¿Qué tipo de gráfico se utiliza para mostrar la correlación entre dos variables en Power BI?": {
+    "¿Qué tipo de gráfico se utiliza para mostrar la correlación entre dos\nvariables en Power BI?": {
         "v": "Gráficos de dispersión",
         "f": [
             "Gráficos de barras",
@@ -810,7 +810,7 @@
         "c_count": 1
     },
     "¿Qué es un filtro en Power BI?": {
-        "v": "Una herramienta para limitar los datos mostrados en un informe según ciertas condiciones",
+        "v": "Una herramienta para limitar los datos mostrados en un informe según\nciertas condiciones",
         "f": [
             "Un tipo de gráfico para visualizar datos",
             "Una métrica para medir el rendimiento del sistema",
@@ -819,7 +819,7 @@
         "c_count": 1
     },
     "¿Qué permite hacer una variable calculada en Power BI?": {
-        "v": "Crear nuevas variables en el modelo de datos como combinación de variables ya existentes",
+        "v": "Crear nuevas variables en el modelo de datos como combinación de variables\nya existentes",
         "f": [
             "Optimizar las consultas SQL",
             "Configurar los permisos de acceso",
@@ -827,7 +827,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué herramienta de Microsoft se utiliza para la visualización y análisis de datos?": {
+    "¿Qué herramienta de Microsoft se utiliza para la visualización y análisis\nde datos?": {
         "v": "Power BI",
         "f": [
             "Excel",
@@ -836,8 +836,8 @@
         ],
         "c_count": 1
     },
-    "¿Qué se entiende por 'curva de aprendizaje' en el contexto de una herramienta de visualización?": {
-        "v": "La facilidad o dificultad que tiene un usuario para aprender a usar la herramienta",
+    "¿Qué se entiende por 'curva de aprendizaje' en el contexto de una\nherramienta de visualización?": {
+        "v": "La facilidad o dificultad que tiene un usuario para aprender a usar la\nherramienta",
         "f": [
             "La velocidad de procesamiento de datos de la herramienta",
             "La capacidad de almacenamiento de la herramienta",
@@ -854,7 +854,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de visualización se utiliza para identificar la distribución geográfica de una variable en Power BI?": {
+    "¿Qué tipo de visualización se utiliza para identificar la distribución\ngeográfica de una variable en Power BI?": {
         "v": "Mapas",
         "f": [
             "Gráficos de barras",
@@ -863,7 +863,7 @@
         ],
         "c_count": 2
     },
-    "¿Cuál es una característica importante de las herramientas de visualización en términos de seguridad?": {
+    "¿Cuál es una característica importante de las herramientas de visualización\nen términos de seguridad?": {
         "v": "Permisos a nivel usuario para los cuadros de mando y dashboards",
         "f": [
             "Velocidad de procesamiento de datos",
@@ -872,7 +872,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué se debe identificar primero en el proceso de construcción de un cuadro de mandos?": {
+    "¿Qué se debe identificar primero en el proceso de construcción de un cuadro\nde mandos?": {
         "v": "El origen de los datos",
         "f": [
             "El diseño gráfico del dashboard",
@@ -881,7 +881,7 @@
         ],
         "c_count": 1
     },
-    "¿Cuál es una de las principales funcionalidades de una herramienta de visualización?": {
+    "¿Cuál es una de las principales funcionalidades de una herramienta de\nvisualización?": {
         "v": "Manipulación de datos en la propia herramienta",
         "f": [
             "Desarrollo de aplicaciones web",
@@ -900,7 +900,7 @@
         "c_count": 1
     },
     "¿Qué es una dimensión en el contexto de un cuadro de mando?": {
-        "v": "Una variable que determina sobre qué se va a mostrar el desglose de las métricas",
+        "v": "Una variable que determina sobre qué se va a mostrar el desglose de las\nmétricas",
         "f": [
             "Una herramienta para almacenar datos",
             "Un tipo de gráfico para visualizar datos",
@@ -908,7 +908,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de visualización es más adecuado para mostrar la evolución temporal de una variable?": {
+    "¿Qué tipo de visualización es más adecuado para mostrar la evolución\ntemporal de una variable?": {
         "v": "Gráfico de líneas",
         "f": [
             "Gráfico de barras",
@@ -917,7 +917,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de visualización es más adecuado para mostrar la comparación entre categorías?": {
+    "¿Qué tipo de visualización es más adecuado para mostrar la comparación\nentre categorías?": {
         "v": "Gráfico de barras",
         "f": [
             "Gráfico de líneas",
@@ -980,7 +980,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de gráfico se utiliza para resaltar un KPI importante en Power BI?": {
+    "¿Qué tipo de gráfico se utiliza para resaltar un KPI importante en Power\nBI?": {
         "v": "Tarjetas/Cards",
         "f": [
             "Gráficos de barras",
@@ -989,7 +989,7 @@
         ],
         "c_count": 2
     },
-    "¿Qué tipo de gráfico es más adecuado para mostrar la distribución geográfica de una variable en Power BI?": {
+    "¿Qué tipo de gráfico es más adecuado para mostrar la distribución\ngeográfica de una variable en Power BI?": {
         "v": "Mapas",
         "f": [
             "Gráficos de barras",
@@ -998,7 +998,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué herramienta se utiliza comúnmente para crear visualizaciones interactivas y cuadros de mando?": {
+    "¿Qué herramienta se utiliza comúnmente para crear visualizaciones\ninteractivas y cuadros de mando?": {
         "v": "Power BI",
         "f": [
             "SQL Server",
@@ -1025,7 +1025,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando SQL se utiliza para vaciar una tabla sin eliminar su estructura?": {
+    "¿Qué comando SQL se utiliza para vaciar una tabla sin eliminar su\nestructura?": {
         "v": "TRUNCATE TABLE <table_name>;",
         "f": [
             "DELETE FROM <table_name>;",
@@ -1034,7 +1034,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué palabra clave se utiliza para seleccionar registros únicos en una consulta SQL?": {
+    "¿Qué palabra clave se utiliza para seleccionar registros únicos en una\nconsulta SQL?": {
         "v": "DISTINCT",
         "f": [
             "UNIQUE",
@@ -1061,7 +1061,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de gráfico es más adecuado para mostrar la comparación entre varias categorías de una variable?": {
+    "¿Qué tipo de gráfico es más adecuado para mostrar la comparación entre\nvarias categorías de una variable?": {
         "v": "Gráfico de barras",
         "f": [
             "Gráfico de líneas",
@@ -1070,7 +1070,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de gráfico es más adecuado para mostrar la evolución temporal de una o más variables?": {
+    "¿Qué tipo de gráfico es más adecuado para mostrar la evolución temporal de\nuna o más variables?": {
         "v": "Gráfico de líneas",
         "f": [
             "Gráfico de barras",
@@ -1079,7 +1079,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de gráfico se utiliza para mostrar la distribución de una variable?": {
+    "¿Qué tipo de gráfico se utiliza para mostrar la distribución de una\nvariable?": {
         "v": "Gráfico de tarta",
         "f": [
             "Gráfico de barras",
@@ -1088,7 +1088,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de gráfico se utiliza para mostrar la correlación entre dos variables?": {
+    "¿Qué tipo de gráfico se utiliza para mostrar la correlación entre dos\nvariables?": {
         "v": "Gráfico de dispersión",
         "f": [
             "Gráfico de barras",
@@ -1098,7 +1098,7 @@
         "c_count": 2
     },
     "¿Qué es la interpretación de datos?": {
-        "v": "El proceso de revisar los datos y llegar a conclusiones relevantes utilizando varios métodos analíticos",
+        "v": "El proceso de revisar los datos y llegar a conclusiones relevantes\nutilizando varios métodos analíticos",
         "f": [
             "El proceso de almacenar grandes volúmenes de datos",
             "El proceso de diseñar gráficos interactivos",
@@ -1115,8 +1115,8 @@
         ],
         "c_count": 3
     },
-    "¿Por qué es importante el conocimiento de negocio para un analista de datos?": {
-        "v": "Para obtener conclusiones relevantes que ayuden a identificar y mejorar los puntos críticos",
+    "¿Por qué es importante el conocimiento de negocio para un analista de\ndatos?": {
+        "v": "Para obtener conclusiones relevantes que ayuden a identificar y mejorar los\npuntos críticos",
         "f": [
             "Para diseñar gráficos más complejos",
             "Para asegurar los datos",
@@ -1224,7 +1224,7 @@
         "c_count": 1
     },
     "¿Qué es la segmentación de variables?": {
-        "v": "Dividir la cartera de clientes en grupos homogéneos para analizar y extraer conclusiones independientes",
+        "v": "Dividir la cartera de clientes en grupos homogéneos para analizar y extraer\nconclusiones independientes",
         "f": [
             "Agrupar variables discretas en categorías",
             "Tramificar variables continuas en base a percentiles",
@@ -1250,7 +1250,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué técnica estadística permite resumir la información y evolución de los principales KPIs?": {
+    "¿Qué técnica estadística permite resumir la información y evolución de los\nprincipales KPIs?": {
         "v": "Medidas estadísticas descriptivas",
         "f": [
             "Análisis de series temporales",
@@ -1278,7 +1278,7 @@
         "c_count": 1
     },
     "¿Qué es la segmentación psicográfica?": {
-        "v": "Segmentación en base a interacciones como compras y visualizaciones para determinar intereses",
+        "v": "Segmentación en base a interacciones como compras y visualizaciones para\ndeterminar intereses",
         "f": [
             "Segmentación por edad y renta",
             "Segmentación por valor de cliente",
@@ -1286,7 +1286,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué tipo de segmentación se utiliza para la construcción de sistemas de recomendación?": {
+    "¿Qué tipo de segmentación se utiliza para la construcción de sistemas de\nrecomendación?": {
         "v": "Segmentación de intereses o psicográfica",
         "f": [
             "Segmentación por edad",
@@ -1322,7 +1322,7 @@
         ],
         "c_count": 3
     },
-    "¿Qué se debe detectar en función del negocio para definir vías de crecimiento en periodos valle?": {
+    "¿Qué se debe detectar en función del negocio para definir vías de\ncrecimiento en periodos valle?": {
         "v": "Estacionalidades en las ventas",
         "f": [
             "Outliers en los datos",
@@ -1331,7 +1331,7 @@
         ],
         "c_count": 2
     },
-    "¿Qué técnica se utiliza para predecir el comportamiento futuro de un negocio?": {
+    "¿Qué técnica se utiliza para predecir el comportamiento futuro de un\nnegocio?": {
         "v": "Forecasting",
         "f": [
             "Segmentación de clientes",
@@ -1341,7 +1341,7 @@
         "c_count": 1
     },
     "¿Qué es un modelo de series temporales?": {
-        "v": "Un modelo matemático para ajustar un valor como función lineal de datos anteriores",
+        "v": "Un modelo matemático para ajustar un valor como función lineal de datos\nanteriores",
         "f": [
             "Un método para segmentar clientes",
             "Una técnica para resumir datos",
@@ -1367,7 +1367,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué ventaja tienen las redes neuronales sobre los modelos tradicionales ARIMA?": {
+    "¿Qué ventaja tienen las redes neuronales sobre los modelos tradicionales\nARIMA?": {
         "v": "Mejor precisión con conjuntos de datos complejos y extensos",
         "f": [
             "Menor complejidad",
@@ -1493,7 +1493,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué técnica se utiliza para predecir ventas futuras basadas en datos históricos?": {
+    "¿Qué técnica se utiliza para predecir ventas futuras basadas en datos\nhistóricos?": {
         "v": "Forecasting",
         "f": [
             "Segmentación de clientes",
@@ -1529,7 +1529,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué técnica se utiliza para identificar valores extremos en una distribución numérica?": {
+    "¿Qué técnica se utiliza para identificar valores extremos en una\ndistribución numérica?": {
         "v": "Detección de outliers",
         "f": [
             "Análisis de correlación",
@@ -1548,7 +1548,7 @@
         "c_count": 1
     },
     "¿Qué es una arquitectura de datos?": {
-        "v": "Es el diseño estructural de los sistemas de datos y las tecnologías utilizadas en una organización.",
+        "v": "Es el diseño estructural de los sistemas de datos y las tecnologías\nutilizadas en una organización.",
         "f": [
             "Es una base de datos específica.",
             "Es un tipo de análisis de datos.",
@@ -1566,7 +1566,7 @@
         "c_count": 1
     },
     "¿Qué son las fuentes de datos?": {
-        "v": "Orígenes de donde se extraen datos, pueden ser estructurados o no estructurados.",
+        "v": "Orígenes de donde se extraen datos, pueden ser estructurados o no\nestructurados.",
         "f": [
             "Bases de datos únicas.",
             "Solo datos internos.",
@@ -1584,7 +1584,7 @@
         "c_count": 1
     },
     "¿Qué es el almacenamiento de datos?": {
-        "v": "Persistencia de la información en la plataforma en bases de datos SQL, NoSQL, datawarehouses, etc.",
+        "v": "Persistencia de la información en la plataforma en bases de datos SQL,\nNoSQL, datawarehouses, etc.",
         "f": [
             "Eliminar datos no estructurados.",
             "Análisis de datos en tiempo real.",
@@ -1611,7 +1611,7 @@
         "c_count": 1
     },
     "¿Qué es el gobierno de datos?": {
-        "v": "Conjunto de procesos y controles para garantizar la calidad, disponibilidad y gestión de los datos.",
+        "v": "Conjunto de procesos y controles para garantizar la calidad, disponibilidad\ny gestión de los datos.",
         "f": [
             "Solo análisis de datos.",
             "Desarrollo de aplicaciones web.",
@@ -1638,7 +1638,7 @@
         "c_count": 1
     },
     "¿Qué es el consumo de datos?": {
-        "v": "Uso de los datos para análisis, integración con sistemas externos y visualización.",
+        "v": "Uso de los datos para análisis, integración con sistemas externos y\nvisualización.",
         "f": [
             "Solo almacenamiento de datos.",
             "Solo procesamiento de datos.",
@@ -1674,7 +1674,7 @@
         "c_count": 1
     },
     "¿Qué es una base de datos NoSQL?": {
-        "v": "Sistema de gestión de bases de datos no relacional, adecuado para datos no estructurados.",
+        "v": "Sistema de gestión de bases de datos no relacional, adecuado para datos no\nestructurados.",
         "f": [
             "Sistema de gestión de datos relacional.",
             "Sistema de almacenamiento de archivos.",
@@ -1701,7 +1701,7 @@
         "c_count": 1
     },
     "¿Qué es un datamart?": {
-        "v": "Subconjunto de datos para un área o negocio específico dentro de una organización.",
+        "v": "Subconjunto de datos para un área o negocio específico dentro de una\norganización.",
         "f": [
             "Base de datos no relacional.",
             "Sistema de almacenamiento temporal.",
@@ -1728,7 +1728,7 @@
         "c_count": 1
     },
     "¿Qué es la capa gold en almacenamiento de datos?": {
-        "v": "Capa que almacena datos enriquecidos con metadatos, listos para análisis y aplicaciones empresariales.",
+        "v": "Capa que almacena datos enriquecidos con metadatos, listos para análisis y\naplicaciones empresariales.",
         "f": [
             "Capa que almacena datos en crudo.",
             "Capa que almacena datos procesados.",
@@ -1746,7 +1746,7 @@
         "c_count": 1
     },
     "¿Qué es la limpieza de datos?": {
-        "v": "Proceso de identificación y eliminación de datos erróneos, incompletos y/o duplicados.",
+        "v": "Proceso de identificación y eliminación de datos erróneos, incompletos y/o\nduplicados.",
         "f": [
             "Solo almacenar datos.",
             "Eliminar datos antiguos.",
@@ -1764,7 +1764,7 @@
         "c_count": 1
     },
     "¿Qué es un sistema de archivos distribuidos (HDFS)?": {
-        "v": "Sistema que permite el almacenamiento de grandes volúmenes de información distribuidos en varios nodos.",
+        "v": "Sistema que permite el almacenamiento de grandes volúmenes de información\ndistribuidos en varios nodos.",
         "f": [
             "Sistema de almacenamiento local.",
             "Sistema de bases de datos SQL.",
@@ -1809,7 +1809,7 @@
         "c_count": 1
     },
     "¿Qué es Amazon Redshift?": {
-        "v": "Servicio de data warehousing de AWS para almacenar grandes cantidades de datos y realizar análisis complejos.",
+        "v": "Servicio de data warehousing de AWS para almacenar grandes cantidades de\ndatos y realizar análisis complejos.",
         "f": [
             "Base de datos no relacional.",
             "Sistema de almacenamiento temporal.",
@@ -1818,7 +1818,7 @@
         "c_count": 1
     },
     "¿Qué es Azure Synapse?": {
-        "v": "Servicio de análisis en la nube de Microsoft Azure, que combina almacenamiento de datos, big data y análisis.",
+        "v": "Servicio de análisis en la nube de Microsoft Azure, que combina\nalmacenamiento de datos, big data y análisis.",
         "f": [
             "Sistema de almacenamiento local.",
             "Base de datos relacional.",
@@ -1827,7 +1827,7 @@
         "c_count": 1
     },
     "¿Qué es Google BigQuery?": {
-        "v": "Servicio de análisis y almacenamiento en la nube de Google, basado en SQL y con capacidades de ML.",
+        "v": "Servicio de análisis y almacenamiento en la nube de Google, basado en SQL y\ncon capacidades de ML.",
         "f": [
             "Sistema de almacenamiento local.",
             "Base de datos no relacional.",
@@ -1836,7 +1836,7 @@
         "c_count": 1
     },
     "¿Qué es una plataforma de machine learning en la nube?": {
-        "v": "Plataforma para desarrollar, entrenar y productivizar modelos de machine learning de forma escalable.",
+        "v": "Plataforma para desarrollar, entrenar y productivizar modelos de machine\nlearning de forma escalable.",
         "f": [
             "Sistema de almacenamiento local.",
             "Base de datos no relacional.",
@@ -1845,7 +1845,7 @@
         "c_count": 1
     },
     "¿Qué es la gestión de metadatos?": {
-        "v": "Administración de la información descriptiva sobre los datos, incluyendo su origen, estructura, significado, y contexto.",
+        "v": "Administración de la información descriptiva sobre los datos, incluyendo su\norigen, estructura, significado, y contexto.",
         "f": [
             "Solo análisis de datos.",
             "Desarrollo de aplicaciones web.",
@@ -1854,7 +1854,7 @@
         "c_count": 1
     },
     "¿Qué es el cumplimiento normativo en el gobierno de datos?": {
-        "v": "Procesos para garantizar que los datos se almacenan y utilizan conforme a requisitos legales y regulatorios.",
+        "v": "Procesos para garantizar que los datos se almacenan y utilizan conforme a\nrequisitos legales y regulatorios.",
         "f": [
             "Solo análisis de datos.",
             "Desarrollo de aplicaciones web.",
@@ -1863,7 +1863,7 @@
         "c_count": 1
     },
     "¿Qué es la ingesta de datos en batch?": {
-        "v": "Proceso que se ejecuta periódicamente para recolectar datos de un periodo determinado.",
+        "v": "Proceso que se ejecuta periódicamente para recolectar datos de un periodo\ndeterminado.",
         "f": [
             "Captura de datos en tiempo real.",
             "Almacenamiento temporal de datos.",
@@ -1872,7 +1872,7 @@
         "c_count": 1
     },
     "¿Qué es la ingesta de datos en tiempo real?": {
-        "v": "Proceso gestionado a través de colas de mensajes donde los datos son ingestados al mismo tiempo que se producen.",
+        "v": "Proceso gestionado a través de colas de mensajes donde los datos son\ningestados al mismo tiempo que se producen.",
         "f": [
             "Solo ingesta de datos en batch.",
             "Almacenamiento temporal de datos.",
@@ -1962,7 +1962,7 @@
         "c_count": 1
     },
     "¿Qué es Google Cloud DataFlow?": {
-        "v": "Servicio de procesamiento de datos en tiempo real y batch de Google Cloud Platform.",
+        "v": "Servicio de procesamiento de datos en tiempo real y batch de Google Cloud\nPlatform.",
         "f": [
             "Base de datos relacional.",
             "Sistema de almacenamiento temporal.",
@@ -1989,7 +1989,7 @@
         "c_count": 1
     },
     "¿Qué es la validación de la consistencia de datos?": {
-        "v": "Proceso de comprobar que los datos se ajustan a los valores de negocio esperados.",
+        "v": "Proceso de comprobar que los datos se ajustan a los valores de negocio\nesperados.",
         "f": [
             "Eliminar datos no estructurados.",
             "Solo analizar datos.",
@@ -1998,7 +1998,7 @@
         "c_count": 1
     },
     "¿Qué es la verificación de datos históricos?": {
-        "v": "Comprobación de desviaciones históricas para asegurar la precisión de los datos a lo largo del tiempo.",
+        "v": "Comprobación de desviaciones históricas para asegurar la precisión de los\ndatos a lo largo del tiempo.",
         "f": [
             "Eliminar datos no estructurados.",
             "Solo analizar datos.",
@@ -2007,7 +2007,7 @@
         "c_count": 1
     },
     "¿Qué es la generación de alarmas automáticas en la calidad de datos?": {
-        "v": "Sistema que detecta y alerta sobre cualquier problema de calidad de datos sin supervisión.",
+        "v": "Sistema que detecta y alerta sobre cualquier problema de calidad de datos\nsin supervisión.",
         "f": [
             "Solo almacenar datos.",
             "Eliminar datos antiguos.",
@@ -2016,7 +2016,7 @@
         "c_count": 1
     },
     "¿A qué se refiere una base de datos NoSQL?": {
-        "v": "Una base de datos no relacional diseñada para datos no estructurados y semiestructurados",
+        "v": "Una base de datos no relacional diseñada para datos no estructurados y\nsemiestructurados",
         "f": [
             "Una base de datos relacional con esquemas estrictos",
             "Una base de datos basada en archivos de texto plano",
@@ -2025,7 +2025,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué ventaja ofrece una base de datos NoSQL en comparación con una base de datos relacional?": {
+    "¿Qué ventaja ofrece una base de datos NoSQL en comparación con una base de\ndatos relacional?": {
         "v": "Flexibilidad en el almacenamiento de datos",
         "f": [
             "Mayor seguridad en el almacenamiento de datos",
@@ -2075,7 +2075,7 @@
         ],
         "c_count": 1
     },
-    "¿Cuál de las siguientes bases de datos es un ejemplo de base de datos documental?": {
+    "¿Cuál de las siguientes bases de datos es un ejemplo de base de datos\ndocumental?": {
         "v": "MongoDB",
         "f": [
             "MySQL",
@@ -2105,7 +2105,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando se usa para mostrar las colecciones en la base de datos actual en MongoDB?": {
+    "¿Qué comando se usa para mostrar las colecciones en la base de datos actual\nen MongoDB?": {
         "v": "show collections",
         "f": [
             "list collections",
@@ -2115,7 +2115,7 @@
         ],
         "c_count": 2
     },
-    "¿Qué operación se realiza con el comando db.createCollection(“<name>”) en MongoDB?": {
+    "¿Qué operación se realiza con el comando db.createCollection(“<name>”) en\nMongoDB?": {
         "v": "Crear una nueva colección",
         "f": [
             "Eliminar una colección",
@@ -2145,7 +2145,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando en MongoDB se usa para insertar un solo documento en una colección?": {
+    "¿Qué comando en MongoDB se usa para insertar un solo documento en una\ncolección?": {
         "v": "db.<collection_name>.insertOne({documento})",
         "f": [
             "db.<collection_name>.addOne({documento})",
@@ -2155,7 +2155,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando en MongoDB se utiliza para eliminar un documento específico de una colección?": {
+    "¿Qué comando en MongoDB se utiliza para eliminar un documento específico de\nuna colección?": {
         "v": "db.<collection_name>.deleteOne({condition})",
         "f": [
             "db.<collection_name>.removeOne({condition})",
@@ -2175,7 +2175,7 @@
         ],
         "c_count": 2
     },
-    "¿Cuál es el formato de un documento en una base de datos documental como MongoDB?": {
+    "¿Cuál es el formato de un documento en una base de datos documental como\nMongoDB?": {
         "v": "JSON",
         "f": [
             "CSV",
@@ -2185,7 +2185,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando en MongoDB se utiliza para importar datos desde un archivo JSON?": {
+    "¿Qué comando en MongoDB se utiliza para importar datos desde un archivo\nJSON?": {
         "v": "Importar JSON con datos de documentos",
         "f": [
             "db.<collection_name>.loadJSON()",
@@ -2245,7 +2245,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando en MongoDB se usa para seleccionar documentos distintos en una colección?": {
+    "¿Qué comando en MongoDB se usa para seleccionar documentos distintos en una\ncolección?": {
         "v": "db.<collection_name>.distinct(field)",
         "f": [
             "db.<collection_name>.unique(field)",
@@ -2265,7 +2265,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando en MongoDB se usa para recuperar un documento con una condición específica?": {
+    "¿Qué comando en MongoDB se usa para recuperar un documento con una\ncondición específica?": {
         "v": "db.<collection_name>.find({<condition>})",
         "f": [
             "db.<collection_name>.query({<condition>})",
@@ -2275,7 +2275,7 @@
         ],
         "c_count": 2
     },
-    "¿Qué comando se usa para insertar varios documentos en una colección en MongoDB?": {
+    "¿Qué comando se usa para insertar varios documentos en una colección en\nMongoDB?": {
         "v": "db.<collection_name>.insertMany([{documento1},{documento2},..])",
         "f": [
             "db.<collection_name>.addMany([{documento1},{documento2},..])",
@@ -2295,7 +2295,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando en MongoDB se usa para contar documentos con una condición específica?": {
+    "¿Qué comando en MongoDB se usa para contar documentos con una condición\nespecífica?": {
         "v": "db.<collection_name>.countDocuments(query)",
         "f": [
             "db.<collection_name>.queryCount(query)",
@@ -2306,7 +2306,7 @@
         "c_count": 1
     },
     "¿Cómo se agrupan y cuentan valores en MongoDB?": {
-        "v": "db.restaurantes.aggregate([{ $group: { _id: '$cuisine', count: { $sum: 1 }}}])",
+        "v": "db.restaurantes.aggregate([{ $group: { _id: '$cuisine', count: { $sum: 1\n}}}])",
         "f": [
             "db.restaurantes.groupBy({ cuisine: '$cuisine' })",
             "db.restaurantes.countBy({ cuisine: '$cuisine' })",
@@ -2325,7 +2325,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando en MongoDB se usa para seleccionar todos los documentos de una colección?": {
+    "¿Qué comando en MongoDB se usa para seleccionar todos los documentos de una\ncolección?": {
         "v": "db.<collection_name>.find()",
         "f": [
             "db.<collection_name>.selectAll()",
@@ -2335,7 +2335,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué ventaja tiene una base de datos NoSQL para aplicaciones en tiempo real?": {
+    "¿Qué ventaja tiene una base de datos NoSQL para aplicaciones en tiempo\nreal?": {
         "v": "Alto rendimiento",
         "f": [
             "Mayor seguridad",
@@ -2345,7 +2345,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando en MongoDB se usa para eliminar múltiples documentos que cumplen una condición?": {
+    "¿Qué comando en MongoDB se usa para eliminar múltiples documentos que\ncumplen una condición?": {
         "v": "db.<collection_name>.deleteMany({condition})",
         "f": [
             "db.<collection_name>.removeMany({condition})",
@@ -2356,7 +2356,7 @@
         "c_count": 1
     },
     "¿Qué comando en MongoDB se usa para agrupar, contar y ordenar valores?": {
-        "v": "db.restaurantes.aggregate([{ $group: { _id: '$cuisine', count: { $sum: 1 } } }, { $sort: { count: -1 } }])",
+        "v": "db.restaurantes.aggregate([{ $group: { _id: '$cuisine', count: { $sum: 1 }\n} }, { $sort: { count: -1 } }])",
         "f": [
             "db.restaurantes.groupByAndSort({ cuisine: '$cuisine' })",
             "db.restaurantes.tallyAndOrder({ cuisine: '$cuisine' })",
@@ -2365,7 +2365,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando en MongoDB se usa para filtrar documentos con operadores como gt, gte, lt, lte?": {
+    "¿Qué comando en MongoDB se usa para filtrar documentos con operadores como\ngt, gte, lt, lte?": {
         "v": "db.<collection_name>.find({ <campo>: { $gt: <valor> } })",
         "f": [
             "db.<collection_name>.query({ <campo>: { $gt: <valor> } })",
@@ -2375,7 +2375,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué comando en MongoDB se usa para seleccionar documentos basados en un patrón de cadena?": {
+    "¿Qué comando en MongoDB se usa para seleccionar documentos basados en un\npatrón de cadena?": {
         "v": "db.Clientes.find({ '<campo>': /.*<str>.*/ })",
         "f": [
             "db.Clientes.query({ '<campo>': /.*<str>.*/ })",
@@ -2406,7 +2406,7 @@
         "c_count": 2
     },
     "¿Qué ventaja ofrece la escalabilidad horizontal en una base de datos NoSQL?": {
-        "v": "Permite manejar grandes volúmenes de datos distribuidos en múltiples servidores",
+        "v": "Permite manejar grandes volúmenes de datos distribuidos en múltiples\nservidores",
         "f": [
             "Mejora la seguridad de la base de datos",
             "Reduce la necesidad de mantenimiento",
@@ -2415,7 +2415,7 @@
         ],
         "c_count": 1
     },
-    "¿Qué base de datos NoSQL es conocida por su flexibilidad en el esquema y alta escalabilidad?": {
+    "¿Qué base de datos NoSQL es conocida por su flexibilidad en el esquema y\nalta escalabilidad?": {
         "v": "Cassandra",
         "f": [
             "MySQL",
